@@ -101,7 +101,6 @@ export function LessonPage() {
                 <button onClick={() => setMode('list')} disabled={mode === 'list'}>
                   列表/搜索
                 </button>
-
               </div>
             </div>
 

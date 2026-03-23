@@ -78,9 +78,10 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
         <div style={{ opacity: 0.75 }}>{pos + 1} / {total}</div>
 
         <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
+          <span style={{ fontSize: 13, opacity: 0.8 }}>跳到：</span>
           <input
             inputMode="numeric"
-            placeholder={minIndex && maxIndex ? `跳到编号（${minIndex}~${maxIndex}）` : '跳到编号'}
+            placeholder={minIndex && maxIndex ? `${minIndex}~${maxIndex}` : '编号'}
             onKeyDown={(e) => {
               if (e.key !== 'Enter') return
               const el = e.target as HTMLInputElement
@@ -99,10 +100,12 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
               }
             }}
             style={{
-              width: 170,
-              padding: '8px 10px',
-              borderRadius: 10,
-              border: '1px solid #e6e6e6',
+              width: 90,
+              padding: '7px 10px',
+              borderRadius: 8,
+              border: '1.5px solid #aaa',
+              backgroundColor: '#fafafa',
+              fontSize: 14,
             }}
           />
           <button onClick={prev} disabled={!canPrev}>← 上一张</button>
