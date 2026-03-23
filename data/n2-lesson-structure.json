@@ -1,0 +1,153 @@
+{
+  "book": {
+    "id": "vocab-taisaku-n2",
+    "title": "新日语能力考试 万词对策 N2",
+    "level": "N2"
+  },
+  "chapters": [
+    {
+      "id": "ch01",
+      "titleJa": "人と人との関係",
+      "titleZh": "人际关系篇",
+      "lessons": [
+        {"id": "ch01-l01", "index": 1, "titleJa": "家族", "titleZh": "家人"},
+        {"id": "ch01-l02", "index": 2, "titleJa": "友達", "titleZh": "朋友"},
+        {"id": "ch01-l03", "index": 3, "titleJa": "知人・付き合い", "titleZh": "熟人、交际"},
+        {"id": "ch01-l04", "index": 4, "titleJa": "恋人", "titleZh": "恋人"},
+        {"id": "ch01-l05", "index": 5, "titleJa": "関係悪化", "titleZh": "关系恶化"}
+      ]
+    },
+    {
+      "id": "ch02",
+      "titleJa": "暮らし",
+      "titleZh": "生活篇",
+      "lessons": [
+        {"id": "ch02-l01", "index": 1, "titleJa": "住まい", "titleZh": "居住"},
+        {"id": "ch02-l02", "index": 2, "titleJa": "お金", "titleZh": "金钱"},
+        {"id": "ch02-l03", "index": 3, "titleJa": "食事", "titleZh": "用餐"},
+        {"id": "ch02-l04", "index": 4, "titleJa": "買い物", "titleZh": "购物"},
+        {"id": "ch02-l05", "index": 5, "titleJa": "時を表す言葉", "titleZh": "时间"}
+      ]
+    },
+    {
+      "id": "ch03",
+      "titleJa": "家で",
+      "titleZh": "家庭篇",
+      "lessons": [
+        {"id": "ch03-l01", "index": 1, "titleJa": "朝", "titleZh": "早晨"},
+        {"id": "ch03-l02", "index": 2, "titleJa": "日課", "titleZh": "每日惯例"},
+        {"id": "ch03-l03", "index": 3, "titleJa": "料理", "titleZh": "烹饪"},
+        {"id": "ch03-l04", "index": 4, "titleJa": "家事", "titleZh": "家务"},
+        {"id": "ch03-l05", "index": 5, "titleJa": "引っ越し", "titleZh": "搬家"}
+      ]
+    },
+    {
+      "id": "ch04",
+      "titleJa": "町",
+      "titleZh": "城市篇",
+      "lessons": [
+        {"id": "ch04-l01", "index": 1, "titleJa": "町", "titleZh": "城市"},
+        {"id": "ch04-l02", "index": 2, "titleJa": "役所", "titleZh": "政府机关"},
+        {"id": "ch04-l03", "index": 3, "titleJa": "ふるさと", "titleZh": "故乡"},
+        {"id": "ch04-l04", "index": 4, "titleJa": "交通", "titleZh": "交通"},
+        {"id": "ch04-l05", "index": 5, "titleJa": "産業", "titleZh": "产业"}
+      ]
+    },
+    {
+      "id": "ch05",
+      "titleJa": "学校で",
+      "titleZh": "学校篇",
+      "lessons": [
+        {"id": "ch05-l01", "index": 1, "titleJa": "学校", "titleZh": "学校"},
+        {"id": "ch05-l02", "index": 2, "titleJa": "勉強", "titleZh": "学习"},
+        {"id": "ch05-l03", "index": 3, "titleJa": "試験", "titleZh": "考试"},
+        {"id": "ch05-l04", "index": 4, "titleJa": "大学・大学院", "titleZh": "大学、研究生院"},
+        {"id": "ch05-l05", "index": 5, "titleJa": "パソコン（スマホ）", "titleZh": "电脑/智能手机"}
+      ]
+    },
+    {
+      "id": "ch06",
+      "titleJa": "会社で",
+      "titleZh": "公司篇",
+      "lessons": [
+        {"id": "ch06-l01", "index": 1, "titleJa": "就職", "titleZh": "就业"},
+        {"id": "ch06-l02", "index": 2, "titleJa": "会社", "titleZh": "公司"},
+        {"id": "ch06-l03", "index": 3, "titleJa": "仕事", "titleZh": "工作"},
+        {"id": "ch06-l04", "index": 4, "titleJa": "上下関係", "titleZh": "上下级关系"},
+        {"id": "ch06-l05", "index": 5, "titleJa": "退職・転職", "titleZh": "离职、换工作"}
+      ]
+    },
+    {
+      "id": "ch07",
+      "titleJa": "お気に入り",
+      "titleZh": "爱好篇",
+      "lessons": [
+        {"id": "ch07-l01", "index": 1, "titleJa": "競技", "titleZh": "比赛"},
+        {"id": "ch07-l02", "index": 2, "titleJa": "ファッション", "titleZh": "时尚"},
+        {"id": "ch07-l03", "index": 3, "titleJa": "エンターテインメント", "titleZh": "娱乐"},
+        {"id": "ch07-l04", "index": 4, "titleJa": "本", "titleZh": "书"},
+        {"id": "ch07-l05", "index": 5, "titleJa": "趣味・好み", "titleZh": "兴趣、爱好"}
+      ]
+    },
+    {
+      "id": "ch08",
+      "titleJa": "自然・レジャー",
+      "titleZh": "自然、休闲篇",
+      "lessons": [
+        {"id": "ch08-l01", "index": 1, "titleJa": "気候と天気", "titleZh": "气候与天气"},
+        {"id": "ch08-l02", "index": 2, "titleJa": "台風・地震", "titleZh": "台风、地震"},
+        {"id": "ch08-l03", "index": 3, "titleJa": "自然", "titleZh": "自然"},
+        {"id": "ch08-l04", "index": 4, "titleJa": "休日", "titleZh": "休息日"},
+        {"id": "ch08-l05", "index": 5, "titleJa": "旅行", "titleZh": "旅行"}
+      ]
+    },
+    {
+      "id": "ch09",
+      "titleJa": "健康のために",
+      "titleZh": "健康篇",
+      "lessons": [
+        {"id": "ch09-l01", "index": 1, "titleJa": "体と健康", "titleZh": "身体与健康"},
+        {"id": "ch09-l02", "index": 2, "titleJa": "病気になる前に", "titleZh": "生病前"},
+        {"id": "ch09-l03", "index": 3, "titleJa": "症状", "titleZh": "症状"},
+        {"id": "ch09-l04", "index": 4, "titleJa": "病気と治療", "titleZh": "疾病与治疗"},
+        {"id": "ch09-l05", "index": 5, "titleJa": "美容", "titleZh": "美容"}
+      ]
+    },
+    {
+      "id": "ch10",
+      "titleJa": "ニュース",
+      "titleZh": "新闻篇",
+      "lessons": [
+        {"id": "ch10-l01", "index": 1, "titleJa": "トラブル・事件", "titleZh": "纠纷、事件"},
+        {"id": "ch10-l02", "index": 2, "titleJa": "事故", "titleZh": "事故"},
+        {"id": "ch10-l03", "index": 3, "titleJa": "政治", "titleZh": "政治"},
+        {"id": "ch10-l04", "index": 4, "titleJa": "社会", "titleZh": "社会"},
+        {"id": "ch10-l05", "index": 5, "titleJa": "世界・環境", "titleZh": "世界、环境"}
+      ]
+    },
+    {
+      "id": "ch11",
+      "titleJa": "様子・イメージ",
+      "titleZh": "样子、印象篇",
+      "lessons": [
+        {"id": "ch11-l01", "index": 1, "titleJa": "性格", "titleZh": "性格"},
+        {"id": "ch11-l02", "index": 2, "titleJa": "いい気分", "titleZh": "好心情"},
+        {"id": "ch11-l03", "index": 3, "titleJa": "ブルーな気分", "titleZh": "郁闷心情"},
+        {"id": "ch11-l04", "index": 4, "titleJa": "プラスのイメージ", "titleZh": "积极印象"},
+        {"id": "ch11-l05", "index": 5, "titleJa": "マイナスのイメージ", "titleZh": "消极印象"}
+      ]
+    },
+    {
+      "id": "ch12",
+      "titleJa": "間違えやすい表現",
+      "titleZh": "易错表达",
+      "lessons": [
+        {"id": "ch12-l01", "index": 1, "titleJa": "慣用句①（心・胸）", "titleZh": "惯用句①（心・胸）"},
+        {"id": "ch12-l02", "index": 2, "titleJa": "慣用句②（头部、脸部）", "titleZh": "惯用句②（头部、脸部）"},
+        {"id": "ch12-l03", "index": 3, "titleJa": "慣用句③（身体部位）", "titleZh": "惯用句③（身体部位）"},
+        {"id": "ch12-l04", "index": 4, "titleJa": "副詞", "titleZh": "副词"},
+        {"id": "ch12-l05", "index": 5, "titleJa": "接続表現", "titleZh": "连接表达"}
+      ]
+    }
+  ]
+}

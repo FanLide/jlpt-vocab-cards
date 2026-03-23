@@ -1,0 +1,17 @@
+# deps
+node_modules
+
+# build
+web/dist
+
+# logs
+*.log
+
+# mac
+.DS_Store
+
+# vite
+web/.vite
+
+# env
+.env

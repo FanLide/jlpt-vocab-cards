@@ -1,0 +1,220 @@
+{
+  "id": "ch01-l02",
+  "chapterId": "ch01",
+  "titleJa": "友達",
+  "titleZh": "朋友",
+  "rangeNote": "27～49",
+  "audio": {
+    "track": "Track002",
+    "file": "resources/audio/extracted/万词对策N2/Track002.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l02-027",
+      "index": 27,
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": { "en": "friend", "zh": "朋友，友人" },
+      "sentence": { "ja": "国から友人が遊びに来た。", "zh": "国内的朋友来玩。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-028",
+      "index": 28,
+      "word": "仲",
+      "reading": "なか",
+      "meaning": { "en": "relationship", "zh": "关系" },
+      "sentence": { "ja": "このクラスの生徒は、とても仲がいい。", "zh": "这个班级的学生关系都很好。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-029",
+      "index": 29,
+      "word": "縁",
+      "reading": "えん",
+      "meaning": { "en": "fate", "zh": "缘，缘分" },
+      "sentence": { "ja": "縁があって、彼女と親友になれた。", "zh": "我有缘与她成为了好朋友。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-030",
+      "index": 30,
+      "word": "ニックネーム",
+      "reading": "ニックネーム",
+      "meaning": { "en": "nickname", "zh": "昵称" },
+      "sentence": { "ja": "彼と私はニックネームで呼び合っている。", "zh": "他和我用昵称互相称呼。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-031",
+      "index": 31,
+      "word": "大半",
+      "reading": "たいはん",
+      "meaning": { "en": "most of", "zh": "大半，大部分" },
+      "sentence": { "ja": "一日の大半の時間を友達と過ごしている。", "zh": "一天中的大部分时间都和朋友一起度过。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-032",
+      "index": 32,
+      "word": "恵まれる",
+      "reading": "めぐまれる",
+      "meaning": { "en": "to be blessed with", "zh": "受惠，幸运拥有" },
+      "sentence": { "ja": "私は、いつも友人に恵まれている。", "zh": "我总是能遇到很多好朋友。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-033",
+      "index": 33,
+      "word": "頼る",
+      "reading": "たよる",
+      "meaning": { "en": "to depend", "zh": "依靠，依赖" },
+      "sentence": { "ja": "困ったときは頼ってほしい。", "zh": "遇到困难时希望你能依靠我。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-034",
+      "index": 34,
+      "word": "頼もしい",
+      "reading": "たのもしい",
+      "meaning": { "en": "dependable", "zh": "可靠的" },
+      "sentence": { "ja": "彼女は何でも相談できる頼もしい存在だ。", "zh": "她是一个什么都可以商量的可靠的人。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-035",
+      "index": 35,
+      "word": "見習う",
+      "reading": "みならう",
+      "meaning": { "en": "to emulate", "zh": "学习，效仿" },
+      "sentence": { "ja": "私には見習うべき友人が何人かいる。", "zh": "我有好几个值得学习的朋友。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-036",
+      "index": 36,
+      "word": "打ち明ける",
+      "reading": "うちあける",
+      "meaning": { "en": "to confess", "zh": "吐露，说出" },
+      "sentence": { "ja": "親友だけに秘密を打ち明けた。", "zh": "我只向好朋友吐露了秘密。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-037",
+      "index": 37,
+      "word": "励ます",
+      "reading": "はげます",
+      "meaning": { "en": "to encourage", "zh": "鼓励" },
+      "sentence": { "ja": "私が試験に落ちたとき、友達が励ましてくれた。", "zh": "我考试不及格时，朋友鼓励了我。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-038",
+      "index": 38,
+      "word": "あえて",
+      "reading": "あえて",
+      "meaning": { "en": "venture to", "zh": "敢于，特意" },
+      "sentence": { "ja": "大切な友達だから、あえて厳しい忠告もする。", "zh": "正因为是重要的朋友，所以我才敢说严厉的忠告。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-039",
+      "index": 39,
+      "word": "なぐさめる",
+      "reading": "なぐさめる",
+      "meaning": { "en": "to console", "zh": "安慰" },
+      "sentence": { "ja": "彼女にふられたとき、友達がなぐさめてくれた。", "zh": "我被女朋友甩了的时候，朋友安慰了我。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-040",
+      "index": 40,
+      "word": "察する",
+      "reading": "さっする",
+      "meaning": { "en": "to infer", "zh": "察觉，体察" },
+      "sentence": { "ja": "彼女の気持ちを察して、何も言わなかった。", "zh": "我体察到她的心情，什么也没说。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-041",
+      "index": 41,
+      "word": "思いやり",
+      "reading": "おもいやり",
+      "meaning": { "en": "thoughtfulness", "zh": "体贴，关怀" },
+      "sentence": { "ja": "周りの人への思いやりを大切にしたい。", "zh": "我想珍惜对周围人的体贴之心。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-042",
+      "index": 42,
+      "word": "何気ない",
+      "reading": "なにげない",
+      "meaning": { "en": "casual", "zh": "不经意的，自然的" },
+      "sentence": { "ja": "友達との何気ない会話が楽しい。", "zh": "和朋友不经意的聊天很开心。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-043",
+      "index": 43,
+      "word": "からかう",
+      "reading": "からかう",
+      "meaning": { "en": "to tease", "zh": "取笑，开玩笑" },
+      "sentence": { "ja": "彼女ができて、友達にからかわれた。", "zh": "交了女朋友后被朋友取笑了。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-044",
+      "index": 44,
+      "word": "幹事",
+      "reading": "かんじ",
+      "meaning": { "en": "organizer", "zh": "负责人，组织者" },
+      "sentence": { "ja": "仲間の飲み会では、いつも私が幹事だ。", "zh": "朋友聚会时通常由我负责组织。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-045",
+      "index": 45,
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": { "en": "to send for", "zh": "叫出来，召集" },
+      "sentence": { "ja": "夜遅く、親友に「飲みに行こう」と呼び出された。", "zh": "半夜被好朋友叫出去喝酒。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-046",
+      "index": 46,
+      "word": "盛り上がる",
+      "reading": "もりあがる",
+      "meaning": { "en": "to liven up", "zh": "气氛高涨" },
+      "sentence": { "ja": "パーティーは盛り上がって、夜中まで続いた。", "zh": "聚会气氛很热烈，一直持续到深夜。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-047",
+      "index": 47,
+      "word": "あきれる",
+      "reading": "あきれる",
+      "meaning": { "en": "to be appalled", "zh": "无语，吃惊" },
+      "sentence": { "ja": "彼はいつも遅刻するので、あきれてしまう。", "zh": "他总是迟到，真让人无语。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-048",
+      "index": 48,
+      "word": "ふざける",
+      "reading": "ふざける",
+      "meaning": { "en": "to fool around", "zh": "胡闹，开玩笑" },
+      "sentence": { "ja": "友達とふざけていたら、転んで足の骨を折った。", "zh": "和朋友打闹时，不小心摔倒把腿摔骨折了。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    },
+    {
+      "id": "ch01-l02-049",
+      "index": 49,
+      "word": "久しい",
+      "reading": "ひさしい",
+      "meaning": { "en": "long time", "zh": "久违" },
+      "sentence": { "ja": "高校時代のクラスメートと久しく会っていない。", "zh": "我好久没见高中同学了。" },
+      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+    }
+  ]
+}
