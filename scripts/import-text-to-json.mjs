@@ -55,11 +55,14 @@ function parseItemLines(lines, i) {
   //  例：JA
   //  ZH_SENT
   const line1 = lines[i]
-  const m1 = line1.match(/^(\d+)\s+(.+?)（(.+?)）\s*$/)
+  // Support both:
+  //  27 友人（ゆうじん）
+  //  2 ありがたい
+  const m1 = line1.match(/^(\d+)\s+(.+?)(?:（(.+?)）)?\s*$/)
   if (!m1) return null
   const index = Number(m1[1])
   const word = m1[2].trim()
-  const reading = m1[3].trim()
+  const reading = (m1[3] ?? word).trim()
 
   const line2 = lines[i + 1] ?? ''
   const m2 = line2.match(/^(.+?)：\s*(.+)$/)

@@ -1,0 +1,18 @@
+{
+  "lessons": [
+    {
+      "lessonId": "ch01-l01",
+      "chapterId": "ch01",
+      "titleJa": "家族",
+      "titleZh": "家人",
+      "cards": 26
+    },
+    {
+      "lessonId": "ch01-l02",
+      "chapterId": "ch01",
+      "titleJa": "友達",
+      "titleZh": "朋友",
+      "cards": 23
+    }
+  ]
+}

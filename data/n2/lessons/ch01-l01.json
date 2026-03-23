@@ -14,312 +14,468 @@
       "index": 1,
       "word": "一家",
       "reading": "いっか",
-      "meaning": { "en": "family", "zh": "一家，全家" },
+      "meaning": {
+        "zh": "一家，全家",
+        "en": "family"
+      },
       "sentence": {
         "ja": "兄が私達一家を支えてくれている。",
         "zh": "是哥哥一直在支撑着我们整个家。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-002",
       "index": 2,
       "word": "ありがたい",
       "reading": "ありがたい",
-      "meaning": { "en": "grateful", "zh": "值得感恩的，难得的" },
+      "meaning": {
+        "zh": "值得感恩的，难得的",
+        "en": "grateful"
+      },
       "sentence": {
         "ja": "家族は本当にありがたい存在だ。",
         "zh": "有家人真好。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-003",
       "index": 3,
       "word": "向き合う",
       "reading": "むきあう",
-      "meaning": { "en": "face", "zh": "面对，直面" },
+      "meaning": {
+        "zh": "面对，直面",
+        "en": "face"
+      },
       "sentence": {
         "ja": "家族みんなで問題に向き合っている。",
         "zh": "全家人一起面对问题。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-004",
       "index": 4,
       "word": "つくづく",
       "reading": "つくづく",
-      "meaning": { "en": "deeply, greatly", "zh": "深深地" },
+      "meaning": {
+        "zh": "深深地",
+        "en": "deeply, greatly"
+      },
       "sentence": {
         "ja": "最近、家族のありがたさをつくづく感じる。",
         "zh": "最近深深感到家人的可贵。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-005",
       "index": 5,
       "word": "養う",
       "reading": "やしなう",
-      "meaning": { "en": "provide for", "zh": "养育，供养" },
+      "meaning": {
+        "zh": "养育，供养",
+        "en": "provide for"
+      },
       "sentence": {
         "ja": "父は一生懸命に働いて、家族を養っている。",
         "zh": "父亲拼命工作养活全家。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-006",
       "index": 6,
       "word": "役目",
       "reading": "やくめ",
-      "meaning": { "en": "duty", "zh": "职责，任务" },
+      "meaning": {
+        "zh": "职责，任务",
+        "en": "duty"
+      },
       "sentence": {
         "ja": "子どもを育てることが親の役目だ。",
         "zh": "养育孩子是父母的责任。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-007",
       "index": 7,
       "word": "甘える",
       "reading": "あまえる",
-      "meaning": { "en": "to be spoiled", "zh": "撒娇，依赖" },
+      "meaning": {
+        "zh": "撒娇，依赖",
+        "en": "to be spoiled"
+      },
       "sentence": {
         "ja": "妹は子どもの頃から、母に甘えている。",
         "zh": "妹妹从小就向妈妈撒娇。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-008",
       "index": 8,
       "word": "世間知らず",
       "reading": "せけんしらず",
-      "meaning": { "en": "ignorant", "zh": "不谙世事" },
+      "meaning": {
+        "zh": "不谙世事",
+        "en": "ignorant"
+      },
       "sentence": {
         "ja": "父に「おまえは世間知らずだ」と言われた。",
         "zh": "父亲说我不懂世事。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-009",
       "index": 9,
       "word": "しつけ",
       "reading": "しつけ",
-      "meaning": { "en": "discipline", "zh": "管教，教育" },
+      "meaning": {
+        "zh": "管教，教育",
+        "en": "discipline"
+      },
       "sentence": {
         "ja": "子どものしつけは、親の義務だ。",
         "zh": "管教孩子是父母的责任。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-010",
       "index": 10,
       "word": "言いつける",
       "reading": "いいつける",
-      "meaning": { "en": "tell", "zh": "告状，打小报告" },
+      "meaning": {
+        "zh": "告状，打小报告",
+        "en": "tell"
+      },
       "sentence": {
         "ja": "兄は妹のいたずらを母に言いつけた。",
         "zh": "哥哥把妹妹的恶作剧告诉了妈妈。"
       },
-      "source": { "book": "新日语能力考试 万词对策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-011",
       "index": 11,
       "word": "自立する",
       "reading": "じりつする",
-      "meaning": { "en": "independence", "zh": "独立" },
+      "meaning": {
+        "zh": "独立",
+        "en": "independence"
+      },
       "sentence": {
         "ja": "兄は自立して、一人暮らしをしている。",
         "zh": "哥哥已经独立，一个人生活。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-012",
       "index": 12,
       "word": "言い出す",
       "reading": "いいだす",
-      "meaning": { "en": "start saying", "zh": "提出，说出口" },
+      "meaning": {
+        "zh": "提出，说出口",
+        "en": "start saying"
+      },
       "sentence": {
         "ja": "妹はアメリカに留学したいと言い出した。",
         "zh": "妹妹提出想去美国留学。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-013",
       "index": 13,
       "word": "意思",
       "reading": "いし",
-      "meaning": { "en": "intention", "zh": "意志，想法" },
+      "meaning": {
+        "zh": "意志，想法",
+        "en": "intention"
+      },
       "sentence": {
         "ja": "親に自分の意思を伝えるのは難しい。",
         "zh": "向父母表达自己的想法很难。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-014",
       "index": 14,
       "word": "尊重する",
       "reading": "そんちょうする",
-      "meaning": { "en": "respect", "zh": "尊重" },
+      "meaning": {
+        "zh": "尊重",
+        "en": "respect"
+      },
       "sentence": {
         "ja": "両親はいつも、私の意見を尊重してくれる。",
         "zh": "父母总是尊重我的意见。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-015",
       "index": 15,
       "word": "説得する",
       "reading": "せっとくする",
-      "meaning": { "en": "convince", "zh": "说服" },
+      "meaning": {
+        "zh": "说服",
+        "en": "convince"
+      },
       "sentence": {
         "ja": "母が父を説得してくれた。",
         "zh": "妈妈说服了爸爸。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-016",
       "index": 16,
       "word": "納得する",
       "reading": "なっとくする",
-      "meaning": { "en": "acknowledgement", "zh": "理解并接受" },
+      "meaning": {
+        "zh": "理解并接受",
+        "en": "acknowledgement"
+      },
       "sentence": {
         "ja": "父はやっと納得してくれた。",
         "zh": "父亲终于同意了。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-017",
       "index": 17,
       "word": "逆らう",
       "reading": "さからう",
-      "meaning": { "en": "to go against", "zh": "违背，对抗" },
+      "meaning": {
+        "zh": "违背，对抗",
+        "en": "to go against"
+      },
       "sentence": {
         "ja": "若いときは、よく親に逆らった。",
         "zh": "年轻时常常违背父母。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-018",
       "index": 18,
       "word": "反省する",
       "reading": "はんせいする",
-      "meaning": { "en": "reflection", "zh": "反省" },
+      "meaning": {
+        "zh": "反省",
+        "en": "reflection"
+      },
       "sentence": {
         "ja": "今はそのことを反省している。",
         "zh": "现在正在反省那件事。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-019",
       "index": 19,
       "word": "放っておく",
       "reading": "ほうっておく",
-      "meaning": { "en": "to leave alone", "zh": "放任，不管" },
+      "meaning": {
+        "zh": "放任，不管",
+        "en": "to leave alone"
+      },
       "sentence": {
         "ja": "放っておいてほしい。",
         "zh": "希望不要管我。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-020",
       "index": 20,
       "word": "介護する",
       "reading": "かいごする",
-      "meaning": { "en": "nursing", "zh": "护理，照顾" },
+      "meaning": {
+        "zh": "护理，照顾",
+        "en": "nursing"
+      },
       "sentence": {
         "ja": "家族で祖母を介護している。",
         "zh": "全家一起照顾祖母。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-021",
       "index": 21,
       "word": "ホームヘルパー",
       "reading": "ホームヘルパー",
-      "meaning": { "en": "home helper", "zh": "家庭护理员" },
+      "meaning": {
+        "zh": "家庭护理员",
+        "en": "home helper"
+      },
       "sentence": {
         "ja": "週に3回、ホームヘルパーに来てもらう。",
         "zh": "每周请护理员来三次。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-022",
       "index": 22,
       "word": "世代",
       "reading": "せだい",
-      "meaning": { "en": "generation", "zh": "世代" },
+      "meaning": {
+        "zh": "世代",
+        "en": "generation"
+      },
       "sentence": {
         "ja": "世代が違うと、話が合わないこともある。",
         "zh": "不同世代有时聊不来。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-023",
       "index": 23,
       "word": "継ぐ",
       "reading": "つぐ",
-      "meaning": { "en": "to inherit", "zh": "继承" },
+      "meaning": {
+        "zh": "继承",
+        "en": "to inherit"
+      },
       "sentence": {
         "ja": "来年、父の会社を継ぐことになった。",
         "zh": "明年我将继承父亲的公司。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-024",
       "index": 24,
       "word": "妊娠する",
       "reading": "にんしんする",
-      "meaning": { "en": "pregnancy", "zh": "怀孕" },
+      "meaning": {
+        "zh": "怀孕",
+        "en": "pregnancy"
+      },
       "sentence": {
         "ja": "妹は妊娠3か月だ。",
         "zh": "妹妹怀孕三个月了。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-025",
       "index": 25,
       "word": "出産する",
       "reading": "しゅっさんする",
-      "meaning": { "en": "child birth", "zh": "生产" },
+      "meaning": {
+        "zh": "生产",
+        "en": "child birth"
+      },
       "sentence": {
         "ja": "実家の近くの病院で出産することにした。",
         "zh": "决定在老家附近的医院生产。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     },
     {
       "id": "ch01-l01-026",
       "index": 26,
       "word": "産む",
       "reading": "うむ",
-      "meaning": { "en": "to give birth", "zh": "生" },
+      "meaning": {
+        "zh": "生",
+        "en": "to give birth"
+      },
       "sentence": {
         "ja": "姉は二十歳のときに子どもを産んだ。",
         "zh": "姐姐二十岁时生了孩子。"
       },
-      "source": { "book": "新日语能力考试 万词対策", "level": "N2" }
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
     }
   ]
 }
