@@ -111,6 +111,8 @@ function main() {
     return
   }
 
+  const lessonIndex = []
+
   for (const f of files) {
     const lessonId = f.replace(/\.txt$/, '')
     const meta = getLessonMeta(structure, lessonId)
@@ -164,7 +166,21 @@ function main() {
     const outPath = path.join(OUT_DIR, `${lessonId}.json`)
     fs.writeFileSync(outPath, JSON.stringify(out, null, 2) + '\n', 'utf8')
     console.log('[ok]', lessonId, '->', path.relative(ROOT, outPath), `cards=${cards.length}`)
+
+    lessonIndex.push({
+      lessonId,
+      chapterId: meta.chapter.id,
+      titleJa: meta.lesson.titleJa,
+      titleZh: meta.lesson.titleZh,
+      cards: cards.length,
+    })
   }
+
+  // write index for frontend auto-discovery
+  const idxPath = path.join(ROOT, 'data', 'n2', 'lessons.index.json')
+  lessonIndex.sort((a, b) => a.lessonId.localeCompare(b.lessonId))
+  fs.writeFileSync(idxPath, JSON.stringify({ lessons: lessonIndex }, null, 2) + '\n', 'utf8')
+  console.log('[ok] wrote', path.relative(ROOT, idxPath), `lessons=${lessonIndex.length}`)
 }
 
 main()

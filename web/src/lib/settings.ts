@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 const KEY_LOOP = 'jlpt:loopEnabled'
 
@@ -13,15 +13,13 @@ export function setLoopEnabled(v: boolean) {
 }
 
 export function useLoopEnabled() {
-  const [enabled, setEnabled] = useState(true)
-
-  useEffect(() => {
+  const [enabled, setEnabled] = useState(() => {
     try {
-      setEnabled(getLoopEnabled())
+      return getLoopEnabled()
     } catch {
-      setEnabled(true)
+      return true
     }
-  }, [])
+  })
 
   const update = (v: boolean) => {
     setEnabled(v)

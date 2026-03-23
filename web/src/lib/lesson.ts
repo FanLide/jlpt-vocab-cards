@@ -17,15 +17,12 @@ export type Lesson = {
   cards: Card[]
 }
 
+const lessonFiles = import.meta.glob('../../../data/n2/lessons/*.json')
+
 export async function loadLesson(lessonId: string): Promise<Lesson | null> {
-  // MVP: load a small allowlist; later we can generate an index for all lessons.
-  if (lessonId === 'ch01-l01') {
-    const mod = await import('../../../data/n2/lessons/ch01-l01.json')
-    return mod.default as Lesson
-  }
-  if (lessonId === 'ch01-l02') {
-    const mod = await import('../../../data/n2/lessons/ch01-l02.json')
-    return mod.default as Lesson
-  }
-  return null
+  const key = `../../../data/n2/lessons/${lessonId}.json`
+  const loader = lessonFiles[key] as undefined | (() => Promise<{ default: unknown }>)
+  if (!loader) return null
+  const mod = await loader()
+  return mod.default as Lesson
 }

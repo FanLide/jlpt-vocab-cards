@@ -5,10 +5,21 @@ import { VocabCard } from './VocabCard'
 type Props = {
   cards: Card[]
   loop: boolean
+  pos?: number
+  onPosChange?: (pos: number) => void
 }
 
-export function CardDeck({ cards, loop }: Props) {
-  const [pos, setPos] = useState(0)
+export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props) {
+  const [innerPos, setInnerPos] = useState(0)
+  const pos = controlledPos ?? innerPos
+
+  const setPosValue = useCallback(
+    (next: number) => {
+      if (controlledPos === undefined) setInnerPos(next)
+      onPosChange?.(next)
+    },
+    [controlledPos, onPosChange]
+  )
 
   const current = cards[pos]
   const total = cards.length
@@ -18,19 +29,15 @@ export function CardDeck({ cards, loop }: Props) {
 
   const prev = useCallback(() => {
     if (total === 0) return
-    setPos((p) => {
-      if (p > 0) return p - 1
-      return loop ? total - 1 : p
-    })
-  }, [loop, total])
+    if (pos > 0) return setPosValue(pos - 1)
+    if (loop) return setPosValue(total - 1)
+  }, [loop, pos, setPosValue, total])
 
   const next = useCallback(() => {
     if (total === 0) return
-    setPos((p) => {
-      if (p < total - 1) return p + 1
-      return loop ? 0 : p
-    })
-  }, [loop, total])
+    if (pos < total - 1) return setPosValue(pos + 1)
+    if (loop) return setPosValue(0)
+  }, [loop, pos, setPosValue, total])
 
   // Swipe handling
   const start = useRef<{ x: number; y: number; t: number } | null>(null)

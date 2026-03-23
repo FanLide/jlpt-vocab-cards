@@ -4,6 +4,7 @@ import { getLessonMeta, friendlyChapterTitle, friendlyLessonTitle } from '../lib
 import { loadLesson } from '../lib/lesson'
 import { isAudioCached, precacheAudio } from '../lib/cacheAudio'
 import { CardDeck } from '../components/CardDeck'
+import { CardList } from '../components/CardList'
 import { useLoopEnabled } from '../lib/settings'
 
 export function LessonPage() {
@@ -15,6 +16,8 @@ export function LessonPage() {
   const [cacheState, setCacheState] = useState<'unknown' | 'cached' | 'not-cached'>('unknown')
   const [downloading, setDownloading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [mode, setMode] = useState<'deck' | 'list'>('deck')
+  const [pos, setPos] = useState(0)
 
   useEffect(() => {
     setError(null)
@@ -89,8 +92,30 @@ export function LessonPage() {
           </div>
 
           <div style={{ marginTop: 16 }}>
-            <h3 style={{ margin: '10px 0' }}>卡片（扑克牌模式）</h3>
-            <CardDeck cards={lesson.cards} loop={loopEnabled} />
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', gap: 12 }}>
+              <h3 style={{ margin: '10px 0' }}>卡片</h3>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <button onClick={() => setMode('deck')} disabled={mode === 'deck'}>
+                  扑克牌
+                </button>
+                <button onClick={() => setMode('list')} disabled={mode === 'list'}>
+                  列表
+                </button>
+              </div>
+            </div>
+
+            {mode === 'deck' ? (
+              <CardDeck cards={lesson.cards} loop={loopEnabled} pos={pos} onPosChange={setPos} />
+            ) : (
+              <CardList
+                cards={lesson.cards}
+                onSelect={(i) => {
+                  setPos(i)
+                  setMode('deck')
+                }}
+              />
+            )}
+
             <div style={{ marginTop: 12, opacity: 0.7, fontSize: 12 }}>
               循环播放开关在「设置」里。
             </div>
@@ -98,7 +123,7 @@ export function LessonPage() {
         </>
       ) : (
         <div style={{ marginTop: 16, opacity: 0.7 }}>
-          {lessonId === 'ch01-l01' ? '加载中…' : '该课程尚未导入文本（请继续补充文本，我会生成对应 JSON）。'}
+          该课程尚未导入文本（把对应 `resources/text/${lessonId}.txt` 放好并运行导入脚本即可）。
         </div>
       )}
     </div>
