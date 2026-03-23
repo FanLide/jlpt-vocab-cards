@@ -101,21 +101,7 @@ export function LessonPage() {
                 <button onClick={() => setMode('list')} disabled={mode === 'list'}>
                   列表/搜索
                 </button>
-                <button
-                  onClick={() => {
-                    const v = window.prompt('跳到编号（例如 27）')
-                    if (!v) return
-                    const n = Number(v)
-                    if (!Number.isFinite(n)) return
-                    const p = lesson.cards.findIndex((c) => c.index === n)
-                    if (p >= 0) {
-                      setPos(p)
-                      setMode('deck')
-                    }
-                  }}
-                >
-                  跳转
-                </button>
+
               </div>
             </div>
 
