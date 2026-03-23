@@ -25,7 +25,12 @@ export function LessonPage() {
       .catch((e) => setError(String(e)))
   }, [lessonId])
 
-  const audioUrl = lesson?.audio?.file ? `/${lesson.audio.file}` : null
+  const audioBase = import.meta.env.VITE_AUDIO_BASE_URL as string | undefined
+  const audioUrl = lesson?.audio?.track
+    ? `${audioBase ?? ''}${lesson.audio.track}.mp3`
+    : lesson?.audio?.file
+      ? `/${lesson.audio.file}`
+      : null
 
   useEffect(() => {
     if (!audioUrl) return

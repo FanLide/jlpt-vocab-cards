@@ -11,6 +11,15 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
+## Audio (R2)
+
+This app can build audio URLs in two ways:
+
+- **Production (recommended):** set `VITE_AUDIO_BASE_URL` to your R2 public prefix, e.g.
+  - `VITE_AUDIO_BASE_URL=https://example.com/audio/n2/`
+  - Then Track002 => `https://example.com/audio/n2/Track002.mp3`
+- **Local dev fallback:** if `VITE_AUDIO_BASE_URL` is not set, it will use the local file path in lesson JSON.
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
