@@ -15,3 +15,9 @@ web/.vite
 
 # env
 .env
+
+# large assets (keep locally, don't commit)
+resources/pdf/
+resources/audio/extracted/
+resources/audio/*.rar
+resources/audio/*.zip
