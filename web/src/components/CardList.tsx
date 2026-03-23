@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import type { Card } from '../lib/lesson'
+import { Toast } from './Toast'
 
 function norm(s: string) {
   return s.toLowerCase().trim()
@@ -27,6 +28,7 @@ export function CardList({
   onSelect: (pos: number) => void
 }) {
   const [q, setQ] = useState('')
+  const [toast, setToast] = useState<string | null>(null)
 
   const filtered = useMemo(() => {
     const qq = norm(q)
@@ -37,11 +39,21 @@ export function CardList({
       .map(({ c, pos }) => ({ c, pos }))
   }, [cards, q])
 
+  const minIndex = cards[0]?.index
+  const maxIndex = cards[cards.length - 1]?.index
+
   const jumpTo = (value: string) => {
     const n = Number(value)
-    if (!Number.isFinite(n)) return
+    if (!Number.isFinite(n)) {
+      setToast('请输入数字编号')
+      return
+    }
     const pos = cards.findIndex((c) => c.index === n)
-    if (pos >= 0) onSelect(pos)
+    if (pos >= 0) {
+      onSelect(pos)
+    } else {
+      setToast(`本课没有编号 ${n}`)
+    }
   }
 
   return (
@@ -60,12 +72,15 @@ export function CardList({
         />
         <input
           inputMode="numeric"
-          placeholder="跳到编号"
+          placeholder={minIndex && maxIndex ? `跳到编号（${minIndex}~${maxIndex}）` : '跳到编号'}
           onKeyDown={(e) => {
-            if (e.key === 'Enter') jumpTo((e.target as HTMLInputElement).value)
+            if (e.key !== 'Enter') return
+            const el = e.target as HTMLInputElement
+            jumpTo(el.value.trim())
+            el.blur()
           }}
           style={{
-            width: 120,
+            width: 170,
             padding: '10px 12px',
             borderRadius: 10,
             border: '1px solid #e6e6e6',
@@ -101,6 +116,8 @@ export function CardList({
           </button>
         ))}
       </div>
+
+      <Toast message={toast} onClose={() => setToast(null)} />
     </div>
   )
 }
