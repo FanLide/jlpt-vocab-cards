@@ -1,6 +1,7 @@
 import { useCallback, useMemo, useRef, useState } from 'react'
 import type { Card } from '../lib/lesson'
 import { VocabCard } from './VocabCard'
+import { Toast } from './Toast'
 
 type Props = {
   cards: Card[]
@@ -23,6 +24,7 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
 
   const current = cards[pos]
   const total = cards.length
+  const [toast, setToast] = useState<string | null>(null)
 
   const canPrev = loop || pos > 0
   const canNext = loop || pos < total - 1
@@ -65,6 +67,10 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
 
   const header = useMemo(() => {
     if (!current) return null
+
+    const minIndex = cards[0]?.index
+    const maxIndex = cards[cards.length - 1]?.index
+
     return (
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
         <div style={{ opacity: 0.75 }}>{pos + 1} / {total}</div>
@@ -72,17 +78,26 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
         <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
           <input
             inputMode="numeric"
-            placeholder="跳到编号"
+            placeholder={minIndex && maxIndex ? `跳到编号（${minIndex}~${maxIndex}）` : '跳到编号'}
             onKeyDown={(e) => {
               if (e.key !== 'Enter') return
-              const v = (e.target as HTMLInputElement).value
+              const el = e.target as HTMLInputElement
+              const v = el.value.trim()
               const n = Number(v)
-              if (!Number.isFinite(n)) return
+              if (!Number.isFinite(n)) {
+                setToast('请输入数字编号')
+                return
+              }
               const p = cards.findIndex((c) => c.index === n)
-              if (p >= 0) setPosValue(p)
+              if (p >= 0) {
+                setPosValue(p)
+                el.blur()
+              } else {
+                setToast(`本课没有编号 ${n}`)
+              }
             }}
             style={{
-              width: 120,
+              width: 170,
               padding: '8px 10px',
               borderRadius: 10,
               border: '1px solid #e6e6e6',
@@ -93,16 +108,12 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
         </div>
       </div>
     )
-  }, [canNext, canPrev, cards, current, next, pos, prev, setPosValue, total])
+  }, [canNext, canPrev, cards, current, pos, prev, next, setPosValue, total])
 
   if (!current) return <div style={{ opacity: 0.7 }}>本课暂无卡片</div>
 
   return (
-    <div
-      onPointerDown={onPointerDown}
-      onPointerUp={onPointerUp}
-      style={{ touchAction: 'pan-y' }}
-    >
+    <div onPointerDown={onPointerDown} onPointerUp={onPointerUp} style={{ touchAction: 'pan-y' }}>
       {header}
 
       <div style={{ marginTop: 12 }}>
@@ -112,6 +123,8 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
       <div style={{ marginTop: 10, opacity: 0.65, fontSize: 12 }}>
         手势：左滑下一张、右滑上一张；长按 1 秒显示答案（松开隐藏）。
       </div>
+
+      <Toast message={toast} onClose={() => setToast(null)} />
     </div>
   )
 }
