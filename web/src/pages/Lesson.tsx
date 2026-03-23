@@ -94,12 +94,27 @@ export function LessonPage() {
           <div style={{ marginTop: 16 }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', gap: 12 }}>
               <h3 style={{ margin: '10px 0' }}>卡片</h3>
-              <div style={{ display: 'flex', gap: 8 }}>
+              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
                 <button onClick={() => setMode('deck')} disabled={mode === 'deck'}>
                   扑克牌
                 </button>
                 <button onClick={() => setMode('list')} disabled={mode === 'list'}>
-                  列表
+                  列表/搜索
+                </button>
+                <button
+                  onClick={() => {
+                    const v = window.prompt('跳到编号（例如 27）')
+                    if (!v) return
+                    const n = Number(v)
+                    if (!Number.isFinite(n)) return
+                    const p = lesson.cards.findIndex((c) => c.index === n)
+                    if (p >= 0) {
+                      setPos(p)
+                      setMode('deck')
+                    }
+                  }}
+                >
+                  跳转
                 </button>
               </div>
             </div>
@@ -109,8 +124,8 @@ export function LessonPage() {
             ) : (
               <CardList
                 cards={lesson.cards}
-                onSelect={(i) => {
-                  setPos(i)
+                onSelect={(p) => {
+                  setPos(p)
                   setMode('deck')
                 }}
               />
