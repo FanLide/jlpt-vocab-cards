@@ -1,13 +1,21 @@
 # 开发文档（Dev Plan）- JLPT N2 单词卡片 Web
 
 ## 1. 技术选型（建议）
-- 前端：React + Vite（或 Next.js 也行；MVP 用 Vite 更轻）
+- 前端：React + Vite（MVP 轻量）
 - 路由：React Router
-- 状态：轻量（Zustand/Redux 任选；MVP 可先 useState + context）
+- 状态：轻量（MVP：useState + localStorage/IndexedDB；后续可上 Zustand）
 - 离线：PWA（Service Worker）
-  - 音频缓存：Cache Storage（配合范围请求需注意）或 IndexedDB（更可控）
+  - 音频缓存：Cache Storage（注意 Range 请求）
   - 数据缓存：IndexedDB（cards/lessons 元数据）
 - 音频播放：HTMLAudioElement
+
+## 1.1 部署/后端选型（已定：方案 A）
+- **前端发布**：Cloudflare Pages
+- **音频存储**：Cloudflare R2（Track001–060.mp3）
+- **后端（MVP 可无）**：Cloudflare Workers
+  - MVP：不做登录/同步 → 进度存本地 IndexedDB
+  - 需要跨设备：Workers + D1（用户/进度） + KV（轻缓存/配置）
+- 发布流程详见：docs/04-deploy-cloudflare.md
 
 ## 2. Repo 目录约定（已创建）
 - resources/pdf/      # 你放 PDF
