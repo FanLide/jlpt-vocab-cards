@@ -66,21 +66,34 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
   const header = useMemo(() => {
     if (!current) return null
     return (
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12 }}>
-        <div style={{ opacity: 0.75 }}>
-          {pos + 1} / {total}
-        </div>
-        <div style={{ display: 'flex', gap: 8 }}>
-          <button onClick={prev} disabled={!canPrev}>
-            ← 上一张
-          </button>
-          <button onClick={next} disabled={!canNext}>
-            下一张 →
-          </button>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
+        <div style={{ opacity: 0.75 }}>{pos + 1} / {total}</div>
+
+        <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
+          <input
+            inputMode="numeric"
+            placeholder="跳到编号"
+            onKeyDown={(e) => {
+              if (e.key !== 'Enter') return
+              const v = (e.target as HTMLInputElement).value
+              const n = Number(v)
+              if (!Number.isFinite(n)) return
+              const p = cards.findIndex((c) => c.index === n)
+              if (p >= 0) setPosValue(p)
+            }}
+            style={{
+              width: 120,
+              padding: '8px 10px',
+              borderRadius: 10,
+              border: '1px solid #e6e6e6',
+            }}
+          />
+          <button onClick={prev} disabled={!canPrev}>← 上一张</button>
+          <button onClick={next} disabled={!canNext}>下一张 →</button>
         </div>
       </div>
     )
-  }, [canNext, canPrev, current, next, pos, prev, total])
+  }, [canNext, canPrev, cards, current, next, pos, prev, setPosValue, total])
 
   if (!current) return <div style={{ opacity: 0.7 }}>本课暂无卡片</div>
 

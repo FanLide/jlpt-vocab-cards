@@ -92,8 +92,11 @@ export function CardList({
             <div style={{ display: 'flex', justifyContent: 'space-between', gap: 12 }}>
               <div>
                 <b>{c.index}</b> {c.reading}
+                <div style={{ marginTop: 4, opacity: 0.75, fontSize: 12 }}>
+                  {c.word} · {c.meaning?.zh}
+                </div>
               </div>
-              <div style={{ opacity: 0.55, fontSize: 12 }}>点按进入</div>
+              <div style={{ opacity: 0.55, fontSize: 12, whiteSpace: 'nowrap' }}>点按进入</div>
             </div>
           </button>
         ))}
