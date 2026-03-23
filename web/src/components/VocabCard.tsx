@@ -30,6 +30,7 @@ export function VocabCard({ card, variant = 'plain' }: { card: Card; variant?: '
       onPointerLeave={onPointerUpOrLeave}
       style={{
         userSelect: 'none',
+        touchAction: 'none',
         border: '1px solid #e7e7e7',
         borderRadius: variant === 'poker' ? 18 : 12,
         padding: variant === 'poker' ? 20 : 16,

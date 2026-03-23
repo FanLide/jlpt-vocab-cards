@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import type { Card } from '../lib/lesson'
 import { Toast } from './Toast'
 
@@ -29,6 +29,7 @@ export function CardList({
 }) {
   const [q, setQ] = useState('')
   const [toast, setToast] = useState<string | null>(null)
+  const clearToast = useCallback(() => setToast(null), [])
 
   const filtered = useMemo(() => {
     const qq = norm(q)
@@ -117,7 +118,7 @@ export function CardList({
         ))}
       </div>
 
-      <Toast message={toast} onClose={() => setToast(null)} />
+      <Toast message={toast} onClose={clearToast} />
     </div>
   )
 }

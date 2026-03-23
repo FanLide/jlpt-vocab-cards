@@ -47,6 +47,8 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
     start.current = { x: e.clientX, y: e.clientY, t: Date.now() }
   }
 
+  const onPointerCancel = () => { start.current = null }
+
   const onPointerUp = (e: React.PointerEvent) => {
     if (!start.current) return
     const dx = e.clientX - start.current.x
@@ -110,10 +112,12 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
     )
   }, [canNext, canPrev, cards, current, pos, prev, next, setPosValue, total])
 
+  const clearToast = useCallback(() => setToast(null), [])
+
   if (!current) return <div style={{ opacity: 0.7 }}>本课暂无卡片</div>
 
   return (
-    <div onPointerDown={onPointerDown} onPointerUp={onPointerUp} style={{ touchAction: 'pan-y' }}>
+    <div onPointerDown={onPointerDown} onPointerUp={onPointerUp} onPointerCancel={onPointerCancel} style={{ touchAction: 'pan-y' }}>
       {header}
 
       <div style={{ marginTop: 12 }}>
@@ -124,7 +128,7 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
         手势：左滑下一张、右滑上一张；长按 1 秒显示答案（松开隐藏）。
       </div>
 
-      <Toast message={toast} onClose={() => setToast(null)} />
+      <Toast message={toast} onClose={clearToast} />
     </div>
   )
 }
