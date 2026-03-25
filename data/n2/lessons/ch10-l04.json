@@ -1,0 +1,661 @@
+{
+  "id": "ch10-l04",
+  "chapterId": "ch10",
+  "titleJa": "社会",
+  "titleZh": "社会",
+  "rangeNote": "1255～1290",
+  "audio": {
+    "track": "Track049",
+    "file": "resources/audio/extracted/万词对策N2/Track049.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch10-l04-1255",
+      "index": 1255,
+      "word": "反映（はんえい）［する］",
+      "reading": "はんえい",
+      "meaning": {
+        "en": "reflection",
+        "zh": "反映"
+      },
+      "sentence": {
+        "ja": "国民の意見を反映した社会であってほしい。",
+        "zh": "我希望社会的发展中可以反映出国民的意见。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1256",
+      "index": 1256,
+      "word": "貢献（こうけん）［する］",
+      "reading": "こうけん",
+      "meaning": {
+        "en": "contribution",
+        "zh": "贡献"
+      },
+      "sentence": {
+        "ja": "ボランティアとして社会に貢献したい。",
+        "zh": "我想作为志愿者为社会做贡献。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1257",
+      "index": 1257,
+      "word": "寄付（きふ）［する］",
+      "reading": "きふ",
+      "meaning": {
+        "en": "donation",
+        "zh": "捐款"
+      },
+      "sentence": {
+        "ja": "恵まれない子ども達のために、毎年寄付している。",
+        "zh": "为了那些不幸的孩子，我每年都捐款。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1258",
+      "index": 1258,
+      "word": "平等（びょうどう）［な］",
+      "reading": "びょうどう",
+      "meaning": {
+        "en": "equality, equal",
+        "zh": "平等"
+      },
+      "sentence": {
+        "ja": "この法律は、国民を平等に守っている。",
+        "zh": "法律平等地保护着每一个国民。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1259",
+      "index": 1259,
+      "word": "復興（ふっこう）［する］",
+      "reading": "ふっこう",
+      "meaning": {
+        "en": "reconstruction",
+        "zh": "复兴，重建"
+      },
+      "sentence": {
+        "ja": "大地震から、ようやく町が復興した。",
+        "zh": "大地震过后，这座城市终于重建好了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1260",
+      "index": 1260,
+      "word": "義務（ぎむ）",
+      "reading": "ぎむ",
+      "meaning": {
+        "en": "duty, obligation",
+        "zh": "义务"
+      },
+      "sentence": {
+        "ja": "国民には、納税などの義務がある。",
+        "zh": "国民有纳税等义务。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1261",
+      "index": 1261,
+      "word": "制度（せいど）",
+      "reading": "せいど",
+      "meaning": {
+        "en": "system",
+        "zh": "制度"
+      },
+      "sentence": {
+        "ja": "日本では、新しい年金制度が検討されている。",
+        "zh": "日本正在讨论新的养老金制度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1262",
+      "index": 1262,
+      "word": "景気（けいき）",
+      "reading": "けいき",
+      "meaning": {
+        "en": "business condition, economic climate",
+        "zh": "景气，经济情况"
+      },
+      "sentence": {
+        "ja": "政府は景気を良くするために努力している。",
+        "zh": "政府正在为促进经济景气而努力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1263",
+      "index": 1263,
+      "word": "インフレ",
+      "reading": "インフレ",
+      "meaning": {
+        "en": "inflation",
+        "zh": "通货膨胀"
+      },
+      "sentence": {
+        "ja": "物価が上がって、インフレが続いている。",
+        "zh": "物价上涨，通货膨胀一直在持续。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1264",
+      "index": 1264,
+      "word": "加速（かそく）［する］",
+      "reading": "かそく",
+      "meaning": {
+        "en": "acceleration",
+        "zh": "加速"
+      },
+      "sentence": {
+        "ja": "景気が悪くなり、インフレが加速している。",
+        "zh": "经济不景气，导致了通货膨胀加速。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1265",
+      "index": 1265,
+      "word": "上回る（うわまわる）",
+      "reading": "うわまわる",
+      "meaning": {
+        "en": "exceed",
+        "zh": "超过，越过"
+      },
+      "sentence": {
+        "ja": "今年の輸出額が輸入額を上回った。",
+        "zh": "今年的出口额超过了进口额。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1266",
+      "index": 1266,
+      "word": "予測（よそく）［する］",
+      "reading": "よそく",
+      "meaning": {
+        "en": "forecast",
+        "zh": "预测"
+      },
+      "sentence": {
+        "ja": "政府が来年の経済状況を予測する。",
+        "zh": "政府预测明年的经济状况。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1267",
+      "index": 1267,
+      "word": "見通し（みとおし）",
+      "reading": "みとおし",
+      "meaning": {
+        "en": "prospect",
+        "zh": "预料，前景"
+      },
+      "sentence": {
+        "ja": "景気回復の見通しが立たない。",
+        "zh": "还看不出经济复苏的前景。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1268",
+      "index": 1268,
+      "word": "兆（ちょう）",
+      "reading": "ちょう",
+      "meaning": {
+        "en": "trillion",
+        "zh": "兆"
+      },
+      "sentence": {
+        "ja": "日本の輸出額が10兆円に達した。",
+        "zh": "日本的出口额达到了10兆日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1269",
+      "index": 1269,
+      "word": "削減（さくげん）［する］",
+      "reading": "さくげん",
+      "meaning": {
+        "en": "reduction",
+        "zh": "削减"
+      },
+      "sentence": {
+        "ja": "政府は無駄な支出を削減しなければならない。",
+        "zh": "政府必须削减无谓的开支。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1270",
+      "index": 1270,
+      "word": "深刻な（しんこくな）",
+      "reading": "しんこくな",
+      "meaning": {
+        "en": "serious",
+        "zh": "严峻的"
+      },
+      "sentence": {
+        "ja": "少子化は深刻な問題だ。",
+        "zh": "少子化是一个很严峻的问题。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1271",
+      "index": 1271,
+      "word": "呼びかける（よびかける）",
+      "reading": "よびかける",
+      "meaning": {
+        "en": "call on",
+        "zh": "呼吁，招呼"
+      },
+      "sentence": {
+        "ja": "政府は国民に節電を呼びかけた。",
+        "zh": "政府呼吁国民省电。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1272",
+      "index": 1272,
+      "word": "世間（せけん）",
+      "reading": "せけん",
+      "meaning": {
+        "en": "society, public, people",
+        "zh": "世间，世上"
+      },
+      "sentence": {
+        "ja": "ある事件が世間の注目を集めている。",
+        "zh": "某一事件吸引了世人的关注。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1273",
+      "index": 1273,
+      "word": "驚かす（おどろかす）",
+      "reading": "おどろかす",
+      "meaning": {
+        "en": "surprise",
+        "zh": "震惊"
+      },
+      "sentence": {
+        "ja": "青色LEDの発明は世間を驚かした。",
+        "zh": "蓝色发光二极管的发明震惊了世界。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1274",
+      "index": 1274,
+      "word": "ニーズ",
+      "reading": "ニーズ",
+      "meaning": {
+        "en": "needs",
+        "zh": "需求"
+      },
+      "sentence": {
+        "ja": "企業は若者のニーズに応えて、商品を作る。",
+        "zh": "企业适应年轻人的需求制作商品。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1275",
+      "index": 1275,
+      "word": "了承（りょうしょう）［する］",
+      "reading": "りょうしょう",
+      "meaning": {
+        "en": "understanding",
+        "zh": "同意，谅解"
+      },
+      "sentence": {
+        "ja": "国は住民の了承を得ないまま、開発を進めた。",
+        "zh": "国家没有征得居民的同意就进行了开发。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1276",
+      "index": 1276,
+      "word": "個人情報（こじんじょうほう）",
+      "reading": "こじんじょうほう",
+      "meaning": {
+        "en": "private information",
+        "zh": "个人信息"
+      },
+      "sentence": {
+        "ja": "個人情報は確実に守られるべきだ。",
+        "zh": "个人信息应该得到切实的保护。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1277",
+      "index": 1277,
+      "word": "プライバシー",
+      "reading": "プライバシー",
+      "meaning": {
+        "en": "privacy",
+        "zh": "隐私"
+      },
+      "sentence": {
+        "ja": "これはプライバシーに関わることだ。",
+        "zh": "这事关系到隐私。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1278",
+      "index": 1278,
+      "word": "定着（ていちゃく）［する］",
+      "reading": "ていちゃく",
+      "meaning": {
+        "en": "settle, become common",
+        "zh": "稳定，固定"
+      },
+      "sentence": {
+        "ja": "SNSは若者の間で、すっかり定着した。",
+        "zh": "社交网络的使用在年轻人中已经很普遍了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1279",
+      "index": 1279,
+      "word": "両立（りょうりつ）［する］",
+      "reading": "りょうりつ",
+      "meaning": {
+        "en": "coexistence",
+        "zh": "两立，并存"
+      },
+      "sentence": {
+        "ja": "日本では、仕事と育児の両立は、なかなか難しい。",
+        "zh": "在日本，工作和育儿很难两立。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1280",
+      "index": 1280,
+      "word": "システム",
+      "reading": "システム",
+      "meaning": {
+        "en": "system",
+        "zh": "系统"
+      },
+      "sentence": {
+        "ja": "日本の宅配便のシステムは世界から注目されている。",
+        "zh": "日本的快递系统受到全世界的关注。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1281",
+      "index": 1281,
+      "word": "煙（けむり）",
+      "reading": "けむり",
+      "meaning": {
+        "en": "smoke",
+        "zh": "烟"
+      },
+      "sentence": {
+        "ja": "たばこの煙は周りの人に迷惑だ。",
+        "zh": "抽烟时的烟味会给周围的人造成困扰。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1282",
+      "index": 1282,
+      "word": "公（おおやけ）",
+      "reading": "おおやけ",
+      "meaning": {
+        "en": "public",
+        "zh": "公共"
+      },
+      "sentence": {
+        "ja": "大統領が公の場で世界平和について発言する。",
+        "zh": "总统在公共场合做了有关世界和平的演说。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1283",
+      "index": 1283,
+      "word": "マスコミ",
+      "reading": "マスコミ",
+      "meaning": {
+        "en": "mass media",
+        "zh": "大众传媒"
+      },
+      "sentence": {
+        "ja": "この事件は、マスコミで大きく取り上げられた。",
+        "zh": "大众传媒对这一事件进行了大幅度的报道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1284",
+      "index": 1284,
+      "word": "メディア",
+      "reading": "メディア",
+      "meaning": {
+        "en": "media",
+        "zh": "媒体"
+      },
+      "sentence": {
+        "ja": "インターネットは、新しいメディアだ。",
+        "zh": "互联网是一种新兴媒体。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1285",
+      "index": 1285,
+      "word": "取材（しゅざい）［する］",
+      "reading": "しゅざい",
+      "meaning": {
+        "en": "gathering information, news coverage",
+        "zh": "采访"
+      },
+      "sentence": {
+        "ja": "記者が首相の周辺を取材している。",
+        "zh": "记者正在对首相周围的人进行采访。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1286",
+      "index": 1286,
+      "word": "報道（ほうどう）［する］",
+      "reading": "ほうどう",
+      "meaning": {
+        "en": "coverage",
+        "zh": "报道"
+      },
+      "sentence": {
+        "ja": "テレビ局が事件を報道する。",
+        "zh": "电视台对该事件进行了报道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1287",
+      "index": 1287,
+      "word": "中継（ちゅうけい）［する］",
+      "reading": "ちゅうけい",
+      "meaning": {
+        "en": "broadcast",
+        "zh": "转播"
+      },
+      "sentence": {
+        "ja": "オリンピックの試合が現場から世界中に中継された。",
+        "zh": "奥运会比赛从现场向全世界转播。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1288",
+      "index": 1288,
+      "word": "訂正（ていせい）［する］",
+      "reading": "ていせい",
+      "meaning": {
+        "en": "correction",
+        "zh": "改正，修正"
+      },
+      "sentence": {
+        "ja": "ニュース番組でアナウンサーが間違いを訂正した。",
+        "zh": "新闻节目中，播音员修正了错误。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1289",
+      "index": 1289,
+      "word": "ただちに",
+      "reading": "ただちに",
+      "meaning": {
+        "en": "immediately",
+        "zh": "立刻"
+      },
+      "sentence": {
+        "ja": "そのニュースはただちに世界中に広まった。",
+        "zh": "那则新闻立刻传遍了全世界。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch10-l04-1290",
+      "index": 1290,
+      "word": "コマーシャル",
+      "reading": "コマーシャル",
+      "meaning": {
+        "en": "commercial",
+        "zh": "广告"
+      },
+      "sentence": {
+        "ja": "人気のある番組にはコマーシャルが多い。",
+        "zh": "受欢迎的节目有很多广告。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

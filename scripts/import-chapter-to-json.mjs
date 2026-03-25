@@ -132,8 +132,13 @@ function parseItemFormatA(lines, i) {
 
 // ── 词条格式 B：单行 ──────────────────────────────────────────────────────────
 
-function parseItemFormatB(line) {
+function parseItemFormatB(lines, i) {
+  // B1: 单行
   // N word（reading） EN：ZH 例：JA句子。 ZH翻译。
+  // B2: 两行
+  // N word（reading） EN：ZH 例：JA句子。
+  //  翻译：ZH翻译。
+  const line = lines[i] ?? ''
   const mNum = line.match(/^(\d+)\s+(.+)$/)
   if (!mNum) return null
   const index = Number(mNum[1])
@@ -144,13 +149,11 @@ function parseItemFormatB(line) {
   const defPart = rest.slice(0, exIdx)
   const exPart  = rest.slice(exIdx + ' 例：'.length).trim()
 
-  // 在释义段找 EN：ZH（全角冒号）
   const colonIdx = defPart.indexOf('：')
   if (colonIdx === -1) return null
   const beforeColon = defPart.slice(0, colonIdx)
   const zhMeaning   = defPart.slice(colonIdx + 1).trim()
 
-  // 词条和 EN 的边界：空格+ASCII字母
   const wordEnIdx = beforeColon.search(/\s+[a-zA-Z[]/)
   if (wordEnIdx === -1) return null
   const wordPart  = beforeColon.slice(0, wordEnIdx).trim()
@@ -159,16 +162,31 @@ function parseItemFormatB(line) {
   const rMatch  = wordPart.match(/（(.+?)）/)
   const reading = rMatch ? rMatch[1] : wordPart
 
-  // 日文例句和中文翻译的边界：最后一个句末标点+空格
+  // B1: 同行含中译
   const sentMatch = exPart.match(/^(.*[。！？」）])\s+(.+)$/)
-  if (!sentMatch) return null
+  if (sentMatch) {
+    return {
+      consumed: 1,
+      card: {
+        index, word: wordPart, reading,
+        meaning:  { en: enMeaning, zh: zhMeaning },
+        sentence: { ja: sentMatch[1].trim(), zh: sentMatch[2].trim() },
+      },
+    }
+  }
+
+  // B2: 下一行是翻译
+  const line1 = (lines[i + 1] ?? '').trim()
+  if (!line1) return null
+  const zhLine = line1.startsWith('翻译：') ? line1.slice('翻译：'.length).trim() : line1
+  if (!zhLine || /^\d+\s+/.test(zhLine)) return null
 
   return {
-    consumed: 1,
+    consumed: 2,
     card: {
       index, word: wordPart, reading,
       meaning:  { en: enMeaning, zh: zhMeaning },
-      sentence: { ja: sentMatch[1].trim(), zh: sentMatch[2].trim() },
+      sentence: { ja: exPart.trim(), zh: zhLine },
     },
   }
 }
@@ -262,7 +280,7 @@ function parseNextItem(lines, i) {
 
   // 格式 B：整条在一行（含 " 例："）
   if (line.includes(' 例：')) {
-    return parseItemFormatB(line)
+    return parseItemFormatB(lines, i)
   }
 
   // 格式 C/D/E：首行含全角冒号（词+释义在同一行）
@@ -292,6 +310,16 @@ function parseNextItem(lines, i) {
  * - "---" 行（≥3 连字符）作为分隔符；文件开头可以没有分隔符
  * - 课 ID 行宽松匹配：只取 ch##-l## 部分，忽略后面的 .txt/(续) 等
  */
+function normalizeLessonId(rawId) {
+  // 仅在 chapter 是 3 位数时归一化：ch010-l03 -> ch10-l03
+  // 保持 ch03-l01 / ch11-l02 原样，避免和 structure 中的两位 chapter 对不上
+  const m = rawId.match(/^ch(\d{1,3})-l(\d{2})$/)
+  if (!m) return rawId
+  if (m[1].length <= 2) return rawId
+  const chNum = Number(m[1])
+  return `ch${chNum}-l${m[2]}`
+}
+
 function splitIntoLessonBlocks(text) {
   const rawLines = text.split(/\r?\n/)
   const blocks   = []
@@ -312,11 +340,11 @@ function splitIntoLessonBlocks(text) {
 
     if (!line) continue  // 空行跳过
 
-    // 等待课 ID（宽松匹配，忽略 .txt、(续) 等后缀）
+    // 等待课 ID（宽松匹配，兼容 ch03-l01 / ch10-l03 / ch010-l03；忽略 .txt、(续) 等后缀）
     if (!current.lessonId) {
-      const idMatch = line.match(/^(ch\d{2}-l\d{2})/)
+      const idMatch = line.match(/^(ch\d{1,3}-l\d{2})/)
       if (idMatch) {
-        current.lessonId = idMatch[1]
+        current.lessonId = normalizeLessonId(idMatch[1])
       } else {
         // 不是课 ID → 当前块没有有效 ID，重置
         console.warn(`[warn] expected lessonId (e.g. ch03-l01), got: "${line}" — skipped`)

@@ -166,7 +166,7 @@
       "chapterId": "ch07",
       "titleJa": "競技",
       "titleZh": "比赛",
-      "cards": 23
+      "cards": 51
     },
     {
       "lessonId": "ch07-l02",
@@ -279,6 +279,27 @@
       "titleJa": "事故",
       "titleZh": "事故",
       "cards": 28
+    },
+    {
+      "lessonId": "ch10-l03",
+      "chapterId": "ch10",
+      "titleJa": "政治",
+      "titleZh": "政治",
+      "cards": 32
+    },
+    {
+      "lessonId": "ch10-l04",
+      "chapterId": "ch10",
+      "titleJa": "社会",
+      "titleZh": "社会",
+      "cards": 36
+    },
+    {
+      "lessonId": "ch10-l05",
+      "chapterId": "ch10",
+      "titleJa": "世界・環境",
+      "titleZh": "世界、环境",
+      "cards": 36
     },
     {
       "lessonId": "ch11-l01",
