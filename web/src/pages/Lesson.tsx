@@ -62,29 +62,31 @@ export function LessonPage() {
   return (
     <div className={`lesson-page${mode === 'list' ? ' list-mode' : ''}`}>
 
-      {/* 顶栏：返回 + 课程名一行 */}
+      {/* 顶栏：返回 + 课程名 + 下载按钮一行 */}
       <div className="lesson-topbar">
         <Link to="/" className="lesson-back-btn">←</Link>
         <span className="lesson-topbar-title">
           {meta ? friendlyLessonTitle(meta.lesson) : lessonId}
         </span>
+        {lesson && audioUrl && (
+          <button
+            className={`audio-cache-btn ${cacheState === 'cached' ? 'cached' : ''}`}
+            onClick={onPrecache}
+            disabled={downloading || !audioUrl}
+          >
+            {downloading ? '…' : cacheState === 'cached' ? '✓' : '⬇'}
+          </button>
+        )}
       </div>
 
       {error && <div className="lesson-error">⚠ {error}</div>}
 
       {lesson ? (
         <>
-          {/* 音频：播放条 + 预缓存按钮一行 */}
+          {/* 音频：播放条占满宽度 */}
           {audioUrl && (
             <div className="audio-row">
               <audio className="audio-player" controls preload="metadata" src={audioUrl} />
-              <button
-                className={`audio-cache-btn ${cacheState === 'cached' ? 'cached' : ''}`}
-                onClick={onPrecache}
-                disabled={downloading || !audioUrl}
-              >
-                {downloading ? '…' : cacheState === 'cached' ? '✓' : '⬇'}
-              </button>
             </div>
           )}
 

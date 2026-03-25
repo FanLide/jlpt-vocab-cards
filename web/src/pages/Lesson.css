@@ -46,23 +46,21 @@
   text-overflow: ellipsis;
 }
 
-/* 音频行 */
+/* 音频行：播放条占满宽度 */
 .audio-row {
   display: flex;
-  align-items: center;
-  gap: 8px;
 }
 
 .audio-player {
-  flex: 1;
-  min-width: 0;
+  width: 100%;
   height: 32px;
   border-radius: 8px;
 }
 
+/* 下载按钮在顶栏右侧 */
 .audio-cache-btn {
   flex-shrink: 0;
-  width: 36px;
+  width: 32px;
   height: 32px;
   border-radius: 8px;
   border: 1.5px solid var(--accent-border);
