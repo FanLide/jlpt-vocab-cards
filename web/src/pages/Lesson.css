@@ -7,8 +7,16 @@
   display: flex;
   flex-direction: column;
   gap: 8px;
-  height: 100svh;     /* 卡片撑满整屏 */
-  overflow: hidden;   /* 防止溢出滚动 */
+  height: 100svh;
+  /* 卡片模式不滚动，列表模式允许滚动 */
+  overflow: hidden;
+}
+
+/* 列表模式时允许滚动 */
+.lesson-page.list-mode {
+  overflow-y: auto;
+  height: auto;
+  min-height: 100svh;
 }
 
 /* 顶栏：返回 + 课程名一行 */

@@ -90,7 +90,32 @@
   touch-action: pan-y;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
+  /* 负 margin 抵消 lesson-page 的 padding，让卡片贴边 */
+  margin-left: -12px;
+  margin-right: -12px;
 }
+
+/* 滑动动画容器 */
+.deck-slide {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+
+@keyframes slideInFromLeft {
+  from { transform: translateX(-60px); opacity: 0; }
+  to   { transform: translateX(0);     opacity: 1; }
+}
+@keyframes slideInFromRight {
+  from { transform: translateX(60px);  opacity: 0; }
+  to   { transform: translateX(0);     opacity: 1; }
+}
+
+.deck-slide-left  { animation: slideInFromLeft  0.22s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
+.deck-slide-right { animation: slideInFromRight 0.22s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
+.deck-slide-none  { /* no animation on first render */ }
 
 /* 底部导航 */
 .deck-nav {

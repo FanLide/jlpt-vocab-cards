@@ -1,0 +1,103 @@
+.card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-bottom: env(safe-area-inset-bottom, 16px);
+}
+
+.card-list-search-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-list-search {
+  flex: 1;
+  padding: 9px 12px;
+  border-radius: 10px;
+  border: 1.5px solid var(--border);
+  background: var(--code-bg);
+  color: var(--text-h);
+  font-size: 14px;
+  transition: border-color 0.2s;
+}
+.card-list-search:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.card-list-count {
+  font-size: 12px;
+  opacity: 0.45;
+  white-space: nowrap;
+}
+
+.card-list-items {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.card-list-item {
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background 0.12s;
+  -webkit-tap-highlight-color: transparent;
+}
+.card-list-item.last {
+  border-bottom: none;
+}
+.card-list-item:active,
+.card-list-item:hover {
+  background: var(--accent-bg);
+}
+
+.card-list-index {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-bg);
+  border-radius: 5px;
+  padding: 2px 6px;
+  flex-shrink: 0;
+}
+
+.card-list-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.card-list-reading {
+  font-size: 15px;
+  color: var(--text-h);
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-list-zh {
+  font-size: 12px;
+  opacity: 0.6;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-list-word {
+  font-size: 14px;
+  color: var(--text);
+  opacity: 0.7;
+  flex-shrink: 0;
+}

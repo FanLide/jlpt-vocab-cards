@@ -58,7 +58,7 @@ export function LessonPage() {
   }
 
   return (
-    <div className="lesson-page">
+    <div className={`lesson-page${mode === 'list' ? ' list-mode' : ''}`}>
 
       {/* 顶栏：返回 + 课程名一行 */}
       <div className="lesson-topbar">

@@ -1,4 +1,5 @@
 import { useCallback, useRef, useState } from 'react'
+
 import type { Card } from '../lib/lesson'
 import { VocabCard } from './VocabCard'
 import { Toast } from './Toast'
@@ -49,19 +50,38 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
     start.current = { x: e.clientX, y: e.clientY, t: Date.now() }
   }
   const onPointerCancel = () => { start.current = null }
-  const onPointerUp = (e: React.PointerEvent) => {
+
+
+  const minIndex = cards[0]?.index
+  const maxIndex = cards[cards.length - 1]?.index
+  const clearToast = useCallback(() => setToast(null), [])
+
+  // slide direction for animation
+  const [slideDir, setSlideDir] = useState<'left' | 'right' | null>(null)
+  const [animKey, setAnimKey] = useState(0)
+
+  const prevWithAnim = useCallback(() => {
+    setSlideDir('right')
+    setAnimKey(k => k + 1)
+    prev()
+  }, [prev])
+
+  const nextWithAnim = useCallback(() => {
+    setSlideDir('left')
+    setAnimKey(k => k + 1)
+    next()
+  }, [next])
+
+  // override swipe to use animated versions
+  const onPointerUpAnimated = (e: React.PointerEvent) => {
     if (!start.current) return
     const dx = e.clientX - start.current.x
     const dy = e.clientY - start.current.y
     const dt = Date.now() - start.current.t
     start.current = null
     if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.2 || dt > 800) return
-    if (dx < 0) next(); else prev()
+    if (dx < 0) nextWithAnim(); else prevWithAnim()
   }
-
-  const minIndex = cards[0]?.index
-  const maxIndex = cards[cards.length - 1]?.index
-  const clearToast = useCallback(() => setToast(null), [])
 
   if (!current) return <div className="deck-empty">本课暂无卡片</div>
 
@@ -95,17 +115,22 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
       <div
         className="deck-card-area"
         onPointerDown={onPointerDown}
-        onPointerUp={onPointerUp}
+        onPointerUp={onPointerUpAnimated}
         onPointerCancel={onPointerCancel}
       >
-        <VocabCard key={current.id} card={current} />
+        <div
+          key={animKey}
+          className={`deck-slide deck-slide-${slideDir ?? 'none'}`}
+        >
+          <VocabCard key={current.id} card={current} />
+        </div>
       </div>
 
       {/* 底部左右按钮 */}
       <div className="deck-nav">
-        <button className="deck-btn" onClick={prev} disabled={!canPrev}>← 上一张</button>
+        <button className="deck-btn" onClick={prevWithAnim} disabled={!canPrev}>← 上一张</button>
         <span className="deck-hint">左右滑动</span>
-        <button className="deck-btn" onClick={next} disabled={!canNext}>下一张 →</button>
+        <button className="deck-btn" onClick={nextWithAnim} disabled={!canNext}>下一张 →</button>
       </div>
 
       <Toast message={toast} onClose={clearToast} />
