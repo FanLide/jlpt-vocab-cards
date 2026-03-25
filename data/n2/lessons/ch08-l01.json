@@ -1,0 +1,535 @@
+{
+  "id": "ch08-l01",
+  "chapterId": "ch08",
+  "titleJa": "気候と天気",
+  "titleZh": "气候与天气",
+  "rangeNote": "912～940",
+  "audio": {
+    "track": "Track036",
+    "file": "resources/audio/extracted/万词对策N2/Track036.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch08-l01-912",
+      "index": 912,
+      "word": "気候（きこう）",
+      "reading": "きこう",
+      "meaning": {
+        "en": "climate",
+        "zh": "气候"
+      },
+      "sentence": {
+        "ja": "この辺りは一年中温暖な気候だ。",
+        "zh": "这一带全年气候温暖。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-913",
+      "index": 913,
+      "word": "シーズン",
+      "reading": "シーズン",
+      "meaning": {
+        "en": "season",
+        "zh": "季节"
+      },
+      "sentence": {
+        "ja": "一番いいシーズンを選んで、旅行に行く。",
+        "zh": "选择最好的季节去旅游。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-914",
+      "index": 914,
+      "word": "四季（しき）",
+      "reading": "しき",
+      "meaning": {
+        "en": "four seasons",
+        "zh": "四季"
+      },
+      "sentence": {
+        "ja": "日本には、春、夏、秋、冬の四季がある。",
+        "zh": "日本有春、夏、秋、冬四个季节。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-915",
+      "index": 915,
+      "word": "ふくらむ",
+      "reading": "ふくらむ",
+      "meaning": {
+        "en": "budding, swell",
+        "zh": "鼓起；膨胀"
+      },
+      "sentence": {
+        "ja": "①桜のつぼみがふくらみ始めた。②入学が決まり、期待に胸がふくらむ。",
+        "zh": "①樱花的花蕾开始鼓起来了。②决定入学后，我满怀期待。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-916",
+      "index": 916,
+      "word": "梅雨（つゆ）",
+      "reading": "つゆ",
+      "meaning": {
+        "en": "rainy season",
+        "zh": "梅雨"
+      },
+      "sentence": {
+        "ja": "春が終わり、もうすぐ梅雨が始まる。",
+        "zh": "春天结束了，马上要到梅雨季节了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-917",
+      "index": 917,
+      "word": "初夏（しょか）",
+      "reading": "しょか",
+      "meaning": {
+        "en": "early summer",
+        "zh": "初夏"
+      },
+      "sentence": {
+        "ja": "真夏ではなく、初夏が好きだ。",
+        "zh": "我喜欢初夏而不是盛夏。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-918",
+      "index": 918,
+      "word": "温帯（おんたい）",
+      "reading": "おんたい",
+      "meaning": {
+        "en": "temperate zone",
+        "zh": "温带"
+      },
+      "sentence": {
+        "ja": "温帯では4つの季節がある。",
+        "zh": "温带有4个季节。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-919",
+      "index": 919,
+      "word": "属する（ぞくする）",
+      "reading": "ぞくする",
+      "meaning": {
+        "en": "belong to",
+        "zh": "属于"
+      },
+      "sentence": {
+        "ja": "日本は温帯に属するが、亜熱帯化してきた。",
+        "zh": "日本属于温带，但是逐渐亚热带化了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-920",
+      "index": 920,
+      "word": "確率（かくりつ）",
+      "reading": "かくりつ",
+      "meaning": {
+        "en": "probability",
+        "zh": "概率"
+      },
+      "sentence": {
+        "ja": "明日の降水確率は100パーセントだ。",
+        "zh": "明天的降水概率是100%。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-921",
+      "index": 921,
+      "word": "夕立（ゆうだち）",
+      "reading": "ゆうだち",
+      "meaning": {
+        "en": "evening shower",
+        "zh": "骤雨，傍晚的雷阵雨"
+      },
+      "sentence": {
+        "ja": "夕立が降る前に家に帰ろう。",
+        "zh": "在下阵雨前回家吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-922",
+      "index": 922,
+      "word": "にわかな",
+      "reading": "にわかな",
+      "meaning": {
+        "en": "before we know it",
+        "zh": "突然"
+      },
+      "sentence": {
+        "ja": "空がにわかに暗くなってきた。",
+        "zh": "天空突然暗了下来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-923",
+      "index": 923,
+      "word": "覆う（おおう）",
+      "reading": "おおう",
+      "meaning": {
+        "en": "cover",
+        "zh": "覆盖，遮盖"
+      },
+      "sentence": {
+        "ja": "空が黒い雲に覆われている。",
+        "zh": "天空乌云密布。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-924",
+      "index": 924,
+      "word": "びしょびしょな",
+      "reading": "びしょびしょな",
+      "meaning": {
+        "en": "soaked",
+        "zh": "湿透"
+      },
+      "sentence": {
+        "ja": "突然雨に降られて、びしょびしょになった。",
+        "zh": "突然下起雨，我被淋得湿透了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-925",
+      "index": 925,
+      "word": "あいにく",
+      "reading": "あいにく",
+      "meaning": {
+        "en": "I'm afraid, unfortunately",
+        "zh": "偏巧，不凑巧"
+      },
+      "sentence": {
+        "ja": "今日はあいにくなお天気ですね。",
+        "zh": "偏巧今天天气不好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-926",
+      "index": 926,
+      "word": "吹雪（ふぶき）",
+      "reading": "ふぶき",
+      "meaning": {
+        "en": "blizzard",
+        "zh": "暴风雪"
+      },
+      "sentence": {
+        "ja": "明日は吹雪になりそうだ。",
+        "zh": "明天好像有暴风雪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-927",
+      "index": 927,
+      "word": "凍える（こごえる）",
+      "reading": "こごえる",
+      "meaning": {
+        "en": "freeze",
+        "zh": "冻僵"
+      },
+      "sentence": {
+        "ja": "北国の冬は凍えるような寒さだ。",
+        "zh": "北国的冬天冷得快把人冻僵了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-928",
+      "index": 928,
+      "word": "冷え込む（ひえこむ）",
+      "reading": "ひえこむ",
+      "meaning": {
+        "en": "get colder",
+        "zh": "骤冷"
+      },
+      "sentence": {
+        "ja": "今朝は、とても冷え込んでいた。",
+        "zh": "今天早上天气骤冷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-929",
+      "index": 929,
+      "word": "陽気（ようき）",
+      "reading": "ようき",
+      "meaning": {
+        "en": "good weather, cheerful",
+        "zh": "天气好；活力，阳光"
+      },
+      "sentence": {
+        "ja": "①今日は陽気がいい。②彼は本当に陽気な人だ。",
+        "zh": "①今天阳光灿烂。②他性格真的很阳光。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-930",
+      "index": 930,
+      "word": "日和（ひより）",
+      "reading": "ひより",
+      "meaning": {
+        "en": "weather condition",
+        "zh": "天气；晴天"
+      },
+      "sentence": {
+        "ja": "今日は洗濯日和になりそうだ。",
+        "zh": "今天应该是洗衣服的好天气。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-931",
+      "index": 931,
+      "word": "日差し（ひざし）",
+      "reading": "ひざし",
+      "meaning": {
+        "en": "sunlight",
+        "zh": "阳光"
+      },
+      "sentence": {
+        "ja": "今日は日差しが強いので、傘をさして出かける。",
+        "zh": "今天阳光很强，所以要打伞出去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-932",
+      "index": 932,
+      "word": "いっそう",
+      "reading": "いっそう",
+      "meaning": {
+        "en": "yet",
+        "zh": "更，越发"
+      },
+      "sentence": {
+        "ja": "雨はいっそう強くなった。",
+        "zh": "雨下得更大了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-933",
+      "index": 933,
+      "word": "一段と（いちだんと）",
+      "reading": "いちだんと",
+      "meaning": {
+        "en": "further",
+        "zh": "越发"
+      },
+      "sentence": {
+        "ja": "暑さが一段と厳しくなってきた。",
+        "zh": "天气越发炎热起来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-934",
+      "index": 934,
+      "word": "急速な（きゅうそくな）",
+      "reading": "きゅうそくな",
+      "meaning": {
+        "en": "suddenly",
+        "zh": "骤然"
+      },
+      "sentence": {
+        "ja": "今日は明け方、急速に冷え込んだ。",
+        "zh": "今天一早骤然降温。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-935",
+      "index": 935,
+      "word": "ぐんぐん",
+      "reading": "ぐんぐん",
+      "meaning": {
+        "en": "suddenly, steadily",
+        "zh": "猛烈地；稳步地"
+      },
+      "sentence": {
+        "ja": "朝からぐんぐん気温が上がっている。",
+        "zh": "一早开始，气温不断升高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-936",
+      "index": 936,
+      "word": "いくぶん",
+      "reading": "いくぶん",
+      "meaning": {
+        "en": "somewhat",
+        "zh": "稍微，几分"
+      },
+      "sentence": {
+        "ja": "雨はいくぶん弱くなった。",
+        "zh": "雨小了一些。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-937",
+      "index": 937,
+      "word": "めっきり",
+      "reading": "めっきり",
+      "meaning": {
+        "en": "remarkably",
+        "zh": "显著"
+      },
+      "sentence": {
+        "ja": "年末が近くなり、めっきり寒くなった。",
+        "zh": "临近年末，天气明显变冷了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-938",
+      "index": 938,
+      "word": "あまりに",
+      "reading": "あまりに",
+      "meaning": {
+        "en": "too much, so much",
+        "zh": "过于"
+      },
+      "sentence": {
+        "ja": "今年の夏はあまりにも暑い。",
+        "zh": "今年夏天太热了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-939",
+      "index": 939,
+      "word": "差（さ）",
+      "reading": "さ",
+      "meaning": {
+        "en": "difference",
+        "zh": "差别"
+      },
+      "sentence": {
+        "ja": "今週は昼間と夜の気温に差がある。",
+        "zh": "本周昼夜有温差。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch08-l01-940",
+      "index": 940,
+      "word": "本来（ほんらい）",
+      "reading": "ほんらい",
+      "meaning": {
+        "en": "in and of itself, originally",
+        "zh": "本来，原来"
+      },
+      "sentence": {
+        "ja": "この地域は本来、雪は降らない。",
+        "zh": "这个地区原来不下雪的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

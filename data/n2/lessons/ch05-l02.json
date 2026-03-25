@@ -1,0 +1,535 @@
+{
+  "id": "ch05-l02",
+  "chapterId": "ch05",
+  "titleJa": "勉強",
+  "titleZh": "学习",
+  "rangeNote": "524～552",
+  "audio": {
+    "track": "Track022",
+    "file": "resources/audio/extracted/万词对策N2/Track022.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch05-l02-524",
+      "index": 524,
+      "word": "学ぶ（まなぶ）",
+      "reading": "まなぶ",
+      "meaning": {
+        "en": "learn",
+        "zh": "学"
+      },
+      "sentence": {
+        "ja": "日本で日本語と文化を学びたい。",
+        "zh": "我想在日本学习日语和（日本）文化。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-525",
+      "index": 525,
+      "word": "学習（がくしゅう）［する］",
+      "reading": "がくしゅう",
+      "meaning": {
+        "en": "learning",
+        "zh": "学习"
+      },
+      "sentence": {
+        "ja": "一日の学習時間は8時間くらいだ。",
+        "zh": "我一天的学习时间大概是8小时。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-526",
+      "index": 526,
+      "word": "学力（がくりょく）",
+      "reading": "がくりょく",
+      "meaning": {
+        "en": "academic ability",
+        "zh": "学习能力"
+      },
+      "sentence": {
+        "ja": "大学に進学できる学力をつけたい。",
+        "zh": "我想具备能考上大学的学习能力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-527",
+      "index": 527,
+      "word": "教養（きょうよう）",
+      "reading": "きょうよう",
+      "meaning": {
+        "en": "education",
+        "zh": "教养"
+      },
+      "sentence": {
+        "ja": "人には教養が必要だ。",
+        "zh": "人要有教养。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-528",
+      "index": 528,
+      "word": "参考書（さんこうしょ）",
+      "reading": "さんこうしょ",
+      "meaning": {
+        "en": "reference book",
+        "zh": "参考书"
+      },
+      "sentence": {
+        "ja": "どの参考書がいいか、先生に教えていただいた。",
+        "zh": "我向老师请教了哪本参考书好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-529",
+      "index": 529,
+      "word": "書き込む（かきこむ）",
+      "reading": "かきこむ",
+      "meaning": {
+        "en": "write down",
+        "zh": "写上，填写"
+      },
+      "sentence": {
+        "ja": "教科書に授業のメモを書き込む。",
+        "zh": "在教科书上写课堂笔记。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-530",
+      "index": 530,
+      "word": "書き取る（かきとる）",
+      "reading": "かきとる",
+      "meaning": {
+        "en": "transcribe",
+        "zh": "记录"
+      },
+      "sentence": {
+        "ja": "会話問題を聞いて書き取る。",
+        "zh": "听对话问题并记录下来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-531",
+      "index": 531,
+      "word": "記号（きごう）",
+      "reading": "きごう",
+      "meaning": {
+        "en": "symbol",
+        "zh": "符号"
+      },
+      "sentence": {
+        "ja": "記号の「※」は「こめじるし」と読む。",
+        "zh": "符号“※”读作“こめじるし”。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-532",
+      "index": 532,
+      "word": "図（ず）",
+      "reading": "ず",
+      "meaning": {
+        "en": "diagram",
+        "zh": "图，图表"
+      },
+      "sentence": {
+        "ja": "遠藤先生は絵と図で、わかりやすく説明する。",
+        "zh": "远藤老师用画和图表简单易懂地进行说明。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-533",
+      "index": 533,
+      "word": "下線（かせん）",
+      "reading": "かせん",
+      "meaning": {
+        "en": "underline",
+        "zh": "下划线"
+      },
+      "sentence": {
+        "ja": "教科書のキーワードに下線を引く。",
+        "zh": "在教科书上的关键词下面画线。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-534",
+      "index": 534,
+      "word": "法則（ほうそく）",
+      "reading": "ほうそく",
+      "meaning": {
+        "en": "law, rule",
+        "zh": "法则，定律"
+      },
+      "sentence": {
+        "ja": "インターネットで引力の法則について調べる。",
+        "zh": "在网上查（万有）引力定律。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-535",
+      "index": 535,
+      "word": "志す（こころざす）",
+      "reading": "こころざす",
+      "meaning": {
+        "en": "aspire",
+        "zh": "立志于"
+      },
+      "sentence": {
+        "ja": "学者を志して、努力を続ける。",
+        "zh": "我立志成为学者，并为此不断努力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-536",
+      "index": 536,
+      "word": "徹夜（てつや）［する］",
+      "reading": "てつや",
+      "meaning": {
+        "en": "all night",
+        "zh": "熬夜"
+      },
+      "sentence": {
+        "ja": "昨日徹夜したので、今日はとても眠い。",
+        "zh": "我昨天熬夜了，所以今天非常困。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-537",
+      "index": 537,
+      "word": "上達（じょうたつ）［する］",
+      "reading": "じょうたつ",
+      "meaning": {
+        "en": "improvement",
+        "zh": "提高"
+      },
+      "sentence": {
+        "ja": "半年で会話力が、かなり上達した。",
+        "zh": "半年时间里，对话能力有了很大的提高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-538",
+      "index": 538,
+      "word": "こつこつ［と］",
+      "reading": "こつこつ［と］",
+      "meaning": {
+        "en": "diligently",
+        "zh": "刻苦，孜孜不倦；作响"
+      },
+      "sentence": {
+        "ja": "①毎日こつこつと勉強を続けている。②靴の音がこつこつと響く。",
+        "zh": "①我每天刻苦学习。②皮鞋声橐橐作响。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-539",
+      "index": 539,
+      "word": "地道（じみち）な",
+      "reading": "じみち",
+      "meaning": {
+        "en": "steady, honest",
+        "zh": "踏实"
+      },
+      "sentence": {
+        "ja": "毎日、地道に日本語を勉強している。",
+        "zh": "我每天踏踏实实地学日语。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-540",
+      "index": 540,
+      "word": "根気（こんき）",
+      "reading": "こんき",
+      "meaning": {
+        "en": "patience",
+        "zh": "毅力，耐心"
+      },
+      "sentence": {
+        "ja": "単語は根気よく覚えよう。",
+        "zh": "要耐心地背单词。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-541",
+      "index": 541,
+      "word": "効率的（こうりつてき）な",
+      "reading": "こうりつてき",
+      "meaning": {
+        "en": "effective",
+        "zh": "高效的"
+      },
+      "sentence": {
+        "ja": "時間を上手く使って、効率的に勉強する。",
+        "zh": "擅用时间，高效学习。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-542",
+      "index": 542,
+      "word": "旺盛（おうせい）な",
+      "reading": "おうせい",
+      "meaning": {
+        "en": "heartily",
+        "zh": "旺盛"
+      },
+      "sentence": {
+        "ja": "好奇心旺盛に新しいことを学ぶ。",
+        "zh": "我怀着很强的好奇心学习新的东西。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-543",
+      "index": 543,
+      "word": "基礎（きそ）",
+      "reading": "きそ",
+      "meaning": {
+        "en": "basics",
+        "zh": "基础"
+      },
+      "sentence": {
+        "ja": "日本語の基礎を、しっかり学びたい。",
+        "zh": "我想扎扎实实地打好日语基础。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-544",
+      "index": 544,
+      "word": "基本（きほん）",
+      "reading": "きほん",
+      "meaning": {
+        "en": "fundamentals",
+        "zh": "基本"
+      },
+      "sentence": {
+        "ja": "文法の基本を学んでから、会話を勉強する。",
+        "zh": "学完语法的基本知识以后，学习对话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-545",
+      "index": 545,
+      "word": "除く（のぞく）",
+      "reading": "のぞく",
+      "meaning": {
+        "en": "aside from, excluding",
+        "zh": "除去，去掉"
+      },
+      "sentence": {
+        "ja": "漢字を除けば、日本語の勉強は特に難しくない。",
+        "zh": "除去汉字的话，学日语不是特别难。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-546",
+      "index": 546,
+      "word": "現状（げんじょう）",
+      "reading": "げんじょう",
+      "meaning": {
+        "en": "current situation",
+        "zh": "现状"
+      },
+      "sentence": {
+        "ja": "先生に、現状では希望の大学は難しいと言われた。",
+        "zh": "老师说按现状来看，我很难考上想读的大学。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-547",
+      "index": 547,
+      "word": "おろそか［な］",
+      "reading": "おろそか［な］",
+      "meaning": {
+        "en": "neglecting",
+        "zh": "马虎，草率"
+      },
+      "sentence": {
+        "ja": "学生は勉強をおろそかにしてはいけない。",
+        "zh": "学生不能马马虎虎地学习。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-548",
+      "index": 548,
+      "word": "可能（かのう）な",
+      "reading": "かのう",
+      "meaning": {
+        "en": "possibility, possible",
+        "zh": "可能"
+      },
+      "sentence": {
+        "ja": "努力すれば、不可能が可能になる。",
+        "zh": "只要努力，不可能就会变成可能。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-549",
+      "index": 549,
+      "word": "実現（じつげん）［する］",
+      "reading": "じつげん",
+      "meaning": {
+        "en": "realization",
+        "zh": "实现"
+      },
+      "sentence": {
+        "ja": "夢を実現するためには努力が必要だ。",
+        "zh": "要实现梦想就必须努力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-550",
+      "index": 550,
+      "word": "混同（こんどう）［する］",
+      "reading": "こんどう",
+      "meaning": {
+        "en": "confusion",
+        "zh": "混为一谈，混淆"
+      },
+      "sentence": {
+        "ja": "似ている副詞は混同しやすい。",
+        "zh": "相似的副词容易混淆。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-551",
+      "index": 551,
+      "word": "複数（ふくすう）",
+      "reading": "ふくすう",
+      "meaning": {
+        "en": "several",
+        "zh": "复数，好几个"
+      },
+      "sentence": {
+        "ja": "日本語の名詞には単数形も複数形もない。",
+        "zh": "日语的名词没有单数形式和复数形式。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch05-l02-552",
+      "index": 552,
+      "word": "活用（かつよう）［する］",
+      "reading": "かつよう",
+      "meaning": {
+        "en": "take advantage of",
+        "zh": "活用，有效利用"
+      },
+      "sentence": {
+        "ja": "言葉を調べるときは、スマホを活用している。",
+        "zh": "查单词的时候，我会有效利用智能手机。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

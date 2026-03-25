@@ -1,0 +1,247 @@
+{
+  "id": "ch09-l04",
+  "chapterId": "ch09",
+  "titleJa": "病気と治療",
+  "titleZh": "疾病与治疗",
+  "rangeNote": "1114～1140",
+  "audio": {
+    "track": "Track044",
+    "file": "resources/audio/extracted/万词对策N2/Track044.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l04-1114",
+      "index": 1114,
+      "word": "病む（やむ）",
+      "reading": "やむ",
+      "meaning": {
+        "en": "fall ill",
+        "zh": "得病；忧伤"
+      },
+      "sentence": {
+        "ja": "現代は心を病んでいる人が少なくない。",
+        "zh": "现代社会不少人得心理疾病。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1115",
+      "index": 1115,
+      "word": "負傷（ふしょう）［する］",
+      "reading": "ふしょう",
+      "meaning": {
+        "en": "injury",
+        "zh": "受伤"
+      },
+      "sentence": {
+        "ja": "事故で負傷し、救急車で運ばれた。",
+        "zh": "他在事故中受伤，被救护车送走了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1116",
+      "index": 1116,
+      "word": "重体（じゅうたい）",
+      "reading": "じゅうたい",
+      "meaning": {
+        "en": "serious condition",
+        "zh": "病危"
+      },
+      "sentence": {
+        "ja": "車にひかれた人が重体になっている。",
+        "zh": "被车轧到的人病危了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1117",
+      "index": 1117,
+      "word": "熱中症（ねっちゅう症）",
+      "reading": "ねっちゅう症",
+      "meaning": {
+        "en": "heat stroke",
+        "zh": "中暑"
+      },
+      "sentence": {
+        "ja": "この季節は熱中症に気をつけなければいけない。",
+        "zh": "这个季节要小心中暑。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1118",
+      "index": 1118,
+      "word": "細菌（さいきん）",
+      "reading": "さいきん",
+      "meaning": {
+        "en": "bacteria",
+        "zh": "细菌"
+      },
+      "sentence": {
+        "ja": "傷口から細菌が入ったようだ。",
+        "zh": "好像有细菌进入伤口了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1119",
+      "index": 1119,
+      "word": "つまずく",
+      "reading": "つまずく",
+      "meaning": {
+        "en": "trip, setback",
+        "zh": "绊，绊倒；受挫"
+      },
+      "sentence": {
+        "ja": "①つまずいて转んでしまい、足を骨折した。②それは人生で初めてつまずいた出来事だった。",
+        "zh": "①绊了一下跌倒后，腿骨折了。②那是我人生中第一次受挫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1120",
+      "index": 1120,
+      "word": "医療（いりょう）",
+      "reading": "いりょう",
+      "meaning": {
+        "en": "healthcare",
+        "zh": "医疗"
+      },
+      "sentence": {
+        "ja": "日本の医療は、かなり進んでいる。",
+        "zh": "日本的医疗技术非常先进。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1133",
+      "index": 1133,
+      "word": "もむ",
+      "reading": "もむ",
+      "meaning": {
+        "en": "massage",
+        "zh": "按摩，揉"
+      },
+      "sentence": {
+        "ja": "肩が凝ったので、友達にもんでもらった。",
+        "zh": "我肩膀酸痛，所以让朋友帮我按摩了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1134",
+      "index": 1134,
+      "word": "告げる（つげる）",
+      "reading": "つげる",
+      "meaning": {
+        "en": "tell",
+        "zh": "告知"
+      },
+      "sentence": {
+        "ja": "医師に病名を告げられ、ショックだった。",
+        "zh": "医生告知病名之后，我受到了打击。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1135",
+      "index": 1135,
+      "word": "覚悟（かくご）［する］",
+      "reading": "かくご",
+      "meaning": {
+        "en": "preparation",
+        "zh": "觉悟"
+      },
+      "sentence": {
+        "ja": "医者と話し、最悪の場合を覚悟した。",
+        "zh": "我和医生谈话，做好了最坏的打算。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1136",
+      "index": 1136,
+      "word": "看病（かんびょう）［する］",
+      "reading": "かんびょう",
+      "meaning": {
+        "en": "nursing",
+        "zh": "照看，护理"
+      },
+      "sentence": {
+        "ja": "かぜをひいて、彼女に看病してもらった。",
+        "zh": "感冒时，女朋友照顾我了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1137",
+      "index": 1137,
+      "word": "配慮（はいりょ）［する］",
+      "reading": "はいりょ",
+      "meaning": {
+        "en": "consideration",
+        "zh": "关怀，照料"
+      },
+      "sentence": {
+        "ja": "あの医師は患者への配慮が不足している。",
+        "zh": "那个医生对病人不够关怀。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l04-1138",
+      "index": 1138,
+      "word": "遺伝（いでん）［する］",
+      "reading": "いでん",
+      "meaning": {
+        "en": "hereditary",
+        "zh": "遗传"
+      },
+      "sentence": {
+        "ja": "この病気は遺伝するらしい。",
+        "zh": "这种病好像会遗传。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

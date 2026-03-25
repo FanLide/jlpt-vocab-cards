@@ -1,0 +1,391 @@
+{
+  "id": "ch09-l01",
+  "chapterId": "ch09",
+  "titleJa": "体と健康",
+  "titleZh": "身体与健康",
+  "rangeNote": "1048～1068",
+  "audio": {
+    "track": "Track041",
+    "file": "resources/audio/extracted/万词对策N2/Track041.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l01-1048",
+      "index": 1048,
+      "word": "測定（そくてい）",
+      "reading": "そくてい",
+      "meaning": {
+        "en": "measurement",
+        "zh": "測定，测量"
+      },
+      "sentence": {
+        "ja": "学校で身長と体重を測定した。",
+        "zh": "我在学校测量了身高和体重。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1049",
+      "index": 1049,
+      "word": "定期的な（ていきてきな）",
+      "reading": "ていきてきな",
+      "meaning": {
+        "en": "periodic",
+        "zh": "定期"
+      },
+      "sentence": {
+        "ja": "定期的に健康診断を受けている。",
+        "zh": "我定期接受健康检查。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1050",
+      "index": 1050,
+      "word": "血圧（けつあつ）",
+      "reading": "けつあつ",
+      "meaning": {
+        "en": "blood pressure",
+        "zh": "血压"
+      },
+      "sentence": {
+        "ja": "最近、血圧が高い。",
+        "zh": "我最近血压高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1051",
+      "index": 1051,
+      "word": "体力（たいりょく）",
+      "reading": "たいりょく",
+      "meaning": {
+        "en": "physical strength",
+        "zh": "体力"
+      },
+      "sentence": {
+        "ja": "体力も気力も問題ない。",
+        "zh": "体力和精力都没问题。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1052",
+      "index": 1052,
+      "word": "心身（しんしん）",
+      "reading": "しんしん",
+      "meaning": {
+        "en": "body and soul",
+        "zh": "身心"
+      },
+      "sentence": {
+        "ja": "健康のためには心身のバランスが大切だ。",
+        "zh": "为了健康，保持身心平衡很重要。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1053",
+      "index": 1053,
+      "word": "健やかな（すこやかな）",
+      "reading": "すこやかな",
+      "meaning": {
+        "en": "healthy",
+        "zh": "健康的"
+      },
+      "sentence": {
+        "ja": "子ども達はみんな、健やかに成長した。",
+        "zh": "孩子们都健康地长大了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1054",
+      "index": 1054,
+      "word": "かたよる",
+      "reading": "かたよる",
+      "meaning": {
+        "en": "unbalance",
+        "zh": "不均衡，失衡"
+      },
+      "sentence": {
+        "ja": "最近、栄養がかたよっている。",
+        "zh": "我最近营养不均衡。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1055",
+      "index": 1055,
+      "word": "小柄な（こがらな）",
+      "reading": "こがらな",
+      "meaning": {
+        "en": "small built",
+        "zh": "矮小的"
+      },
+      "sentence": {
+        "ja": "彼女は、どちらかと言うと小柄な方だ。",
+        "zh": "她算体形小的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1056",
+      "index": 1056,
+      "word": "寿命（じゅみょう）",
+      "reading": "じゅみょう",
+      "meaning": {
+        "en": "duration of life",
+        "zh": "寿命"
+      },
+      "sentence": {
+        "ja": "日本人女性は世界一寿命が長い。",
+        "zh": "日本女性的寿命是世界上最长的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1057",
+      "index": 1057,
+      "word": "一般に（いっぱんに）",
+      "reading": "いっぱんに",
+      "meaning": {
+        "en": "generally",
+        "zh": "一般，通常"
+      },
+      "sentence": {
+        "ja": "一般に、男性より女性の方が寿命が長い。",
+        "zh": "一般来说，和男性相比，女性的寿命更长。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1058",
+      "index": 1058,
+      "word": "手首（てくび）",
+      "reading": "てくび",
+      "meaning": {
+        "en": "wrist",
+        "zh": "手腕"
+      },
+      "sentence": {
+        "ja": "毎日、手首で血圧を測っている。",
+        "zh": "我每天通过手腕测量血压。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1059",
+      "index": 1059,
+      "word": "かかと",
+      "reading": "かかと",
+      "meaning": {
+        "en": "heel",
+        "zh": "脚后跟"
+      },
+      "sentence": {
+        "ja": "歩きすぎて、かかとが痛い。",
+        "zh": "走路走太多了，脚后跟疼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1060",
+      "index": 1060,
+      "word": "つま先（つまさき）",
+      "reading": "つまさき",
+      "meaning": {
+        "en": "toe",
+        "zh": "脚尖，指尖"
+      },
+      "sentence": {
+        "ja": "靴を脱いで、つま先を伸ばす。",
+        "zh": "脱下鞋子，伸一伸脚趾头。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1061",
+      "index": 1061,
+      "word": "血管（けっかん）",
+      "reading": "けっかん",
+      "meaning": {
+        "en": "blood vessel",
+        "zh": "血管"
+      },
+      "sentence": {
+        "ja": "年とともに血管が弱くなる。",
+        "zh": "随着年龄的增长，血管功能会变弱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1062",
+      "index": 1062,
+      "word": "さらさら［な／する］",
+      "reading": "さらさら［な／する］",
+      "meaning": {
+        "en": "smooth, smoothly",
+        "zh": "干燥清爽感；顺畅地"
+      },
+      "sentence": {
+        "ja": "たまねぎを食べると、血液がさらさらになるらしい。",
+        "zh": "听说吃洋葱能使血液循环变得通畅。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1063",
+      "index": 1063,
+      "word": "筋肉（きんにく）",
+      "reading": "きんにく",
+      "meaning": {
+        "en": "muscle",
+        "zh": "肌肉"
+      },
+      "sentence": {
+        "ja": "毎日、筋肉をトレーニングしている。",
+        "zh": "我每天锻炼肌肉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1064",
+      "index": 1064,
+      "word": "障がい（しょうがい）",
+      "reading": "しょうがい",
+      "meaning": {
+        "en": "disability, obstacle",
+        "zh": "毛病，残疾；障碍"
+      },
+      "sentence": {
+        "ja": "耳に軽い障がいを持っている。",
+        "zh": "我的耳朵有点小毛病。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1065",
+      "index": 1065,
+      "word": "乗り越える（のりこえる）",
+      "reading": "のりこえる",
+      "meaning": {
+        "en": "overcome",
+        "zh": "克服，战胜"
+      },
+      "sentence": {
+        "ja": "人より努力して、障がいを乗り越えた。",
+        "zh": "我比别人更加努力，克服了障碍。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1066",
+      "index": 1066,
+      "word": "傷跡（きずあと）",
+      "reading": "きずあと",
+      "meaning": {
+        "en": "scar",
+        "zh": "伤疤"
+      },
+      "sentence": {
+        "ja": "かいたところに傷跡が残った。",
+        "zh": "挠过的地方留下了疤。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1067",
+      "index": 1067,
+      "word": "いびき",
+      "reading": "いびき",
+      "meaning": {
+        "en": "snoring",
+        "zh": "鼾，打鼾"
+      },
+      "sentence": {
+        "ja": "自分のいびきの音で目が覚めた。",
+        "zh": "我被自己的鼾声吵醒了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l01-1068",
+      "index": 1068,
+      "word": "体が持つ（からだがもつ）",
+      "reading": "からだがもつ",
+      "meaning": {
+        "en": "one's body will last",
+        "zh": "身体承受得了"
+      },
+      "sentence": {
+        "ja": "この忙しさでは体が持たない。",
+        "zh": "忙成这样，身体会受不了的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

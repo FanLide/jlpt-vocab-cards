@@ -1,0 +1,211 @@
+{
+  "id": "ch09-l05",
+  "chapterId": "ch09",
+  "titleJa": "美容",
+  "titleZh": "美容",
+  "rangeNote": "1141～1161",
+  "audio": {
+    "track": "Track045",
+    "file": "resources/audio/extracted/万词对策N2/Track045.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l05-1141",
+      "index": 1141,
+      "word": "肌（はだ）",
+      "reading": "はだ",
+      "meaning": {
+        "en": "skin",
+        "zh": "皮肤"
+      },
+      "sentence": {
+        "ja": "冬は肌が乾燥しやすい。",
+        "zh": "冬天，皮肤很容易干燥。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1142",
+      "index": 1142,
+      "word": "手入れ（ていれ）［する］",
+      "reading": "ていれ",
+      "meaning": {
+        "en": "care",
+        "zh": "保养"
+      },
+      "sentence": {
+        "ja": "毎日、素肌の手入れに時間をかける。",
+        "zh": "每天花时间保养皮肤。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1143",
+      "index": 1143,
+      "word": "ケア［する］",
+      "reading": "ケア［する］",
+      "meaning": {
+        "en": "care",
+        "zh": "保养"
+      },
+      "sentence": {
+        "ja": "お風呂の後の素肌のケアは欠かせない。",
+        "zh": "泡澡后，对皮肤的保养必不可少。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1144",
+      "index": 1144,
+      "word": "維持（いじ）［する］",
+      "reading": "いじ",
+      "meaning": {
+        "en": "maintenance",
+        "zh": "保持"
+      },
+      "sentence": {
+        "ja": "きれいな肌を維持したい。",
+        "zh": "我想让皮肤状态一直很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1145",
+      "index": 1145,
+      "word": "機能（きのう）［する］",
+      "reading": "きのう",
+      "meaning": {
+        "en": "function",
+        "zh": "功能"
+      },
+      "sentence": {
+        "ja": "ようやく肌の機能が回復した。",
+        "zh": "皮肤机能终于恢复了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1146",
+      "index": 1146,
+      "word": "かえって",
+      "reading": "かえって",
+      "meaning": {
+        "en": "rather",
+        "zh": "反倒"
+      },
+      "sentence": {
+        "ja": "マッサージをしたら、かえって顔にしわが増えた。",
+        "zh": "按摩后，脸上的皱纹反倒变多了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1148",
+      "index": 1148,
+      "word": "かさかさ［な／する］",
+      "reading": "かさかさ［な／する］",
+      "meaning": {
+        "en": "dry, flaky",
+        "zh": "干巴巴"
+      },
+      "sentence": {
+        "ja": "かかとが乾燥して、かさかさだ。",
+        "zh": "脚后跟很干燥，干巴巴的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1149",
+      "index": 1149,
+      "word": "低下（ていか）［する］",
+      "reading": "ていか",
+      "meaning": {
+        "en": "weaken",
+        "zh": "下降"
+      },
+      "sentence": {
+        "ja": "素肌の機能が低下している。",
+        "zh": "皮肤机能下降了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1150",
+      "index": 1150,
+      "word": "くっきり［する］",
+      "reading": "くっきり［する］",
+      "meaning": {
+        "en": "clearly",
+        "zh": "清楚地"
+      },
+      "sentence": {
+        "ja": "日焼けの跡がくっきりついてしまった。",
+        "zh": "晒黑的痕迹明显地留了下来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1151",
+      "index": 1151,
+      "word": "つや",
+      "reading": "つや",
+      "meaning": {
+        "en": "glossiness",
+        "zh": "光泽"
+      },
+      "sentence": {
+        "ja": "皮膚のつやが、だんだんなくなってきた。",
+        "zh": "皮肤渐渐没了光泽。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch09-l05-1152",
+      "index": 1152,
+      "word": "脂肪（しぼう）",
+      "reading": "しぼう",
+      "meaning": {
+        "en": "fat",
+        "zh": "脂肪"
+      },
+      "sentence": {
+        "ja": "運動を止めたら、脂肪がついてしまった。",
+        "zh": "停止运动之后，脂肪增多了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

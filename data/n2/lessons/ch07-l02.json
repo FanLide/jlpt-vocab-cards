@@ -1,0 +1,427 @@
+{
+  "id": "ch07-l02",
+  "chapterId": "ch07",
+  "titleJa": "ファッション",
+  "titleZh": "时尚",
+  "rangeNote": "806～828",
+  "audio": {
+    "track": "Track032",
+    "file": "resources/audio/extracted/万词对策N2/Track032.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch07-l02-806",
+      "index": 806,
+      "word": "格好（かっこう）",
+      "reading": "かっこう",
+      "meaning": {
+        "en": "form, appearance",
+        "zh": "打扮"
+      },
+      "sentence": {
+        "ja": "そんな格好で外出するのは、やめなさい。",
+        "zh": "不要打扮成那样出门。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-807",
+      "index": 807,
+      "word": "持ち物（もちもの）",
+      "reading": "もちもの",
+      "meaning": {
+        "en": "belongings",
+        "zh": "随身物品"
+      },
+      "sentence": {
+        "ja": "この女優の持ち物は全て有名ブランド品だ。",
+        "zh": "这个女演员的随身物品都是名牌。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-808",
+      "index": 808,
+      "word": "身につける（みにつける）",
+      "reading": "みにつける",
+      "meaning": {
+        "en": "wear something, acquire skills",
+        "zh": "穿着；掌握"
+      },
+      "sentence": {
+        "ja": "①先生が身につけているものはセンスがいい。②日本語を勉強して、会話力を身につけたい。",
+        "zh": "①老师的穿着很有品位。②我想学日语，掌握会话能力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-809",
+      "index": 809,
+      "word": "センス",
+      "reading": "センス",
+      "meaning": {
+        "en": "taste",
+        "zh": "品位"
+      },
+      "sentence": {
+        "ja": "彼女はセンスがよく、とても個性的だ。",
+        "zh": "她的品位很好，非常有个性。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-810",
+      "index": 810,
+      "word": "ダサい",
+      "reading": "ダサい",
+      "meaning": {
+        "en": "uncool, unfashionable",
+        "zh": "土，老土"
+      },
+      "sentence": {
+        "ja": "弟はセンスが悪く、服装がダサい。",
+        "zh": "弟弟没品位，穿着很土。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-811",
+      "index": 811,
+      "word": "いまひとつ",
+      "reading": "いまひとつ",
+      "meaning": {
+        "en": "not quite",
+        "zh": "差一点"
+      },
+      "sentence": {
+        "ja": "この帽子は私にはいまひとつ似合わない。",
+        "zh": "这顶帽子对我来说说不怎么合适。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-812",
+      "index": 812,
+      "word": "スタイル",
+      "reading": "スタイル",
+      "meaning": {
+        "en": "figure, style",
+        "zh": "身材，体形；样式，方式"
+      },
+      "sentence": {
+        "ja": "①彼女はモデルみたいにスタイルがいい。②これが私のライフスタイルだ。",
+        "zh": "①她的身材很好，像模特一样。②这是我的生活方式。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-813",
+      "index": 813,
+      "word": "足元（あしもと）",
+      "reading": "あしもと",
+      "meaning": {
+        "en": "footing",
+        "zh": "脚下，脚上"
+      },
+      "sentence": {
+        "ja": "彼は足元のおしゃれにも、こだわっている。",
+        "zh": "他连脚上穿的都很注重。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-814",
+      "index": 814,
+      "word": "ウエスト",
+      "reading": "ウエスト",
+      "meaning": {
+        "en": "waist",
+        "zh": "腰"
+      },
+      "sentence": {
+        "ja": "このスカートはウエストがきつい。",
+        "zh": "这条裙子腰围太紧了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-815",
+      "index": 815,
+      "word": "見た目（みため）",
+      "reading": "みため",
+      "meaning": {
+        "en": "looks",
+        "zh": "看起来"
+      },
+      "sentence": {
+        "ja": "妹は見た目は派手だが、性格は地味だ。",
+        "zh": "妹妹看上去（衣着）花哨，但性格很朴实。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-816",
+      "index": 816,
+      "word": "人目（ひとめ）",
+      "reading": "ひとめ",
+      "meaning": {
+        "en": "public eye",
+        "zh": "别人的眼光"
+      },
+      "sentence": {
+        "ja": "彼女の服装は街の中でも人目を引く。",
+        "zh": "她的穿着在路上也很引人注目。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-817",
+      "index": 817,
+      "word": "色彩（しきさい）",
+      "reading": "しきさい",
+      "meaning": {
+        "en": "coloring",
+        "zh": "色彩"
+      },
+      "sentence": {
+        "ja": "この服は色彩は豊かだが、派手ではない。",
+        "zh": "这件衣服虽然色彩丰富，但并不花哨。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-818",
+      "index": 818,
+      "word": "华やかな（はなやかな）",
+      "reading": "はなやかな",
+      "meaning": {
+        "en": "colorful",
+        "zh": "华丽，耀眼"
+      },
+      "sentence": {
+        "ja": "妹は华やかな色が似合う。",
+        "zh": "妹妹适合华丽的颜色。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-819",
+      "index": 819,
+      "word": "鮮やかな（あざやかな）",
+      "reading": "あざやかな",
+      "meaning": {
+        "en": "bright",
+        "zh": "鲜明"
+      },
+      "sentence": {
+        "ja": "鮮やかなピンクのシャツが欲しい。",
+        "zh": "我想要一件颜色鲜艳的粉色衬衫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-820",
+      "index": 820,
+      "word": "統一（とういつ）［する］",
+      "reading": "とういつ",
+      "meaning": {
+        "en": "unified",
+        "zh": "统一"
+      },
+      "sentence": {
+        "ja": "上着とバッグの色を統一する。",
+        "zh": "统一外套和包的颜色。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-821",
+      "index": 821,
+      "word": "フリーサイズ",
+      "reading": "フリーサイズ",
+      "meaning": {
+        "en": "one-size-fits-all",
+        "zh": "均码"
+      },
+      "sentence": {
+        "ja": "このＴシャツはフリーサイズだ。",
+        "zh": "这件Ｔ恤衫是均码的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-822",
+      "index": 822,
+      "word": "ぶかぶか［な／する］",
+      "reading": "ぶかぶか［な／する］",
+      "meaning": {
+        "en": "loose, too large",
+        "zh": "宽松；松垮"
+      },
+      "sentence": {
+        "ja": "この服はデザインは好みだが、ぶかぶかだ。",
+        "zh": "这件衣服的设计我很喜欢，就是太宽松了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-823",
+      "index": 823,
+      "word": "生地（きじ）",
+      "reading": "きじ",
+      "meaning": {
+        "en": "material",
+        "zh": "面料"
+      },
+      "sentence": {
+        "ja": "社長のスーツの生地は上等だ。",
+        "zh": "总经理的西装用的是上等的面料。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-824",
+      "index": 824,
+      "word": "綿（めん）",
+      "reading": "めん",
+      "meaning": {
+        "en": "cotton",
+        "zh": "棉"
+      },
+      "sentence": {
+        "ja": "綿の服は着心地が、とてもいい。",
+        "zh": "棉制衣服穿起来很舒服。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-825",
+      "index": 825,
+      "word": "オーダーメイド",
+      "reading": "オーダーメイド",
+      "meaning": {
+        "en": "made-to-order",
+        "zh": "定制"
+      },
+      "sentence": {
+        "ja": "オーダーメイドでスーツを作った。",
+        "zh": "我定制了一套西装。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-826",
+      "index": 826,
+      "word": "サングラス",
+      "reading": "サングラス",
+      "meaning": {
+        "en": "sunglasses",
+        "zh": "墨镜"
+      },
+      "sentence": {
+        "ja": "夏はサングラスが欠かせない。",
+        "zh": "夏天，墨镜不能少。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-827",
+      "index": 827,
+      "word": "（ボタンが）取れる（とれる） (button)",
+      "reading": "ボタンが",
+      "meaning": {
+        "en": "come off",
+        "zh": "（纽扣）掉下来"
+      },
+      "sentence": {
+        "ja": "このシャツはボタンが取れやすい。",
+        "zh": "这件衬衫的纽扣很容易掉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch07-l02-828",
+      "index": 828,
+      "word": "浴衣（ゆかた）",
+      "reading": "ゆかた",
+      "meaning": {
+        "en": "yukata, informal cotton kimono",
+        "zh": "浴衣（棉制的和服单衣）"
+      },
+      "sentence": {
+        "ja": "新しい浴衣を着て、花火大会に行きたい。",
+        "zh": "我想穿着新浴衣去烟花晚会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

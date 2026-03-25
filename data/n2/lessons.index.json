@@ -20,6 +20,335 @@
       "titleJa": "知人・付き合い",
       "titleZh": "熟人、交际",
       "cards": 26
+    },
+    {
+      "lessonId": "ch03-l01",
+      "chapterId": "ch03",
+      "titleJa": "朝",
+      "titleZh": "早晨",
+      "cards": 21
+    },
+    {
+      "lessonId": "ch03-l02",
+      "chapterId": "ch03",
+      "titleJa": "日課",
+      "titleZh": "每日惯例",
+      "cards": 22
+    },
+    {
+      "lessonId": "ch03-l03",
+      "chapterId": "ch03",
+      "titleJa": "料理",
+      "titleZh": "烹饪",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch03-l04",
+      "chapterId": "ch03",
+      "titleJa": "家事",
+      "titleZh": "家务",
+      "cards": 29
+    },
+    {
+      "lessonId": "ch03-l05",
+      "chapterId": "ch03",
+      "titleJa": "引っ越し",
+      "titleZh": "搬家",
+      "cards": 22
+    },
+    {
+      "lessonId": "ch04-l01",
+      "chapterId": "ch04",
+      "titleJa": "町",
+      "titleZh": "城市",
+      "cards": 24
+    },
+    {
+      "lessonId": "ch04-l02",
+      "chapterId": "ch04",
+      "titleJa": "役所",
+      "titleZh": "政府机关",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch04-l03",
+      "chapterId": "ch04",
+      "titleJa": "ふるさと",
+      "titleZh": "故乡",
+      "cards": 20
+    },
+    {
+      "lessonId": "ch04-l04",
+      "chapterId": "ch04",
+      "titleJa": "交通",
+      "titleZh": "交通",
+      "cards": 28
+    },
+    {
+      "lessonId": "ch04-l05",
+      "chapterId": "ch04",
+      "titleJa": "産業",
+      "titleZh": "产业",
+      "cards": 22
+    },
+    {
+      "lessonId": "ch05-l01",
+      "chapterId": "ch05",
+      "titleJa": "学校",
+      "titleZh": "学校",
+      "cards": 22
+    },
+    {
+      "lessonId": "ch05-l02",
+      "chapterId": "ch05",
+      "titleJa": "勉強",
+      "titleZh": "学习",
+      "cards": 29
+    },
+    {
+      "lessonId": "ch05-l03",
+      "chapterId": "ch05",
+      "titleJa": "試験",
+      "titleZh": "考试",
+      "cards": 26
+    },
+    {
+      "lessonId": "ch05-l04",
+      "chapterId": "ch05",
+      "titleJa": "大学・大学院",
+      "titleZh": "大学、研究生院",
+      "cards": 31
+    },
+    {
+      "lessonId": "ch05-l05",
+      "chapterId": "ch05",
+      "titleJa": "パソコン（スマホ）",
+      "titleZh": "电脑/智能手机",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch06-l01",
+      "chapterId": "ch06",
+      "titleJa": "就職",
+      "titleZh": "就业",
+      "cards": 32
+    },
+    {
+      "lessonId": "ch06-l02",
+      "chapterId": "ch06",
+      "titleJa": "会社",
+      "titleZh": "公司",
+      "cards": 32
+    },
+    {
+      "lessonId": "ch06-l03",
+      "chapterId": "ch06",
+      "titleJa": "仕事",
+      "titleZh": "工作",
+      "cards": 32
+    },
+    {
+      "lessonId": "ch06-l04",
+      "chapterId": "ch06",
+      "titleJa": "上下関係",
+      "titleZh": "上下级关系",
+      "cards": 24
+    },
+    {
+      "lessonId": "ch06-l05",
+      "chapterId": "ch06",
+      "titleJa": "退職・転職",
+      "titleZh": "离职、换工作",
+      "cards": 25
+    },
+    {
+      "lessonId": "ch07-l01",
+      "chapterId": "ch07",
+      "titleJa": "競技",
+      "titleZh": "比赛",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch07-l02",
+      "chapterId": "ch07",
+      "titleJa": "ファッション",
+      "titleZh": "时尚",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch07-l03",
+      "chapterId": "ch07",
+      "titleJa": "エンターテインメント",
+      "titleZh": "娱乐",
+      "cards": 28
+    },
+    {
+      "lessonId": "ch07-l04",
+      "chapterId": "ch07",
+      "titleJa": "本",
+      "titleZh": "书",
+      "cards": 27
+    },
+    {
+      "lessonId": "ch07-l05",
+      "chapterId": "ch07",
+      "titleJa": "趣味・好み",
+      "titleZh": "兴趣、爱好",
+      "cards": 28
+    },
+    {
+      "lessonId": "ch08-l01",
+      "chapterId": "ch08",
+      "titleJa": "気候と天気",
+      "titleZh": "气候与天气",
+      "cards": 29
+    },
+    {
+      "lessonId": "ch08-l02",
+      "chapterId": "ch08",
+      "titleJa": "台風・地震",
+      "titleZh": "台风、地震",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch08-l03",
+      "chapterId": "ch08",
+      "titleJa": "自然",
+      "titleZh": "自然",
+      "cards": 22
+    },
+    {
+      "lessonId": "ch08-l04",
+      "chapterId": "ch08",
+      "titleJa": "休日",
+      "titleZh": "休息日",
+      "cards": 28
+    },
+    {
+      "lessonId": "ch08-l05",
+      "chapterId": "ch08",
+      "titleJa": "旅行",
+      "titleZh": "旅行",
+      "cards": 34
+    },
+    {
+      "lessonId": "ch09-l01",
+      "chapterId": "ch09",
+      "titleJa": "体と健康",
+      "titleZh": "身体与健康",
+      "cards": 21
+    },
+    {
+      "lessonId": "ch09-l02",
+      "chapterId": "ch09",
+      "titleJa": "病気になる前に",
+      "titleZh": "生病前",
+      "cards": 23
+    },
+    {
+      "lessonId": "ch09-l03",
+      "chapterId": "ch09",
+      "titleJa": "症状",
+      "titleZh": "症状",
+      "cards": 22
+    },
+    {
+      "lessonId": "ch09-l04",
+      "chapterId": "ch09",
+      "titleJa": "病気と治療",
+      "titleZh": "疾病与治疗",
+      "cards": 13
+    },
+    {
+      "lessonId": "ch09-l05",
+      "chapterId": "ch09",
+      "titleJa": "美容",
+      "titleZh": "美容",
+      "cards": 11
+    },
+    {
+      "lessonId": "ch10-l01",
+      "chapterId": "ch10",
+      "titleJa": "トラブル・事件",
+      "titleZh": "纠纷、事件",
+      "cards": 33
+    },
+    {
+      "lessonId": "ch10-l02",
+      "chapterId": "ch10",
+      "titleJa": "事故",
+      "titleZh": "事故",
+      "cards": 28
+    },
+    {
+      "lessonId": "ch11-l01",
+      "chapterId": "ch11",
+      "titleJa": "性格",
+      "titleZh": "性格",
+      "cards": 25
+    },
+    {
+      "lessonId": "ch11-l02",
+      "chapterId": "ch11",
+      "titleJa": "いい気分",
+      "titleZh": "好心情",
+      "cards": 17
+    },
+    {
+      "lessonId": "ch11-l03",
+      "chapterId": "ch11",
+      "titleJa": "ブルーな気分",
+      "titleZh": "郁闷心情",
+      "cards": 18
+    },
+    {
+      "lessonId": "ch11-l04",
+      "chapterId": "ch11",
+      "titleJa": "プラスのイメージ",
+      "titleZh": "积极印象",
+      "cards": 19
+    },
+    {
+      "lessonId": "ch11-l05",
+      "chapterId": "ch11",
+      "titleJa": "マイナスのイメージ",
+      "titleZh": "消极印象",
+      "cards": 20
+    },
+    {
+      "lessonId": "ch12-l01",
+      "chapterId": "ch12",
+      "titleJa": "慣用句①（心・胸）",
+      "titleZh": "惯用句①（心・胸）",
+      "cards": 20
+    },
+    {
+      "lessonId": "ch12-l02",
+      "chapterId": "ch12",
+      "titleJa": "慣用句②（头部、脸部）",
+      "titleZh": "惯用句②（头部、脸部）",
+      "cards": 28
+    },
+    {
+      "lessonId": "ch12-l03",
+      "chapterId": "ch12",
+      "titleJa": "慣用句③（身体部位）",
+      "titleZh": "惯用句③（身体部位）",
+      "cards": 20
+    },
+    {
+      "lessonId": "ch12-l04",
+      "chapterId": "ch12",
+      "titleJa": "副詞",
+      "titleZh": "副词",
+      "cards": 16
+    },
+    {
+      "lessonId": "ch12-l05",
+      "chapterId": "ch12",
+      "titleJa": "接続表現",
+      "titleZh": "连接表达",
+      "cards": 26
     }
   ]
 }

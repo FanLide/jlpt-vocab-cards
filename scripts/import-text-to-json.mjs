@@ -48,6 +48,7 @@ function parseHeader(line) {
   return { lessonNo, titleJa, rangeNote: `${from}～${to}` }
 }
 
+
 function parseItemLines(lines, i) {
   // Expect pattern:
   //  N WORD（READING）

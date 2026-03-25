@@ -1,0 +1,427 @@
+{
+  "id": "ch03-l03",
+  "chapterId": "ch03",
+  "titleJa": "料理",
+  "titleZh": "烹饪",
+  "rangeNote": "311～333",
+  "audio": {
+    "track": "Track013",
+    "file": "resources/audio/extracted/万词对策N2/Track013.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l03-311",
+      "index": 311,
+      "word": "炊事（すいじ）［する］",
+      "reading": "すいじ",
+      "meaning": {
+        "en": "cooking",
+        "zh": "做飯，烹飪"
+      },
+      "sentence": {
+        "ja": "家事の中で炊事が一番好きだ。",
+        "zh": "家務活裡我最喜歡做飯。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-312",
+      "index": 312,
+      "word": "献立（こんだて）",
+      "reading": "こんだて",
+      "meaning": {
+        "en": "menu",
+        "zh": "食譜，菜單"
+      },
+      "sentence": {
+        "ja": "毎日献立を考えるのは大変だ。",
+        "zh": "每天考慮吃什麼是一件很麻煩的事情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-313",
+      "index": 313,
+      "word": "リクエスト［する］",
+      "reading": "リクエスト［する］",
+      "meaning": {
+        "en": "request",
+        "zh": "要求"
+      },
+      "sentence": {
+        "ja": "家族のリクエストで、メニューを決める。",
+        "zh": "根據家人的要求決定吃什麼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-314",
+      "index": 314,
+      "word": "流し（ながし）",
+      "reading": "ながし",
+      "meaning": {
+        "en": "sink",
+        "zh": "洗碗池"
+      },
+      "sentence": {
+        "ja": "流しで野菜を洗う。",
+        "zh": "在洗碗池裡洗菜。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-315",
+      "index": 315,
+      "word": "ちぎる",
+      "reading": "ちぎる",
+      "meaning": {
+        "en": "tear",
+        "zh": "撕成小塊，撕碎"
+      },
+      "sentence": {
+        "ja": "キャベツをちぎって、鍋に入れる。",
+        "zh": "把卷心菜撕碎了放進鍋裡。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-316",
+      "index": 316,
+      "word": "冷ます（さます）",
+      "reading": "さます",
+      "meaning": {
+        "en": "cool down",
+        "zh": "冷卻，弄涼"
+      },
+      "sentence": {
+        "ja": "材料を冷ましてから、野菜で包む。",
+        "zh": "食材冷卻後用蔬菜包起來。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-317",
+      "index": 317,
+      "word": "煮える（にえる）",
+      "reading": "にえる",
+      "meaning": {
+        "en": "boil",
+        "zh": "煮熟，煮爛"
+      },
+      "sentence": {
+        "ja": "魚が煮えて、いい匂いがする。",
+        "zh": "魚煮熟了，味道好香。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-318",
+      "index": 318,
+      "word": "味付け（あじつけ）［する］",
+      "reading": "あじつけ",
+      "meaning": {
+        "en": "seasoning",
+        "zh": "調味"
+      },
+      "sentence": {
+        "ja": "我が家の味付けは、ちょっと薄い。",
+        "zh": "我家做菜味道有一點清淡。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-319",
+      "index": 319,
+      "word": "薄める（うすめる）",
+      "reading": "うすめる",
+      "meaning": {
+        "en": "dilute",
+        "zh": "稀釋，弄淡"
+      },
+      "sentence": {
+        "ja": "味が少し濃いので、水で薄めた。",
+        "zh": "味道太重了，所以我加水弄淡了一點。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-320",
+      "index": 320,
+      "word": "甘み（あまみ）",
+      "reading": "あまみ",
+      "meaning": {
+        "en": "sweetness",
+        "zh": "甜味，甜度"
+      },
+      "sentence": {
+        "ja": "ケーキをよく作るが、甘みは控えている。",
+        "zh": "我經常做蛋糕，不過會控制甜度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-321",
+      "index": 321,
+      "word": "工夫（くふう）［する］",
+      "reading": "くふう",
+      "meaning": {
+        "en": "device, solving ingeniously",
+        "zh": "設法，下功夫"
+      },
+      "sentence": {
+        "ja": "安い材料でも、工夫すれば、おいしくなる。",
+        "zh": "即使是便宜的食材，只要下功夫就會好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-322",
+      "index": 322,
+      "word": "添える（そえる）",
+      "reading": "そえる",
+      "meaning": {
+        "en": "garnish",
+        "zh": "添加"
+      },
+      "sentence": {
+        "ja": "ハンバーグに、にんじんを添える。",
+        "zh": "在漢堡的肉餅裡加上胡蘿蔔。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-323",
+      "index": 323,
+      "word": "挟む（はさむ）",
+      "reading": "はさむ",
+      "meaning": {
+        "en": "insert, interpose",
+        "zh": "夾人，插入"
+      },
+      "sentence": {
+        "ja": "パンに、いろいろな材料を挟む。",
+        "zh": "在麵包裡夾人各種食材。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-324",
+      "index": 324,
+      "word": "加減（かげん）［する］",
+      "reading": "かげん",
+      "meaning": {
+        "en": "degree, just the right amount of",
+        "zh": "程度"
+      },
+      "sentence": {
+        "ja": "この料理は調味料の加減が、ちょうどいい。",
+        "zh": "這道菜調味調得剛剛好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-325",
+      "index": 325,
+      "word": "固まる（かたまる）",
+      "reading": "かたまる",
+      "meaning": {
+        "en": "harden, become firm",
+        "zh": "凝固"
+      },
+      "sentence": {
+        "ja": "冷蔵庫に入れておいたゼリーが固まった。",
+        "zh": "放在冰箱裡的果凍凝固了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-326",
+      "index": 326,
+      "word": "なめる",
+      "reading": "なめる",
+      "meaning": {
+        "en": "lick",
+        "zh": "舔，嘗"
+      },
+      "sentence": {
+        "ja": "ソースを作りながら、少しなめて、味を確かめる。",
+        "zh": "一邊做醬汁，一邊嘗一嘗味道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-327",
+      "index": 327,
+      "word": "臭い（くさい）",
+      "reading": "くさい",
+      "meaning": {
+        "en": "smell",
+        "zh": "臭，有異味"
+      },
+      "sentence": {
+        "ja": "魚が焦げて、台所が臭い。",
+        "zh": "魚烤焦了，廚房裡彌漫著一股味道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-328",
+      "index": 328,
+      "word": "冷める（さめる）",
+      "reading": "さめる",
+      "meaning": {
+        "en": "become cold",
+        "zh": "變冷，涼"
+      },
+      "sentence": {
+        "ja": "スープが冷めたので、食事の前に温めた。",
+        "zh": "湯涼了，所以我吃飯前熱了一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-329",
+      "index": 329,
+      "word": "余分な（よぶん）",
+      "reading": "よぶん",
+      "meaning": {
+        "en": "extra",
+        "zh": "多餘的，剩餘的"
+      },
+      "sentence": {
+        "ja": "少し余分にカレーを作って、冷凍しておく。",
+        "zh": "多做了一點咖哩，冷凍起來。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-330",
+      "index": 330,
+      "word": "容器（ようき）",
+      "reading": "ようき",
+      "meaning": {
+        "en": "container",
+        "zh": "容器"
+      },
+      "sentence": {
+        "ja": "この容器は料理を冷凍するのに便利だ。",
+        "zh": "冷凍飯菜時，用這個容器很方便。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-331",
+      "index": 331,
+      "word": "賞味期限（しょうみきげん）",
+      "reading": "しょうみきげん",
+      "meaning": {
+        "en": "expiration date",
+        "zh": "保質期（最佳食用期）"
+      },
+      "sentence": {
+        "ja": "この缶詰は賞味期限が切れている。",
+        "zh": "這瓶罐頭的保質期已經過了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-332",
+      "index": 332,
+      "word": "手作り（てづくり）",
+      "reading": "てづくり",
+      "meaning": {
+        "en": "handmade",
+        "zh": "手工製作"
+      },
+      "sentence": {
+        "ja": "姉の手作りケーキはプロのような味だ。",
+        "zh": "姐姐手工製作的蛋糕味道很好，像是專業人士做的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l03-333",
+      "index": 333,
+      "word": "もてなす",
+      "reading": "もてなす",
+      "meaning": {
+        "en": "entertain",
+        "zh": "招待，請客"
+      },
+      "sentence": {
+        "ja": "先日、手料理でお客様をもてなした。",
+        "zh": "前幾天自己做了菜招待客人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

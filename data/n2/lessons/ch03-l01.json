@@ -1,0 +1,391 @@
+{
+  "id": "ch03-l01",
+  "chapterId": "ch03",
+  "titleJa": "朝",
+  "titleZh": "早晨",
+  "rangeNote": "268～288",
+  "audio": {
+    "track": "Track011",
+    "file": "resources/audio/extracted/万词对策N2/Track011.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l01-268",
+      "index": 268,
+      "word": "夜明け（よあけ）",
+      "reading": "よあけ",
+      "meaning": {
+        "en": "daybreak",
+        "zh": "拂曉，黎明"
+      },
+      "sentence": {
+        "ja": "最近、夜明け頃に一度目が覚める。",
+        "zh": "最近，我在黎明時會醒一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-269",
+      "index": 269,
+      "word": "起床（きしょう）",
+      "reading": "きしょう",
+      "meaning": {
+        "en": "uprise",
+        "zh": "起床"
+      },
+      "sentence": {
+        "ja": "毎朝、6時に起床している。",
+        "zh": "我每天早上6點起床。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-270",
+      "index": 270,
+      "word": "もたれる",
+      "reading": "もたれる",
+      "meaning": {
+        "en": "lean on something, being heavy",
+        "zh": "靠，依靠；不消化，積食"
+      },
+      "sentence": {
+        "ja": "①壁にもたれて、歯をみがく。②この料理は胃にもたれる。",
+        "zh": "①靠著牆刷牙。②這道菜不好消化。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-271",
+      "index": 271,
+      "word": "フレッシュな",
+      "reading": "フレッシュな",
+      "meaning": {
+        "en": "fresh",
+        "zh": "新鮮的，清新的"
+      },
+      "sentence": {
+        "ja": "毎朝、フレッシュな野菜ジュースを作って飲んでいる。",
+        "zh": "我每天早上榨新鮮的蔬菜汁喝。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-272",
+      "index": 272,
+      "word": "乳製品（にゅうせいひん）",
+      "reading": "にゅうせいひん",
+      "meaning": {
+        "en": "dairy product",
+        "zh": "乳製品"
+      },
+      "sentence": {
+        "ja": "朝ご飯は乳製品とサラダだ。",
+        "zh": "早飯是乳製品和沙拉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-273",
+      "index": 273,
+      "word": "洗い物（あらいもの）",
+      "reading": "あらいもの",
+      "meaning": {
+        "en": "dirty dishes, laundry (for clothes)",
+        "zh": "要洗的東西，洗東西"
+      },
+      "sentence": {
+        "ja": "食事が終わったら、洗い物をする。",
+        "zh": "吃了飯以後洗東西。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-274",
+      "index": 274,
+      "word": "欠かす（かかす）",
+      "reading": "かかす",
+      "meaning": {
+        "en": "miss",
+        "zh": "缺，停止"
+      },
+      "sentence": {
+        "ja": "毎朝欠かさず、ジョギングをする。",
+        "zh": "我每天早上都跑步。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-275",
+      "index": 275,
+      "word": "配達（はいたつ）",
+      "reading": "はいたつ",
+      "meaning": {
+        "en": "delivery",
+        "zh": "配送"
+      },
+      "sentence": {
+        "ja": "朝、新聞配達のバイトをしている。",
+        "zh": "我早上兼職配送報紙。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-276",
+      "index": 276,
+      "word": "見出し（みだし）",
+      "reading": "みだし",
+      "meaning": {
+        "en": "headline",
+        "zh": "標題，目錄，索引"
+      },
+      "sentence": {
+        "ja": "ネットニュースの見出しをざっと見る。",
+        "zh": "我會大致掃一下網路新聞的標題。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-277",
+      "index": 277,
+      "word": "一切（いっさい）［～ない］",
+      "reading": "いっさい",
+      "meaning": {
+        "en": "totally",
+        "zh": "完全，一切（都不）"
+      },
+      "sentence": {
+        "ja": "私は新聞を一切読まない。",
+        "zh": "我完全不看報紙。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-278",
+      "index": 278,
+      "word": "合間（あいま）",
+      "reading": "あいま",
+      "meaning": {
+        "en": "in between",
+        "zh": "空閒時間，間隙"
+      },
+      "sentence": {
+        "ja": "洗濯の合間にネットでニュースを読む。",
+        "zh": "趁洗衣服的間隙上網看新聞。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-279",
+      "index": 279,
+      "word": "てきぱき［と］［する］",
+      "reading": "てきぱき［と］［する］",
+      "meaning": {
+        "en": "swiftly",
+        "zh": "俐落地，爽快"
+      },
+      "sentence": {
+        "ja": "家事をてきぱきと片付け、出かける準備をする。",
+        "zh": "俐落地做完家務，準備出門。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-280",
+      "index": 280,
+      "word": "間（ま）",
+      "reading": "ま",
+      "meaning": {
+        "en": "interval, opening, gap, pause",
+        "zh": "間隙，時間"
+      },
+      "sentence": {
+        "ja": "出かけるまでに少し間がある。",
+        "zh": "離出門還有一點時間。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-281",
+      "index": 281,
+      "word": "周辺（しゅうへん）",
+      "reading": "しゅうへん",
+      "meaning": {
+        "en": "surroundings, surrounding area",
+        "zh": "周邊"
+      },
+      "sentence": {
+        "ja": "毎日、公園の周辺を30分歩く。",
+        "zh": "我每天在公園周邊走30分鐘。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-282",
+      "index": 282,
+      "word": "周囲（しゅうい）",
+      "reading": "しゅうい",
+      "meaning": {
+        "en": "surroundings",
+        "zh": "周圍"
+      },
+      "sentence": {
+        "ja": "朝ご飯の前に、家の周囲を犬と散歩する。",
+        "zh": "我早飯前帶著小狗在家里周圍散步。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-283",
+      "index": 283,
+      "word": "あと",
+      "reading": "あと",
+      "meaning": {
+        "en": "after, later",
+        "zh": "剩下的"
+      },
+      "sentence": {
+        "ja": "あと5分でバスが来る。急がなきゃ。",
+        "zh": "再有5分鐘公共汽車就要來了，快點兒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-284",
+      "index": 284,
+      "word": "すれ違う（すれちがう）",
+      "reading": "すれちがう",
+      "meaning": {
+        "en": "pass by one another",
+        "zh": "錯過，交錯"
+      },
+      "sentence": {
+        "ja": "ごみを出しに行くと、いつも隣の人とすれ違う。",
+        "zh": "出去丟垃圾時，我總是會和鄰居擦肩而過。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-285",
+      "index": 285,
+      "word": "はう",
+      "reading": "はう",
+      "meaning": {
+        "en": "crawl",
+        "zh": "趴，爬"
+      },
+      "sentence": {
+        "ja": "コンタクトを落として、床の上をはって探した。",
+        "zh": "隱形眼鏡掉在地上。我趴在地上找。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-286",
+      "index": 286,
+      "word": "替える（かえる）",
+      "reading": "かえる",
+      "meaning": {
+        "en": "change",
+        "zh": "換，更換"
+      },
+      "sentence": {
+        "ja": "出かける前にバッグを替えた。",
+        "zh": "出門前換了一個包。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-287",
+      "index": 287,
+      "word": "整える（ととのえる）",
+      "reading": "ととのえる",
+      "meaning": {
+        "en": "straighten, tidy, set",
+        "zh": "整理；備齊"
+      },
+      "sentence": {
+        "ja": "①服装を整えて、出かける。②この病院は最新の設備を整えている。",
+        "zh": "①整理好衣服出門。②這家醫院配備齊了最新的設備。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch03-l01-288",
+      "index": 288,
+      "word": "ろくに［～ない］",
+      "reading": "ろくに［～ない］",
+      "meaning": {
+        "en": "properly",
+        "zh": "（不能）很好地"
+      },
+      "sentence": {
+        "ja": "この頃ろくに寝ていないので、午前中は眠い。",
+        "zh": "這段時間沒睡好覺，所以我上午很困。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

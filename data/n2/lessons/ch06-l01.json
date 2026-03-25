@@ -1,0 +1,589 @@
+{
+  "id": "ch06-l01",
+  "chapterId": "ch06",
+  "titleJa": "就職",
+  "titleZh": "就业",
+  "rangeNote": "633～664",
+  "audio": {
+    "track": "Track026",
+    "file": "resources/audio/extracted/万词对策N2/Track026.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l01-633",
+      "index": 633,
+      "word": "求人（きゅうじん）",
+      "reading": "きゅうじん",
+      "meaning": {
+        "en": "employment offers",
+        "zh": "招聘"
+      },
+      "sentence": {
+        "ja": "求人のサイトをチェックする。",
+        "zh": "查看招聘网站上的信息。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-634",
+      "index": 634,
+      "word": "志望（しぼう）［する］",
+      "reading": "しぼう",
+      "meaning": {
+        "en": "desire",
+        "zh": "志愿"
+      },
+      "sentence": {
+        "ja": "A社の営業を志望している。",
+        "zh": "我想进A公司的销售部。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-635",
+      "index": 635,
+      "word": "エントリー［する］",
+      "reading": "エントリー［する］",
+      "meaning": {
+        "en": "apply",
+        "zh": "申请，报名"
+      },
+      "sentence": {
+        "ja": "いくつかの企業にエントリーした。",
+        "zh": "我应聘了几家公司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-636",
+      "index": 636,
+      "word": "携わる（たずさわる）",
+      "reading": "たずさわる",
+      "meaning": {
+        "en": "take part, be involved",
+        "zh": "参与，从事"
+      },
+      "sentence": {
+        "ja": "福祉の仕事に携わりたい。",
+        "zh": "我想从事和社会福利相关的工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-637",
+      "index": 637,
+      "word": "生かす（いかす）",
+      "reading": "いかす",
+      "meaning": {
+        "en": "take advantage of",
+        "zh": "有效利用"
+      },
+      "sentence": {
+        "ja": "専門が生かせる仕事をしたい。",
+        "zh": "我想做能发挥自己专业特长的工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-638",
+      "index": 638,
+      "word": "貴社（きしゃ）",
+      "reading": "きしゃ",
+      "meaning": {
+        "en": "your esteemed company",
+        "zh": "贵公司"
+      },
+      "sentence": {
+        "ja": "ぜひ、貴社で働かせていただきたいです。",
+        "zh": "我很想在贵公司工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-639",
+      "index": 639,
+      "word": "御中（おんちゅう）",
+      "reading": "おんちゅう",
+      "meaning": {
+        "en": "and Company; Messrs; for the attention of ...",
+        "zh": "公启"
+      },
+      "sentence": {
+        "ja": "会社への手紙には会社名の後に「御中」と書く。",
+        "zh": "给公司写信时，在公司名后面写上“公启”。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-640",
+      "index": 640,
+      "word": "動機（どうき）",
+      "reading": "どうき",
+      "meaning": {
+        "en": "motive",
+        "zh": "动机"
+      },
+      "sentence": {
+        "ja": "面接で志望の動機をうまく伝える。",
+        "zh": "面试时自如地地表达应聘动机。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-641",
+      "index": 641,
+      "word": "熱意（ねつい）",
+      "reading": "ねつい",
+      "meaning": {
+        "en": "enthusiasm",
+        "zh": "热情"
+      },
+      "sentence": {
+        "ja": "面接では入社したいという熱意を見せた。",
+        "zh": "面试时，我表现出了自己想进入公司工作的热情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-642",
+      "index": 642,
+      "word": "学歴（がくれき）",
+      "reading": "がくれき",
+      "meaning": {
+        "en": "academic background",
+        "zh": "学历"
+      },
+      "sentence": {
+        "ja": "履歴書に学歴や資格を書く。",
+        "zh": "在简历里写上学历和取得的资格证等。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-643",
+      "index": 643,
+      "word": "不問（ふもん）",
+      "reading": "ふもん",
+      "meaning": {
+        "en": "unmentioned",
+        "zh": "不问"
+      },
+      "sentence": {
+        "ja": "求人広告に経験不問と書いてある。",
+        "zh": "招聘广告上写着不限经验。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-644",
+      "index": 644,
+      "word": "制限（せいげん）［する］",
+      "reading": "せいげん",
+      "meaning": {
+        "en": "limit",
+        "zh": "限制"
+      },
+      "sentence": {
+        "ja": "求人広告に年齢の制限は書いていない。",
+        "zh": "招聘广告上没有写年龄限制。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-645",
+      "index": 645,
+      "word": "特技（とくぎ）",
+      "reading": "とくぎ",
+      "meaning": {
+        "en": "one's strong point, special ability",
+        "zh": "特长"
+      },
+      "sentence": {
+        "ja": "私の趣味・特技は、テニスと料理です。",
+        "zh": "我的爱好及特长是打网球和烹饪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-646",
+      "index": 646,
+      "word": "協調（きょうちょう）［する］",
+      "reading": "きょうちょう",
+      "meaning": {
+        "en": "cooperation",
+        "zh": "协调，合作"
+      },
+      "sentence": {
+        "ja": "面接では、同僚と協調できるかをチェックされる。",
+        "zh": "在面试时会考量应聘人员是否能和同事协作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-647",
+      "index": 647,
+      "word": "肝心な（かんじんな）",
+      "reading": "かんじんな",
+      "meaning": {
+        "en": "vital",
+        "zh": "重要的"
+      },
+      "sentence": {
+        "ja": "日本の会社では協調性が肝心だ。",
+        "zh": "在日本公司，与人合作的能力是很重要的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-648",
+      "index": 648,
+      "word": "精一杯（せいいっぱい）",
+      "reading": "せいいっぱい",
+      "meaning": {
+        "en": "to the best of one's ability",
+        "zh": "尽力，全力以赴"
+      },
+      "sentence": {
+        "ja": "志望の会社に採用されたら、精一杯頑張りたい。",
+        "zh": "如果被应聘的公司录取的话，我一定全全力以赴。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-649",
+      "index": 649,
+      "word": "アピール［する］",
+      "reading": "アピール［する］",
+      "meaning": {
+        "en": "appeal",
+        "zh": "呼吁，宣传"
+      },
+      "sentence": {
+        "ja": "面接で上手に自分をアピールできるか心配だ。",
+        "zh": "我担心面试时是否能很好地展示自己的优点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-650",
+      "index": 650,
+      "word": "対応（たいおう）［する］",
+      "reading": "たいおう",
+      "meaning": {
+        "en": "respond",
+        "zh": "应对"
+      },
+      "sentence": {
+        "ja": "面接の質問に、しっかり対応できたと思う。",
+        "zh": "我觉得自己很好地回答了面试的问题。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-651",
+      "index": 651,
+      "word": "合同（ごうどう）［する］",
+      "reading": "ごうどう",
+      "meaning": {
+        "en": "joint",
+        "zh": "联合"
+      },
+      "sentence": {
+        "ja": "いろいろな企業の合同説明会に参加した。",
+        "zh": "我参加了各种企业的联合说明会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-652",
+      "index": 652,
+      "word": "望ましい（のぞましい）",
+      "reading": "のぞましい",
+      "meaning": {
+        "en": "desirable",
+        "zh": "合乎心意的"
+      },
+      "sentence": {
+        "ja": "この会社では語学のできる人が望ましいそうだ。",
+        "zh": "听说这家公司希望能招聘到有外语能力的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-653",
+      "index": 653,
+      "word": "好ましい（このましい）",
+      "reading": "このましい",
+      "meaning": {
+        "en": "preferable",
+        "zh": "讨喜的，令人满意的"
+      },
+      "sentence": {
+        "ja": "面接には黒か紺のスーツが好ましい。",
+        "zh": "面试时宜穿黑色或深蓝色的套装。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-654",
+      "index": 654,
+      "word": "公平な（こうへいな）",
+      "reading": "こうへいな",
+      "meaning": {
+        "en": "fair",
+        "zh": "公平"
+      },
+      "sentence": {
+        "ja": "この会社の採用は公平に決められる。",
+        "zh": "这家公司公平地录用职员。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-655",
+      "index": 655,
+      "word": "せめて",
+      "reading": "せめて",
+      "meaning": {
+        "en": "at least",
+        "zh": "至少"
+      },
+      "sentence": {
+        "ja": "せめて、一社だけでも内定が欲しい。",
+        "zh": "我希望至少有一家公司能内定录取我。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-656",
+      "index": 656,
+      "word": "受け取る（うけとる）",
+      "reading": "うけとる",
+      "meaning": {
+        "en": "receive",
+        "zh": "收，领"
+      },
+      "sentence": {
+        "ja": "第一志望だった企業から、通知を受け取った。",
+        "zh": "我收到了最想进的那家公司发来的通知。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-657",
+      "index": 657,
+      "word": "内定（ないてい）［する］",
+      "reading": "ないてい",
+      "meaning": {
+        "en": "official job offer",
+        "zh": "内定录取"
+      },
+      "sentence": {
+        "ja": "三つの会社から内定をもらった。",
+        "zh": "三家公司都有内定录取我了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-658",
+      "index": 658,
+      "word": "辞退（じたい）［する］",
+      "reading": "じたい",
+      "meaning": {
+        "en": "decline",
+        "zh": "辞谢，推辞"
+      },
+      "sentence": {
+        "ja": "第一志望の会社以外は、すぐに辞退した。",
+        "zh": "除了最想进的那家公司以外，其他的我都很快推辞了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-659",
+      "index": 659,
+      "word": "契約（けいやく）［する］",
+      "reading": "けいやく",
+      "meaning": {
+        "en": "contract",
+        "zh": "合同"
+      },
+      "sentence": {
+        "ja": "希望していた会社と契約できて、うれしい。",
+        "zh": "能和想进的公司签合同，我太开心了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-660",
+      "index": 660,
+      "word": "入社（にゅうしゃ）［する］",
+      "reading": "にゅうしゃ",
+      "meaning": {
+        "en": "joining the company",
+        "zh": "入社，进入公司工作"
+      },
+      "sentence": {
+        "ja": "4月の入社が、とても楽しみだ。",
+        "zh": "4月就要进入公司工作了，我很期待。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-661",
+      "index": 661,
+      "word": "心得る（こころえる）",
+      "reading": "こころえる",
+      "meaning": {
+        "en": "be aware of",
+        "zh": "明白"
+      },
+      "sentence": {
+        "ja": "社会人と学生との違いを心得ておく。",
+        "zh": "要明白走上社会的社会人和学生之间的区别。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-662",
+      "index": 662,
+      "word": "社会人（しゃかいじん）",
+      "reading": "しゃかいじん",
+      "meaning": {
+        "en": "an adult, a full-fledged member of society",
+        "zh": "走上社会的人"
+      },
+      "sentence": {
+        "ja": "先輩から社会人としての心得を教わる。",
+        "zh": "我向前辈请教了走上社会之后应该注意的事情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-663",
+      "index": 663,
+      "word": "自覚（じかく）［する］",
+      "reading": "じかく",
+      "meaning": {
+        "en": "self-awareness",
+        "zh": "自觉"
+      },
+      "sentence": {
+        "ja": "就職後は社会人としての自覚を持とう。",
+        "zh": "入职后要认识到自己已经走上社会了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l01-664",
+      "index": 664,
+      "word": "いよいよ",
+      "reading": "いよいよ",
+      "meaning": {
+        "en": "finally",
+        "zh": "终于"
+      },
+      "sentence": {
+        "ja": "いよいよ、春から社会人だ。",
+        "zh": "终于，从春天起，我就要走上社会了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

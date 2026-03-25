@@ -1,0 +1,589 @@
+{
+  "id": "ch06-l03",
+  "chapterId": "ch06",
+  "titleJa": "仕事",
+  "titleZh": "工作",
+  "rangeNote": "697～728",
+  "audio": {
+    "track": "Track028",
+    "file": "resources/audio/extracted/万词对策N2/Track028.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l03-697",
+      "index": 697,
+      "word": "ビジネス",
+      "reading": "ビジネス",
+      "meaning": {
+        "en": "business",
+        "zh": "商务，生意"
+      },
+      "sentence": {
+        "ja": "日本でビジネスチャンスをつかみたい。",
+        "zh": "我想在日本抓住做生意的机会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-698",
+      "index": 698,
+      "word": "就く（つく）",
+      "reading": "つく",
+      "meaning": {
+        "en": "take up a job",
+        "zh": "就任，从事"
+      },
+      "sentence": {
+        "ja": "希望していた仕事に就くことができた。",
+        "zh": "我能从事自己想做的工作了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-699",
+      "index": 699,
+      "word": "生きがい（いきがい）",
+      "reading": "いきがい",
+      "meaning": {
+        "en": "purpose of living",
+        "zh": "生活的意义"
+      },
+      "sentence": {
+        "ja": "仕事に生きがいを感じている。",
+        "zh": "从工作中感受到人生的意义。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-700",
+      "index": 700,
+      "word": "やりがい",
+      "reading": "やりがい",
+      "meaning": {
+        "en": "rewarding",
+        "zh": "做事的意义"
+      },
+      "sentence": {
+        "ja": "給料よりやりがいが大切だ。",
+        "zh": "比起工资，工作的意义更重要。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-701",
+      "index": 701,
+      "word": "抱く（いだく）",
+      "reading": "いだく",
+      "meaning": {
+        "en": "hold",
+        "zh": "怀揣"
+      },
+      "sentence": {
+        "ja": "夢を抱いて、日本で働いている。",
+        "zh": "我怀揣着梦想在日本工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-702",
+      "index": 702,
+      "word": "打ち合わせ（うちあわせ）［する］",
+      "reading": "うちあわせ",
+      "meaning": {
+        "en": "meeting",
+        "zh": "商量，洽谈"
+      },
+      "sentence": {
+        "ja": "今日は3時から打ち合わせがある。",
+        "zh": "今天3点要开碰头会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-703",
+      "index": 703,
+      "word": "アポイント",
+      "reading": "アポイント",
+      "meaning": {
+        "en": "appointment",
+        "zh": "约会，约见"
+      },
+      "sentence": {
+        "ja": "メールで打ち合わせのアポイントを取った。",
+        "zh": "通过邮件约了洽谈（时间）。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-704",
+      "index": 704,
+      "word": "応対（おうたい）［する］",
+      "reading": "おうたい",
+      "meaning": {
+        "en": "handling, responding",
+        "zh": "应对"
+      },
+      "sentence": {
+        "ja": "今日は朝から電話の応対で忙しい。",
+        "zh": "我今天从早上开始一直忙于接电话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-705",
+      "index": 705,
+      "word": "传言（でんごん）［する］",
+      "reading": "でんごん",
+      "meaning": {
+        "en": "message",
+        "zh": "转告，留言"
+      },
+      "sentence": {
+        "ja": "部長に伝言をお願いできますか。",
+        "zh": "可以麻烦您转告部长吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-706",
+      "index": 706,
+      "word": "改めて（あらためて）",
+      "reading": "あらためて",
+      "meaning": {
+        "en": "again, once again, formally",
+        "zh": "再，重新"
+      },
+      "sentence": {
+        "ja": "改めてこちらからご連絡します。",
+        "zh": "我会再联系您的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-707",
+      "index": 707,
+      "word": "じかに",
+      "reading": "じかに",
+      "meaning": {
+        "en": "directly",
+        "zh": "直接"
+      },
+      "sentence": {
+        "ja": "この件は上司にじかに報告した方がいい。",
+        "zh": "最好把这件事直接汇报给上司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-708",
+      "index": 708,
+      "word": "プロジェクト",
+      "reading": "プロジェクト",
+      "meaning": {
+        "en": "project",
+        "zh": "项目"
+      },
+      "sentence": {
+        "ja": "大きなプロジェクトが、もうすぐ始まる。",
+        "zh": "有一个大项目就要开始了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-709",
+      "index": 709,
+      "word": "意図（いと）［する］",
+      "reading": "いと",
+      "meaning": {
+        "en": "intention",
+        "zh": "意图，计划"
+      },
+      "sentence": {
+        "ja": "プロジェクトが意図した通りに進まない。",
+        "zh": "项目无法按计划进行。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-710",
+      "index": 710,
+      "word": "新たな（あらたな）",
+      "reading": "あらたな",
+      "meaning": {
+        "en": "new",
+        "zh": "新"
+      },
+      "sentence": {
+        "ja": "新たなプロジェクトが進んでいる。",
+        "zh": "新项目正在进行当中。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-711",
+      "index": 711,
+      "word": "組む（くむ）",
+      "reading": "くむ",
+      "meaning": {
+        "en": "join",
+        "zh": "组，组织"
+      },
+      "sentence": {
+        "ja": "先輩とチームを組んで、新しい企画を立ち上げる。",
+        "zh": "我和前辈组队开始制定新计划。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-712",
+      "index": 712,
+      "word": "取り引き（とりひき）［する］",
+      "reading": "とりひき",
+      "meaning": {
+        "en": "deal",
+        "zh": "交易"
+      },
+      "sentence": {
+        "ja": "うちの会社は一流企業と取り引きがある。",
+        "zh": "我们公司和一流企业有生意往来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-713",
+      "index": 713,
+      "word": "依頼（いらい）［する］",
+      "reading": "いらい",
+      "meaning": {
+        "en": "request",
+        "zh": "委托"
+      },
+      "sentence": {
+        "ja": "デザイナーにパンフレットのデザインを依頼する。",
+        "zh": "委托设计师设计宣传册。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-714",
+      "index": 714,
+      "word": "任せる（まかせる）",
+      "reading": "まかせる",
+      "meaning": {
+        "en": "put in charge",
+        "zh": "委任，委托"
+      },
+      "sentence": {
+        "ja": "次のプロジェクトを任された。",
+        "zh": "我被委任负责下一个项目。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-715",
+      "index": 715,
+      "word": "引き受ける（ひきうける）",
+      "reading": "ひきうける",
+      "meaning": {
+        "en": "accept",
+        "zh": "接受"
+      },
+      "sentence": {
+        "ja": "仕事の依頼を引き受けた。",
+        "zh": "我接下了工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-716",
+      "index": 716,
+      "word": "こなす",
+      "reading": "こなす",
+      "meaning": {
+        "en": "manage, cope with",
+        "zh": "运用自如，完成"
+      },
+      "sentence": {
+        "ja": "彼女はいつもスマートに仕事をこなす。",
+        "zh": "她总是能很利落地完成工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-717",
+      "index": 717,
+      "word": "成果（せいか）",
+      "reading": "せいか",
+      "meaning": {
+        "en": "achievement",
+        "zh": "成果"
+      },
+      "sentence": {
+        "ja": "上司に仕事の成果をほめられた。",
+        "zh": "工作成果获得了上司的表扬。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-718",
+      "index": 718,
+      "word": "達成（たっせい）［する］",
+      "reading": "たっせい",
+      "meaning": {
+        "en": "achievement",
+        "zh": "达成"
+      },
+      "sentence": {
+        "ja": "売り上げ目標を達成するために努力している。",
+        "zh": "为达成销售目标而努力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-719",
+      "index": 719,
+      "word": "作業（さぎょう）［する］",
+      "reading": "さぎょう",
+      "meaning": {
+        "en": "work",
+        "zh": "工作"
+      },
+      "sentence": {
+        "ja": "彼は、いつも効率よく作業を進める。",
+        "zh": "他总是高效地开展工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-720",
+      "index": 720,
+      "word": "保留（ほりゅう）［する］",
+      "reading": "ほりゅう",
+      "meaning": {
+        "en": "withhold, on hold",
+        "zh": "保留，搁置"
+      },
+      "sentence": {
+        "ja": "この件は、しばらく保留させてください。",
+        "zh": "这件事请允许我暂时放一放。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-721",
+      "index": 721,
+      "word": "やり直す（やりなおす）",
+      "reading": "やりなおす",
+      "meaning": {
+        "en": "redo",
+        "zh": "重做"
+      },
+      "sentence": {
+        "ja": "ミスが見つかったので、もう一度やり直した。",
+        "zh": "我发现了错误，所以重做了一次。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-722",
+      "index": 722,
+      "word": "件（けん）",
+      "reading": "けん",
+      "meaning": {
+        "en": "case",
+        "zh": "事情"
+      },
+      "sentence": {
+        "ja": "先日の件、お返事が遅れ、申し訳ございませんでした。",
+        "zh": "关于上次的事情，我回复得晚了，非常抱歉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-723",
+      "index": 723,
+      "word": "急用（きゅうよう）",
+      "reading": "きゅうよう",
+      "meaning": {
+        "en": "emergency",
+        "zh": "急事"
+      },
+      "sentence": {
+        "ja": "急用ができ、午後の会議に出られなくなった。",
+        "zh": "突然有急事，下午的会议我出席不了了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-724",
+      "index": 724,
+      "word": "至急（しきゅう）",
+      "reading": "しきゅう",
+      "meaning": {
+        "en": "urgently",
+        "zh": "火速，赶快"
+      },
+      "sentence": {
+        "ja": "至急、この資料をコピーしてください。",
+        "zh": "请火速复印一下这份资料。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-725",
+      "index": 725,
+      "word": "手順（てじゅん）",
+      "reading": "てじゅん",
+      "meaning": {
+        "en": "process",
+        "zh": "步骤"
+      },
+      "sentence": {
+        "ja": "仕事の手順を早く覚えたい。",
+        "zh": "我想快点记住工作的步骤。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-726",
+      "index": 726,
+      "word": "移動（いどう）［する］",
+      "reading": "いどう",
+      "meaning": {
+        "en": "moving",
+        "zh": "移动"
+      },
+      "sentence": {
+        "ja": "今移動中なので、後で連絡します。",
+        "zh": "我现在正在路上，稍后联系您。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-727",
+      "index": 727,
+      "word": "大工（だいく）",
+      "reading": "だいく",
+      "meaning": {
+        "en": "carpenter",
+        "zh": "木匠"
+      },
+      "sentence": {
+        "ja": "大工になって、自分の家を建てたい。",
+        "zh": "我想当木匠，建造一栋自己的家。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l03-728",
+      "index": 728,
+      "word": "ガードマン",
+      "reading": "ガードマン",
+      "meaning": {
+        "en": "security guard",
+        "zh": "警卫，保镖"
+      },
+      "sentence": {
+        "ja": "身分証明書を忘れて、ガードマンに止められた。",
+        "zh": "我忘了带身份证，被警卫拦住了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

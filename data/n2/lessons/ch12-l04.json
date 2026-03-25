@@ -1,0 +1,301 @@
+{
+  "id": "ch12-l04",
+  "chapterId": "ch12",
+  "titleJa": "副詞",
+  "titleZh": "副词",
+  "rangeNote": "1505～1520",
+  "audio": {
+    "track": "Track059",
+    "file": "resources/audio/extracted/万词对策N2/Track059.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch12-l04-1505",
+      "index": 1505,
+      "word": "何かと（なにかと）",
+      "reading": "なにかと",
+      "meaning": {
+        "en": "one way or another",
+        "zh": "各方面"
+      },
+      "sentence": {
+        "ja": "最近、何かと忙しい。",
+        "zh": "最近各方面都很忙。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1506",
+      "index": 1506,
+      "word": "何だかんだ（なんだかんだ）",
+      "reading": "なんだかんだ",
+      "meaning": {
+        "en": "one thing or another",
+        "zh": "种种"
+      },
+      "sentence": {
+        "ja": "母は何だかんだとうるさい。",
+        "zh": "妈妈总是唠叨这个唠叨那个，很烦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1507",
+      "index": 1507,
+      "word": "なぜか",
+      "reading": "なぜか",
+      "meaning": {
+        "en": "for some reason",
+        "zh": "不由得，不知怎的"
+      },
+      "sentence": {
+        "ja": "今日はなぜか食欲がない。",
+        "zh": "今天不知为什么，我食欲不好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1508",
+      "index": 1508,
+      "word": "何だか（なんだか）",
+      "reading": "なんだか",
+      "meaning": {
+        "en": "somehow",
+        "zh": "总觉得"
+      },
+      "sentence": {
+        "ja": "何だか今日は気が重い。",
+        "zh": "今天我总感觉心情沉重。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1509",
+      "index": 1509,
+      "word": "何しろ（なにしろ）",
+      "reading": "なにしろ",
+      "meaning": {
+        "en": "at any rate",
+        "zh": "不管怎样，毕竟，因为"
+      },
+      "sentence": {
+        "ja": "最近、疲れ気味だ。何しろ仕事が忙しい。",
+        "zh": "最近我容易累，因为工作很忙。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1510",
+      "index": 1510,
+      "word": "何とも（なんとも）（～ない）",
+      "reading": "なんとも",
+      "meaning": {
+        "en": "nothing at all",
+        "zh": "真的，什么也（没有）"
+      },
+      "sentence": {
+        "ja": "彼のことなんて、もう何とも思っていない。",
+        "zh": "我已经对他完全没有感觉了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1511",
+      "index": 1511,
+      "word": "どうか",
+      "reading": "どうか",
+      "meaning": {
+        "en": "please",
+        "zh": "务必"
+      },
+      "sentence": {
+        "ja": "この件、どうかよろしくお願いいたします。",
+        "zh": "这件事务必拜托您了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1512",
+      "index": 1512,
+      "word": "どうにか",
+      "reading": "どうにか",
+      "meaning": {
+        "en": "somehow, in some way",
+        "zh": "总算，想办法"
+      },
+      "sentence": {
+        "ja": "ぎりぎりの点だったが、どうにか試験に合格できた。",
+        "zh": "分数刚刚好过线，考试总算及格了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1513",
+      "index": 1513,
+      "word": "どうしても",
+      "reading": "どうしても",
+      "meaning": {
+        "en": "by all means, inevitably",
+        "zh": "无论如何也要；怎么也"
+      },
+      "sentence": {
+        "ja": "①どうしても志望大学に合格したい。②どうしても論文が書けない。",
+        "zh": "①我无论如何都想考上心仪的大学。②我怎么也写不出论文。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1514",
+      "index": 1514,
+      "word": "どうせ",
+      "reading": "どうせ",
+      "meaning": {
+        "en": "anyway",
+        "zh": "反正"
+      },
+      "sentence": {
+        "ja": "うちのチームなんか、どうせ勝てない。",
+        "zh": "反正我们队也赢不了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1515",
+      "index": 1515,
+      "word": "どうやら",
+      "reading": "どうやら",
+      "meaning": {
+        "en": "evidently",
+        "zh": "好歹，多半"
+      },
+      "sentence": {
+        "ja": "どうやら明日は暑くなりそうだ。",
+        "zh": "明天多半会热起来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1516",
+      "index": 1516,
+      "word": "とにかく",
+      "reading": "とにかく",
+      "meaning": {
+        "en": "in any case",
+        "zh": "姑且，总之"
+      },
+      "sentence": {
+        "ja": "店は满席かもしれないが、とにかく行ってみよう。",
+        "zh": "店里可能满座了，总之先去看看吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1517",
+      "index": 1517,
+      "word": "とても（～ない）",
+      "reading": "～ない",
+      "meaning": {
+        "en": "by any possibility",
+        "zh": "怎么也（不）"
+      },
+      "sentence": {
+        "ja": "今の日本語力ではとても日本で就職できない。",
+        "zh": "凭现在的日语水平，很难在日本就业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1518",
+      "index": 1518,
+      "word": "より",
+      "reading": "より",
+      "meaning": {
+        "en": "do more",
+        "zh": "更"
+      },
+      "sentence": {
+        "ja": "今後はよりいっそう努力するつもりだ。",
+        "zh": "今后我打算加倍努力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1519",
+      "index": 1519,
+      "word": "いかに",
+      "reading": "いかに",
+      "meaning": {
+        "en": "how",
+        "zh": "如何"
+      },
+      "sentence": {
+        "ja": "日本の技術がいかに進んでいるか、よくわかった。",
+        "zh": "我终于明白了日本的技术是如何发展的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch12-l04-1520",
+      "index": 1520,
+      "word": "いかにも",
+      "reading": "いかにも",
+      "meaning": {
+        "en": "indeed",
+        "zh": "的确，实在"
+      },
+      "sentence": {
+        "ja": "あの子はいかにも賢そうだ。",
+        "zh": "那个孩子看起来真的很聪明。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

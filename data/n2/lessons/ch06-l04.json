@@ -1,0 +1,445 @@
+{
+  "id": "ch06-l04",
+  "chapterId": "ch06",
+  "titleJa": "上下関係",
+  "titleZh": "上下级关系",
+  "rangeNote": "729～752",
+  "audio": {
+    "track": "Track029",
+    "file": "resources/audio/extracted/万词对策N2/Track029.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l04-729",
+      "index": 729,
+      "word": "地位（ちい）",
+      "reading": "ちい",
+      "meaning": {
+        "en": "position",
+        "zh": "地位"
+      },
+      "sentence": {
+        "ja": "地位の高い人とは少し話しにくい。",
+        "zh": "和地位高的人对话有点难。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-730",
+      "index": 730,
+      "word": "目上（めうえ）",
+      "reading": "めうえ",
+      "meaning": {
+        "en": "someone who is your senior",
+        "zh": "上级，长辈"
+      },
+      "sentence": {
+        "ja": "目上の人には敬語を使わないと失礼だ。",
+        "zh": "对于上级和长辈不用敬语的话不礼貌。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-731",
+      "index": 731,
+      "word": "敬意（けいい）",
+      "reading": "けいい",
+      "meaning": {
+        "en": "sense of respect",
+        "zh": "敬意"
+      },
+      "sentence": {
+        "ja": "あの若者はお年寄りに敬意を持って話す。",
+        "zh": "那个年轻人面对老年人，带着敬意说话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-732",
+      "index": 732,
+      "word": "敬う（うやまう）",
+      "reading": "うやまう",
+      "meaning": {
+        "en": "respect",
+        "zh": "尊敬"
+      },
+      "sentence": {
+        "ja": "目上の人を心から敬う。",
+        "zh": "由衷地尊敬上级和长辈。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-733",
+      "index": 733,
+      "word": "的確な（てきかくな）",
+      "reading": "てきかくな",
+      "meaning": {
+        "en": "accurate",
+        "zh": "恰当，正确"
+      },
+      "sentence": {
+        "ja": "先輩の的確なアドバイスは、ありがたい。",
+        "zh": "对前辈的中肯建议感激不尽。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-734",
+      "index": 734,
+      "word": "忠告（ちゅうこく）［する］",
+      "reading": "ちゅうこく",
+      "meaning": {
+        "en": "warning",
+        "zh": "忠告，忠言"
+      },
+      "sentence": {
+        "ja": "祖父の忠告は今も役に立っている。",
+        "zh": "祖父的忠言至今仍让我受益匪浅。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-735",
+      "index": 735,
+      "word": "サポート［する］",
+      "reading": "サポート［する］",
+      "meaning": {
+        "en": "support",
+        "zh": "支持"
+      },
+      "sentence": {
+        "ja": "新入社員は先輩達にサポートしてもらう。",
+        "zh": "新员工由前辈们协助。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-736",
+      "index": 736,
+      "word": "いばる",
+      "reading": "いばる",
+      "meaning": {
+        "en": "be bossy",
+        "zh": "自以为是，摆架子"
+      },
+      "sentence": {
+        "ja": "部下に対していばる上司には、なりたくない。",
+        "zh": "我不想当那种对部下摆架子的上司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-737",
+      "index": 737,
+      "word": "押し付ける（おしつける）",
+      "reading": "おしつける",
+      "meaning": {
+        "en": "press",
+        "zh": "强加于人，推压"
+      },
+      "sentence": {
+        "ja": "先輩に仕事を押し付けられた。",
+        "zh": "我被迫接受了前辈交给的工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-738",
+      "index": 738,
+      "word": "ご無沙汰（ごぶさた）［する］",
+      "reading": "ごぶさた",
+      "meaning": {
+        "en": "not in contact for a long time",
+        "zh": "久疏问候"
+      },
+      "sentence": {
+        "ja": "先生、久しくご無沙汰しております。",
+        "zh": "老师，好久不见了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-739",
+      "index": 739,
+      "word": "恐縮（きょうしゅく）［する］",
+      "reading": "きょうしゅく",
+      "meaning": {
+        "en": "feel ashamed, feel humbled, feel obliged",
+        "zh": "过意不去"
+      },
+      "sentence": {
+        "ja": "ご無沙汰している先生から連絡があり、恐縮した。",
+        "zh": "很久没联系的老师联系了我，我很愧疚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-740",
+      "index": 740,
+      "word": "信頼（しんらい）［する］",
+      "reading": "しんらい",
+      "meaning": {
+        "en": "trust",
+        "zh": "信赖，相信"
+      },
+      "sentence": {
+        "ja": "あの先輩は信頼できる人だと思う。",
+        "zh": "我觉得那个前辈是值得信赖的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-741",
+      "index": 741,
+      "word": "従う（したがう）",
+      "reading": "したがう",
+      "meaning": {
+        "en": "follow",
+        "zh": "遵守，服从"
+      },
+      "sentence": {
+        "ja": "社員は会社の規則に従わなければならない。",
+        "zh": "职员必须遵守公司规定。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-742",
+      "index": 742,
+      "word": "うなずく",
+      "reading": "うなずく",
+      "meaning": {
+        "en": "nod",
+        "zh": "点头，首肯"
+      },
+      "sentence": {
+        "ja": "上司は私の話を、いつもうなずきながら聞いてくれる。",
+        "zh": "上司总是一边点头，一边听我说话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-743",
+      "index": 743,
+      "word": "反論（はんろん）［する］",
+      "reading": "はんろん",
+      "meaning": {
+        "en": "argue",
+        "zh": "反驳"
+      },
+      "sentence": {
+        "ja": "会社のために上司の意見に反論した。",
+        "zh": "为了公司，我反驳了上司的意见。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-744",
+      "index": 744,
+      "word": "わびる",
+      "reading": "わびる",
+      "meaning": {
+        "en": "apologize",
+        "zh": "道歉"
+      },
+      "sentence": {
+        "ja": "仕事のミスを上司にわびた。",
+        "zh": "工作上失误了，我向上司道了歉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-745",
+      "index": 745,
+      "word": "やる気（やるき）",
+      "reading": "やるき",
+      "meaning": {
+        "en": "motivation",
+        "zh": "干劲"
+      },
+      "sentence": {
+        "ja": "上司にやる気をアピールして、プロジェクトに参加した。",
+        "zh": "我向上司表示自己有干劲，之后我加入了这个项目。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-746",
+      "index": 746,
+      "word": "お世辞（おせじ）",
+      "reading": "おせじ",
+      "meaning": {
+        "en": "flattery",
+        "zh": "恭维，奉承"
+      },
+      "sentence": {
+        "ja": "あの人はお世辞がうまい。",
+        "zh": "那个人很会恭维别人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-747",
+      "index": 747,
+      "word": "ごまをする",
+      "reading": "ごまをする",
+      "meaning": {
+        "en": "flatter",
+        "zh": "拍马屁"
+      },
+      "sentence": {
+        "ja": "上司にごまをするなんて嫌いだ。",
+        "zh": "我讨厌拍上司马屁。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-748",
+      "index": 748,
+      "word": "上等な（じょうとうな）",
+      "reading": "じょうとうな",
+      "meaning": {
+        "en": "good quality",
+        "zh": "上等"
+      },
+      "sentence": {
+        "ja": "夏と冬に、クライアントに上等なワインを贈る。",
+        "zh": "夏季和冬季向客户赠送上等的红酒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-749",
+      "index": 749,
+      "word": "苦痛（くつう）",
+      "reading": "くつう",
+      "meaning": {
+        "en": "pain",
+        "zh": "苦痛，苦恼"
+      },
+      "sentence": {
+        "ja": "残業が毎日続くのは苦痛だ。",
+        "zh": "每天加班真痛苦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-750",
+      "index": 750,
+      "word": "夫人（ふじん）",
+      "reading": "ふじん",
+      "meaning": {
+        "en": "wife of, Mrs.",
+        "zh": "夫人"
+      },
+      "sentence": {
+        "ja": "今日、部長夫人に初めてお会いした。",
+        "zh": "我今天第一次见到了部长夫人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-751",
+      "index": 751,
+      "word": "ベテラン",
+      "reading": "ベテラン",
+      "meaning": {
+        "en": "veteran",
+        "zh": "专家，老手"
+      },
+      "sentence": {
+        "ja": "ベテランの上司にクライアントの情報を教えてもらう。",
+        "zh": "我向经验老道的上司请教了有关客户的事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch06-l04-752",
+      "index": 752,
+      "word": "平社員（ひらしゃいん）",
+      "reading": "ひらしゃいん",
+      "meaning": {
+        "en": "employee with no title",
+        "zh": "普通职员"
+      },
+      "sentence": {
+        "ja": "入社5年だが、まだ平社員だ。",
+        "zh": "我进公司5年了，但还只是一个普通职员。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}
