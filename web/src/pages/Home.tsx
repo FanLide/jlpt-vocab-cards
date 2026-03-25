@@ -1,16 +1,38 @@
+import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { friendlyChapterTitle, structure } from '../lib/data'
+import {
+  friendlyChapterTitle,
+  loadBookStructure,
+  getBookEntry,
+  type BookStructure,
+} from '../lib/data'
 import './Home.css'
 
 export function HomePage() {
   const { bookId } = useParams<{ bookId: string }>()
+  const [structure, setStructure] = useState<BookStructure | null>(null)
+
+  useEffect(() => {
+    if (!bookId) return
+    loadBookStructure(bookId).then(setStructure)
+  }, [bookId])
+
+  const bookEntry = bookId ? getBookEntry(bookId) : null
+
+  if (!structure) {
+    return (
+      <div className="home-page">
+        <div className="home-loading">加载中…</div>
+      </div>
+    )
+  }
 
   return (
     <div className="home-page">
       <header className="home-header">
         <div className="home-header-left">
           <Link to="/" className="home-back-link">← 书架</Link>
-          <h2 className="home-title">{structure.book.title}</h2>
+          <h2 className="home-title">{bookEntry?.title ?? structure.book.title}</h2>
         </div>
         <Link to="/settings" className="home-settings-link">⚙ 设置</Link>
       </header>

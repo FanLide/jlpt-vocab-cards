@@ -44,6 +44,13 @@
   margin: 0;
 }
 
+.home-loading {
+  padding: 40px 16px;
+  text-align: center;
+  opacity: 0.5;
+  font-size: 14px;
+}
+
 .home-settings-link {
   font-size: 13px;
   color: var(--accent);

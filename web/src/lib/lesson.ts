@@ -17,11 +17,17 @@ export type Lesson = {
   cards: Card[]
 }
 
-const lessonFiles = import.meta.glob('../../../data/n2/lessons/*.json')
+// glob 覆盖所有书的 lessons 目录（新增书时只需新建目录）
+const allLessonFiles = import.meta.glob('../../../data/*/lessons/*.json')
 
-export async function loadLesson(lessonId: string): Promise<Lesson | null> {
-  const key = `../../../data/n2/lessons/${lessonId}.json`
-  const loader = lessonFiles[key] as undefined | (() => Promise<{ default: unknown }>)
+/**
+ * 加载课程 JSON
+ * @param lessonId  如 "ch01-l01"
+ * @param lessonDir 书的课程目录名，如 "n2"（来自 book-catalog.json）
+ */
+export async function loadLesson(lessonId: string, lessonDir = 'n2'): Promise<Lesson | null> {
+  const key = `../../../data/${lessonDir}/lessons/${lessonId}.json`
+  const loader = allLessonFiles[key] as undefined | (() => Promise<{ default: unknown }>)
   if (!loader) return null
   const mod = await loader()
   return mod.default as Lesson

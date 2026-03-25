@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { getLessonMeta, friendlyLessonTitle, getNextLessonId } from '../lib/data'
+import { getLessonMeta, friendlyLessonTitle, getNextLessonId, getBookEntry } from '../lib/data'
 import { loadLesson } from '../lib/lesson'
 import { isAudioCached, precacheAudio } from '../lib/cacheAudio'
 import { CardDeck } from '../components/CardDeck'
@@ -10,6 +10,8 @@ import './Lesson.css'
 
 export function LessonPage() {
   const { bookId, lessonId } = useParams<{ bookId: string; lessonId: string }>()
+  const bookEntry = bookId ? getBookEntry(bookId) : null
+  const lessonDir = bookEntry?.lessonDir ?? 'n2'
   const meta = useMemo(() => (lessonId ? getLessonMeta(lessonId) : null), [lessonId])
 
   const [lesson, setLesson] = useState<Awaited<ReturnType<typeof loadLesson>>>(null)
@@ -26,7 +28,7 @@ export function LessonPage() {
     setError(null)
     setLesson(null)
     if (!lessonId) return
-    loadLesson(lessonId)
+    loadLesson(lessonId, lessonDir)
       .then((x) => setLesson(x))
       .catch((e) => setError(String(e)))
   }, [lessonId])

@@ -2,6 +2,8 @@
   {
     "id": "vocab-taisaku-n2",
     "structureFile": "n2-lesson-structure.json",
+    "lessonDir": "n2",
+    "audioMapFile": "n2-audio-map.csv",
     "title": "万词对策 N2",
     "titleJa": "新日語能力考試 万詞対策 N2",
     "level": "N2",
