@@ -1,7 +1,10 @@
 .settings-page {
-  padding: 16px 16px 40px;
+  width: 100%;
   max-width: 680px;
   margin: 0 auto;
+  padding: 16px 16px 40px;
+  padding-left: max(16px, env(safe-area-inset-left));
+  padding-right: max(16px, env(safe-area-inset-right));
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
