@@ -16,11 +16,25 @@
   margin-bottom: 24px;
 }
 
+.home-header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.home-back-link {
+  font-size: 13px;
+  color: var(--accent);
+  text-decoration: none;
+  opacity: 0.8;
+}
+.home-back-link:hover { opacity: 1; }
+
 .home-title {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   color: var(--text-h);
-  margin: 0 0 4px;
+  margin: 0;
   letter-spacing: -0.3px;
 }
 

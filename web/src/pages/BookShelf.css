@@ -1,0 +1,138 @@
+.shelf-page {
+  padding: 24px 16px 40px;
+  padding-left: max(16px, env(safe-area-inset-left));
+  padding-right: max(16px, env(safe-area-inset-right));
+  max-width: 680px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.shelf-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.shelf-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--text-h);
+  margin: 0;
+  letter-spacing: -0.5px;
+}
+
+.shelf-settings-link {
+  font-size: 18px;
+  color: var(--text);
+  opacity: 0.5;
+  text-decoration: none;
+  padding: 6px;
+  transition: opacity 0.2s;
+}
+.shelf-settings-link:hover { opacity: 1; }
+
+/* 书单网格 */
+.shelf-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* 每本书 */
+.shelf-book-card {
+  display: flex;
+  align-items: stretch;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  text-decoration: none;
+  overflow: hidden;
+  transition: box-shadow 0.2s, transform 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.shelf-book-card:active {
+  transform: scale(0.985);
+}
+.shelf-book-card:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+/* 左侧彩色脊背 */
+.shelf-book-spine {
+  width: 6px;
+  flex-shrink: 0;
+  background: var(--book-color, var(--accent));
+  border-radius: 0;
+}
+
+/* 书的内容 */
+.shelf-book-body {
+  flex: 1;
+  padding: 18px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.shelf-book-level {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--book-color, var(--accent));
+  background: color-mix(in srgb, var(--book-color, var(--accent)) 12%, transparent);
+  border-radius: 5px;
+  padding: 2px 7px;
+  width: fit-content;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.shelf-book-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text-h);
+  letter-spacing: -0.2px;
+}
+
+.shelf-book-title-ja {
+  font-size: 12px;
+  color: var(--text);
+  opacity: 0.55;
+}
+
+.shelf-book-desc {
+  font-size: 12px;
+  color: var(--text);
+  opacity: 0.6;
+  margin-top: 4px;
+}
+
+/* 右侧箭头 */
+.shelf-book-arrow {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  font-size: 18px;
+  color: var(--text);
+  opacity: 0.3;
+}
+
+/* 占位卡片 */
+.shelf-book-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 20px;
+  border-radius: 16px;
+  border: 1.5px dashed var(--border);
+  color: var(--text);
+  opacity: 0.4;
+  font-size: 14px;
+  font-weight: 500;
+}
+.shelf-placeholder-sub {
+  font-size: 12px;
+  font-weight: 400;
+}

@@ -9,7 +9,7 @@ import { useLoopEnabled, useAutoNextLesson } from '../lib/settings'
 import './Lesson.css'
 
 export function LessonPage() {
-  const { lessonId } = useParams<{ lessonId: string }>()
+  const { bookId, lessonId } = useParams<{ bookId: string; lessonId: string }>()
   const meta = useMemo(() => (lessonId ? getLessonMeta(lessonId) : null), [lessonId])
 
   const [lesson, setLesson] = useState<Awaited<ReturnType<typeof loadLesson>>>(null)
@@ -64,7 +64,7 @@ export function LessonPage() {
 
       {/* 顶栏：返回 + 课程名 + 下载按钮一行 */}
       <div className="lesson-topbar">
-        <Link to="/" className="lesson-back-btn">←</Link>
+        <Link to={bookId ? `/book/${bookId}` : '/'} className="lesson-back-btn">←</Link>
         <span className="lesson-topbar-title">
           {meta ? friendlyLessonTitle(meta.lesson) : lessonId}
         </span>
@@ -95,7 +95,7 @@ export function LessonPage() {
                 onEnded={() => {
                   if (autoNext && lessonId) {
                     const nextId = getNextLessonId(lessonId)
-                    if (nextId) navigate(`/lesson/${nextId}`)
+                    if (nextId) navigate(`/book/${bookId}/lesson/${nextId}`)
                   }
                 }}
               />
