@@ -49,8 +49,24 @@
     background: linear-gradient(145deg, #1e1f28 0%, #17181f 100%);
   }
   .vocab-card-back {
-    background: linear-gradient(145deg, #1a1b2e 0%, #16172a 100%);
+    background: linear-gradient(145deg, #1e1a2e 0%, #18142a 100%);
     border-color: var(--accent-border);
+  }
+  /* 暗黑模式：背面文字强制亮色，避免和深色背景混同 */
+  .vocab-card-back .card-word,
+  .vocab-card-back .card-meaning-row,
+  .vocab-card-back .card-sentence-ja {
+    color: #f0eeff;
+  }
+  .vocab-card-back .card-reading-small {
+    color: #c084fc;
+  }
+  .vocab-card-back .card-sentence-zh {
+    color: #b8b0cc;
+  }
+  .vocab-card-back .card-meaning-lang {
+    background: rgba(192, 132, 252, 0.2);
+    color: #c084fc;
   }
 }
 

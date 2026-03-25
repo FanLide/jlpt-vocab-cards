@@ -1,6 +1,9 @@
 .lesson-page {
   padding: 10px 12px 12px;
+  padding-left: max(12px, env(safe-area-inset-left));
+  padding-right: max(12px, env(safe-area-inset-right));
   padding-bottom: max(12px, env(safe-area-inset-bottom));
+  width: 100%;
   max-width: 680px;
   margin: 0 auto;
   box-sizing: border-box;
@@ -8,15 +11,13 @@
   flex-direction: column;
   gap: 8px;
   height: 100svh;
-  /* 卡片模式不滚动，列表模式允许滚动 */
   overflow: hidden;
 }
 
-/* 列表模式时允许滚动 */
+/* 列表模式：页面本身不滚动，只让列表区域滚动 */
 .lesson-page.list-mode {
-  overflow-y: auto;
-  height: auto;
-  min-height: 100svh;
+  overflow: hidden;
+  height: 100svh;
 }
 
 /* 顶栏：返回 + 课程名一行 */
@@ -118,4 +119,14 @@
   font-size: 14px;
   padding: 24px 0;
   text-align: center;
+}
+
+/* 列表模式容器：固定高度，内部滚动 */
+.list-mode-container {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
 }

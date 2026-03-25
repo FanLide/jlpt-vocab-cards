@@ -1,9 +1,30 @@
 import { Link } from 'react-router-dom'
-import { useLoopEnabled } from '../lib/settings'
+import { useLoopEnabled, useAutoNextLesson } from '../lib/settings'
 import './Settings.css'
 
+function ToggleRow({
+  label, desc, value, onChange,
+}: { label: string; desc: string; value: boolean; onChange: (v: boolean) => void }) {
+  return (
+    <div className="settings-row">
+      <div className="settings-row-info">
+        <div className="settings-row-label">{label}</div>
+        <div className="settings-row-desc">{desc}</div>
+      </div>
+      <button
+        className={`toggle-btn ${value ? 'on' : ''}`}
+        onClick={() => onChange(!value)}
+        aria-pressed={value}
+      >
+        <span className="toggle-thumb" />
+      </button>
+    </div>
+  )
+}
+
 export function SettingsPage() {
-  const [loop, setLoop] = useLoopEnabled()
+  const [loop,     setLoop]     = useLoopEnabled()
+  const [autoNext, setAutoNext] = useAutoNextLesson()
 
   return (
     <div className="settings-page">
@@ -14,19 +35,18 @@ export function SettingsPage() {
       <h2 className="settings-title">设置</h2>
 
       <div className="settings-section">
-        <div className="settings-row">
-          <div className="settings-row-info">
-            <div className="settings-row-label">循环播放</div>
-            <div className="settings-row-desc">打开后：最后一张 → 下一张会回到第一张</div>
-          </div>
-          <button
-            className={`toggle-btn ${loop ? 'on' : ''}`}
-            onClick={() => setLoop(!loop)}
-            aria-pressed={loop}
-          >
-            <span className="toggle-thumb" />
-          </button>
-        </div>
+        <ToggleRow
+          label="单课循环"
+          desc="打开后：最后一张 → 下一张回到第一张"
+          value={loop}
+          onChange={setLoop}
+        />
+        <ToggleRow
+          label="完成后自动下一课"
+          desc="播放完本课最后一张，自动跳转到下一课"
+          value={autoNext}
+          onChange={setAutoNext}
+        />
       </div>
     </div>
   )

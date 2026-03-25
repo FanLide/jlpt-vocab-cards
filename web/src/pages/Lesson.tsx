@@ -1,11 +1,11 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
-import { getLessonMeta, friendlyLessonTitle } from '../lib/data'
+import { Link, useNavigate, useParams } from 'react-router-dom'
+import { getLessonMeta, friendlyLessonTitle, getNextLessonId } from '../lib/data'
 import { loadLesson } from '../lib/lesson'
 import { isAudioCached, precacheAudio } from '../lib/cacheAudio'
 import { CardDeck } from '../components/CardDeck'
 import { CardList } from '../components/CardList'
-import { useLoopEnabled } from '../lib/settings'
+import { useLoopEnabled, useAutoNextLesson } from '../lib/settings'
 import './Lesson.css'
 
 export function LessonPage() {
@@ -13,7 +13,9 @@ export function LessonPage() {
   const meta = useMemo(() => (lessonId ? getLessonMeta(lessonId) : null), [lessonId])
 
   const [lesson, setLesson] = useState<Awaited<ReturnType<typeof loadLesson>>>(null)
-  const [loopEnabled] = useLoopEnabled()
+  const navigate = useNavigate()
+  const [loopEnabled]  = useLoopEnabled()
+  const [autoNext]     = useAutoNextLesson()
   const [cacheState, setCacheState] = useState<'unknown' | 'cached' | 'not-cached'>('unknown')
   const [downloading, setDownloading] = useState(false)
   const [error, setError] = useState<string | null>(null)
@@ -92,11 +94,18 @@ export function LessonPage() {
               cards={lesson.cards}
               loop={loopEnabled}
               pos={pos}
-              onPosChange={setPos}
+              onPosChange={(p) => {
+                setPos(p)
+                // autoNext: 到达最后一张时跳下一课
+                if (autoNext && p === lesson.cards.length - 1 && lessonId) {
+                  const nextId = getNextLessonId(lessonId)
+                  if (nextId) setTimeout(() => navigate(`/lesson/${nextId}`), 600)
+                }
+              }}
               onToggleMode={() => setMode('list')}
             />
           ) : (
-            <>
+            <div className="list-mode-container">
               <div className="list-header">
                 <span className="list-title">列表</span>
                 <button className="mode-switch-btn" onClick={() => setMode('deck')}>卡片模式</button>
@@ -105,7 +114,7 @@ export function LessonPage() {
                 cards={lesson.cards}
                 onSelect={(p) => { setPos(p); setMode('deck') }}
               />
-            </>
+            </div>
           )}
         </>
       ) : !error ? (

@@ -36,3 +36,11 @@ export function getLessonMeta(lessonId: string) {
   }
   return null
 }
+
+/** 返回下一课的 lessonId，没有则返回 null */
+export function getNextLessonId(lessonId: string): string | null {
+  const allLessons = structure.chapters.flatMap((ch) => ch.lessons)
+  const idx = allLessons.findIndex((l) => l.id === lessonId)
+  if (idx < 0 || idx >= allLessons.length - 1) return null
+  return allLessons[idx + 1].id
+}
