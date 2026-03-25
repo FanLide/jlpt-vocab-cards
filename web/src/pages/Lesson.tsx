@@ -83,10 +83,22 @@ export function LessonPage() {
 
       {lesson ? (
         <>
-          {/* 音频：播放条占满宽度 */}
+          {/* 音频：播放条占满宽度，绑定 loop / autoNext */}
           {audioUrl && (
             <div className="audio-row">
-              <audio className="audio-player" controls preload="metadata" src={audioUrl} />
+              <audio
+                className="audio-player"
+                controls
+                preload="metadata"
+                src={audioUrl}
+                loop={loopEnabled}
+                onEnded={() => {
+                  if (autoNext && lessonId) {
+                    const nextId = getNextLessonId(lessonId)
+                    if (nextId) navigate(`/lesson/${nextId}`)
+                  }
+                }}
+              />
             </div>
           )}
 
@@ -96,14 +108,7 @@ export function LessonPage() {
               cards={lesson.cards}
               loop={loopEnabled}
               pos={pos}
-              onPosChange={(p) => {
-                setPos(p)
-                // autoNext: 到达最后一张时跳下一课
-                if (autoNext && p === lesson.cards.length - 1 && lessonId) {
-                  const nextId = getNextLessonId(lessonId)
-                  if (nextId) setTimeout(() => navigate(`/lesson/${nextId}`), 600)
-                }
-              }}
+              onPosChange={setPos}
               onToggleMode={() => setMode('list')}
             />
           ) : (
