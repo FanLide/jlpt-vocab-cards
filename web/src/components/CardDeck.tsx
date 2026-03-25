@@ -9,9 +9,10 @@ type Props = {
   loop: boolean
   pos?: number
   onPosChange?: (pos: number) => void
+  onToggleMode?: () => void
 }
 
-export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props) {
+export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggleMode }: Props) {
   const [innerPos, setInnerPos] = useState(0)
   const pos = controlledPos ?? innerPos
 
@@ -60,16 +61,15 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
 
   const minIndex = cards[0]?.index
   const maxIndex = cards[cards.length - 1]?.index
-
   const clearToast = useCallback(() => setToast(null), [])
 
   if (!current) return <div className="deck-empty">本课暂无卡片</div>
 
   return (
     <div className="card-deck">
-      {/* 进度栏 */}
-      <div className="deck-progress">
-        <span className="deck-pos">{pos + 1} <span className="deck-total">/ {total}</span></span>
+      {/* 进度 + 跳转 + 列表切换 — 一行 */}
+      <div className="deck-toolbar">
+        <span className="deck-pos">{pos + 1}<span className="deck-total">/{total}</span></span>
         <div className="deck-progress-bar">
           <div className="deck-progress-fill" style={{ width: `${((pos + 1) / total) * 100}%` }} />
         </div>
@@ -86,9 +86,12 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
             else setToast(`没有编号 ${n}`)
           }}
         />
+        {onToggleMode && (
+          <button className="deck-list-btn" onClick={onToggleMode} title="切换列表">☰</button>
+        )}
       </div>
 
-      {/* 卡片区 */}
+      {/* 卡片区：flex-grow 撑满剩余空间 */}
       <div
         className="deck-card-area"
         onPointerDown={onPointerDown}
@@ -98,10 +101,10 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
         <VocabCard key={current.id} card={current} />
       </div>
 
-      {/* 底部按钮 */}
+      {/* 底部左右按钮 */}
       <div className="deck-nav">
         <button className="deck-btn" onClick={prev} disabled={!canPrev}>← 上一张</button>
-        <span className="deck-hint">左右滑动翻卡</span>
+        <span className="deck-hint">左右滑动</span>
         <button className="deck-btn" onClick={next} disabled={!canNext}>下一张 →</button>
       </div>
 

@@ -1,7 +1,7 @@
 .vocab-card {
   width: 100%;
-  height: 72svh;
-  min-height: 320px;
+  flex: 1;            /* 撑满 deck-card-area */
+  min-height: 240px;
   perspective: 1200px;
   cursor: pointer;
   user-select: none;
@@ -15,10 +15,16 @@
   position: relative;
   transform-style: preserve-3d;
   transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
-  border-radius: 24px;
+  border-radius: 20px;
   box-shadow:
     0 4px 6px -1px rgba(0, 0, 0, 0.06),
     0 20px 40px -8px rgba(0, 0, 0, 0.12);
+}
+
+/* 让 vocab-card-front/back 的 border-radius 跟 inner 一致 */
+.vocab-card-front,
+.vocab-card-back {
+  border-radius: 20px;
 }
 
 .vocab-card.revealed .vocab-card-inner {

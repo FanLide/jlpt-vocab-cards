@@ -1,7 +1,9 @@
 .card-deck {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 8px;
+  flex: 1;           /* 撑满 lesson-page 剩余高度 */
+  min-height: 0;
 }
 
 .deck-empty {
@@ -10,23 +12,24 @@
   text-align: center;
 }
 
-/* Progress */
-.deck-progress {
+/* 工具栏：进度 + 跳转 + 列表按钮 */
+.deck-toolbar {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
+  height: 32px;
 }
 
 .deck-pos {
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 700;
   color: var(--text-h);
-  min-width: 52px;
+  white-space: nowrap;
 }
-
 .deck-total {
   font-weight: 400;
-  opacity: 0.5;
+  opacity: 0.45;
+  font-size: 12px;
 }
 
 .deck-progress-bar {
@@ -36,22 +39,21 @@
   background: var(--border);
   overflow: hidden;
 }
-
 .deck-progress-fill {
   height: 100%;
   background: var(--accent);
   border-radius: 2px;
-  transition: width 0.3s ease;
+  transition: width 0.25s ease;
 }
 
 .deck-jump-input {
-  width: 72px;
-  padding: 6px 10px;
+  width: 64px;
+  padding: 5px 8px;
   border-radius: 8px;
   border: 1.5px solid var(--border);
   background: var(--code-bg);
   color: var(--text-h);
-  font-size: 13px;
+  font-size: 12px;
   text-align: center;
   transition: border-color 0.2s;
 }
@@ -60,35 +62,62 @@
   border-color: var(--accent);
 }
 
-/* Card area */
-.deck-card-area {
-  touch-action: pan-y;
+.deck-list-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  border: 1.5px solid var(--border);
+  background: var(--code-bg);
+  color: var(--text-h);
+  font-size: 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.15s;
+}
+.deck-list-btn:hover {
+  background: var(--accent-bg);
+  border-color: var(--accent-border);
+  color: var(--accent);
 }
 
-/* Nav */
+/* 卡片区：撑满剩余空间 */
+.deck-card-area {
+  flex: 1;
+  min-height: 0;
+  touch-action: pan-y;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 底部导航 */
 .deck-nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 8px;
+  padding-bottom: env(safe-area-inset-bottom, 0px); /* iOS safe area */
 }
 
 .deck-hint {
-  font-size: 12px;
-  opacity: 0.4;
+  font-size: 11px;
+  opacity: 0.35;
   text-align: center;
 }
 
 .deck-btn {
-  padding: 10px 20px;
-  border-radius: 12px;
+  padding: 9px 16px;
+  border-radius: 10px;
   border: 1.5px solid var(--border);
   background: var(--code-bg);
   color: var(--text-h);
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 500;
   cursor: pointer;
   transition: background 0.15s, border-color 0.15s;
+  -webkit-tap-highlight-color: transparent;
 }
 .deck-btn:hover:not(:disabled) {
   background: var(--accent-bg);
@@ -96,6 +125,6 @@
   color: var(--accent);
 }
 .deck-btn:disabled {
-  opacity: 0.3;
+  opacity: 0.25;
   cursor: default;
 }

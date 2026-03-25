@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { getLessonMeta, friendlyChapterTitle, friendlyLessonTitle } from '../lib/data'
+import { getLessonMeta, friendlyLessonTitle } from '../lib/data'
 import { loadLesson } from '../lib/lesson'
 import { isAudioCached, precacheAudio } from '../lib/cacheAudio'
 import { CardDeck } from '../components/CardDeck'
@@ -59,59 +59,53 @@ export function LessonPage() {
 
   return (
     <div className="lesson-page">
-      <div className="lesson-back">
-        <Link to="/">← 返回</Link>
+
+      {/* 顶栏：返回 + 课程名一行 */}
+      <div className="lesson-topbar">
+        <Link to="/" className="lesson-back-btn">←</Link>
+        <span className="lesson-topbar-title">
+          {meta ? friendlyLessonTitle(meta.lesson) : lessonId}
+        </span>
       </div>
 
-      <div className="lesson-header">
-        <h2 className="lesson-title">{meta ? friendlyLessonTitle(meta.lesson) : lessonId}</h2>
-        {meta && <div className="lesson-chapter">{friendlyChapterTitle(meta.chapter)}</div>}
-      </div>
-
-      {error && (
-        <div className="lesson-error">⚠ {error}</div>
-      )}
+      {error && <div className="lesson-error">⚠ {error}</div>}
 
       {lesson ? (
         <>
-          {/* 音频栏 */}
-          <div className="audio-bar">
-            <div className="audio-bar-top">
-              <span className="audio-label">🎵 {lesson.audio?.track ?? '音频'}</span>
+          {/* 音频：播放条 + 预缓存按钮一行 */}
+          {audioUrl && (
+            <div className="audio-row">
+              <audio className="audio-player" controls preload="metadata" src={audioUrl} />
               <button
                 className={`audio-cache-btn ${cacheState === 'cached' ? 'cached' : ''}`}
                 onClick={onPrecache}
                 disabled={downloading || !audioUrl}
               >
-                {downloading ? '下载中…' : cacheState === 'cached' ? '✓ 已缓存' : '⬇ 预缓存'}
+                {downloading ? '…' : cacheState === 'cached' ? '✓' : '⬇'}
               </button>
             </div>
-            {audioUrl
-              ? <audio className="audio-player" controls preload="metadata" src={audioUrl} />
-              : <div className="audio-missing">暂无音频</div>
-            }
-          </div>
+          )}
 
-          {/* 模式切换 */}
-          <div className="mode-tabs">
-            <button
-              className={`mode-tab ${mode === 'deck' ? 'active' : ''}`}
-              onClick={() => setMode('deck')}
-            >卡片</button>
-            <button
-              className={`mode-tab ${mode === 'list' ? 'active' : ''}`}
-              onClick={() => setMode('list')}
-            >列表</button>
-          </div>
-
-          {/* 内容区 */}
+          {/* 卡片区 */}
           {mode === 'deck' ? (
-            <CardDeck cards={lesson.cards} loop={loopEnabled} pos={pos} onPosChange={setPos} />
-          ) : (
-            <CardList
+            <CardDeck
               cards={lesson.cards}
-              onSelect={(p) => { setPos(p); setMode('deck') }}
+              loop={loopEnabled}
+              pos={pos}
+              onPosChange={setPos}
+              onToggleMode={() => setMode('list')}
             />
+          ) : (
+            <>
+              <div className="list-header">
+                <span className="list-title">列表</span>
+                <button className="mode-switch-btn" onClick={() => setMode('deck')}>卡片模式</button>
+              </div>
+              <CardList
+                cards={lesson.cards}
+                onSelect={(p) => { setPos(p); setMode('deck') }}
+              />
+            </>
           )}
         </>
       ) : !error ? (
