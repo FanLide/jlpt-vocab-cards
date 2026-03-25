@@ -15,8 +15,8 @@
       "word": "初対面",
       "reading": "しょたいめん",
       "meaning": {
-        "zh": "初次见面",
-        "en": "first meeting"
+        "en": "first meeting",
+        "zh": "初次见面"
       },
       "sentence": {
         "ja": "山田さんとは初対面だったので、あいさつした。",
@@ -33,8 +33,8 @@
       "word": "自己紹介",
       "reading": "じこしょうかい",
       "meaning": {
-        "zh": "自我介绍",
-        "en": "self-introduction"
+        "en": "self-introduction",
+        "zh": "自我介绍"
       },
       "sentence": {
         "ja": "合コンでお互いに自己紹介をした。",
@@ -51,8 +51,8 @@
       "word": "おじぎする",
       "reading": "おじぎする",
       "meaning": {
-        "zh": "鞠躬，行礼",
-        "en": "bow"
+        "en": "bow",
+        "zh": "鞠躬，行礼"
       },
       "sentence": {
         "ja": "朝、大家さんに会ったので、おじぎした。",
@@ -69,8 +69,8 @@
       "word": "近所付き合い",
       "reading": "きんじょづきあい",
       "meaning": {
-        "zh": "邻里交往",
-        "en": "interaction with neighbors"
+        "en": "interaction with neighbors",
+        "zh": "邻里交往"
       },
       "sentence": {
         "ja": "できるだけ近所付き合いを大切にしている。",
@@ -87,8 +87,8 @@
       "word": "大家",
       "reading": "おおや",
       "meaning": {
-        "zh": "房东",
-        "en": "landlord"
+        "en": "landlord",
+        "zh": "房东"
       },
       "sentence": {
         "ja": "私のアパートの大家さんは、とても親切な人だ。",
@@ -105,8 +105,8 @@
       "word": "飼い主",
       "reading": "かいぬし",
       "meaning": {
-        "zh": "主人（宠物的）",
-        "en": "owner"
+        "en": "owner",
+        "zh": "主人（宠物的）"
       },
       "sentence": {
         "ja": "犬の飼い主同士が公園でおしゃべりをしている。",
@@ -123,8 +123,8 @@
       "word": "交わす",
       "reading": "かわす",
       "meaning": {
-        "zh": "交换，互相",
-        "en": "to exchange"
+        "en": "to exchange",
+        "zh": "交换，互相"
       },
       "sentence": {
         "ja": "近所の人達に会うと、笑顔であいさつを交わす。",
@@ -141,8 +141,8 @@
       "word": "呼び止める",
       "reading": "よびとめる",
       "meaning": {
-        "zh": "叫住",
-        "en": "to stop"
+        "en": "to stop",
+        "zh": "叫住"
       },
       "sentence": {
         "ja": "アパートの前で管理人さんに呼び止められた。",
@@ -159,8 +159,8 @@
       "word": "紹介する",
       "reading": "しょうかいする",
       "meaning": {
-        "zh": "介绍",
-        "en": "to introduce"
+        "en": "to introduce",
+        "zh": "介绍"
       },
       "sentence": {
         "ja": "友達に新しい同僚を紹介した。",
@@ -177,8 +177,8 @@
       "word": "名刺",
       "reading": "めいし",
       "meaning": {
-        "zh": "名片",
-        "en": "business card"
+        "en": "business card",
+        "zh": "名片"
       },
       "sentence": {
         "ja": "初対面の人と名刺を交換した。",
@@ -195,8 +195,8 @@
       "word": "挨拶",
       "reading": "あいさつ",
       "meaning": {
-        "zh": "打招呼",
-        "en": "greeting"
+        "en": "greeting",
+        "zh": "打招呼"
       },
       "sentence": {
         "ja": "きちんと挨拶をすることは大切だ。",
@@ -213,8 +213,8 @@
       "word": "礼儀",
       "reading": "れいぎ",
       "meaning": {
-        "zh": "礼仪",
-        "en": "manners"
+        "en": "manners",
+        "zh": "礼仪"
       },
       "sentence": {
         "ja": "礼儀を守る人は好印象を与える。",
@@ -231,8 +231,8 @@
       "word": "印象",
       "reading": "いんしょう",
       "meaning": {
-        "zh": "印象",
-        "en": "impression"
+        "en": "impression",
+        "zh": "印象"
       },
       "sentence": {
         "ja": "彼は第一印象がとても良かった。",
@@ -249,8 +249,8 @@
       "word": "親しい",
       "reading": "したしい",
       "meaning": {
-        "zh": "亲近的",
-        "en": "close"
+        "en": "close",
+        "zh": "亲近的"
       },
       "sentence": {
         "ja": "彼とは親しい関係だ。",
@@ -267,8 +267,8 @@
       "word": "仲良くする",
       "reading": "なかよくする",
       "meaning": {
-        "zh": "好好相处",
-        "en": "to get along"
+        "en": "to get along",
+        "zh": "好好相处"
       },
       "sentence": {
         "ja": "みんなと仲良くしたい。",
@@ -285,8 +285,8 @@
       "word": "付き合う",
       "reading": "つきあう",
       "meaning": {
-        "zh": "交往，来往",
-        "en": "to associate"
+        "en": "to associate",
+        "zh": "交往，来往"
       },
       "sentence": {
         "ja": "彼とは長く付き合っている。",
@@ -303,8 +303,8 @@
       "word": "誘う",
       "reading": "さそう",
       "meaning": {
-        "zh": "邀请",
-        "en": "to invite"
+        "en": "to invite",
+        "zh": "邀请"
       },
       "sentence": {
         "ja": "友達を食事に誘った。",
@@ -321,8 +321,8 @@
       "word": "断る",
       "reading": "ことわる",
       "meaning": {
-        "zh": "拒绝",
-        "en": "to refuse"
+        "en": "to refuse",
+        "zh": "拒绝"
       },
       "sentence": {
         "ja": "その誘いを断った。",
@@ -339,8 +339,8 @@
       "word": "遠慮する",
       "reading": "えんりょする",
       "meaning": {
-        "zh": "客气，推辞",
-        "en": "to hesitate"
+        "en": "to hesitate",
+        "zh": "客气，推辞"
       },
       "sentence": {
         "ja": "遠慮せずに言ってください。",
@@ -357,8 +357,8 @@
       "word": "気を遣う",
       "reading": "きをつかう",
       "meaning": {
-        "zh": "顾虑，体贴",
-        "en": "to be considerate"
+        "en": "to be considerate",
+        "zh": "顾虑，体贴"
       },
       "sentence": {
         "ja": "相手に気を遣いすぎて疲れた。",
@@ -375,8 +375,8 @@
       "word": "打ち解ける",
       "reading": "うちとける",
       "meaning": {
-        "zh": "打成一片",
-        "en": "to become friendly"
+        "en": "to become friendly",
+        "zh": "打成一片"
       },
       "sentence": {
         "ja": "すぐにクラスに打ち解けた。",
@@ -393,8 +393,8 @@
       "word": "溶け込む",
       "reading": "とけこむ",
       "meaning": {
-        "zh": "融入",
-        "en": "to blend in"
+        "en": "to blend in",
+        "zh": "融入"
       },
       "sentence": {
         "ja": "新しい環境に溶け込むのは難しい。",
@@ -411,8 +411,8 @@
       "word": "気が合う",
       "reading": "きがあう",
       "meaning": {
-        "zh": "合得来",
-        "en": "to get along well"
+        "en": "to get along well",
+        "zh": "合得来"
       },
       "sentence": {
         "ja": "彼とは気が合う。",
@@ -429,8 +429,8 @@
       "word": "距離を置く",
       "reading": "きょりをおく",
       "meaning": {
-        "zh": "保持距离",
-        "en": "to keep distance"
+        "en": "to keep distance",
+        "zh": "保持距离"
       },
       "sentence": {
         "ja": "その人とは少し距離を置いている。",
@@ -447,8 +447,8 @@
       "word": "無視する",
       "reading": "むしする",
       "meaning": {
-        "zh": "无视",
-        "en": "to ignore"
+        "en": "to ignore",
+        "zh": "无视"
       },
       "sentence": {
         "ja": "彼の話を無視した。",
@@ -465,8 +465,8 @@
       "word": "関わる",
       "reading": "かかわる",
       "meaning": {
-        "zh": "涉及，牵涉",
-        "en": "to be involved"
+        "en": "to be involved",
+        "zh": "涉及，牵涉"
       },
       "sentence": {
         "ja": "その問題には関わりたくない。",

@@ -15,8 +15,8 @@
       "word": "友人",
       "reading": "ゆうじん",
       "meaning": {
-        "zh": "朋友，友人",
-        "en": "friend"
+        "en": "friend",
+        "zh": "朋友，友人"
       },
       "sentence": {
         "ja": "国から友人が遊びに来た。",
@@ -33,8 +33,8 @@
       "word": "仲",
       "reading": "なか",
       "meaning": {
-        "zh": "关系",
-        "en": "relationship"
+        "en": "relationship",
+        "zh": "关系"
       },
       "sentence": {
         "ja": "このクラスの生徒は、とても仲がいい。",
@@ -51,8 +51,8 @@
       "word": "縁",
       "reading": "えん",
       "meaning": {
-        "zh": "缘，缘分",
-        "en": "fate"
+        "en": "fate",
+        "zh": "缘，缘分"
       },
       "sentence": {
         "ja": "縁があって、彼女と親友になれた。",
@@ -69,8 +69,8 @@
       "word": "ニックネーム",
       "reading": "ニックネーム",
       "meaning": {
-        "zh": "昵称",
-        "en": "nickname"
+        "en": "nickname",
+        "zh": "昵称"
       },
       "sentence": {
         "ja": "彼と私はニックネームで呼び合っている。",
@@ -87,8 +87,8 @@
       "word": "大半",
       "reading": "たいはん",
       "meaning": {
-        "zh": "大半，大部分",
-        "en": "most of"
+        "en": "most of",
+        "zh": "大半，大部分"
       },
       "sentence": {
         "ja": "一日の大半の時間を友達と過ごしている。",
@@ -105,8 +105,8 @@
       "word": "恵まれる",
       "reading": "めぐまれる",
       "meaning": {
-        "zh": "受惠，幸运拥有",
-        "en": "to be blessed with"
+        "en": "to be blessed with",
+        "zh": "受惠，幸运拥有"
       },
       "sentence": {
         "ja": "私は、いつも友人に恵まれている。",
@@ -123,8 +123,8 @@
       "word": "頼る",
       "reading": "たよる",
       "meaning": {
-        "zh": "依靠，依赖",
-        "en": "to depend"
+        "en": "to depend",
+        "zh": "依靠，依赖"
       },
       "sentence": {
         "ja": "困ったときは頼ってほしい。",
@@ -141,8 +141,8 @@
       "word": "頼もしい",
       "reading": "たのもしい",
       "meaning": {
-        "zh": "可靠的",
-        "en": "dependable"
+        "en": "dependable",
+        "zh": "可靠的"
       },
       "sentence": {
         "ja": "彼女は何でも相談できる頼もしい存在だ。",
@@ -159,8 +159,8 @@
       "word": "見習う",
       "reading": "みならう",
       "meaning": {
-        "zh": "学习，效仿",
-        "en": "to emulate"
+        "en": "to emulate",
+        "zh": "学习，效仿"
       },
       "sentence": {
         "ja": "私には見習うべき友人が何人かいる。",
@@ -177,8 +177,8 @@
       "word": "打ち明ける",
       "reading": "うちあける",
       "meaning": {
-        "zh": "吐露，说出",
-        "en": "to confess"
+        "en": "to confess",
+        "zh": "吐露，说出"
       },
       "sentence": {
         "ja": "親友だけに秘密を打ち明けた。",
@@ -195,8 +195,8 @@
       "word": "励ます",
       "reading": "はげます",
       "meaning": {
-        "zh": "鼓励",
-        "en": "to encourage"
+        "en": "to encourage",
+        "zh": "鼓励"
       },
       "sentence": {
         "ja": "私が試験に落ちたとき、友達が励ましてくれた。",
@@ -213,8 +213,8 @@
       "word": "あえて",
       "reading": "あえて",
       "meaning": {
-        "zh": "敢于，特意",
-        "en": "venture to"
+        "en": "venture to",
+        "zh": "敢于，特意"
       },
       "sentence": {
         "ja": "大切な友達だから、あえて厳しい忠告もする。",
@@ -231,8 +231,8 @@
       "word": "なぐさめる",
       "reading": "なぐさめる",
       "meaning": {
-        "zh": "安慰",
-        "en": "to console"
+        "en": "to console",
+        "zh": "安慰"
       },
       "sentence": {
         "ja": "彼女にふられたとき、友達がなぐさめてくれた。",
@@ -249,8 +249,8 @@
       "word": "察する",
       "reading": "さっする",
       "meaning": {
-        "zh": "察觉，体察",
-        "en": "to infer"
+        "en": "to infer",
+        "zh": "察觉，体察"
       },
       "sentence": {
         "ja": "彼女の気持ちを察して、何も言わなかった。",
@@ -267,8 +267,8 @@
       "word": "思いやり",
       "reading": "おもいやり",
       "meaning": {
-        "zh": "体贴，关怀",
-        "en": "thoughtfulness"
+        "en": "thoughtfulness",
+        "zh": "体贴，关怀"
       },
       "sentence": {
         "ja": "周りの人への思いやりを大切にしたい。",
@@ -285,8 +285,8 @@
       "word": "何気ない",
       "reading": "なにげない",
       "meaning": {
-        "zh": "不经意的，自然的",
-        "en": "casual"
+        "en": "casual",
+        "zh": "不经意的，自然的"
       },
       "sentence": {
         "ja": "友達との何気ない会話が楽しい。",
@@ -303,8 +303,8 @@
       "word": "からかう",
       "reading": "からかう",
       "meaning": {
-        "zh": "取笑，开玩笑",
-        "en": "to tease"
+        "en": "to tease",
+        "zh": "取笑，开玩笑"
       },
       "sentence": {
         "ja": "彼女ができて、友達にからかわれた。",
@@ -321,8 +321,8 @@
       "word": "幹事",
       "reading": "かんじ",
       "meaning": {
-        "zh": "负责人，组织者",
-        "en": "organizer"
+        "en": "organizer",
+        "zh": "负责人，组织者"
       },
       "sentence": {
         "ja": "仲間の飲み会では、いつも私が幹事だ。",
@@ -339,8 +339,8 @@
       "word": "呼び出す",
       "reading": "よびだす",
       "meaning": {
-        "zh": "叫出来，召集",
-        "en": "to send for"
+        "en": "to send for",
+        "zh": "叫出来，召集"
       },
       "sentence": {
         "ja": "夜遅く、親友に「飲みに行こう」と呼び出された。",
@@ -357,8 +357,8 @@
       "word": "盛り上がる",
       "reading": "もりあがる",
       "meaning": {
-        "zh": "气氛高涨",
-        "en": "to liven up"
+        "en": "to liven up",
+        "zh": "气氛高涨"
       },
       "sentence": {
         "ja": "パーティーは盛り上がって、夜中まで続いた。",
@@ -375,8 +375,8 @@
       "word": "あきれる",
       "reading": "あきれる",
       "meaning": {
-        "zh": "无语，吃惊",
-        "en": "to be appalled"
+        "en": "to be appalled",
+        "zh": "无语，吃惊"
       },
       "sentence": {
         "ja": "彼はいつも遅刻するので、あきれてしまう。",
@@ -393,8 +393,8 @@
       "word": "ふざける",
       "reading": "ふざける",
       "meaning": {
-        "zh": "胡闹，开玩笑",
-        "en": "to fool around"
+        "en": "to fool around",
+        "zh": "胡闹，开玩笑"
       },
       "sentence": {
         "ja": "友達とふざけていたら、転んで足の骨を折った。",
@@ -411,8 +411,8 @@
       "word": "久しい",
       "reading": "ひさしい",
       "meaning": {
-        "zh": "久违",
-        "en": "long time"
+        "en": "long time",
+        "zh": "久违"
       },
       "sentence": {
         "ja": "高校時代のクラスメートと久しく会っていない。",

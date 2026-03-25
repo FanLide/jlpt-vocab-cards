@@ -1,0 +1,535 @@
+{
+  "id": "ch01-l05",
+  "chapterId": "ch01",
+  "titleJa": "関係悪化",
+  "titleZh": "关系恶化",
+  "rangeNote": "103～131",
+  "audio": {
+    "track": "Track005",
+    "file": "resources/audio/extracted/万词对策N2/Track005.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l05-103",
+      "index": 103,
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": {
+        "en": "relationship",
+        "zh": "关系"
+      },
+      "sentence": {
+        "ja": "二人の関係が悪化している。",
+        "zh": "两人的关系正在恶化。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-104",
+      "index": 104,
+      "word": "悪化する",
+      "reading": "あっかする",
+      "meaning": {
+        "en": "to worsen",
+        "zh": "恶化"
+      },
+      "sentence": {
+        "ja": "状況がさらに悪化した。",
+        "zh": "情况进一步恶化了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-105",
+      "index": 105,
+      "word": "もめる",
+      "reading": "もめる",
+      "meaning": {
+        "en": "to quarrel",
+        "zh": "发生纠纷"
+      },
+      "sentence": {
+        "ja": "些細なことで友達ともめた。",
+        "zh": "因为小事和朋友起了争执。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-106",
+      "index": 106,
+      "word": "けんかする",
+      "reading": "けんかする",
+      "meaning": {
+        "en": "to quarrel",
+        "zh": "吵架"
+      },
+      "sentence": {
+        "ja": "恋人とけんかしてしまった。",
+        "zh": "和恋人吵架了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-107",
+      "index": 107,
+      "word": "言い争う",
+      "reading": "いいあらそう",
+      "meaning": {
+        "en": "to argue",
+        "zh": "争吵"
+      },
+      "sentence": {
+        "ja": "二人は激しく言い争った。",
+        "zh": "两人激烈地争吵。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-108",
+      "index": 108,
+      "word": "対立する",
+      "reading": "たいりつする",
+      "meaning": {
+        "en": "to oppose",
+        "zh": "对立"
+      },
+      "sentence": {
+        "ja": "意見が対立している。",
+        "zh": "意见发生对立。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-109",
+      "index": 109,
+      "word": "無視する",
+      "reading": "むしする",
+      "meaning": {
+        "en": "to ignore",
+        "zh": "无视"
+      },
+      "sentence": {
+        "ja": "彼は私を無視している。",
+        "zh": "他在无视我。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-110",
+      "index": 110,
+      "word": "避ける",
+      "reading": "さける",
+      "meaning": {
+        "en": "to avoid",
+        "zh": "回避，躲避"
+      },
+      "sentence": {
+        "ja": "彼を避けるようになった。",
+        "zh": "开始躲着他了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-111",
+      "index": 111,
+      "word": "距離ができる",
+      "reading": "きょりができる",
+      "meaning": {
+        "en": "to grow apart",
+        "zh": "产生距离"
+      },
+      "sentence": {
+        "ja": "最近、二人の間に距離ができた。",
+        "zh": "最近两人之间产生了距离。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-112",
+      "index": 112,
+      "word": "疎遠になる",
+      "reading": "そえんになる",
+      "meaning": {
+        "en": "to drift apart",
+        "zh": "疏远"
+      },
+      "sentence": {
+        "ja": "昔の友人と疎遠になった。",
+        "zh": "和以前的朋友疏远了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-113",
+      "index": 113,
+      "word": "誤解する",
+      "reading": "ごかいする",
+      "meaning": {
+        "en": "to misunderstand",
+        "zh": "误解"
+      },
+      "sentence": {
+        "ja": "彼の言葉を誤解していた。",
+        "zh": "误解了他说的话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-114",
+      "index": 114,
+      "word": "行き違う",
+      "reading": "いきちがう",
+      "meaning": {
+        "en": "to misunderstand",
+        "zh": "产生误会"
+      },
+      "sentence": {
+        "ja": "気持ちが行き違ってしまった。",
+        "zh": "彼此的心意产生了误会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-115",
+      "index": 115,
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": {
+        "en": "dissatisfaction",
+        "zh": "不满"
+      },
+      "sentence": {
+        "ja": "彼に対して不満がある。",
+        "zh": "对他有不满。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-116",
+      "index": 116,
+      "word": "不満を持つ",
+      "reading": "ふまんをもつ",
+      "meaning": {
+        "en": "to have dissatisfaction",
+        "zh": "产生不满"
+      },
+      "sentence": {
+        "ja": "上司に不満を持っている。",
+        "zh": "对上司有不满。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-117",
+      "index": 117,
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": {
+        "en": "complaint",
+        "zh": "抱怨"
+      },
+      "sentence": {
+        "ja": "彼はいつも文句ばかり言っている。",
+        "zh": "他总是在抱怨。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-118",
+      "index": 118,
+      "word": "文句を言う",
+      "reading": "もんくをいう",
+      "meaning": {
+        "en": "to complain",
+        "zh": "发牢骚"
+      },
+      "sentence": {
+        "ja": "そんなに文句を言わないで。",
+        "zh": "不要总是抱怨。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-119",
+      "index": 119,
+      "word": "限界",
+      "reading": "げんかい",
+      "meaning": {
+        "en": "limit",
+        "zh": "极限"
+      },
+      "sentence": {
+        "ja": "もう限界だ。",
+        "zh": "已经到极限了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-120",
+      "index": 120,
+      "word": "我慢する",
+      "reading": "がまんする",
+      "meaning": {
+        "en": "to endure",
+        "zh": "忍耐"
+      },
+      "sentence": {
+        "ja": "これ以上我慢できない。",
+        "zh": "再也无法忍耐了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-121",
+      "index": 121,
+      "word": "ストレス",
+      "reading": "ストレス",
+      "meaning": {
+        "en": "stress",
+        "zh": "压力"
+      },
+      "sentence": {
+        "ja": "ストレスがたまっている。",
+        "zh": "压力在累积。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-122",
+      "index": 122,
+      "word": "発散する",
+      "reading": "はっさんする",
+      "meaning": {
+        "en": "to release",
+        "zh": "释放"
+      },
+      "sentence": {
+        "ja": "運動してストレスを発散する。",
+        "zh": "通过运动释放压力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-123",
+      "index": 123,
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": {
+        "en": "calm",
+        "zh": "冷静"
+      },
+      "sentence": {
+        "ja": "冷静に話し合うべきだ。",
+        "zh": "应该冷静地沟通。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-124",
+      "index": 124,
+      "word": "話し合う",
+      "reading": "はなしあう",
+      "meaning": {
+        "en": "to discuss",
+        "zh": "协商，谈话"
+      },
+      "sentence": {
+        "ja": "二人でよく話し合った。",
+        "zh": "两人认真谈过。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-125",
+      "index": 125,
+      "word": "理解する",
+      "reading": "りかいする",
+      "meaning": {
+        "en": "to understand",
+        "zh": "理解"
+      },
+      "sentence": {
+        "ja": "お互いに理解することが大切だ。",
+        "zh": "互相理解很重要。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-126",
+      "index": 126,
+      "word": "許す",
+      "reading": "ゆるす",
+      "meaning": {
+        "en": "to forgive",
+        "zh": "原谅"
+      },
+      "sentence": {
+        "ja": "彼のことを許した。",
+        "zh": "原谅了他。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-127",
+      "index": 127,
+      "word": "謝る",
+      "reading": "あやまる",
+      "meaning": {
+        "en": "to apologize",
+        "zh": "道歉"
+      },
+      "sentence": {
+        "ja": "彼はすぐに謝った。",
+        "zh": "他马上道歉了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-128",
+      "index": 128,
+      "word": "仲直りする",
+      "reading": "なかなおりする",
+      "meaning": {
+        "en": "to make up",
+        "zh": "和好"
+      },
+      "sentence": {
+        "ja": "けんかしたあと、仲直りした。",
+        "zh": "吵架之后和好了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-129",
+      "index": 129,
+      "word": "修復する",
+      "reading": "しゅうふくする",
+      "meaning": {
+        "en": "to repair",
+        "zh": "修复"
+      },
+      "sentence": {
+        "ja": "関係を修復したい。",
+        "zh": "想修复关系。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-130",
+      "index": 130,
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": {
+        "en": "trust",
+        "zh": "信任"
+      },
+      "sentence": {
+        "ja": "信頼を失ってしまった。",
+        "zh": "失去了信任。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l05-131",
+      "index": 131,
+      "word": "信頼を取り戻す",
+      "reading": "しんらいをとりもどす",
+      "meaning": {
+        "en": "to regain trust",
+        "zh": "恢复信任"
+      },
+      "sentence": {
+        "ja": "もう一度信頼を取り戻したい。",
+        "zh": "想再次找回信任。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

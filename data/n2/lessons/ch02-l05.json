@@ -1,0 +1,463 @@
+{
+  "id": "ch02-l05",
+  "chapterId": "ch02",
+  "titleJa": "時を表す言葉",
+  "titleZh": "时间",
+  "rangeNote": "242～267",
+  "audio": {
+    "track": "Track010",
+    "file": "resources/audio/extracted/万词对策N2/Track010.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch02-l05-242",
+      "index": 242,
+      "word": "現在（げんざい）",
+      "reading": "げんざい",
+      "meaning": {
+        "en": "the present",
+        "zh": "現在"
+      },
+      "sentence": {
+        "ja": "実家を出て、現在は一人暮らしです。",
+        "zh": "我離開了老家，現在一個人生活。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-243",
+      "index": 243,
+      "word": "過去（かこ）",
+      "reading": "かこ",
+      "meaning": {
+        "en": "past",
+        "zh": "過去"
+      },
+      "sentence": {
+        "ja": "過去は忘れて、未来に向かって進もう。",
+        "zh": "忘記過去，向著未來前進吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-244",
+      "index": 244,
+      "word": "年月（ねんげつ）",
+      "reading": "ねんげつ",
+      "meaning": {
+        "en": "years",
+        "zh": "年歲，歲月"
+      },
+      "sentence": {
+        "ja": "長い年月をかけて、この木はこんなに成長した。",
+        "zh": "多年之後，這棵樹已經長得這麼大了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-245",
+      "index": 245,
+      "word": "月日（つきひ）",
+      "reading": "つきひ",
+      "meaning": {
+        "en": "days",
+        "zh": "日子，時間"
+      },
+      "sentence": {
+        "ja": "月日が経つのは本当に早いものだ。",
+        "zh": "時間過得真快啊。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-246",
+      "index": 246,
+      "word": "日時（にちじ）",
+      "reading": "にちじ",
+      "meaning": {
+        "en": "date and time",
+        "zh": "日期與時刻"
+      },
+      "sentence": {
+        "ja": "忘年会の日時はメールでお知らせします。 年終聯歡會的具體時間會發郵件通知。",
+        "zh": "[相關]：日程 (schedule / 日程)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-247",
+      "index": 247,
+      "word": "今日（こんにち）",
+      "reading": "こんにち",
+      "meaning": {
+        "en": "today",
+        "zh": "今天，現在"
+      },
+      "sentence": {
+        "ja": "今日の世界には多くの問題がある。",
+        "zh": "當今世界上有很多問題。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-248",
+      "index": 248,
+      "word": "年代（ねんだい）",
+      "reading": "ねんだい",
+      "meaning": {
+        "en": "era, age",
+        "zh": "年代；年紀"
+      },
+      "sentence": {
+        "ja": "①これは1980年代に流行したファッションだ。②彼女と私では年代が全く違う。",
+        "zh": "①這是二十世紀八十年代流行過的時尚。②她和我完全不是一個年代的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-249",
+      "index": 249,
+      "word": "年間（ねんかん）",
+      "reading": "ねんかん",
+      "meaning": {
+        "en": "annual",
+        "zh": "一年"
+      },
+      "sentence": {
+        "ja": "年間の訪日観光客が急に増えた。",
+        "zh": "全年訪日觀光客的人數突然激增。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-250",
+      "index": 250,
+      "word": "年中（ねんじゅう）",
+      "reading": "ねんじゅう",
+      "meaning": {
+        "en": "all year round, all year",
+        "zh": "一整年"
+      },
+      "sentence": {
+        "ja": "①この店は年中無休だ。②父は年中ゴルフばかりしている。",
+        "zh": "①這家店全年無休。②父親一整年光打高爾夫球了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-251",
+      "index": 251,
+      "word": "本年（ほんねん）",
+      "reading": "ほんねん",
+      "meaning": {
+        "en": "this year",
+        "zh": "今年"
+      },
+      "sentence": {
+        "ja": "本年もよろしくお願いします。",
+        "zh": "今年也請多多關照。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-252",
+      "index": 252,
+      "word": "日中（にっちゅう）",
+      "reading": "にっちゅう",
+      "meaning": {
+        "en": "daytime",
+        "zh": "白天"
+      },
+      "sentence": {
+        "ja": "日中は天気がよく、暖かかった。",
+        "zh": "白天天氣很好，很暖和。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-253",
+      "index": 253,
+      "word": "夜間（やかん）",
+      "reading": "やかん",
+      "meaning": {
+        "en": "nighttime",
+        "zh": "夜晚"
+      },
+      "sentence": {
+        "ja": "この辺りで夜間の一人歩きは危険だ。",
+        "zh": "夜晚一個人在此附近走路很危險。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-254",
+      "index": 254,
+      "word": "ただ今（ただいま）",
+      "reading": "ただいま",
+      "meaning": {
+        "en": "now, currently",
+        "zh": "現在，當前"
+      },
+      "sentence": {
+        "ja": "田中はただ今席を外しております。",
+        "zh": "田中現在不在座位上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-255",
+      "index": 255,
+      "word": "先ほど（さきほど）",
+      "reading": "さきほど",
+      "meaning": {
+        "en": "earlier",
+        "zh": "剛才"
+      },
+      "sentence": {
+        "ja": "先ほどアメリカ出張から戻りました。 我剛從美國出差回來。",
+        "zh": "[相關]：後ほど (later / 稍後)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-256",
+      "index": 256,
+      "word": "近々（ちかぢか）",
+      "reading": "ちかぢか",
+      "meaning": {
+        "en": "soon",
+        "zh": "近期，最近"
+      },
+      "sentence": {
+        "ja": "近々そちらにお邪魔したいと思います。",
+        "zh": "近期我想去拜訪您一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-257",
+      "index": 257,
+      "word": "後日（ごじつ）",
+      "reading": "ごじつ",
+      "meaning": {
+        "en": "later date",
+        "zh": "日後，將來"
+      },
+      "sentence": {
+        "ja": "詳しいことは後日決めましょう。",
+        "zh": "詳情日後再定吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-258",
+      "index": 258,
+      "word": "やがて",
+      "reading": "やがて",
+      "meaning": {
+        "en": "before long",
+        "zh": "不久，馬上"
+      },
+      "sentence": {
+        "ja": "今は小雨だが、やがて雨も風も強くなるだろう。",
+        "zh": "現在雖然是小雨，但過一會兒雨和風都會大起來吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-259",
+      "index": 259,
+      "word": "いずれ",
+      "reading": "いずれ",
+      "meaning": {
+        "en": "eventually, some day",
+        "zh": "反正，終究"
+      },
+      "sentence": {
+        "ja": "いずれ子ども達も自立して、家を出ていく。",
+        "zh": "孩子們終究也要獨立，然後離開家。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-260",
+      "index": 260,
+      "word": "今後（こんご）",
+      "reading": "こんご",
+      "meaning": {
+        "en": "hereafter, from now on",
+        "zh": "今後"
+      },
+      "sentence": {
+        "ja": "今後の連絡は、新しいアドレスにお願いします。",
+        "zh": "今後聯繫我時，請使用我的新地址。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-261",
+      "index": 261,
+      "word": "すでに",
+      "reading": "すでに",
+      "meaning": {
+        "en": "already",
+        "zh": "已經"
+      },
+      "sentence": {
+        "ja": "日本に来たとき、すでに桜の季節は終わっていた。",
+        "zh": "我來日本的時候，櫻花開放的季節已經結束了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-262",
+      "index": 262,
+      "word": "あらかじめ",
+      "reading": "あらかじめ",
+      "meaning": {
+        "en": "in advance",
+        "zh": "預先，事先"
+      },
+      "sentence": {
+        "ja": "会議の予定をあらかじめ教えてください。 請事先告知會議計劃。",
+        "zh": "[相關]：事前に (in advance / 事前)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-263",
+      "index": 263,
+      "word": "従来（じゅうらい）",
+      "reading": "じゅうらい",
+      "meaning": {
+        "en": "past, up to now",
+        "zh": "以往，直到現在"
+      },
+      "sentence": {
+        "ja": "従来のやり方を、そろそろ変えた方がいい。",
+        "zh": "差不多是時候改變一下以往的做法了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-264",
+      "index": 264,
+      "word": "あくる",
+      "reading": "あくる",
+      "meaning": {
+        "en": "next",
+        "zh": "第二，下個，次"
+      },
+      "sentence": {
+        "ja": "大雪が降った。あくる朝、外は真っ白だった。 下了一場大雪，第二天早上外面一片雪白。",
+        "zh": "[相關]：あくる日 (next day / 第二天)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-265",
+      "index": 265,
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": {
+        "en": "moment, momentarily",
+        "zh": "短时间，一时"
+      },
+      "sentence": {
+        "ja": "事故で一時、電車が止まった。",
+        "zh": "因事故，电车停了一段时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch02-l05-267",
+      "index": 267,
+      "word": "永遠に",
+      "reading": "えいえんに",
+      "meaning": {
+        "en": "forever, eternally",
+        "zh": "永远"
+      },
+      "sentence": {
+        "ja": "この愛は永遠に続く。",
+        "zh": "这份爱会永远存在。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}

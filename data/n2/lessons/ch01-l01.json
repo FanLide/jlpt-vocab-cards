@@ -15,8 +15,8 @@
       "word": "一家",
       "reading": "いっか",
       "meaning": {
-        "zh": "一家，全家",
-        "en": "family"
+        "en": "family",
+        "zh": "一家，全家"
       },
       "sentence": {
         "ja": "兄が私達一家を支えてくれている。",
@@ -33,8 +33,8 @@
       "word": "ありがたい",
       "reading": "ありがたい",
       "meaning": {
-        "zh": "值得感恩的，难得的",
-        "en": "grateful"
+        "en": "grateful",
+        "zh": "值得感恩的，难得的"
       },
       "sentence": {
         "ja": "家族は本当にありがたい存在だ。",
@@ -51,8 +51,8 @@
       "word": "向き合う",
       "reading": "むきあう",
       "meaning": {
-        "zh": "面对，直面",
-        "en": "face"
+        "en": "face",
+        "zh": "面对，直面"
       },
       "sentence": {
         "ja": "家族みんなで問題に向き合っている。",
@@ -69,8 +69,8 @@
       "word": "つくづく",
       "reading": "つくづく",
       "meaning": {
-        "zh": "深深地",
-        "en": "deeply, greatly"
+        "en": "deeply, greatly",
+        "zh": "深深地"
       },
       "sentence": {
         "ja": "最近、家族のありがたさをつくづく感じる。",
@@ -87,8 +87,8 @@
       "word": "養う",
       "reading": "やしなう",
       "meaning": {
-        "zh": "养育，供养",
-        "en": "provide for"
+        "en": "provide for",
+        "zh": "养育，供养"
       },
       "sentence": {
         "ja": "父は一生懸命に働いて、家族を養っている。",
@@ -105,8 +105,8 @@
       "word": "役目",
       "reading": "やくめ",
       "meaning": {
-        "zh": "职责，任务",
-        "en": "duty"
+        "en": "duty",
+        "zh": "职责，任务"
       },
       "sentence": {
         "ja": "子どもを育てることが親の役目だ。",
@@ -123,8 +123,8 @@
       "word": "甘える",
       "reading": "あまえる",
       "meaning": {
-        "zh": "撒娇，依赖",
-        "en": "to be spoiled"
+        "en": "to be spoiled",
+        "zh": "撒娇，依赖"
       },
       "sentence": {
         "ja": "妹は子どもの頃から、母に甘えている。",
@@ -141,8 +141,8 @@
       "word": "世間知らず",
       "reading": "せけんしらず",
       "meaning": {
-        "zh": "不谙世事",
-        "en": "ignorant"
+        "en": "ignorant",
+        "zh": "不谙世事"
       },
       "sentence": {
         "ja": "父に「おまえは世間知らずだ」と言われた。",
@@ -159,8 +159,8 @@
       "word": "しつけ",
       "reading": "しつけ",
       "meaning": {
-        "zh": "管教，教育",
-        "en": "discipline"
+        "en": "discipline",
+        "zh": "管教，教育"
       },
       "sentence": {
         "ja": "子どものしつけは、親の義務だ。",
@@ -177,8 +177,8 @@
       "word": "言いつける",
       "reading": "いいつける",
       "meaning": {
-        "zh": "告状，打小报告",
-        "en": "tell"
+        "en": "tell",
+        "zh": "告状，打小报告"
       },
       "sentence": {
         "ja": "兄は妹のいたずらを母に言いつけた。",
@@ -195,8 +195,8 @@
       "word": "自立する",
       "reading": "じりつする",
       "meaning": {
-        "zh": "独立",
-        "en": "independence"
+        "en": "independence",
+        "zh": "独立"
       },
       "sentence": {
         "ja": "兄は自立して、一人暮らしをしている。",
@@ -213,8 +213,8 @@
       "word": "言い出す",
       "reading": "いいだす",
       "meaning": {
-        "zh": "提出，说出口",
-        "en": "start saying"
+        "en": "start saying",
+        "zh": "提出，说出口"
       },
       "sentence": {
         "ja": "妹はアメリカに留学したいと言い出した。",
@@ -231,8 +231,8 @@
       "word": "意思",
       "reading": "いし",
       "meaning": {
-        "zh": "意志，想法",
-        "en": "intention"
+        "en": "intention",
+        "zh": "意志，想法"
       },
       "sentence": {
         "ja": "親に自分の意思を伝えるのは難しい。",
@@ -249,8 +249,8 @@
       "word": "尊重する",
       "reading": "そんちょうする",
       "meaning": {
-        "zh": "尊重",
-        "en": "respect"
+        "en": "respect",
+        "zh": "尊重"
       },
       "sentence": {
         "ja": "両親はいつも、私の意見を尊重してくれる。",
@@ -267,8 +267,8 @@
       "word": "説得する",
       "reading": "せっとくする",
       "meaning": {
-        "zh": "说服",
-        "en": "convince"
+        "en": "convince",
+        "zh": "说服"
       },
       "sentence": {
         "ja": "母が父を説得してくれた。",
@@ -285,8 +285,8 @@
       "word": "納得する",
       "reading": "なっとくする",
       "meaning": {
-        "zh": "理解并接受",
-        "en": "acknowledgement"
+        "en": "acknowledgement",
+        "zh": "理解并接受"
       },
       "sentence": {
         "ja": "父はやっと納得してくれた。",
@@ -303,8 +303,8 @@
       "word": "逆らう",
       "reading": "さからう",
       "meaning": {
-        "zh": "违背，对抗",
-        "en": "to go against"
+        "en": "to go against",
+        "zh": "违背，对抗"
       },
       "sentence": {
         "ja": "若いときは、よく親に逆らった。",
@@ -321,8 +321,8 @@
       "word": "反省する",
       "reading": "はんせいする",
       "meaning": {
-        "zh": "反省",
-        "en": "reflection"
+        "en": "reflection",
+        "zh": "反省"
       },
       "sentence": {
         "ja": "今はそのことを反省している。",
@@ -339,8 +339,8 @@
       "word": "放っておく",
       "reading": "ほうっておく",
       "meaning": {
-        "zh": "放任，不管",
-        "en": "to leave alone"
+        "en": "to leave alone",
+        "zh": "放任，不管"
       },
       "sentence": {
         "ja": "放っておいてほしい。",
@@ -357,8 +357,8 @@
       "word": "介護する",
       "reading": "かいごする",
       "meaning": {
-        "zh": "护理，照顾",
-        "en": "nursing"
+        "en": "nursing",
+        "zh": "护理，照顾"
       },
       "sentence": {
         "ja": "家族で祖母を介護している。",
@@ -375,8 +375,8 @@
       "word": "ホームヘルパー",
       "reading": "ホームヘルパー",
       "meaning": {
-        "zh": "家庭护理员",
-        "en": "home helper"
+        "en": "home helper",
+        "zh": "家庭护理员"
       },
       "sentence": {
         "ja": "週に3回、ホームヘルパーに来てもらう。",
@@ -393,8 +393,8 @@
       "word": "世代",
       "reading": "せだい",
       "meaning": {
-        "zh": "世代",
-        "en": "generation"
+        "en": "generation",
+        "zh": "世代"
       },
       "sentence": {
         "ja": "世代が違うと、話が合わないこともある。",
@@ -411,8 +411,8 @@
       "word": "継ぐ",
       "reading": "つぐ",
       "meaning": {
-        "zh": "继承",
-        "en": "to inherit"
+        "en": "to inherit",
+        "zh": "继承"
       },
       "sentence": {
         "ja": "来年、父の会社を継ぐことになった。",
@@ -429,8 +429,8 @@
       "word": "妊娠する",
       "reading": "にんしんする",
       "meaning": {
-        "zh": "怀孕",
-        "en": "pregnancy"
+        "en": "pregnancy",
+        "zh": "怀孕"
       },
       "sentence": {
         "ja": "妹は妊娠3か月だ。",
@@ -447,8 +447,8 @@
       "word": "出産する",
       "reading": "しゅっさんする",
       "meaning": {
-        "zh": "生产",
-        "en": "child birth"
+        "en": "child birth",
+        "zh": "生产"
       },
       "sentence": {
         "ja": "実家の近くの病院で出産することにした。",
@@ -465,8 +465,8 @@
       "word": "産む",
       "reading": "うむ",
       "meaning": {
-        "zh": "生",
-        "en": "to give birth"
+        "en": "to give birth",
+        "zh": "生"
       },
       "sentence": {
         "ja": "姉は二十歳のときに子どもを産んだ。",

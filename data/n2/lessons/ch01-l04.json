@@ -1,0 +1,499 @@
+{
+  "id": "ch01-l04",
+  "chapterId": "ch01",
+  "titleJa": "恋人",
+  "titleZh": "恋人",
+  "rangeNote": "76～102",
+  "audio": {
+    "track": "Track004",
+    "file": "resources/audio/extracted/万词对策N2/Track004.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l04-076",
+      "index": 76,
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": {
+        "en": "lover",
+        "zh": "恋人"
+      },
+      "sentence": {
+        "ja": "彼には長年付き合っている恋人がいる。",
+        "zh": "他有一个交往多年的恋人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-077",
+      "index": 77,
+      "word": "出会う",
+      "reading": "であう",
+      "meaning": {
+        "en": "to meet",
+        "zh": "相遇"
+      },
+      "sentence": {
+        "ja": "二人は大学で出会った。",
+        "zh": "两人是在大学相遇的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-078",
+      "index": 78,
+      "word": "一目ぼれ",
+      "reading": "ひとめぼれ",
+      "meaning": {
+        "en": "love at first sight",
+        "zh": "一见钟情"
+      },
+      "sentence": {
+        "ja": "彼女に一目ぼれした。",
+        "zh": "我对她一见钟情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-079",
+      "index": 79,
+      "word": "付き合う",
+      "reading": "つきあう",
+      "meaning": {
+        "en": "to date",
+        "zh": "交往"
+      },
+      "sentence": {
+        "ja": "二人は3年前から付き合っている。",
+        "zh": "两人从三年前开始交往。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-080",
+      "index": 80,
+      "word": "告白する",
+      "reading": "こくはくする",
+      "meaning": {
+        "en": "to confess",
+        "zh": "表白"
+      },
+      "sentence": {
+        "ja": "彼は勇気を出して告白した。",
+        "zh": "他鼓起勇气表白了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-081",
+      "index": 81,
+      "word": "断られる",
+      "reading": "ことわられる",
+      "meaning": {
+        "en": "to be rejected",
+        "zh": "被拒绝"
+      },
+      "sentence": {
+        "ja": "告白したが、断られてしまった。",
+        "zh": "表白了，但被拒绝了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-082",
+      "index": 82,
+      "word": "両思い",
+      "reading": "りょうおもい",
+      "meaning": {
+        "en": "mutual love",
+        "zh": "两情相悦"
+      },
+      "sentence": {
+        "ja": "二人は両思いだった。",
+        "zh": "两人是两情相悦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-083",
+      "index": 83,
+      "word": "片思い",
+      "reading": "かたおもい",
+      "meaning": {
+        "en": "one-sided love",
+        "zh": "单恋"
+      },
+      "sentence": {
+        "ja": "長い間、彼に片思いしていた。",
+        "zh": "我单恋他很久了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-084",
+      "index": 84,
+      "word": "デートする",
+      "reading": "デートする",
+      "meaning": {
+        "en": "to date",
+        "zh": "约会"
+      },
+      "sentence": {
+        "ja": "週末に恋人とデートする。",
+        "zh": "周末和恋人约会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-085",
+      "index": 85,
+      "word": "手をつなぐ",
+      "reading": "てをつなぐ",
+      "meaning": {
+        "en": "to hold hands",
+        "zh": "牵手"
+      },
+      "sentence": {
+        "ja": "二人は手をつないで歩いていた。",
+        "zh": "两人牵着手走着。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-086",
+      "index": 86,
+      "word": "抱きしめる",
+      "reading": "だきしめる",
+      "meaning": {
+        "en": "to hug",
+        "zh": "拥抱"
+      },
+      "sentence": {
+        "ja": "彼は彼女を強く抱きしめた。",
+        "zh": "他紧紧地抱住了她。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-087",
+      "index": 87,
+      "word": "キスする",
+      "reading": "キスする",
+      "meaning": {
+        "en": "to kiss",
+        "zh": "接吻"
+      },
+      "sentence": {
+        "ja": "別れ際にキスをした。",
+        "zh": "分别时接了吻。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-088",
+      "index": 88,
+      "word": "愛する",
+      "reading": "あいする",
+      "meaning": {
+        "en": "to love",
+        "zh": "爱"
+      },
+      "sentence": {
+        "ja": "彼女を心から愛している。",
+        "zh": "我从心底爱着她。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-089",
+      "index": 89,
+      "word": "信じる",
+      "reading": "しんじる",
+      "meaning": {
+        "en": "to believe",
+        "zh": "相信"
+      },
+      "sentence": {
+        "ja": "恋人を信じることが大切だ。",
+        "zh": "相信恋人是很重要的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-090",
+      "index": 90,
+      "word": "裏切る",
+      "reading": "うらぎる",
+      "meaning": {
+        "en": "to betray",
+        "zh": "背叛"
+      },
+      "sentence": {
+        "ja": "彼に裏切られてしまった。",
+        "zh": "被他背叛了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-091",
+      "index": 91,
+      "word": "嫉妬する",
+      "reading": "しっとする",
+      "meaning": {
+        "en": "to be jealous",
+        "zh": "嫉妒"
+      },
+      "sentence": {
+        "ja": "彼女はすぐに嫉妬する。",
+        "zh": "她很容易吃醋。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-092",
+      "index": 92,
+      "word": "浮気する",
+      "reading": "うわきする",
+      "meaning": {
+        "en": "to cheat",
+        "zh": "出轨"
+      },
+      "sentence": {
+        "ja": "恋人が浮気した。",
+        "zh": "恋人出轨了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-093",
+      "index": 93,
+      "word": "別れる",
+      "reading": "わかれる",
+      "meaning": {
+        "en": "to break up",
+        "zh": "分手"
+      },
+      "sentence": {
+        "ja": "二人はけんかして別れた。",
+        "zh": "两人吵架后分手了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-094",
+      "index": 94,
+      "word": "振る",
+      "reading": "ふる",
+      "meaning": {
+        "en": "to dump",
+        "zh": "甩掉"
+      },
+      "sentence": {
+        "ja": "彼女を振ってしまった。",
+        "zh": "我把她甩了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-095",
+      "index": 95,
+      "word": "振られる",
+      "reading": "ふられる",
+      "meaning": {
+        "en": "to be dumped",
+        "zh": "被甩"
+      },
+      "sentence": {
+        "ja": "彼に振られて落ち込んでいる。",
+        "zh": "被他甩了，很消沉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-096",
+      "index": 96,
+      "word": "仲直りする",
+      "reading": "なかなおりする",
+      "meaning": {
+        "en": "to make up",
+        "zh": "和好"
+      },
+      "sentence": {
+        "ja": "けんかしたが、すぐに仲直りした。",
+        "zh": "虽然吵架了，但很快和好了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-097",
+      "index": 97,
+      "word": "支える",
+      "reading": "ささえる",
+      "meaning": {
+        "en": "to support",
+        "zh": "支持"
+      },
+      "sentence": {
+        "ja": "彼女はいつも私を支えてくれる。",
+        "zh": "她一直支持我。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-098",
+      "index": 98,
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": {
+        "en": "future",
+        "zh": "将来"
+      },
+      "sentence": {
+        "ja": "将来のことを真剣に考えている。",
+        "zh": "认真考虑将来的事情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-099",
+      "index": 99,
+      "word": "結婚する",
+      "reading": "けっこんする",
+      "meaning": {
+        "en": "to marry",
+        "zh": "结婚"
+      },
+      "sentence": {
+        "ja": "来年結婚する予定だ。",
+        "zh": "计划明年结婚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-100",
+      "index": 100,
+      "word": "プロポーズする",
+      "reading": "プロポーズする",
+      "meaning": {
+        "en": "to propose",
+        "zh": "求婚"
+      },
+      "sentence": {
+        "ja": "彼は彼女にプロポーズした。",
+        "zh": "他向她求婚了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-101",
+      "index": 101,
+      "word": "婚約する",
+      "reading": "こんやくする",
+      "meaning": {
+        "en": "to get engaged",
+        "zh": "订婚"
+      },
+      "sentence": {
+        "ja": "二人は婚約した。",
+        "zh": "两人订婚了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l04-102",
+      "index": 102,
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": {
+        "en": "happiness",
+        "zh": "幸福"
+      },
+      "sentence": {
+        "ja": "二人はとても幸せそうだ。",
+        "zh": "两人看起来非常幸福。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}
