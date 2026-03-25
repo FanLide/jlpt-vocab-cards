@@ -1,0 +1,101 @@
+.card-deck {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.deck-empty {
+  opacity: 0.6;
+  padding: 24px 0;
+  text-align: center;
+}
+
+/* Progress */
+.deck-progress {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.deck-pos {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-h);
+  min-width: 52px;
+}
+
+.deck-total {
+  font-weight: 400;
+  opacity: 0.5;
+}
+
+.deck-progress-bar {
+  flex: 1;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+  overflow: hidden;
+}
+
+.deck-progress-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.deck-jump-input {
+  width: 72px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1.5px solid var(--border);
+  background: var(--code-bg);
+  color: var(--text-h);
+  font-size: 13px;
+  text-align: center;
+  transition: border-color 0.2s;
+}
+.deck-jump-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* Card area */
+.deck-card-area {
+  touch-action: pan-y;
+}
+
+/* Nav */
+.deck-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.deck-hint {
+  font-size: 12px;
+  opacity: 0.4;
+  text-align: center;
+}
+
+.deck-btn {
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: 1.5px solid var(--border);
+  background: var(--code-bg);
+  color: var(--text-h);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.deck-btn:hover:not(:disabled) {
+  background: var(--accent-bg);
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+.deck-btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}

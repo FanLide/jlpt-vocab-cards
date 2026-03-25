@@ -1,7 +1,8 @@
-import { useCallback, useMemo, useRef, useState } from 'react'
+import { useCallback, useRef, useState } from 'react'
 import type { Card } from '../lib/lesson'
 import { VocabCard } from './VocabCard'
 import { Toast } from './Toast'
+import './CardDeck.css'
 
 type Props = {
   cards: Card[]
@@ -41,94 +42,67 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange }: Props
     if (loop) return setPosValue(0)
   }, [loop, pos, setPosValue, total])
 
-  // Swipe handling
+  // Swipe
   const start = useRef<{ x: number; y: number; t: number } | null>(null)
   const onPointerDown = (e: React.PointerEvent) => {
     start.current = { x: e.clientX, y: e.clientY, t: Date.now() }
   }
-
   const onPointerCancel = () => { start.current = null }
-
   const onPointerUp = (e: React.PointerEvent) => {
     if (!start.current) return
     const dx = e.clientX - start.current.x
     const dy = e.clientY - start.current.y
     const dt = Date.now() - start.current.t
     start.current = null
-
-    // horizontal swipe: enough distance, relatively quick, mostly horizontal
-    const absX = Math.abs(dx)
-    const absY = Math.abs(dy)
-    if (absX < 50) return
-    if (absX < absY * 1.2) return
-    if (dt > 800) return
-
-    if (dx < 0) next()
-    else prev()
+    if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.2 || dt > 800) return
+    if (dx < 0) next(); else prev()
   }
 
-  const header = useMemo(() => {
-    if (!current) return null
-
-    const minIndex = cards[0]?.index
-    const maxIndex = cards[cards.length - 1]?.index
-
-    return (
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
-        <div style={{ opacity: 0.75 }}>{pos + 1} / {total}</div>
-
-        <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
-          <span style={{ fontSize: 13, opacity: 0.8 }}>跳到：</span>
-          <input
-            inputMode="numeric"
-            placeholder={minIndex && maxIndex ? `${minIndex}~${maxIndex}` : '编号'}
-            onKeyDown={(e) => {
-              if (e.key !== 'Enter') return
-              const el = e.target as HTMLInputElement
-              const v = el.value.trim()
-              const n = Number(v)
-              if (!Number.isFinite(n)) {
-                setToast('请输入数字编号')
-                return
-              }
-              const p = cards.findIndex((c) => c.index === n)
-              if (p >= 0) {
-                setPosValue(p)
-                el.blur()
-              } else {
-                setToast(`本课没有编号 ${n}`)
-              }
-            }}
-            style={{
-              width: 90,
-              padding: '7px 10px',
-              borderRadius: 8,
-              border: '1.5px solid #aaa',
-              backgroundColor: '#fafafa',
-              fontSize: 14,
-            }}
-          />
-          <button onClick={prev} disabled={!canPrev}>← 上一张</button>
-          <button onClick={next} disabled={!canNext}>下一张 →</button>
-        </div>
-      </div>
-    )
-  }, [canNext, canPrev, cards, current, pos, prev, next, setPosValue, total])
+  const minIndex = cards[0]?.index
+  const maxIndex = cards[cards.length - 1]?.index
 
   const clearToast = useCallback(() => setToast(null), [])
 
-  if (!current) return <div style={{ opacity: 0.7 }}>本课暂无卡片</div>
+  if (!current) return <div className="deck-empty">本课暂无卡片</div>
 
   return (
-    <div onPointerDown={onPointerDown} onPointerUp={onPointerUp} onPointerCancel={onPointerCancel} style={{ touchAction: 'pan-y' }}>
-      {header}
-
-      <div style={{ marginTop: 12 }}>
-        <VocabCard key={current.id} card={current} variant="poker" />
+    <div className="card-deck">
+      {/* 进度栏 */}
+      <div className="deck-progress">
+        <span className="deck-pos">{pos + 1} <span className="deck-total">/ {total}</span></span>
+        <div className="deck-progress-bar">
+          <div className="deck-progress-fill" style={{ width: `${((pos + 1) / total) * 100}%` }} />
+        </div>
+        <input
+          className="deck-jump-input"
+          inputMode="numeric"
+          placeholder={minIndex && maxIndex ? `${minIndex}–${maxIndex}` : '#'}
+          onKeyDown={(e) => {
+            if (e.key !== 'Enter') return
+            const el = e.target as HTMLInputElement
+            const n = Number(el.value.trim())
+            const p = cards.findIndex((c) => c.index === n)
+            if (p >= 0) { setPosValue(p); el.value = ''; el.blur() }
+            else setToast(`没有编号 ${n}`)
+          }}
+        />
       </div>
 
-      <div style={{ marginTop: 10, opacity: 0.65, fontSize: 12 }}>
-        手势：左滑下一张、右滑上一张；长按 1 秒显示答案（松开隐藏）。
+      {/* 卡片区 */}
+      <div
+        className="deck-card-area"
+        onPointerDown={onPointerDown}
+        onPointerUp={onPointerUp}
+        onPointerCancel={onPointerCancel}
+      >
+        <VocabCard key={current.id} card={current} />
+      </div>
+
+      {/* 底部按钮 */}
+      <div className="deck-nav">
+        <button className="deck-btn" onClick={prev} disabled={!canPrev}>← 上一张</button>
+        <span className="deck-hint">左右滑动翻卡</span>
+        <button className="deck-btn" onClick={next} disabled={!canNext}>下一张 →</button>
       </div>
 
       <Toast message={toast} onClose={clearToast} />

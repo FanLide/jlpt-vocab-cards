@@ -1,19 +1,18 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Card } from '../lib/lesson'
+import './VocabCard.css'
 
-export function VocabCard({ card, variant = 'plain' }: { card: Card; variant?: 'plain' | 'poker' }) {
+export function VocabCard({ card }: { card: Card; variant?: 'plain' | 'poker' }) {
   const [revealed, setRevealed] = useState(false)
   const timer = useRef<number | null>(null)
 
   useEffect(() => {
-    return () => {
-      if (timer.current) window.clearTimeout(timer.current)
-    }
+    return () => { if (timer.current) window.clearTimeout(timer.current) }
   }, [])
 
   const onPointerDown = () => {
     if (timer.current) window.clearTimeout(timer.current)
-    timer.current = window.setTimeout(() => setRevealed(true), 1000)
+    timer.current = window.setTimeout(() => setRevealed(true), 800)
   }
 
   const onPointerUpOrLeave = () => {
@@ -24,60 +23,48 @@ export function VocabCard({ card, variant = 'plain' }: { card: Card; variant?: '
 
   return (
     <div
+      className={`vocab-card ${revealed ? 'revealed' : ''}`}
       onPointerDown={onPointerDown}
       onPointerUp={onPointerUpOrLeave}
       onPointerCancel={onPointerUpOrLeave}
       onPointerLeave={onPointerUpOrLeave}
-      style={{
-        userSelect: 'none',
-        touchAction: 'none',
-        border: '1px solid #e7e7e7',
-        borderRadius: variant === 'poker' ? 18 : 12,
-        padding: variant === 'poker' ? 20 : 16,
-        minHeight: variant === 'poker' ? 260 : 180,
-        background:
-          variant === 'poker'
-            ? 'linear-gradient(180deg, #ffffff 0%, #fbfbfb 100%)'
-            : '#fff',
-        boxShadow: variant === 'poker' ? '0 10px 30px rgba(0,0,0,0.08)' : 'none',
-        display: 'flex',
-        flexDirection: 'column',
-        justifyContent: 'center',
-        gap: 10,
-      }}
     >
-      {!revealed ? (
-        <>
-          <div style={{ fontSize: 28, fontWeight: 700 }}>{card.index}</div>
-          <div style={{ fontSize: 24 }}>{card.reading}</div>
-          <div style={{ opacity: 0.6, fontSize: 12 }}>长按 1 秒显示答案（松开隐藏）</div>
-        </>
-      ) : (
-        <>
-          <div style={{ display: 'flex', gap: 12, alignItems: 'baseline' }}>
-            <div style={{ fontSize: 28, fontWeight: 700 }}>{card.word}</div>
-            <div style={{ opacity: 0.7 }}>{card.reading}</div>
+      <div className="vocab-card-inner">
+        {/* 正面：显示编号 + 读音 */}
+        <div className="vocab-card-front">
+          <div className="card-index">#{card.index}</div>
+          <div className="card-reading">{card.reading || card.word}</div>
+          <div className="card-hint">长按显示答案</div>
+        </div>
+
+        {/* 背面：答案 */}
+        <div className="vocab-card-back">
+          <div className="card-back-header">
+            <span className="card-word">{card.word}</span>
+            <span className="card-reading-small">{card.reading}</span>
           </div>
-          <div>
-            <div>
-              <b>中文</b>：{card.meaning.zh}
+          <div className="card-meanings">
+            <div className="card-meaning-row">
+              <span className="card-meaning-lang">中</span>
+              <span>{card.meaning.zh}</span>
             </div>
-            {card.meaning.en ? (
-              <div>
-                <b>English</b>：{card.meaning.en}
+            {card.meaning.en && (
+              <div className="card-meaning-row">
+                <span className="card-meaning-lang">EN</span>
+                <span>{card.meaning.en}</span>
               </div>
-            ) : null}
+            )}
           </div>
-          {card.sentence ? (
-            <div style={{ marginTop: 8 }}>
-              <div>
-                <b>例句</b>：{card.sentence.ja}
-              </div>
-              {card.sentence.zh ? <div style={{ opacity: 0.85 }}>{card.sentence.zh}</div> : null}
+          {card.sentence && (
+            <div className="card-sentence">
+              <div className="card-sentence-ja">{card.sentence.ja}</div>
+              {card.sentence.zh && (
+                <div className="card-sentence-zh">{card.sentence.zh}</div>
+              )}
             </div>
-          ) : null}
-        </>
-      )}
+          )}
+        </div>
+      </div>
     </div>
   )
 }

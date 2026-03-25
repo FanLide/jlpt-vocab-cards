@@ -1,0 +1,164 @@
+.vocab-card {
+  width: 100%;
+  height: 72svh;
+  min-height: 320px;
+  perspective: 1200px;
+  cursor: pointer;
+  user-select: none;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.vocab-card-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 24px;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.06),
+    0 20px 40px -8px rgba(0, 0, 0, 0.12);
+}
+
+.vocab-card.revealed .vocab-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Front */
+.vocab-card-front,
+.vocab-card-back {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 28px;
+  box-sizing: border-box;
+}
+
+.vocab-card-front {
+  background: linear-gradient(145deg, #ffffff 0%, #f8f7ff 100%);
+  border: 1px solid var(--border);
+}
+
+@media (prefers-color-scheme: dark) {
+  .vocab-card-front {
+    background: linear-gradient(145deg, #1e1f28 0%, #17181f 100%);
+  }
+  .vocab-card-back {
+    background: linear-gradient(145deg, #1a1b2e 0%, #16172a 100%);
+    border-color: var(--accent-border);
+  }
+}
+
+.card-index {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-bg);
+  border-radius: 8px;
+  padding: 3px 10px;
+  margin-bottom: 28px;
+  letter-spacing: 0.5px;
+}
+
+.card-reading {
+  font-size: clamp(36px, 8vw, 56px);
+  font-weight: 700;
+  color: var(--text-h);
+  text-align: center;
+  letter-spacing: -1px;
+  line-height: 1.15;
+}
+
+.card-hint {
+  margin-top: 32px;
+  font-size: 12px;
+  opacity: 0.4;
+  letter-spacing: 0.3px;
+}
+
+/* Back */
+.vocab-card-back {
+  transform: rotateY(180deg);
+  background: linear-gradient(145deg, #f5f0ff 0%, #ede8ff 100%);
+  border: 1.5px solid var(--accent-border);
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 36px 32px;
+  gap: 20px;
+}
+
+.card-back-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.card-word {
+  font-size: clamp(32px, 7vw, 48px);
+  font-weight: 700;
+  color: var(--text-h);
+  letter-spacing: -0.5px;
+}
+
+.card-reading-small {
+  font-size: 18px;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.card-meanings {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.card-meaning-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 18px;
+  color: var(--text-h);
+  line-height: 1.5;
+}
+
+.card-meaning-lang {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-bg);
+  border-radius: 5px;
+  padding: 2px 6px;
+  margin-top: 3px;
+  flex-shrink: 0;
+  letter-spacing: 0.3px;
+}
+
+.card-sentence {
+  width: 100%;
+  padding-top: 16px;
+  border-top: 1px solid var(--accent-border);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.card-sentence-ja {
+  font-size: 14px;
+  color: var(--text-h);
+  line-height: 1.6;
+}
+
+.card-sentence-zh {
+  font-size: 13px;
+  opacity: 0.65;
+  line-height: 1.6;
+}
