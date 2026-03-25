@@ -32,13 +32,13 @@ export function VocabCard({ card }: { card: Card; variant?: 'plain' | 'poker' })
       <div className="vocab-card-inner">
         {/* 正面：显示编号 + 读音 */}
         <div className="vocab-card-front">
-          <div className="card-index">#{card.index}</div>
           <div className="card-reading">{card.reading || card.word}</div>
           <div className="card-hint">长按显示答案</div>
         </div>
 
         {/* 背面：答案 */}
         <div className="vocab-card-back">
+          <div className="card-index-back">#{card.index}</div>
           <div className="card-back-header">
             <span className="card-word">{card.word}</span>
             <span className="card-reading-small">{card.reading}</span>
