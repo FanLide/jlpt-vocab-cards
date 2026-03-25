@@ -1,6 +1,6 @@
 .vocab-card {
   width: 100%;
-  flex: 1;            /* 撑满 deck-card-area */
+  flex: 1;
   min-height: 240px;
   perspective: 1200px;
   cursor: pointer;
@@ -23,7 +23,7 @@
   transform: rotateY(180deg);
 }
 
-/* Front */
+/* Front & Back 共用基础 */
 .vocab-card-front,
 .vocab-card-back {
   position: absolute;
@@ -39,35 +39,10 @@
   box-sizing: border-box;
 }
 
+/* ── 正面 ────────────────────────────────── */
 .vocab-card-front {
-  background: linear-gradient(145deg, #ffffff 0%, #f8f7ff 100%);
-  border: 1px solid var(--border);
-}
-
-@media (prefers-color-scheme: dark) {
-  .vocab-card-front {
-    background: linear-gradient(145deg, #1e1f28 0%, #17181f 100%);
-  }
-  .vocab-card-back {
-    background: linear-gradient(145deg, #1e1a2e 0%, #18142a 100%);
-    border-color: var(--accent-border);
-  }
-  /* 暗黑模式：背面文字强制亮色，避免和深色背景混同 */
-  .vocab-card-back .card-word,
-  .vocab-card-back .card-meaning-row,
-  .vocab-card-back .card-sentence-ja {
-    color: #f0eeff;
-  }
-  .vocab-card-back .card-reading-small {
-    color: #c084fc;
-  }
-  .vocab-card-back .card-sentence-zh {
-    color: #b8b0cc;
-  }
-  .vocab-card-back .card-meaning-lang {
-    background: rgba(192, 132, 252, 0.2);
-    color: #c084fc;
-  }
+  background: var(--bg);
+  border-top: 1px solid var(--border);
 }
 
 .card-index {
@@ -93,19 +68,20 @@
 .card-hint {
   margin-top: 32px;
   font-size: 12px;
+  color: var(--text);
   opacity: 0.4;
   letter-spacing: 0.3px;
 }
 
-/* Back */
+/* ── 背面 ────────────────────────────────── */
 .vocab-card-back {
   transform: rotateY(180deg);
-  background: linear-gradient(145deg, #f5f0ff 0%, #ede8ff 100%);
-  border: 1.5px solid var(--accent-border);
+  background: var(--code-bg);
+  border-top: 2px solid var(--accent-border);
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 36px 32px;
-  gap: 20px;
+  padding: 28px 24px;
+  gap: 16px;
 }
 
 .card-back-header {
@@ -116,7 +92,7 @@
 }
 
 .card-word {
-  font-size: clamp(32px, 7vw, 48px);
+  font-size: clamp(30px, 7vw, 46px);
   font-weight: 700;
   color: var(--text-h);
   letter-spacing: -0.5px;
@@ -139,7 +115,7 @@
   display: flex;
   align-items: flex-start;
   gap: 10px;
-  font-size: 18px;
+  font-size: 17px;
   color: var(--text-h);
   line-height: 1.5;
 }
@@ -158,8 +134,8 @@
 
 .card-sentence {
   width: 100%;
-  padding-top: 16px;
-  border-top: 1px solid var(--accent-border);
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -173,6 +149,7 @@
 
 .card-sentence-zh {
   font-size: 13px;
-  opacity: 0.65;
+  color: var(--text);
+  opacity: 0.7;
   line-height: 1.6;
 }
