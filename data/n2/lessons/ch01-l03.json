@@ -1,0 +1,481 @@
+{
+  "id": "ch01-l03",
+  "chapterId": "ch01",
+  "titleJa": "知人・付き合い",
+  "titleZh": "熟人、交际",
+  "rangeNote": "50～75",
+  "audio": {
+    "track": "Track003",
+    "file": "resources/audio/extracted/万词对策N2/Track003.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l03-050",
+      "index": 50,
+      "word": "初対面",
+      "reading": "しょたいめん",
+      "meaning": {
+        "zh": "初次见面",
+        "en": "first meeting"
+      },
+      "sentence": {
+        "ja": "山田さんとは初対面だったので、あいさつした。",
+        "zh": "因为和山田是第一次见面，所以打了招呼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-051",
+      "index": 51,
+      "word": "自己紹介",
+      "reading": "じこしょうかい",
+      "meaning": {
+        "zh": "自我介绍",
+        "en": "self-introduction"
+      },
+      "sentence": {
+        "ja": "合コンでお互いに自己紹介をした。",
+        "zh": "在联谊会上大家互相做了自我介绍。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-052",
+      "index": 52,
+      "word": "おじぎする",
+      "reading": "おじぎする",
+      "meaning": {
+        "zh": "鞠躬，行礼",
+        "en": "bow"
+      },
+      "sentence": {
+        "ja": "朝、大家さんに会ったので、おじぎした。",
+        "zh": "早上见到房东，于是行了个礼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-053",
+      "index": 53,
+      "word": "近所付き合い",
+      "reading": "きんじょづきあい",
+      "meaning": {
+        "zh": "邻里交往",
+        "en": "interaction with neighbors"
+      },
+      "sentence": {
+        "ja": "できるだけ近所付き合いを大切にしている。",
+        "zh": "我尽量重视邻里之间的交往。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-054",
+      "index": 54,
+      "word": "大家",
+      "reading": "おおや",
+      "meaning": {
+        "zh": "房东",
+        "en": "landlord"
+      },
+      "sentence": {
+        "ja": "私のアパートの大家さんは、とても親切な人だ。",
+        "zh": "我公寓的房东是个非常亲切的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-055",
+      "index": 55,
+      "word": "飼い主",
+      "reading": "かいぬし",
+      "meaning": {
+        "zh": "主人（宠物的）",
+        "en": "owner"
+      },
+      "sentence": {
+        "ja": "犬の飼い主同士が公園でおしゃべりをしている。",
+        "zh": "养狗的人在公园聊天。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-056",
+      "index": 56,
+      "word": "交わす",
+      "reading": "かわす",
+      "meaning": {
+        "zh": "交换，互相",
+        "en": "to exchange"
+      },
+      "sentence": {
+        "ja": "近所の人達に会うと、笑顔であいさつを交わす。",
+        "zh": "遇到邻居时，会微笑着互相打招呼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-057",
+      "index": 57,
+      "word": "呼び止める",
+      "reading": "よびとめる",
+      "meaning": {
+        "zh": "叫住",
+        "en": "to stop"
+      },
+      "sentence": {
+        "ja": "アパートの前で管理人さんに呼び止められた。",
+        "zh": "在公寓门口被管理员叫住了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-058",
+      "index": 58,
+      "word": "紹介する",
+      "reading": "しょうかいする",
+      "meaning": {
+        "zh": "介绍",
+        "en": "to introduce"
+      },
+      "sentence": {
+        "ja": "友達に新しい同僚を紹介した。",
+        "zh": "把新同事介绍给了朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-059",
+      "index": 59,
+      "word": "名刺",
+      "reading": "めいし",
+      "meaning": {
+        "zh": "名片",
+        "en": "business card"
+      },
+      "sentence": {
+        "ja": "初対面の人と名刺を交換した。",
+        "zh": "和初次见面的人交换了名片。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-060",
+      "index": 60,
+      "word": "挨拶",
+      "reading": "あいさつ",
+      "meaning": {
+        "zh": "打招呼",
+        "en": "greeting"
+      },
+      "sentence": {
+        "ja": "きちんと挨拶をすることは大切だ。",
+        "zh": "好好打招呼很重要。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-061",
+      "index": 61,
+      "word": "礼儀",
+      "reading": "れいぎ",
+      "meaning": {
+        "zh": "礼仪",
+        "en": "manners"
+      },
+      "sentence": {
+        "ja": "礼儀を守る人は好印象を与える。",
+        "zh": "讲礼仪的人会给人好印象。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-062",
+      "index": 62,
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": {
+        "zh": "印象",
+        "en": "impression"
+      },
+      "sentence": {
+        "ja": "彼は第一印象がとても良かった。",
+        "zh": "他给人的第一印象很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-063",
+      "index": 63,
+      "word": "親しい",
+      "reading": "したしい",
+      "meaning": {
+        "zh": "亲近的",
+        "en": "close"
+      },
+      "sentence": {
+        "ja": "彼とは親しい関係だ。",
+        "zh": "我和他关系很亲近。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-064",
+      "index": 64,
+      "word": "仲良くする",
+      "reading": "なかよくする",
+      "meaning": {
+        "zh": "好好相处",
+        "en": "to get along"
+      },
+      "sentence": {
+        "ja": "みんなと仲良くしたい。",
+        "zh": "我想和大家好好相处。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-065",
+      "index": 65,
+      "word": "付き合う",
+      "reading": "つきあう",
+      "meaning": {
+        "zh": "交往，来往",
+        "en": "to associate"
+      },
+      "sentence": {
+        "ja": "彼とは長く付き合っている。",
+        "zh": "我和他交往很久了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-066",
+      "index": 66,
+      "word": "誘う",
+      "reading": "さそう",
+      "meaning": {
+        "zh": "邀请",
+        "en": "to invite"
+      },
+      "sentence": {
+        "ja": "友達を食事に誘った。",
+        "zh": "邀请朋友一起吃饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-067",
+      "index": 67,
+      "word": "断る",
+      "reading": "ことわる",
+      "meaning": {
+        "zh": "拒绝",
+        "en": "to refuse"
+      },
+      "sentence": {
+        "ja": "その誘いを断った。",
+        "zh": "拒绝了那个邀请。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-068",
+      "index": 68,
+      "word": "遠慮する",
+      "reading": "えんりょする",
+      "meaning": {
+        "zh": "客气，推辞",
+        "en": "to hesitate"
+      },
+      "sentence": {
+        "ja": "遠慮せずに言ってください。",
+        "zh": "请不要客气直接说。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-069",
+      "index": 69,
+      "word": "気を遣う",
+      "reading": "きをつかう",
+      "meaning": {
+        "zh": "顾虑，体贴",
+        "en": "to be considerate"
+      },
+      "sentence": {
+        "ja": "相手に気を遣いすぎて疲れた。",
+        "zh": "太顾虑对方反而很累。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-070",
+      "index": 70,
+      "word": "打ち解ける",
+      "reading": "うちとける",
+      "meaning": {
+        "zh": "打成一片",
+        "en": "to become friendly"
+      },
+      "sentence": {
+        "ja": "すぐにクラスに打ち解けた。",
+        "zh": "很快就融入了班级。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-071",
+      "index": 71,
+      "word": "溶け込む",
+      "reading": "とけこむ",
+      "meaning": {
+        "zh": "融入",
+        "en": "to blend in"
+      },
+      "sentence": {
+        "ja": "新しい環境に溶け込むのは難しい。",
+        "zh": "融入新环境很难。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-072",
+      "index": 72,
+      "word": "気が合う",
+      "reading": "きがあう",
+      "meaning": {
+        "zh": "合得来",
+        "en": "to get along well"
+      },
+      "sentence": {
+        "ja": "彼とは気が合う。",
+        "zh": "我和他很合得来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-073",
+      "index": 73,
+      "word": "距離を置く",
+      "reading": "きょりをおく",
+      "meaning": {
+        "zh": "保持距离",
+        "en": "to keep distance"
+      },
+      "sentence": {
+        "ja": "その人とは少し距離を置いている。",
+        "zh": "我和那个人稍微保持距离。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-074",
+      "index": 74,
+      "word": "無視する",
+      "reading": "むしする",
+      "meaning": {
+        "zh": "无视",
+        "en": "to ignore"
+      },
+      "sentence": {
+        "ja": "彼の話を無視した。",
+        "zh": "无视了他说的话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    },
+    {
+      "id": "ch01-l03-075",
+      "index": 75,
+      "word": "関わる",
+      "reading": "かかわる",
+      "meaning": {
+        "zh": "涉及，牵涉",
+        "en": "to be involved"
+      },
+      "sentence": {
+        "ja": "その問題には関わりたくない。",
+        "zh": "我不想牵涉进那个问题。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词対策",
+        "level": "N2"
+      }
+    }
+  ]
+}
