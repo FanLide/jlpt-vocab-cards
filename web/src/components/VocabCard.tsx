@@ -12,7 +12,7 @@ export function VocabCard({ card }: { card: Card; variant?: 'plain' | 'poker' })
 
   const onPointerDown = () => {
     if (timer.current) window.clearTimeout(timer.current)
-    timer.current = window.setTimeout(() => setRevealed(true), 800)
+    timer.current = window.setTimeout(() => setRevealed(true), 400)
   }
 
   const onPointerUpOrLeave = () => {

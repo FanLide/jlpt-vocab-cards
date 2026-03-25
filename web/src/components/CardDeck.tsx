@@ -1,5 +1,4 @@
 import { useCallback, useRef, useState } from 'react'
-
 import type { Card } from '../lib/lesson'
 import { VocabCard } from './VocabCard'
 import { Toast } from './Toast'
@@ -11,6 +10,13 @@ type Props = {
   pos?: number
   onPosChange?: (pos: number) => void
   onToggleMode?: () => void
+}
+
+type AnimState = {
+  outCard: Card
+  inCard: Card
+  dir: 'left' | 'right'
+  id: number
 }
 
 export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggleMode }: Props) {
@@ -26,70 +32,89 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
   )
 
   const current = cards[pos]
-  const total = cards.length
+  const total   = cards.length
   const [toast, setToast] = useState<string | null>(null)
 
   const canPrev = loop || pos > 0
   const canNext = loop || pos < total - 1
 
-  const prev = useCallback(() => {
-    if (total === 0) return
-    if (pos > 0) return setPosValue(pos - 1)
-    if (loop) return setPosValue(total - 1)
-  }, [loop, pos, setPosValue, total])
+  const getRawPrev = useCallback(() => {
+    if (pos > 0) return pos - 1
+    if (loop)    return total - 1
+    return null
+  }, [loop, pos, total])
 
-  const next = useCallback(() => {
-    if (total === 0) return
-    if (pos < total - 1) return setPosValue(pos + 1)
-    if (loop) return setPosValue(0)
-  }, [loop, pos, setPosValue, total])
+  const getRawNext = useCallback(() => {
+    if (pos < total - 1) return pos + 1
+    if (loop)            return 0
+    return null
+  }, [loop, pos, total])
 
-  // Swipe
+  // ── 双卡叠加动画 ──────────────────────────────────────────────
+  const [anim, setAnim] = useState<AnimState | null>(null)
+  const animTimerRef    = useRef<number | null>(null)
+  const animIdRef       = useRef(0)
+
+  const triggerAnim = useCallback(
+    (dir: 'left' | 'right', nextPos: number) => {
+      const outCard = cards[pos]
+      const inCard  = cards[nextPos]
+      if (!outCard || !inCard) return
+
+      if (animTimerRef.current) window.clearTimeout(animTimerRef.current)
+      animIdRef.current += 1
+      const id = animIdRef.current
+      setAnim({ outCard, inCard, dir, id })
+      setPosValue(nextPos)
+
+      animTimerRef.current = window.setTimeout(() => {
+        setAnim(a => (a?.id === id ? null : a))
+      }, 380)
+    },
+    [cards, pos, setPosValue]
+  )
+
+  const prevWithAnim = useCallback(() => {
+    const n = getRawPrev()
+    if (n === null) return
+    triggerAnim('right', n)
+  }, [getRawPrev, triggerAnim])
+
+  const nextWithAnim = useCallback(() => {
+    const n = getRawNext()
+    if (n === null) return
+    triggerAnim('left', n)
+  }, [getRawNext, triggerAnim])
+
+  // ── 滑动手势 ─────────────────────────────────────────────────
   const start = useRef<{ x: number; y: number; t: number } | null>(null)
   const onPointerDown = (e: React.PointerEvent) => {
     start.current = { x: e.clientX, y: e.clientY, t: Date.now() }
   }
   const onPointerCancel = () => { start.current = null }
-
-
-  const minIndex = cards[0]?.index
-  const maxIndex = cards[cards.length - 1]?.index
-  const clearToast = useCallback(() => setToast(null), [])
-
-  // slide direction for animation
-  const [slideDir, setSlideDir] = useState<'left' | 'right' | null>(null)
-  const [animKey, setAnimKey] = useState(0)
-
-  const prevWithAnim = useCallback(() => {
-    setSlideDir('right')
-    setAnimKey(k => k + 1)
-    prev()
-  }, [prev])
-
-  const nextWithAnim = useCallback(() => {
-    setSlideDir('left')
-    setAnimKey(k => k + 1)
-    next()
-  }, [next])
-
-  // override swipe to use animated versions
-  const onPointerUpAnimated = (e: React.PointerEvent) => {
+  const onPointerUp = (e: React.PointerEvent) => {
     if (!start.current) return
     const dx = e.clientX - start.current.x
     const dy = e.clientY - start.current.y
     const dt = Date.now() - start.current.t
     start.current = null
-    if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.2 || dt > 800) return
+    if (Math.abs(dx) < 40 || Math.abs(dx) < Math.abs(dy) * 1.2 || dt > 800) return
     if (dx < 0) nextWithAnim(); else prevWithAnim()
   }
+
+  const minIndex   = cards[0]?.index
+  const maxIndex   = cards[cards.length - 1]?.index
+  const clearToast = useCallback(() => setToast(null), [])
 
   if (!current) return <div className="deck-empty">本课暂无卡片</div>
 
   return (
     <div className="card-deck">
-      {/* 进度 + 跳转 + 列表切换 — 一行 */}
+      {/* 进度条工具栏 */}
       <div className="deck-toolbar">
-        <span className="deck-pos">{pos + 1}<span className="deck-total">/{total}</span></span>
+        <span className="deck-pos">
+          {pos + 1}<span className="deck-total">/{total}</span>
+        </span>
         <div className="deck-progress-bar">
           <div className="deck-progress-fill" style={{ width: `${((pos + 1) / total) * 100}%` }} />
         </div>
@@ -100,8 +125,8 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
           onKeyDown={(e) => {
             if (e.key !== 'Enter') return
             const el = e.target as HTMLInputElement
-            const n = Number(el.value.trim())
-            const p = cards.findIndex((c) => c.index === n)
+            const n  = Number(el.value.trim())
+            const p  = cards.findIndex((c) => c.index === n)
             if (p >= 0) { setPosValue(p); el.value = ''; el.blur() }
             else setToast(`没有编号 ${n}`)
           }}
@@ -111,22 +136,32 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
         )}
       </div>
 
-      {/* 卡片区：flex-grow 撑满剩余空间 */}
+      {/* 卡片舞台 */}
       <div
-        className="deck-card-area"
+        className="deck-stage"
         onPointerDown={onPointerDown}
-        onPointerUp={onPointerUpAnimated}
+        onPointerUp={onPointerUp}
         onPointerCancel={onPointerCancel}
       >
-        <div
-          key={animKey}
-          className={`deck-slide deck-slide-${slideDir ?? 'none'}`}
-        >
-          <VocabCard key={current.id} card={current} />
-        </div>
+        {anim ? (
+          <>
+            {/* 旧卡飞出 */}
+            <div key={`out-${anim.id}`} className={`deck-card-slot deck-out-${anim.dir}`}>
+              <VocabCard card={anim.outCard} />
+            </div>
+            {/* 新卡飞入 */}
+            <div key={`in-${anim.id}`} className={`deck-card-slot deck-in-${anim.dir}`}>
+              <VocabCard card={anim.inCard} />
+            </div>
+          </>
+        ) : (
+          <div className="deck-card-slot">
+            <VocabCard card={current} />
+          </div>
+        )}
       </div>
 
-      {/* 底部左右按钮 */}
+      {/* 底部导航 */}
       <div className="deck-nav">
         <button className="deck-btn" onClick={prevWithAnim} disabled={!canPrev}>← 上一张</button>
         <span className="deck-hint">左右滑动</span>

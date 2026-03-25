@@ -83,39 +83,54 @@
   color: var(--accent);
 }
 
-/* 卡片区：撑满剩余空间 */
-.deck-card-area {
+/* ── 卡片舞台 ─────────────────────────────────────────── */
+.deck-stage {
   flex: 1;
   min-height: 0;
   touch-action: pan-y;
-  display: flex;
-  flex-direction: column;
+  position: relative;          /* 让子卡片绝对定位叠在一起 */
   overflow: hidden;
-  /* 负 margin 抵消 lesson-page 的 padding，让卡片贴边 */
   margin-left: -12px;
   margin-right: -12px;
 }
 
-/* 滑动动画容器 */
-.deck-slide {
+/* 每张卡的槽，绝对铺满舞台 */
+.deck-card-slot {
+  position: absolute;
+  inset: 0;
   display: flex;
   flex-direction: column;
-  flex: 1;
-  min-height: 0;
 }
 
-@keyframes slideInFromLeft {
-  from { transform: translateX(-60px); opacity: 0; }
-  to   { transform: translateX(0);     opacity: 1; }
+/* ── 飞出动画（旧卡） ──────────────────────────────── */
+@keyframes flyOutLeft {
+  0%   { transform: translateX(0)     scale(1);    opacity: 1; }
+  100% { transform: translateX(-110%) scale(0.85); opacity: 0; }
 }
-@keyframes slideInFromRight {
-  from { transform: translateX(60px);  opacity: 0; }
-  to   { transform: translateX(0);     opacity: 1; }
+@keyframes flyOutRight {
+  0%   { transform: translateX(0)    scale(1);    opacity: 1; }
+  100% { transform: translateX(110%) scale(0.85); opacity: 0; }
 }
 
-.deck-slide-left  { animation: slideInFromLeft  0.22s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
-.deck-slide-right { animation: slideInFromRight 0.22s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
-.deck-slide-none  { /* no animation on first render */ }
+/* ── 飞入动画（新卡） ──────────────────────────────── */
+@keyframes flyInFromRight {
+  0%   { transform: translateX(110%) scale(0.88); opacity: 0; }
+  60%  { transform: translateX(-4%)  scale(1.01); opacity: 1; }
+  100% { transform: translateX(0)    scale(1);    opacity: 1; }
+}
+@keyframes flyInFromLeft {
+  0%   { transform: translateX(-110%) scale(0.88); opacity: 0; }
+  60%  { transform: translateX(4%)    scale(1.01); opacity: 1; }
+  100% { transform: translateX(0)     scale(1);    opacity: 1; }
+}
+
+/* 向左切换（下一张）：旧卡左飞出，新卡从右飞入 */
+.deck-out-left { animation: flyOutLeft     0.32s cubic-bezier(0.4, 0, 0.6, 1) forwards; z-index: 1; }
+.deck-in-left  { animation: flyInFromRight 0.36s cubic-bezier(0.22, 1, 0.36, 1) forwards; z-index: 2; }
+
+/* 向右切换（上一张）：旧卡右飞出，新卡从左飞入 */
+.deck-out-right { animation: flyOutRight   0.32s cubic-bezier(0.4, 0, 0.6, 1) forwards; z-index: 1; }
+.deck-in-right  { animation: flyInFromLeft 0.36s cubic-bezier(0.22, 1, 0.36, 1) forwards; z-index: 2; }
 
 /* 底部导航 */
 .deck-nav {
