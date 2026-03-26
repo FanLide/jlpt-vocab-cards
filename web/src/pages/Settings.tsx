@@ -27,6 +27,16 @@ export function SettingsPage() {
   const [autoNext, setAutoNext] = useAutoNextLesson()
   const [autoPlay, setAutoPlay] = useAutoPlayOnDeckEnter()
 
+  const onChangeLoop = (next: boolean) => {
+    setLoop(next)
+    if (next) setAutoNext(false)
+  }
+
+  const onChangeAutoNext = (next: boolean) => {
+    setAutoNext(next)
+    if (next) setLoop(false)
+  }
+
   return (
     <div className="settings-page">
       <div className="settings-back">
@@ -40,13 +50,13 @@ export function SettingsPage() {
           label="单课循环"
           desc="打开后：最后一张 → 下一张回到第一张"
           value={loop}
-          onChange={setLoop}
+          onChange={onChangeLoop}
         />
         <ToggleRow
           label="完成后自动下一课"
           desc="播放完本课最后一张，自动跳转到下一课"
           value={autoNext}
-          onChange={setAutoNext}
+          onChange={onChangeAutoNext}
         />
         <ToggleRow
           label="进入卡片模式自动播放"
