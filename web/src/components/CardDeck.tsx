@@ -26,7 +26,6 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
 
   const setPosValue = useCallback(
     (next: number) => {
-      setDetailOpen(false)
       if (controlledPos === undefined) setInnerPos(next)
       onPosChange?.(next)
     },
