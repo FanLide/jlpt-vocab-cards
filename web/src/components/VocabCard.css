@@ -96,28 +96,37 @@
   border-top: 2px solid var(--accent-border);
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 28px 24px;
+  padding: 28px 24px 32px;
   gap: 16px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 .card-back-header {
   display: flex;
   align-items: baseline;
-  gap: 12px;
+  gap: 10px;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .card-word {
-  font-size: clamp(30px, 7vw, 46px);
+  font-size: clamp(28px, 6.6vw, 42px);
   font-weight: 700;
   color: var(--text-h);
   letter-spacing: -0.5px;
+  line-height: 1.18;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  max-width: 100%;
 }
 
 .card-reading-small {
   font-size: 18px;
   color: var(--accent);
   font-weight: 500;
+  line-height: 1.35;
+  max-width: 100%;
 }
 
 .card-meanings {
