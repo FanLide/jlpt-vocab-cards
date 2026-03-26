@@ -55,7 +55,8 @@ export function LessonPage() {
       await precacheAudio(audioUrl)
       setCacheState('cached')
     } catch (e) {
-      setError(String(e))
+      const msg = e instanceof Error ? e.message : String(e)
+      setError(msg)
     } finally {
       setDownloading(false)
     }
