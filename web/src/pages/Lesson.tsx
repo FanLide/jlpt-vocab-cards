@@ -1,11 +1,11 @@
-import { useEffect, useMemo, useState, type MouseEvent } from 'react'
+import { useEffect, useMemo, useRef, useState, type MouseEvent } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { getLessonMeta, friendlyLessonTitle, getNextLessonId, getBookEntry } from '../lib/data'
 import { loadLesson } from '../lib/lesson'
 import { isAudioCached, precacheAudio } from '../lib/cacheAudio'
 import { CardDeck } from '../components/CardDeck'
 import { CardList } from '../components/CardList'
-import { useLoopEnabled, useAutoNextLesson } from '../lib/settings'
+import { useLoopEnabled, useAutoNextLesson, useAutoPlayOnDeckEnter } from '../lib/settings'
 import './Lesson.css'
 
 export function LessonPage() {
@@ -18,11 +18,13 @@ export function LessonPage() {
   const navigate = useNavigate()
   const [loopEnabled]  = useLoopEnabled()
   const [autoNext]     = useAutoNextLesson()
+  const [autoPlayOnDeckEnter] = useAutoPlayOnDeckEnter()
   const [cacheState, setCacheState] = useState<'unknown' | 'cached' | 'not-cached'>('unknown')
   const [downloading, setDownloading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [mode, setMode] = useState<'deck' | 'list'>('deck')
   const [pos, setPos] = useState(0)
+  const audioRef = useRef<HTMLAudioElement | null>(null)
 
   useEffect(() => {
     setError(null)
@@ -46,6 +48,20 @@ export function LessonPage() {
       .then((ok) => setCacheState(ok ? 'cached' : 'not-cached'))
       .catch(() => setCacheState('unknown'))
   }, [audioUrl])
+
+  useEffect(() => {
+    if (mode !== 'deck' || !audioUrl || !autoPlayOnDeckEnter) return
+    const audio = audioRef.current
+    if (!audio) return
+    const tryPlay = async () => {
+      try {
+        await audio.play()
+      } catch {
+        // ignore autoplay rejection
+      }
+    }
+    void tryPlay()
+  }, [mode, audioUrl, autoPlayOnDeckEnter, lessonId])
 
   const onPrecache = async () => {
     if (!audioUrl) return
@@ -96,6 +112,7 @@ export function LessonPage() {
           {audioUrl && (
             <div className="audio-row">
               <audio
+                ref={audioRef}
                 className="audio-player"
                 controls
                 preload="metadata"

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { useLoopEnabled, useAutoNextLesson } from '../lib/settings'
+import { useLoopEnabled, useAutoNextLesson, useAutoPlayOnDeckEnter } from '../lib/settings'
 import './Settings.css'
 
 function ToggleRow({
@@ -25,6 +25,7 @@ function ToggleRow({
 export function SettingsPage() {
   const [loop,     setLoop]     = useLoopEnabled()
   const [autoNext, setAutoNext] = useAutoNextLesson()
+  const [autoPlay, setAutoPlay] = useAutoPlayOnDeckEnter()
 
   return (
     <div className="settings-page">
@@ -46,6 +47,12 @@ export function SettingsPage() {
           desc="播放完本课最后一张，自动跳转到下一课"
           value={autoNext}
           onChange={setAutoNext}
+        />
+        <ToggleRow
+          label="进入卡片模式自动播放"
+          desc="从目录进入课程后，默认自动尝试播放本课音频"
+          value={autoPlay}
+          onChange={setAutoPlay}
         />
       </div>
     </div>

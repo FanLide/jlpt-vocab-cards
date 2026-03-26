@@ -2,6 +2,7 @@ import { useState } from 'react'
 
 const KEY_LOOP        = 'jlpt:loopEnabled'
 const KEY_AUTO_NEXT   = 'jlpt:autoNextLesson'
+const KEY_AUTO_PLAY   = 'jlpt:autoPlayOnDeckEnter'
 
 function useBoolSetting(key: string, defaultVal: boolean) {
   const [val, setVal] = useState(() => {
@@ -19,4 +20,5 @@ function useBoolSetting(key: string, defaultVal: boolean) {
 
 export function useLoopEnabled()      { return useBoolSetting(KEY_LOOP,      true)  }
 export function useAutoNextLesson()   { return useBoolSetting(KEY_AUTO_NEXT, false) }
+export function useAutoPlayOnDeckEnter() { return useBoolSetting(KEY_AUTO_PLAY, true) }
 
