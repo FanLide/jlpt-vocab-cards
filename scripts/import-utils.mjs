@@ -185,9 +185,61 @@ function parseItemFormatD(lines, i) {
   }
 }
 
+function parseItemFormatFSingleLine(line) {
+  // 新格式：
+  // 1 一家（いっか） family：一家人，全家 例：兄が...。 中文翻译。 [相關]：...
+  const m = line.match(/^(\d+)\s+(.+?)\s+([^：]+)：\s*(.+?)\s+例：\s*(.+)$/)
+  if (!m) return null
+
+  const index = Number(m[1])
+  const wordPart = m[2].trim()
+  const enMeaning = m[3].trim()
+  let zhMeaning = m[4].trim()
+  let examplePart = m[5].trim()
+
+  // 去掉 [相關] 段
+  examplePart = examplePart.replace(/\s*\[相關\]：.*$/, '').trim()
+
+  const rMatch = wordPart.match(/（(.+?)）/)
+  const reading = rMatch ? rMatch[1].trim() : wordPart
+
+  // 日文例句 + 中文翻译分割：优先按句号后空格拆；拆不到按最后一个全角句号拆
+  let jaSentence = ''
+  let zhSentence = ''
+  const split1 = examplePart.match(/^(.*?[。！？])\s+(.+)$/)
+  if (split1) {
+    jaSentence = split1[1].trim()
+    zhSentence = split1[2].trim()
+  } else {
+    const lastPunc = Math.max(examplePart.lastIndexOf('。'), examplePart.lastIndexOf('！'), examplePart.lastIndexOf('？'))
+    if (lastPunc !== -1 && lastPunc < examplePart.length - 1) {
+      jaSentence = examplePart.slice(0, lastPunc + 1).trim()
+      zhSentence = examplePart.slice(lastPunc + 1).trim()
+    } else {
+      return null
+    }
+  }
+
+  return {
+    consumed: 1,
+    card: {
+      index,
+      word: wordPart,
+      reading,
+      meaning: { en: enMeaning, zh: zhMeaning },
+      sentence: { ja: jaSentence, zh: zhSentence },
+    },
+  }
+}
+
 export function parseNextItem(lines, i) {
   const line = lines[i] ?? ''
   if (!/^\d+\s+/.test(line)) return null
+
+  // 新章节纯单行增强格式优先
+  const formatF = parseItemFormatFSingleLine(line)
+  if (formatF) return formatF
+
   if (line.includes(' 例：')) return parseItemFormatB(lines, i)
   if (line.includes('：')) {
     const line1 = (lines[i + 1] ?? '').trim()
@@ -205,12 +257,26 @@ export function splitChapterTextIntoLessonBlocks(text) {
 
   for (const raw of rawLines) {
     const line = raw.trim()
+
     if (/^-{3,}/.test(line)) {
       if (current?.lessonId) blocks.push(current)
       current = { lessonId: null, titleLine: null, contentLines: [] }
       continue
     }
     if (!line) continue
+
+    // 新格式：标题行本身就是 lessonId + 课名 + 范围
+    const inlineHeaderMatch = line.match(/^(ch\d{1,3}-l\d{2})(?:\.txt)?[：:](.+)$/)
+    if (inlineHeaderMatch) {
+      if (current?.lessonId) blocks.push(current)
+      current = {
+        lessonId: normalizeLessonId(inlineHeaderMatch[1]),
+        titleLine: inlineHeaderMatch[2].trim(),
+        contentLines: [],
+      }
+      continue
+    }
+
     if (!current.lessonId) {
       const idMatch = line.match(/^(ch\d{1,3}-l\d{2})/)
       if (idMatch) current.lessonId = normalizeLessonId(idMatch[1])
