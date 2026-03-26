@@ -98,8 +98,6 @@
   justify-content: flex-start;
   padding: 28px 24px 32px;
   gap: 16px;
-  overflow-y: auto;
-  overscroll-behavior: contain;
 }
 
 .card-back-header {

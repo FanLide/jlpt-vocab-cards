@@ -25,8 +25,6 @@ export function LessonPage() {
   const [mode, setMode] = useState<'deck' | 'list'>('deck')
   const [pos, setPos] = useState(0)
   const audioRef = useRef<HTMLAudioElement | null>(null)
-  const popGuardActiveRef = useRef(false)
-  const allowLeaveRef = useRef(false)
 
   useEffect(() => {
     setError(null)
@@ -65,35 +63,6 @@ export function LessonPage() {
     void tryPlay()
   }, [mode, audioUrl, autoPlayOnDeckEnter, lessonId])
 
-  useEffect(() => {
-    if (mode !== 'deck' || popGuardActiveRef.current) return
-
-    const state = { __deckGuard: true, lessonId }
-    window.history.pushState(state, '')
-    popGuardActiveRef.current = true
-    allowLeaveRef.current = false
-
-    const onPopState = () => {
-      if (allowLeaveRef.current) return
-      const ok = confirmLeaveDeck()
-      if (!ok) {
-        window.history.pushState(state, '')
-        return
-      }
-      allowLeaveRef.current = true
-      if (bookId) navigate(`/book/${bookId}`)
-      else navigate('/')
-    }
-
-    window.addEventListener('popstate', onPopState)
-
-    return () => {
-      window.removeEventListener('popstate', onPopState)
-      popGuardActiveRef.current = false
-      allowLeaveRef.current = false
-    }
-  }, [mode, lessonId, bookId, navigate])
-
   const onPrecache = async () => {
     if (!audioUrl) return
     setDownloading(true)
@@ -109,18 +78,10 @@ export function LessonPage() {
     }
   }
 
-  const confirmLeaveDeck = () => {
-    if (mode !== 'deck') return true
-    return window.confirm('要退出卡片模式并返回目录吗？')
-  }
-
   const onBack = (e: MouseEvent<HTMLAnchorElement>) => {
-    const ok = confirmLeaveDeck()
-    if (!ok) {
-      e.preventDefault()
-      return
-    }
-    allowLeaveRef.current = true
+    e.preventDefault()
+    if (bookId) navigate(`/book/${bookId}`, { replace: true })
+    else navigate('/', { replace: true })
   }
 
   return (
