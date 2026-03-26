@@ -21,10 +21,12 @@ type AnimState = {
 
 export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggleMode }: Props) {
   const [innerPos, setInnerPos] = useState(0)
+  const [detailOpen, setDetailOpen] = useState(false)
   const pos = controlledPos ?? innerPos
 
   const setPosValue = useCallback(
     (next: number) => {
+      setDetailOpen(false)
       if (controlledPos === undefined) setInnerPos(next)
       onPosChange?.(next)
     },
@@ -147,16 +149,16 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
           <>
             {/* 旧卡飞出 */}
             <div key={`out-${anim.id}`} className={`deck-card-slot deck-out-${anim.dir}`}>
-              <VocabCard card={anim.outCard} />
+              <VocabCard card={anim.outCard} forceReveal={detailOpen} />
             </div>
             {/* 新卡飞入 */}
             <div key={`in-${anim.id}`} className={`deck-card-slot deck-in-${anim.dir}`}>
-              <VocabCard card={anim.inCard} />
+              <VocabCard card={anim.inCard} forceReveal={detailOpen} />
             </div>
           </>
         ) : (
           <div className="deck-card-slot">
-            <VocabCard card={current} />
+            <VocabCard card={current} forceReveal={detailOpen} />
           </div>
         )}
       </div>
@@ -164,7 +166,9 @@ export function CardDeck({ cards, loop, pos: controlledPos, onPosChange, onToggl
       {/* 底部导航 */}
       <div className="deck-nav">
         <button className="deck-btn" onClick={prevWithAnim} disabled={!canPrev}>← 上一张</button>
-        <span className="deck-hint">左右滑动</span>
+        <button className={`deck-btn deck-detail-btn ${detailOpen ? 'active' : ''}`} onClick={() => setDetailOpen(v => !v)}>
+          {detailOpen ? '收起' : '详情'}
+        </button>
         <button className="deck-btn" onClick={nextWithAnim} disabled={!canNext}>下一张 →</button>
       </div>
 

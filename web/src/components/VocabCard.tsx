@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import type { Card } from '../lib/lesson'
 import './VocabCard.css'
 
-export function VocabCard({ card }: { card: Card; variant?: 'plain' | 'poker' }) {
+export function VocabCard({ card, forceReveal = false }: { card: Card; forceReveal?: boolean; variant?: 'plain' | 'poker' }) {
   const [revealed, setRevealed] = useState(false)
   const timer = useRef<number | null>(null)
 
@@ -21,9 +21,11 @@ export function VocabCard({ card }: { card: Card; variant?: 'plain' | 'poker' })
     setRevealed(false)
   }
 
+  const shown = revealed || forceReveal
+
   return (
     <div
-      className={`vocab-card ${revealed ? 'revealed' : ''}`}
+      className={`vocab-card ${shown ? 'revealed' : ''}`}
       onPointerDown={onPointerDown}
       onPointerUp={onPointerUpOrLeave}
       onPointerCancel={onPointerUpOrLeave}

@@ -141,12 +141,6 @@
   padding-bottom: env(safe-area-inset-bottom, 0px); /* iOS safe area */
 }
 
-.deck-hint {
-  font-size: 11px;
-  opacity: 0.35;
-  text-align: center;
-}
-
 .deck-btn {
   padding: 9px 16px;
   border-radius: 10px;
@@ -167,4 +161,14 @@
 .deck-btn:disabled {
   opacity: 0.25;
   cursor: default;
+}
+
+.deck-detail-btn {
+  min-width: 72px;
+}
+
+.deck-detail-btn.active {
+  background: var(--accent-bg);
+  border-color: var(--accent-border);
+  color: var(--accent);
 }
