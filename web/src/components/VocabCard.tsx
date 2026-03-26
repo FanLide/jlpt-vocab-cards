@@ -38,7 +38,7 @@ export function VocabCard({ card }: { card: Card; variant?: 'plain' | 'poker' })
 
         {/* 背面：答案 */}
         <div className="vocab-card-back">
-          <div className="card-index-back">#{card.index}</div>
+          <div className="card-index-back">No. {card.index}</div>
           <div className="card-back-header">
             <span className="card-word">{card.word}</span>
             <span className="card-reading-small">{card.reading}</span>
