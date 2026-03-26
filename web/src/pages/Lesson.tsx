@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState, type MouseEvent } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { getLessonMeta, friendlyLessonTitle, getNextLessonId, getBookEntry } from '../lib/data'
 import { loadLesson } from '../lib/lesson'
@@ -62,12 +62,18 @@ export function LessonPage() {
     }
   }
 
+  const onBack = (e: MouseEvent<HTMLAnchorElement>) => {
+    if (mode !== 'deck') return
+    const ok = window.confirm('要退出卡片模式并返回目录吗？')
+    if (!ok) e.preventDefault()
+  }
+
   return (
     <div className={`lesson-page${mode === 'list' ? ' list-mode' : ''}`}>
 
       {/* 顶栏：返回 + 课程名 + 下载按钮一行 */}
       <div className="lesson-topbar">
-        <Link to={bookId ? `/book/${bookId}` : '/'} className="lesson-back-btn">←</Link>
+        <Link to={bookId ? `/book/${bookId}` : '/'} className="lesson-back-btn" onClick={onBack}>←</Link>
         <span className="lesson-topbar-title">
           {meta ? friendlyLessonTitle(meta.lesson) : lessonId}
         </span>

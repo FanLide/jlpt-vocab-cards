@@ -60,7 +60,7 @@ export function CardList({
             className={`card-list-item${i === filtered.length - 1 ? ' last' : ''}`}
             onClick={() => onSelect(pos)}
           >
-            <span className="card-list-index">#{c.index}</span>
+            <span className="card-list-index">No. {c.index}</span>
             <span className="card-list-main">
               <span className="card-list-reading">{c.reading}</span>
               <span className="card-list-zh">{c.meaning?.zh}</span>
