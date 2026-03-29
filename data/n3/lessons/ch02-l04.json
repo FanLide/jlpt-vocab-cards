@@ -1,0 +1,553 @@
+{
+  "id": "ch02-l04",
+  "chapterId": "ch02",
+  "titleJa": "料理の作り方",
+  "titleZh": "料理の作り方",
+  "rangeNote": "182～211",
+  "audio": {
+    "track": "Chapter02_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter02_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch02-l04-182",
+      "index": 182,
+      "word": "刻む（きざむ）",
+      "reading": "きざむ",
+      "meaning": {
+        "en": "to finely cut",
+        "zh": "切碎"
+      },
+      "sentence": {
+        "ja": "野菜を細かく刻みます。",
+        "zh": "把蔬菜切碎。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-183",
+      "index": 183,
+      "word": "（卵を）割る（（たまごを）わる）",
+      "reading": "卵を",
+      "meaning": {
+        "en": "to break, to crack (an egg)",
+        "zh": "打破（蛋）"
+      },
+      "sentence": {
+        "ja": "卵を３つ、割ってください。",
+        "zh": "请打3个蛋。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-184",
+      "index": 184,
+      "word": "むく（むく）",
+      "reading": "むく",
+      "meaning": {
+        "en": "to peel",
+        "zh": "剥，削"
+      },
+      "sentence": {
+        "ja": "じゃがいもをむいたら、小さく切ります。",
+        "zh": "土豆削皮，切小块。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-185",
+      "index": 185,
+      "word": "加える（くわえる）",
+      "reading": "くわえる",
+      "meaning": {
+        "en": "to add",
+        "zh": "加"
+      },
+      "sentence": {
+        "ja": "なべに水を２００ミリリットル加えます。",
+        "zh": "往锅里加200毫升水。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-186",
+      "index": 186,
+      "word": "少々（しょうしょう）",
+      "reading": "しょうしょう",
+      "meaning": {
+        "en": "a little",
+        "zh": "少许"
+      },
+      "sentence": {
+        "ja": "塩とこしょうを少々入れます。",
+        "zh": "放入少许盐和胡椒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-187",
+      "index": 187,
+      "word": "揚げる（あげる）",
+      "reading": "あげる",
+      "meaning": {
+        "en": "to fry",
+        "zh": "炸"
+      },
+      "sentence": {
+        "ja": "１８０度の油で、しっかり揚げます。",
+        "zh": "用180度油炸透。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-188",
+      "index": 188,
+      "word": "煮る（にる）",
+      "reading": "にる",
+      "meaning": {
+        "en": "to cook, to stew",
+        "zh": "煮，炖，熬，煨，焖"
+      },
+      "sentence": {
+        "ja": "なべにふたをして、３０分煮てください。",
+        "zh": "盖上锅盖，焖30分钟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-189",
+      "index": 189,
+      "word": "ゆでる（ゆでる）",
+      "reading": "ゆでる",
+      "meaning": {
+        "en": "to boil",
+        "zh": "煮，烫，焯"
+      },
+      "sentence": {
+        "ja": "お湯に塩を入れて、ゆでます。",
+        "zh": "在热水里放一点盐，焯一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-190",
+      "index": 190,
+      "word": "蒸す（むす）",
+      "reading": "むす",
+      "meaning": {
+        "en": "to steam",
+        "zh": "蒸"
+      },
+      "sentence": {
+        "ja": "電子レンジで、野菜を蒸します。",
+        "zh": "用微波炉蒸蔬菜。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-191",
+      "index": 191,
+      "word": "くるむ（くるむ）",
+      "reading": "くるむ",
+      "meaning": {
+        "en": "to wrap",
+        "zh": "包"
+      },
+      "sentence": {
+        "ja": "さくらの葉で、材料をくるみます。",
+        "zh": "用樱花叶包裹材料。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-192",
+      "index": 192,
+      "word": "にぎる（にぎる）",
+      "reading": "にぎる",
+      "meaning": {
+        "en": "to squeeze with one's hands, to grasp",
+        "zh": "攥（饭团）"
+      },
+      "sentence": {
+        "ja": "ごはんに梅干しを入れて、にぎります。",
+        "zh": "把梅干塞进米饭里，攥成饭团。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-193",
+      "index": 193,
+      "word": "熱する（ねっする）",
+      "reading": "ねっする",
+      "meaning": {
+        "en": "to heat",
+        "zh": "加热"
+      },
+      "sentence": {
+        "ja": "フライパンで、５分くらい熱してください。",
+        "zh": "请用平底锅加热5分钟左右。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-194",
+      "index": 194,
+      "word": "こげる（こげる）",
+      "reading": "こげる",
+      "meaning": {
+        "en": "to burn",
+        "zh": "焦，糊"
+      },
+      "sentence": {
+        "ja": "焼きすぎて、魚がこげてしまいました。",
+        "zh": "煎过了，鱼焦了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-195",
+      "index": 195,
+      "word": "取り出す（とりだす）",
+      "reading": "とりだす",
+      "meaning": {
+        "en": "to take out",
+        "zh": "取出"
+      },
+      "sentence": {
+        "ja": "電子レンジから、温めた野菜を取り出します。",
+        "zh": "把热好的蔬菜从微波炉里取出来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-196",
+      "index": 196,
+      "word": "塗る（ぬる）",
+      "reading": "ぬる",
+      "meaning": {
+        "en": "to spread",
+        "zh": "抹，涂"
+      },
+      "sentence": {
+        "ja": "パンにバターを塗ります。",
+        "zh": "在面包上抹黄油。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-197",
+      "index": 197,
+      "word": "温める（あたためる）",
+      "reading": "あたためる",
+      "meaning": {
+        "en": "to warm, to heat (up)",
+        "zh": "加热"
+      },
+      "sentence": {
+        "ja": "これは、このままでも温めても、おいしいです。",
+        "zh": "这个直接吃或加热后吃，都好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-198",
+      "index": 198,
+      "word": "冷やす（ひやす）",
+      "reading": "ひやす",
+      "meaning": {
+        "en": "to chill, to cool",
+        "zh": "冰镇"
+      },
+      "sentence": {
+        "ja": "この料理は冷やしても、おいしいです。",
+        "zh": "这道菜冷藏了之后也好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-199",
+      "index": 199,
+      "word": "ぬるい（ぬるい）",
+      "reading": "ぬるい",
+      "meaning": {
+        "en": "tepid, lukewarm",
+        "zh": "微温"
+      },
+      "sentence": {
+        "ja": "ぬるいコーヒーは、おいしくないです。",
+        "zh": "不凉不热的咖啡不好喝。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-200",
+      "index": 200,
+      "word": "水分（すいぶん）",
+      "reading": "すいぶん",
+      "meaning": {
+        "en": "moisture, fluid",
+        "zh": "水分"
+      },
+      "sentence": {
+        "ja": "この野菜は水分が多いですね。",
+        "zh": "这种蔬菜水分多啊。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-201",
+      "index": 201,
+      "word": "沸かす（わかす）",
+      "reading": "わかす",
+      "meaning": {
+        "en": "to boil (water)",
+        "zh": "烧开"
+      },
+      "sentence": {
+        "ja": "そこのやかんで、お湯を沸かしてください。",
+        "zh": "请用那个铁壶烧水。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-202",
+      "index": 202,
+      "word": "注ぐ（そそぐ）",
+      "reading": "そそぐ",
+      "meaning": {
+        "en": "to pour",
+        "zh": "倒入"
+      },
+      "sentence": {
+        "ja": "お湯をカップに注ぎ、３分待ちます。",
+        "zh": "往杯子里注入热水，等3分钟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-203",
+      "index": 203,
+      "word": "味見＜する＞（あじみ）",
+      "reading": "あじみ",
+      "meaning": {
+        "en": "to taste, to check by tasting (when cooking)",
+        "zh": "尝味道"
+      },
+      "sentence": {
+        "ja": "途中でちょっと味見をしてみましょう。",
+        "zh": "做的过程中稍微尝一尝味道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-204",
+      "index": 204,
+      "word": "手間（てま）",
+      "reading": "てま",
+      "meaning": {
+        "en": "hassle",
+        "zh": "劳力和时间"
+      },
+      "sentence": {
+        "ja": "この料理は手間がかかりません。",
+        "zh": "这道菜做起来不费事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-205",
+      "index": 205,
+      "word": "手軽な（てがるな）",
+      "reading": "てがるな",
+      "meaning": {
+        "en": "easy, convenient",
+        "zh": "简单的，轻松的"
+      },
+      "sentence": {
+        "ja": "家でも手軽にレストランの料理が作れます。",
+        "zh": "在家里也能轻松地做出餐厅里的菜肴。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-206",
+      "index": 206,
+      "word": "でき上がり（できあがり）",
+      "reading": "できあがり",
+      "meaning": {
+        "en": "completion",
+        "zh": "完成"
+      },
+      "sentence": {
+        "ja": "これで、料理のでき上がりです。",
+        "zh": "这样，这道菜就完成了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-207",
+      "index": 207,
+      "word": "分ける（わける）",
+      "reading": "わける",
+      "meaning": {
+        "en": "to split, to divide, to share",
+        "zh": "分"
+      },
+      "sentence": {
+        "ja": "この料理は、二人で分けて食べましょう。",
+        "zh": "咱们俩把这道菜分着吃掉吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-208",
+      "index": 208,
+      "word": "つまむ（つまむ）",
+      "reading": "つまむ",
+      "meaning": {
+        "en": "to pick up",
+        "zh": "夹"
+      },
+      "sentence": {
+        "ja": "それは、はしでつまんで食べてください。",
+        "zh": "请用筷子夹那个吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-209",
+      "index": 209,
+      "word": "塩辛い（しおからい）",
+      "reading": "しおからい",
+      "meaning": {
+        "en": "salty",
+        "zh": "咸"
+      },
+      "sentence": {
+        "ja": "これは、ちょっと塩辛いですね。",
+        "zh": "这个有点咸啊。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-210",
+      "index": 210,
+      "word": "すっぱい（すっぱい）",
+      "reading": "すっぱい",
+      "meaning": {
+        "en": "sour",
+        "zh": "酸"
+      },
+      "sentence": {
+        "ja": "私は、すっぱいりんごが好きです。",
+        "zh": "我喜欢酸酸的苹果。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l04-211",
+      "index": 211,
+      "word": "冷凍＜する＞（れいとう）",
+      "reading": "れいとう",
+      "meaning": {
+        "en": "freezing",
+        "zh": "冷冻"
+      },
+      "sentence": {
+        "ja": "料理が残ったら、冷凍しておきましょう。",
+        "zh": "如果有剩菜，就冷冻保存。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

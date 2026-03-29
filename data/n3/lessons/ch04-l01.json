@@ -1,0 +1,589 @@
+{
+  "id": "ch04-l01",
+  "chapterId": "ch04",
+  "titleJa": "町のようす",
+  "titleZh": "町のようす",
+  "rangeNote": "365～396",
+  "audio": {
+    "track": "Chapter04_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter04_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch04-l01-365",
+      "index": 365,
+      "word": "商店街（しょうてんがい）",
+      "reading": "しょうてんがい",
+      "meaning": {
+        "en": "shopping district",
+        "zh": "商店街"
+      },
+      "sentence": {
+        "ja": "駅前に大きな商店街がある。",
+        "zh": "车站前面有一条大型商店街。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-366",
+      "index": 366,
+      "word": "にぎやかな（にぎやかな）",
+      "reading": "にぎやかな",
+      "meaning": {
+        "en": "lively",
+        "zh": "热闹的"
+      },
+      "sentence": {
+        "ja": "商店街は、たくさんの人でにぎやかだ。",
+        "zh": "商店街人山人海，很是热闹。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-367",
+      "index": 367,
+      "word": "高層ビル（こうそうビル）",
+      "reading": "こうそうビル",
+      "meaning": {
+        "en": "high rise, skyscraper",
+        "zh": "高楼大厦"
+      },
+      "sentence": {
+        "ja": "この町には、高層ビルがない。",
+        "zh": "这个街区没有高楼大厦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-368",
+      "index": 368,
+      "word": "建つ（たつ）",
+      "reading": "たつ",
+      "meaning": {
+        "en": "to be built",
+        "zh": "建，盖"
+      },
+      "sentence": {
+        "ja": "川の近くに、高層マンションが建った。",
+        "zh": "靠近河的地方，建起了一栋高层住宅楼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-369",
+      "index": 369,
+      "word": "水族館（すいぞくかん）",
+      "reading": "すいぞくかん",
+      "meaning": {
+        "en": "aquarium",
+        "zh": "水族馆"
+      },
+      "sentence": {
+        "ja": "水族館は、いつも子どもでいっぱいだ。",
+        "zh": "水族馆总是挤满了小孩。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-370",
+      "index": 370,
+      "word": "博物館（はくぶつかん）",
+      "reading": "はくぶつかん",
+      "meaning": {
+        "en": "museum",
+        "zh": "博物馆"
+      },
+      "sentence": {
+        "ja": "週末、博物館はとても込んでいる。",
+        "zh": "周末，博物馆里人非常多。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-371",
+      "index": 371,
+      "word": "出入り口（出入口）（でいりぐち）",
+      "reading": "出入口",
+      "meaning": {
+        "en": "entrance, exit",
+        "zh": "出入口"
+      },
+      "sentence": {
+        "ja": "博物館の出入り口に、ポスターがはってある。",
+        "zh": "博物馆的出入口贴着海报。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-372",
+      "index": 372,
+      "word": "自動ドア（じどうドア）",
+      "reading": "じどうドア",
+      "meaning": {
+        "en": "automatic door",
+        "zh": "自动门"
+      },
+      "sentence": {
+        "ja": "出入り口に、大きな自動ドアがある。",
+        "zh": "出入口安装了大型的自动门。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-373",
+      "index": 373,
+      "word": "入館料（にゅうかんりょう）",
+      "reading": "にゅうかんりょう",
+      "meaning": {
+        "en": "admission fee",
+        "zh": "入场费"
+      },
+      "sentence": {
+        "ja": "入館料は４００円です。",
+        "zh": "入场费是400日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-374",
+      "index": 374,
+      "word": "混雑＜する＞（こんざつ）",
+      "reading": "こんざつ",
+      "meaning": {
+        "en": "being crowded",
+        "zh": "混乱，拥挤"
+      },
+      "sentence": {
+        "ja": "週末は、どこも混雑している。",
+        "zh": "周末，到处都是人山人海的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-375",
+      "index": 375,
+      "word": "行列（ぎょうれつ）",
+      "reading": "ぎょうれつ",
+      "meaning": {
+        "en": "line",
+        "zh": "行列，队伍"
+      },
+      "sentence": {
+        "ja": "人気の店の前に、長い行列ができている。",
+        "zh": "人气商店的前面排起了长队。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-376",
+      "index": 376,
+      "word": "休館日（きゅうかんび）",
+      "reading": "きゅうかんび",
+      "meaning": {
+        "en": "holiday, closed day",
+        "zh": "闭馆日"
+      },
+      "sentence": {
+        "ja": "この博物館の休館日は、月曜日だ。",
+        "zh": "这家博物馆的闭馆日是周一。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-377",
+      "index": 377,
+      "word": "ホール（ホール）",
+      "reading": "ホール",
+      "meaning": {
+        "en": "hall",
+        "zh": "大厅；会场"
+      },
+      "sentence": {
+        "ja": "市のホールで、よくコンサートが開かれる。",
+        "zh": "市会场经常举办音乐会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-378",
+      "index": 378,
+      "word": "使用料（しようりょう）",
+      "reading": "しようりょう",
+      "meaning": {
+        "en": "usage fee",
+        "zh": "使用费"
+      },
+      "sentence": {
+        "ja": "このホールの使用料は、３時間１万円だ。",
+        "zh": "该会场的使用费是3小时1万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-379",
+      "index": 379,
+      "word": "無料（むりょう）",
+      "reading": "むりょう",
+      "meaning": {
+        "en": "free, free of charge",
+        "zh": "免费"
+      },
+      "sentence": {
+        "ja": "駅前で無料の化粧品をもらった。",
+        "zh": "我在车站前面领到了免费的化妆品。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-380",
+      "index": 380,
+      "word": "老人ホーム（ろうじんホーム）",
+      "reading": "ろうじんホーム",
+      "meaning": {
+        "en": "nursing home",
+        "zh": "养老院"
+      },
+      "sentence": {
+        "ja": "公園の近くに、老人ホームができるそうだ。",
+        "zh": "听说，公园附近要建一个养老院。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-381",
+      "index": 381,
+      "word": "目印（めじるし）",
+      "reading": "めじるし",
+      "meaning": {
+        "en": "landmark, sign",
+        "zh": "目标，记号"
+      },
+      "sentence": {
+        "ja": "Ａ「そちらの近くに、何か目印がありますか。」 Ｂ「そうですね。赤い橋があります。」 Ａ：那附近有什么标志性的东西吗？",
+        "zh": "Ｂ：我看看，有一座红色的桥。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-382",
+      "index": 382,
+      "word": "歩道橋（ほどうきょう）",
+      "reading": "ほどうきょう",
+      "meaning": {
+        "en": "pedestrian bridge",
+        "zh": "人行过街天桥"
+      },
+      "sentence": {
+        "ja": "歩道橋に上ると、町がよく見える。",
+        "zh": "走上天桥，整个街区尽收眼底。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-383",
+      "index": 383,
+      "word": "タワー（タワー）",
+      "reading": "タワー",
+      "meaning": {
+        "en": "tower",
+        "zh": "塔"
+      },
+      "sentence": {
+        "ja": "スカイツリーは、日本で一番高いタワーだ。",
+        "zh": "天空树是日本第一高塔。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-384",
+      "index": 384,
+      "word": "ライト（ライト）",
+      "reading": "ライト",
+      "meaning": {
+        "en": "light",
+        "zh": "灯"
+      },
+      "sentence": {
+        "ja": "あのタワーは夜７時になると、ライトがつく。",
+        "zh": "那座塔一到晚上7点就会亮灯。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-385",
+      "index": 385,
+      "word": "居酒屋（いざかや）",
+      "reading": "いざかや",
+      "meaning": {
+        "en": "Japanese-style pub",
+        "zh": "小酒馆"
+      },
+      "sentence": {
+        "ja": "この町には、たくさん居酒屋がある。",
+        "zh": "这个街区有许多小酒馆。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-386",
+      "index": 386,
+      "word": "八百屋（やおや）",
+      "reading": "やおや",
+      "meaning": {
+        "en": "grocery store",
+        "zh": "蔬菜店"
+      },
+      "sentence": {
+        "ja": "野菜や果物は八百屋で買う。",
+        "zh": "我在蔬菜店买蔬菜、水果。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-387",
+      "index": 387,
+      "word": "正面（しょうめん）",
+      "reading": "しょうめん",
+      "meaning": {
+        "en": "front",
+        "zh": "正面；对面"
+      },
+      "sentence": {
+        "ja": "パン屋の正面に、小さな本屋がある。",
+        "zh": "面包店对面有一家小书店。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-388",
+      "index": 388,
+      "word": "そば（そば）",
+      "reading": "そば",
+      "meaning": {
+        "en": "near",
+        "zh": "旁边"
+      },
+      "sentence": {
+        "ja": "本屋のそばに、おいしいレストランがある。",
+        "zh": "书店旁边有一家好吃的餐厅。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-389",
+      "index": 389,
+      "word": "コンクリート（コンクリート）",
+      "reading": "コンクリート",
+      "meaning": {
+        "en": "concrete",
+        "zh": "混凝土"
+      },
+      "sentence": {
+        "ja": "あのアパートは、コンクリートでできている。",
+        "zh": "那栋公寓是混凝土建造的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-390",
+      "index": 390,
+      "word": "地方（ちほう）",
+      "reading": "ちほう",
+      "meaning": {
+        "en": "region, countryside",
+        "zh": "地区，地方"
+      },
+      "sentence": {
+        "ja": "この地方には、自然がたっくさんある。",
+        "zh": "这个地区有很多自然景观。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-391",
+      "index": 391,
+      "word": "地域（ちいき）",
+      "reading": "ちいき",
+      "meaning": {
+        "en": "area, region",
+        "zh": "地域，地区"
+      },
+      "sentence": {
+        "ja": "この地域には、知り合いが多い。",
+        "zh": "我在这个地区认识很多人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-392",
+      "index": 392,
+      "word": "郊外（こうがい）",
+      "reading": "こうがい",
+      "meaning": {
+        "en": "suburbs",
+        "zh": "近郊，郊区"
+      },
+      "sentence": {
+        "ja": "いつか郊外に、庭のある家を建てたい。",
+        "zh": "有朝一日，我想在郊区建一栋带庭院的房子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-393",
+      "index": 393,
+      "word": "中心（ちゅうしん）",
+      "reading": "ちゅうしん",
+      "meaning": {
+        "en": "center",
+        "zh": "中心，中间"
+      },
+      "sentence": {
+        "ja": "広場の中心に、きれいな花が咲いている。",
+        "zh": "美丽的鲜花在广场中央绽放。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-394",
+      "index": 394,
+      "word": "移転＜する＞（いてん）",
+      "reading": "いてん",
+      "meaning": {
+        "en": "moving",
+        "zh": "迁移"
+      },
+      "sentence": {
+        "ja": "市役所が移転するらしい。",
+        "zh": "听说市政府要搬迁了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-395",
+      "index": 395,
+      "word": "工事＜する＞（こうじ）",
+      "reading": "こうじ",
+      "meaning": {
+        "en": "construction",
+        "zh": "工程，施工"
+      },
+      "sentence": {
+        "ja": "３年くらい前から、駅の工事をしている。",
+        "zh": "大概从3年前开始，就一直在修建车站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l01-396",
+      "index": 396,
+      "word": "空き地（あきち）",
+      "reading": "あきち",
+      "meaning": {
+        "en": "vacant land",
+        "zh": "空地"
+      },
+      "sentence": {
+        "ja": "うちの近くの空き地が、駐車場になった。",
+        "zh": "我家附近的空地变成停车场了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

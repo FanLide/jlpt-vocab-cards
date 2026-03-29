@@ -1,0 +1,319 @@
+{
+  "id": "ch11-l04",
+  "chapterId": "ch11",
+  "titleJa": "どんな感じ？",
+  "titleZh": "どんな感じ？",
+  "rangeNote": "1252～1268",
+  "audio": {
+    "track": "Chapter11_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter11_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch11-l04-1252",
+      "index": 1252,
+      "word": "**心から（こころから）**",
+      "reading": "こころから",
+      "meaning": {
+        "en": "from one's heart",
+        "zh": "由衷，衷心"
+      },
+      "sentence": {
+        "ja": "先生には、心から感謝しています。",
+        "zh": "我由衷地感谢老师。 [11]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1253",
+      "index": 1253,
+      "word": "**祈る（いのる）**",
+      "reading": "いのる",
+      "meaning": {
+        "en": "to pray",
+        "zh": "祈祷；祝愿"
+      },
+      "sentence": {
+        "ja": "みんなの無事を、心から祈っている。",
+        "zh": "衷心祈祷大家平安无事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1254",
+      "index": 1254,
+      "word": "**希望（きぼう）**",
+      "reading": "きぼう",
+      "meaning": {
+        "en": "wish, desire",
+        "zh": "希望"
+      },
+      "sentence": {
+        "ja": "彼は海外勤務を希望している。",
+        "zh": "他希望派驻海外。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1255",
+      "index": 1255,
+      "word": "**願う（ねがう）**",
+      "reading": "ねがう",
+      "meaning": {
+        "en": "to hope, to wish",
+        "zh": "请求；希望；祈求"
+      },
+      "sentence": {
+        "ja": "合格を願って、有名な神社に行った。",
+        "zh": "我去了一座有名的神社，祈求考试合格。 [11]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1256",
+      "index": 1256,
+      "word": "**願い（ねがい）**",
+      "reading": "ねがい",
+      "meaning": {
+        "en": "wish, desire",
+        "zh": "愿望，志愿；申请"
+      },
+      "sentence": {
+        "ja": "この願いが彼女に届きますように。",
+        "zh": "希望她能了解我的这份心愿。 [11]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1257",
+      "index": 1257,
+      "word": "**感じる（かんじる）**",
+      "reading": "かんじる",
+      "meaning": {
+        "en": "to feel",
+        "zh": "感觉；感到"
+      },
+      "sentence": {
+        "ja": "彼女の言葉に爱情を感じた。",
+        "zh": "我从她的文字中感受到了爱情。 [11]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1258",
+      "index": 1258,
+      "word": "**あいまい（あいまい）**",
+      "reading": "あいまい",
+      "meaning": {
+        "en": "vague",
+        "zh": "含糊，不明确"
+      },
+      "sentence": {
+        "ja": "日本語には、あいまいな表現が多い。",
+        "zh": "日语中有许多含糊的表达方式。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1259",
+      "index": 1259,
+      "word": "**案外（あんがい）**",
+      "reading": "あんがい",
+      "meaning": {
+        "en": "unexpected, surprisingly",
+        "zh": "出乎意料"
+      },
+      "sentence": {
+        "ja": "彼はいい人そうだが、案外わがままだ。",
+        "zh": "听说他是一个好人，没想到他很任性。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1260",
+      "index": 1260,
+      "word": "**うっかり（うっかり）**",
+      "reading": "うっかり",
+      "meaning": {
+        "en": "carelessly, thoughtlessly",
+        "zh": "粗心，稀里糊涂"
+      },
+      "sentence": {
+        "ja": "うっかり玄関のかぎをかけるのを忘れた。",
+        "zh": "我稀里糊涂地忘记锁大门了。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1261",
+      "index": 1261,
+      "word": "**どうか（どうか）**",
+      "reading": "どうか",
+      "meaning": {
+        "en": "please, somehow or other",
+        "zh": "请；总算"
+      },
+      "sentence": {
+        "ja": "どうかN3の試験に合格できますように。",
+        "zh": "请保佑我N3级考试合格！ [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1262",
+      "index": 1262,
+      "word": "**なんとか（なんとか）**",
+      "reading": "なんとか",
+      "meaning": {
+        "en": "somehow, one way or another",
+        "zh": "想办法；总算"
+      },
+      "sentence": {
+        "ja": "レポートを締め切りになんとか間に合わせたい。",
+        "zh": "我要想办法在截止日期之前完成论文。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1263",
+      "index": 1263,
+      "word": "**なんとなく（なんとなく）**",
+      "reading": "なんとなく",
+      "meaning": {
+        "en": "for some reason or another",
+        "zh": "总觉得；无意中"
+      },
+      "sentence": {
+        "ja": "あの映画は、なんとなくおもしろそうだ。",
+        "zh": "我总觉得那部电影会有意思。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1264",
+      "index": 1264,
+      "word": "**ものすごい（ものすごい）**",
+      "reading": "ものすごい",
+      "meaning": {
+        "en": "a great deal, very much",
+        "zh": "可怕；不得了"
+      },
+      "sentence": {
+        "ja": "九州で、ものすごい雨が降っているようだ。",
+        "zh": "听说九州下雨下得非常厉害。 [13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1265",
+      "index": 1265,
+      "word": "**わざわざ（わざわざ）**",
+      "reading": "わざわざ",
+      "meaning": {
+        "en": "all the way, purposefully",
+        "zh": "特地；故意"
+      },
+      "sentence": {
+        "ja": "わざわざお見舞いに来てくれて、ありがとう。",
+        "zh": "谢谢你特地来看望我。 [13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1266",
+      "index": 1266,
+      "word": "**こっそり（こっそり）**",
+      "reading": "こっそり",
+      "meaning": {
+        "en": "secretly, sneakily",
+        "zh": "悄悄，暗地里"
+      },
+      "sentence": {
+        "ja": "姉のバッグをこっそり借りた。",
+        "zh": "我悄悄地借用了姐姐的包。 [13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1267",
+      "index": 1267,
+      "word": "**ふと（ふと）**",
+      "reading": "ふと",
+      "meaning": {
+        "en": "suddenly, casually",
+        "zh": "偶然，忽然"
+      },
+      "sentence": {
+        "ja": "昔のことを、ふと思い出した。",
+        "zh": "我忽然想起了以前的事情。 [13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l04-1268",
+      "index": 1268,
+      "word": "**いったい（いったい）**",
+      "reading": "いったい",
+      "meaning": {
+        "en": "(why) in the world",
+        "zh": "到底，究竟"
+      },
+      "sentence": {
+        "ja": "あの人は、いったい何を考えているんだろう。",
+        "zh": "他究竟在想什么？ [13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

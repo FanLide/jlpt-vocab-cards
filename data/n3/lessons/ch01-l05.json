@@ -1,0 +1,337 @@
+{
+  "id": "ch01-l05",
+  "chapterId": "ch01",
+  "titleJa": "どんな人？",
+  "titleZh": "什么样的人？",
+  "rangeNote": "97～114",
+  "audio": {
+    "track": "Chapter01_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter01_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l05-097",
+      "index": 97,
+      "word": "名字（みょうじ）",
+      "reading": "みょうじ",
+      "meaning": {
+        "en": "surname, family name",
+        "zh": "姓"
+      },
+      "sentence": {
+        "ja": "彼の名字は、とても珍しい。",
+        "zh": "他的姓非常少见。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-098",
+      "index": 98,
+      "word": "性別（せいべつ）",
+      "reading": "せいべつ",
+      "meaning": {
+        "en": "gender",
+        "zh": "性别"
+      },
+      "sentence": {
+        "ja": "名前を書いて、性別に〇をしてください。",
+        "zh": "请填写名字，在性别处画圈。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-099",
+      "index": 99,
+      "word": "年齢（ねんれい）",
+      "reading": "ねんれい",
+      "meaning": {
+        "en": "age",
+        "zh": "年龄"
+      },
+      "sentence": {
+        "ja": "女性に年齢を聞いてはいけない。",
+        "zh": "女性的年龄问不得。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-100",
+      "index": 100,
+      "word": "高齢（こうれい）",
+      "reading": "こうれい",
+      "meaning": {
+        "en": "old age, advanced age",
+        "zh": "年纪大"
+      },
+      "sentence": {
+        "ja": "日本には、高齢で元気な人が多い。",
+        "zh": "日本有很多年纪大还很健康的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-101",
+      "index": 101,
+      "word": "老人（ろうじん）",
+      "reading": "ろうじん",
+      "meaning": {
+        "en": "the aged, elderly people",
+        "zh": "老人"
+      },
+      "sentence": {
+        "ja": "ボーリングは、老人も喜欢的スポーツだ。",
+        "zh": "保龄球是一项老年人也喜欢的运动。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-102",
+      "index": 102,
+      "word": "幼児（ようじ）",
+      "reading": "ようじ",
+      "meaning": {
+        "en": "toddler",
+        "zh": "幼儿"
+      },
+      "sentence": {
+        "ja": "この教室では、幼児が英語を勉強している。",
+        "zh": "幼儿正在这间教室里学习英语。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-103",
+      "index": 103,
+      "word": "出身（しゅっしん）",
+      "reading": "しゅっしん",
+      "meaning": {
+        "en": "one's origin, one's hometown",
+        "zh": "来自……"
+      },
+      "sentence": {
+        "ja": "彼はタイのバンコク出身だ。",
+        "zh": "他来自泰国曼谷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-104",
+      "index": 104,
+      "word": "生まれ（うまれ）",
+      "reading": "うまれ",
+      "meaning": {
+        "en": "place of birth",
+        "zh": "出生，出生地"
+      },
+      "sentence": {
+        "ja": "私は大阪生まれだ。",
+        "zh": "我在大阪出生。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-105",
+      "index": 105,
+      "word": "育ち（そだち）",
+      "reading": "そだち",
+      "meaning": {
+        "en": "place where one was raised",
+        "zh": "成长，成长的地方"
+      },
+      "sentence": {
+        "ja": "私は大阪生まれ、東京育ちだ。",
+        "zh": "我在大阪出生，在东京长大。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-106",
+      "index": 106,
+      "word": "行儀（ぎょうぎ）",
+      "reading": "ぎょうぎ",
+      "meaning": {
+        "en": "etiquette, behavior",
+        "zh": "(从是否合乎礼法的角度看)言行举止"
+      },
+      "sentence": {
+        "ja": "あの子は、とても行儀がいい。",
+        "zh": "那个小孩很有礼貌。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-107",
+      "index": 107,
+      "word": "マナー（マナー）",
+      "reading": "マナー",
+      "meaning": {
+        "en": "manners",
+        "zh": "礼仪"
+      },
+      "sentence": {
+        "ja": "彼はタバコのマナーを知らない。",
+        "zh": "他不懂吸烟的礼仪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-108",
+      "index": 108,
+      "word": "個人（こじん）",
+      "reading": "こじん",
+      "meaning": {
+        "en": "individual",
+        "zh": "个人"
+      },
+      "sentence": {
+        "ja": "個人のデータは、あまり教えないほうがいい。",
+        "zh": "最好不要把私人信息告诉别人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-109",
+      "index": 109,
+      "word": "アドレス（アドレス）",
+      "reading": "アドレス",
+      "meaning": {
+        "en": "mail address",
+        "zh": "邮箱地址"
+      },
+      "sentence": {
+        "ja": "アドレスは名刺に書いてある。",
+        "zh": "名片上有邮箱地址。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-110",
+      "index": 110,
+      "word": "本人（ほんにん）",
+      "reading": "ほんにん",
+      "meaning": {
+        "en": "person in question, said person",
+        "zh": "本人"
+      },
+      "sentence": {
+        "ja": "あなたが本人か、確認させてください。",
+        "zh": "请让我确认一下是不是您。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-111",
+      "index": 111,
+      "word": "独身（どくしん）",
+      "reading": "どくしん",
+      "meaning": {
+        "en": "single",
+        "zh": "单身"
+      },
+      "sentence": {
+        "ja": "彼は独身だが、結婚したいと言っていた。",
+        "zh": "虽然他现在是单身，但他说过想结婚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-112",
+      "index": 112,
+      "word": "主婦（しゅふ）",
+      "reading": "しゅふ",
+      "meaning": {
+        "en": "housewife",
+        "zh": "主妇"
+      },
+      "sentence": {
+        "ja": "姉は主婦だが、仕事もしている。",
+        "zh": "姐姐虽然是家庭主妇，但也有工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-113",
+      "index": 113,
+      "word": "フリーター（フリーター）",
+      "reading": "フリーター",
+      "meaning": {
+        "en": "freeter, part-time jobber",
+        "zh": "自由职业者"
+      },
+      "sentence": {
+        "ja": "弟は大学を卒業してからずっとフリーターだ。",
+        "zh": "弟弟大学毕业之后一直是自由职业者。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l05-114",
+      "index": 114,
+      "word": "無職（むしょく）",
+      "reading": "むしょく",
+      "meaning": {
+        "en": "unemployed",
+        "zh": "无职业"
+      },
+      "sentence": {
+        "ja": "今は無職だが、来月から働く。",
+        "zh": "我现在没有工作，下个月开始上班。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

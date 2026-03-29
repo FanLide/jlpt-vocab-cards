@@ -1,0 +1,337 @@
+{
+  "id": "ch10-l05",
+  "chapterId": "ch10",
+  "titleJa": "データ",
+  "titleZh": "数据",
+  "rangeNote": "1163～1180",
+  "audio": {
+    "track": "Chapter10_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter10_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch10-l05-1163",
+      "index": 1163,
+      "word": "増加＜する＞（ぞうか）",
+      "reading": "ぞうか",
+      "meaning": {
+        "en": "increase",
+        "zh": "增加"
+      },
+      "sentence": {
+        "ja": "海外からの観光客が増加している。",
+        "zh": "来自海外的游客正在增加。 [25]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1164",
+      "index": 1164,
+      "word": "減少＜する＞（げんしょう）",
+      "reading": "げんしょう",
+      "meaning": {
+        "en": "decrease",
+        "zh": "减少"
+      },
+      "sentence": {
+        "ja": "子どもの数は、相変わらず減少している。",
+        "zh": "儿童的数量仍旧在减少。 [25]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1165",
+      "index": 1165,
+      "word": "超える（こえる）",
+      "reading": "こえる",
+      "meaning": {
+        "en": "to go over, to surpass",
+        "zh": "超过"
+      },
+      "sentence": {
+        "ja": "アンケートで「はい」と答えた人が、半分を超えた。",
+        "zh": "在问卷调查中回答“是”的人超过了半数。 [25]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1166",
+      "index": 1166,
+      "word": "ピーク",
+      "reading": "ピーク",
+      "meaning": {
+        "en": "peak",
+        "zh": "最高峰"
+      },
+      "sentence": {
+        "ja": "今日の暑さが、今年のピークと言えるだろう。",
+        "zh": "今天这天气，可以说是今年最热的了。 [25]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1167",
+      "index": 1167,
+      "word": "越える（こえる）",
+      "reading": "こえる",
+      "meaning": {
+        "en": "to pass",
+        "zh": "越过，翻过"
+      },
+      "sentence": {
+        "ja": "インフルエンザはピークを越えたようだ。",
+        "zh": "流感的最高峰似乎过去了。 [25]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1168",
+      "index": 1168,
+      "word": "全体（ぜんたい）",
+      "reading": "ぜんたい",
+      "meaning": {
+        "en": "all of, entire",
+        "zh": "全，所有"
+      },
+      "sentence": {
+        "ja": "全体の80パーセントの人が、反対だと答えた。",
+        "zh": "所有人当中80%回答反对。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1169",
+      "index": 1169,
+      "word": "かなり（かなり）",
+      "reading": "かなり",
+      "meaning": {
+        "en": "pretty, fairly",
+        "zh": "颇，相当"
+      },
+      "sentence": {
+        "ja": "かなりの人が賛成していないことがわかった。",
+        "zh": "结果，相当一部分人不赞成。 [26]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1170",
+      "index": 1170,
+      "word": "信用＜する＞（しんよう）",
+      "reading": "しんよう",
+      "meaning": {
+        "en": "trust",
+        "zh": "相信；信誉"
+      },
+      "sentence": {
+        "ja": "このデータは信用できる。",
+        "zh": "这份数据可信。 [26]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1171",
+      "index": 1171,
+      "word": "失う（うしなう）",
+      "reading": "うしなう",
+      "meaning": {
+        "en": "to lose",
+        "zh": "失去，丧失"
+      },
+      "sentence": {
+        "ja": "彼は重要なデータを消してしまい、信用を失った。",
+        "zh": "他删除了重要数据，丧失了信誉。 [26]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1172",
+      "index": 1172,
+      "word": "正常＜な＞（せいじょう）",
+      "reading": "せいじょう",
+      "meaning": {
+        "en": "normal",
+        "zh": "正常"
+      },
+      "sentence": {
+        "ja": "このパソコンは正常に動いている。",
+        "zh": "这台电脑运行正常。 [26]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1173",
+      "index": 1173,
+      "word": "不景気＜な＞（ふけいき）",
+      "reading": "ふけいき",
+      "meaning": {
+        "en": "economic crisis",
+        "zh": "不景气，萧条"
+      },
+      "sentence": {
+        "ja": "もう何年も不景気が続いている。",
+        "zh": "已经持续好几年都不景气了。 [26]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1174",
+      "index": 1174,
+      "word": "円高（えんだか）",
+      "reading": "えんだか",
+      "meaning": {
+        "en": "strong yen",
+        "zh": "日元升值"
+      },
+      "sentence": {
+        "ja": "円高で、損をする人も得をする人もいる。",
+        "zh": "因为日元升值，有人亏损，有人获益。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1175",
+      "index": 1175,
+      "word": "平均＜する＞（へいきん）",
+      "reading": "へいきん",
+      "meaning": {
+        "en": "average",
+        "zh": "平均"
+      },
+      "sentence": {
+        "ja": "今回のテストの平均点は、75点だった。",
+        "zh": "这次测验的平均分是75分。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1176",
+      "index": 1176,
+      "word": "およそ（およそ）",
+      "reading": "およそ",
+      "meaning": {
+        "en": "approximately",
+        "zh": "大概"
+      },
+      "sentence": {
+        "ja": "合格者は、およそ20パーセントだ。",
+        "zh": "合格者大约是20%。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1177",
+      "index": 1177,
+      "word": "めちゃくちゃ＜な＞（めちゃくちゃ）",
+      "reading": "めちゃくちゃ",
+      "meaning": {
+        "en": "unreasonable, excessive",
+        "zh": "乱七八糟，乱套"
+      },
+      "sentence": {
+        "ja": "この結果は、だれが見てもめちゃくちゃだ。",
+        "zh": "这结果，无论在谁看来都是乱七八糟的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1178",
+      "index": 1178,
+      "word": "最も（もっとも）",
+      "reading": "もっとも",
+      "meaning": {
+        "en": "most",
+        "zh": "最"
+      },
+      "sentence": {
+        "ja": "今年、最もヒットした映画が発表された。",
+        "zh": "今年最受欢迎的电影公布了。 [27]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1179",
+      "index": 1179,
+      "word": "ついに（ついに）",
+      "reading": "ついに",
+      "meaning": {
+        "en": "ultimately, in the end, finally",
+        "zh": "终于"
+      },
+      "sentence": {
+        "ja": "ついに、日本の人口が減り始めた。",
+        "zh": "终于，日本的人口开始减少了。 [27]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l05-1180",
+      "index": 1180,
+      "word": "とうとう（とうとう）",
+      "reading": "とうとう",
+      "meaning": {
+        "en": "finally, at last",
+        "zh": "终于"
+      },
+      "sentence": {
+        "ja": "とうとう、東京の平均気温が16度を超えた。",
+        "zh": "东京的平均气温终于超过16度了。 [27]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

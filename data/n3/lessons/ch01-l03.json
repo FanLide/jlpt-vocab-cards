@@ -1,0 +1,427 @@
+{
+  "id": "ch01-l03",
+  "chapterId": "ch01",
+  "titleJa": "恋人",
+  "titleZh": "恋人",
+  "rangeNote": "47～69",
+  "audio": {
+    "track": "Chapter01_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter01_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l03-047",
+      "index": 47,
+      "word": "彼女（かのじょ）",
+      "reading": "かのじょ",
+      "meaning": {
+        "en": "girlfriend",
+        "zh": "女朋友"
+      },
+      "sentence": {
+        "ja": "彼女ができたので、毎日が楽しい。",
+        "zh": "我交到女朋友了，每一天都很快乐。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-048",
+      "index": 48,
+      "word": "彼（かれ）",
+      "reading": "かれ",
+      "meaning": {
+        "en": "boyfriend",
+        "zh": "男朋友"
+      },
+      "sentence": {
+        "ja": "両親は、彼をあまり好きじゃないようだ。",
+        "zh": "我爸妈似乎不太喜欢我男朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-049",
+      "index": 49,
+      "word": "愛情（あいじょう）",
+      "reading": "あいじょう",
+      "meaning": {
+        "en": "love",
+        "zh": "爱情"
+      },
+      "sentence": {
+        "ja": "やさしい人だとわかり、友情が愛情に変わった。",
+        "zh": "我发现他是一个善良的人，于是我们的友情变成了爱情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-050",
+      "index": 50,
+      "word": "出会い（であい）",
+      "reading": "であい",
+      "meaning": {
+        "en": "encounter",
+        "zh": "邂逅"
+      },
+      "sentence": {
+        "ja": "それはドラマのような出会いだった。",
+        "zh": "那次邂逅就像电视剧一样。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-051",
+      "index": 51,
+      "word": "出会う（であう）",
+      "reading": "であう",
+      "meaning": {
+        "en": "to come across, to encounter",
+        "zh": "(偶然)遇见"
+      },
+      "sentence": {
+        "ja": "アメリカに旅行したとき、彼女に出会った。",
+        "zh": "我在美国旅游时，遇见了她。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-052",
+      "index": 52,
+      "word": "付き合う（つきあう）",
+      "reading": "つきあう",
+      "meaning": {
+        "en": "to go out with, to date, to accompany, to go with",
+        "zh": "交往，陪"
+      },
+      "sentence": {
+        "ja": "①二人は半年前から付き合っている。",
+        "zh": "②これから友だちの買い物に付き合う。 ①他们俩半年前开始交往了。 ②我现在要去陪朋友买东西。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-053",
+      "index": 53,
+      "word": "交際＜する＞（こうさい）",
+      "reading": "こうさい",
+      "meaning": {
+        "en": "association",
+        "zh": "交际，交往"
+      },
+      "sentence": {
+        "ja": "彼女の両親が、二人の交際に反対している。",
+        "zh": "她父母反对他们俩交往。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-054",
+      "index": 54,
+      "word": "記念＜する＞（きねん）",
+      "reading": "きねん",
+      "meaning": {
+        "en": "commemoration",
+        "zh": "纪念"
+      },
+      "sentence": {
+        "ja": "彼女の卒業を記念して、写真を撮った。",
+        "zh": "拍照纪念她毕业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-055",
+      "index": 55,
+      "word": "記念日（きねんび）",
+      "reading": "きねんび",
+      "meaning": {
+        "en": "anniversary",
+        "zh": "纪念日"
+      },
+      "sentence": {
+        "ja": "明日は結婚記念日だ。",
+        "zh": "明天是结婚纪念日。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-056",
+      "index": 56,
+      "word": "けんか＜する＞（けんか）",
+      "reading": "けんか",
+      "meaning": {
+        "en": "fight, dispute",
+        "zh": "吵架"
+      },
+      "sentence": {
+        "ja": "私たちは、よくけんかする。",
+        "zh": "我们经常吵架。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-057",
+      "index": 57,
+      "word": "言い返す（いいかえす）",
+      "reading": "いいかえす",
+      "meaning": {
+        "en": "to talk back, to retort",
+        "zh": "还嘴"
+      },
+      "sentence": {
+        "ja": "彼は注意されると、すぐ言い返す。",
+        "zh": "只要有人提醒他，他就会立马还嘴。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-058",
+      "index": 58,
+      "word": "謝る（あやまる）",
+      "reading": "あやまる",
+      "meaning": {
+        "en": "to apologize",
+        "zh": "道歉"
+      },
+      "sentence": {
+        "ja": "私が怒ると、彼はすぐに謝る。",
+        "zh": "我一生气，他就立马道歉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-059",
+      "index": 59,
+      "word": "仲直り＜する＞（なかなおり）",
+      "reading": "なかなおり",
+      "meaning": {
+        "en": "making up, reconciliation",
+        "zh": "和好"
+      },
+      "sentence": {
+        "ja": "３日前にけんかして、まだ仲直りしていない。",
+        "zh": "3天前吵了一架，到现在还没有和好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-060",
+      "index": 60,
+      "word": "連れて行く（つれていく）",
+      "reading": "つれていく",
+      "meaning": {
+        "en": "to take (someone) along",
+        "zh": "带去"
+      },
+      "sentence": {
+        "ja": "両親の家に彼女を連れて行きたい。",
+        "zh": "我想带女朋友去父母家。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-061",
+      "index": 61,
+      "word": "連れて来る（つれてくる）",
+      "reading": "つれてくる",
+      "meaning": {
+        "en": "to bring (someone) along",
+        "zh": "带来"
+      },
+      "sentence": {
+        "ja": "兄が彼女を家に連れて来た。",
+        "zh": "哥哥把女朋友带回家了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-062",
+      "index": 62,
+      "word": "秘密（ひみつ）",
+      "reading": "ひみつ",
+      "meaning": {
+        "en": "secret, mystery",
+        "zh": "秘密"
+      },
+      "sentence": {
+        "ja": "彼は私の秘密を、みんなに話した。",
+        "zh": "他把我的秘密告诉所有人了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-063",
+      "index": 63,
+      "word": "内緒（ないしょ）",
+      "reading": "ないしょ",
+      "meaning": {
+        "en": "secret",
+        "zh": "秘密"
+      },
+      "sentence": {
+        "ja": "この話は、ぜったいに内緒にしてね。",
+        "zh": "这件事一定要保密哦！"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-064",
+      "index": 64,
+      "word": "好かれる（すかれる）",
+      "reading": "すかれる",
+      "meaning": {
+        "en": "to be liked",
+        "zh": "受人喜爱"
+      },
+      "sentence": {
+        "ja": "彼女は、みんなに好かれる人だ。",
+        "zh": "她受到大家的喜爱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-065",
+      "index": 65,
+      "word": "もてる（もてる）",
+      "reading": "もてる",
+      "meaning": {
+        "en": "to be popular",
+        "zh": "受欢迎"
+      },
+      "sentence": {
+        "ja": "どうして彼が女性にもてるのか、わからない。",
+        "zh": "我不理解他为什么会受到女性的喜欢？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-066",
+      "index": 66,
+      "word": "（人を）ふる（（ひとを）ふる）",
+      "reading": "人を",
+      "meaning": {
+        "en": "to dump, to turn down (someone)",
+        "zh": "掘；扔；把（人）甩了"
+      },
+      "sentence": {
+        "ja": "弟は彼女にふられて、元気がない。",
+        "zh": "弟弟被女朋友甩了，无精打采的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-067",
+      "index": 67,
+      "word": "［お］見合い＜する＞（［お］みあい）",
+      "reading": "［お］みあい",
+      "meaning": {
+        "en": "formal marriage interview, dating for the purpose of finding a spouse, arranged meeting",
+        "zh": "相亲"
+      },
+      "sentence": {
+        "ja": "姉はお見合いの前に、美容院へ行った。",
+        "zh": "相亲之前，姐姐去了一趟美容院。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-068",
+      "index": 68,
+      "word": "恋愛＜する＞（れんあい）",
+      "reading": "れんあい",
+      "meaning": {
+        "en": "love, affection",
+        "zh": "恋爱"
+      },
+      "sentence": {
+        "ja": "今は恋愛より、いい友だちがほしい。",
+        "zh": "比起恋爱，我现在更需要一个好朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l03-069",
+      "index": 69,
+      "word": "存在＜する＞（そんざい）",
+      "reading": "そんざい",
+      "meaning": {
+        "en": "existence, presence",
+        "zh": "存在"
+      },
+      "sentence": {
+        "ja": "恋人は、ぼくにとって大切な存在だ。",
+        "zh": "对我来说，恋人是一个重要的存在。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

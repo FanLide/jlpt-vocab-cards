@@ -1,0 +1,481 @@
+{
+  "id": "ch01-l01",
+  "chapterId": "ch01",
+  "titleJa": "家族",
+  "titleZh": "家族",
+  "rangeNote": "1～26",
+  "audio": {
+    "track": "Chapter01_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter01_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l01-001",
+      "index": 1,
+      "word": "父親（ちちおや）",
+      "reading": "ちちおや",
+      "meaning": {
+        "en": "father",
+        "zh": "父亲"
+      },
+      "sentence": {
+        "ja": "父親は今年５０歳になる。",
+        "zh": "我父亲今年50岁。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-002",
+      "index": 2,
+      "word": "母親（ははおや）",
+      "reading": "ははおや",
+      "meaning": {
+        "en": "mother",
+        "zh": "母亲"
+      },
+      "sentence": {
+        "ja": "母親の料理は、とてもおいしい。",
+        "zh": "我母亲做的菜很好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-003",
+      "index": 3,
+      "word": "長女（ちょうじょ）",
+      "reading": "ちょうじょ",
+      "meaning": {
+        "en": "oldest daughter",
+        "zh": "长女，大女儿"
+      },
+      "sentence": {
+        "ja": "私は長女で、妹が一人いる。",
+        "zh": "我是长女，我还有一个妹妹。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-004",
+      "index": 4,
+      "word": "長男（ちょうなん）",
+      "reading": "ちょうなん",
+      "meaning": {
+        "en": "oldest son",
+        "zh": "长子，大儿子"
+      },
+      "sentence": {
+        "ja": "姉に元気な長男が生まれた。",
+        "zh": "我姐姐的大儿子健康地出生了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-005",
+      "index": 5,
+      "word": "次女（じじょ）",
+      "reading": "じじょ",
+      "meaning": {
+        "en": "second-oldest daughter",
+        "zh": "次女，二女儿"
+      },
+      "sentence": {
+        "ja": "次女は母に似ている。",
+        "zh": "二女儿长得像妈妈。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-006",
+      "index": 6,
+      "word": "次男（じなん）",
+      "reading": "じなん",
+      "meaning": {
+        "en": "second-oldest son",
+        "zh": "次子，二儿子"
+      },
+      "sentence": {
+        "ja": "次男はとても背が高い。",
+        "zh": "二儿子个子很高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-007",
+      "index": 7,
+      "word": "三女（さんじょ）",
+      "reading": "さんじょ",
+      "meaning": {
+        "en": "third-oldest daughter",
+        "zh": "三女儿"
+      },
+      "sentence": {
+        "ja": "三女は小学一年生だ。",
+        "zh": "三女儿上小学一年级。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-008",
+      "index": 8,
+      "word": "三男（さんなん）",
+      "reading": "さんなん",
+      "meaning": {
+        "en": "third-oldest son",
+        "zh": "三儿子"
+      },
+      "sentence": {
+        "ja": "三男は兄弟の中で一番元気だ。",
+        "zh": "兄弟姐妹当中，三儿子最活泼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-009",
+      "index": 9,
+      "word": "末っ子（すえっこ）",
+      "reading": "すえっこ",
+      "meaning": {
+        "en": "youngest child",
+        "zh": "最小的儿子或女儿"
+      },
+      "sentence": {
+        "ja": "彼は５人兄弟の末っ子だ。",
+        "zh": "他在5个兄弟姐妹当中排行最小。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-010",
+      "index": 10,
+      "word": "一人っ子（ひとりっこ）",
+      "reading": "ひとりっこ",
+      "meaning": {
+        "en": "only child",
+        "zh": "独生子女"
+      },
+      "sentence": {
+        "ja": "私の友だちには、一人っ子が多い。",
+        "zh": "我的朋友当中，很多都是独生子女。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-011",
+      "index": 11,
+      "word": "姉妹（しまい）",
+      "reading": "しまい",
+      "meaning": {
+        "en": "sisters, female siblings",
+        "zh": "姐妹"
+      },
+      "sentence": {
+        "ja": "私は３人姉妹の末っ子だ。",
+        "zh": "我们家三姐妹当中，我最小。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-012",
+      "index": 12,
+      "word": "一人娘（ひとりむすめ）",
+      "reading": "ひとりむすめ",
+      "meaning": {
+        "en": "only daughter",
+        "zh": "独生女"
+      },
+      "sentence": {
+        "ja": "父親は一人娘の結婚式で泣いた。",
+        "zh": "父亲在独生女的婚礼上哭了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-013",
+      "index": 13,
+      "word": "親子（おやこ）",
+      "reading": "おやこ",
+      "meaning": {
+        "en": "parent and child",
+        "zh": "父母和子女"
+      },
+      "sentence": {
+        "ja": "最近、親子でよく海外旅行をしている。",
+        "zh": "最近，我们父子经常出国旅行。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-014",
+      "index": 14,
+      "word": "夫婦（ふうふ）",
+      "reading": "ふうふ",
+      "meaning": {
+        "en": "husband and wife, married couple",
+        "zh": "夫妻，两口子"
+      },
+      "sentence": {
+        "ja": "佐藤さん夫婦は、毎日散歩している。",
+        "zh": "佐藤两口子每天都出门散步。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-015",
+      "index": 15,
+      "word": "［ご］夫妻（ふさい）",
+      "reading": "ふさい",
+      "meaning": {
+        "en": "married couple",
+        "zh": "夫妇"
+      },
+      "sentence": {
+        "ja": "部長ご夫妻の家に招待された。",
+        "zh": "部长夫妇邀请我去了他们家。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-016",
+      "index": 16,
+      "word": "親類（しんるい）",
+      "reading": "しんるい",
+      "meaning": {
+        "en": "relatives, kin",
+        "zh": "亲戚"
+      },
+      "sentence": {
+        "ja": "田中さんと私は親類だ。",
+        "zh": "我和田中是亲戚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-017",
+      "index": 17,
+      "word": "先祖（せんぞ）",
+      "reading": "せんぞ",
+      "meaning": {
+        "en": "ancestor",
+        "zh": "祖先"
+      },
+      "sentence": {
+        "ja": "うちの先祖に、有名なサムライがいるそうだ。",
+        "zh": "听说我们家的祖先当中有一位有名武士。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-018",
+      "index": 18,
+      "word": "尊敬＜する＞（そんけい）",
+      "reading": "そんけい",
+      "meaning": {
+        "en": "respect, looking up to",
+        "zh": "尊敬"
+      },
+      "sentence": {
+        "ja": "私は両親をとても尊敬している。",
+        "zh": "我非常尊敬我父母。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-019",
+      "index": 19,
+      "word": "おじ（おじ）",
+      "reading": "おじ",
+      "meaning": {
+        "en": "uncle",
+        "zh": "姑丈，姨夫，叔，伯，舅"
+      },
+      "sentence": {
+        "ja": "父とおじは二人兄弟だ。",
+        "zh": "我爸和我叔叔是两兄弟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-020",
+      "index": 20,
+      "word": "おば（おば）",
+      "reading": "おば",
+      "meaning": {
+        "en": "aunt",
+        "zh": "姑，姨，婶，伯母，舅妈"
+      },
+      "sentence": {
+        "ja": "私は母親よりおばに、いろいろ相談する。",
+        "zh": "比起母亲，我跟伯母聊得更多。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-021",
+      "index": 21,
+      "word": "いとこ（いとこ）",
+      "reading": "いとこ",
+      "meaning": {
+        "en": "cousin",
+        "zh": "堂兄弟，堂姐妹，表兄弟，表姐妹"
+      },
+      "sentence": {
+        "ja": "今日、いとこが遊びに来る。",
+        "zh": "表弟今天等会来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-022",
+      "index": 22,
+      "word": "おい（おい）",
+      "reading": "おい",
+      "meaning": {
+        "en": "nephew",
+        "zh": "侄子，外甥"
+      },
+      "sentence": {
+        "ja": "おいが生まれて、私もおばさんになった。",
+        "zh": "外甥出生了，我也变成小姨了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-023",
+      "index": 23,
+      "word": "めい（めい）",
+      "reading": "めい",
+      "meaning": {
+        "en": "niece",
+        "zh": "侄女，外甥女"
+      },
+      "sentence": {
+        "ja": "おいもめいも、とてもかわいい。",
+        "zh": "侄子和侄女都很可爱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-024",
+      "index": 24,
+      "word": "連れる（つれる）",
+      "reading": "つれる",
+      "meaning": {
+        "en": "to take, to lead",
+        "zh": "带"
+      },
+      "sentence": {
+        "ja": "子どもを連れて、近所の公園に行く。",
+        "zh": "带孩子去附近的公园。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-025",
+      "index": 25,
+      "word": "似る（にる）",
+      "reading": "にる",
+      "meaning": {
+        "en": "to resemble, to look like",
+        "zh": "像"
+      },
+      "sentence": {
+        "ja": "Ａ「お父さんとお母さん、どちらに似ていますか。」 Ｂ「父に似ていると言われます。」 Ａ：你是像爸爸还是像妈妈？",
+        "zh": "Ｂ：他们说我像爸爸。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l01-026",
+      "index": 26,
+      "word": "そっくりな（そっくりな）",
+      "reading": "そっくりな",
+      "meaning": {
+        "en": "exactly like",
+        "zh": "一模一样"
+      },
+      "sentence": {
+        "ja": "妹の顔は、父親にそっくりだ。",
+        "zh": "妹妹的脸长得跟父亲一模一样。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

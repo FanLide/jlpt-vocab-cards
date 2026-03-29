@@ -1,0 +1,517 @@
+{
+  "id": "ch07-l02",
+  "chapterId": "ch07",
+  "titleJa": "スポーツ",
+  "titleZh": "スポーツ",
+  "rangeNote": "777～804",
+  "audio": {
+    "track": "Chapter07_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter07_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch07-l02-777",
+      "index": 777,
+      "word": "競争＜する＞（きょうそう）",
+      "reading": "きょうそう",
+      "meaning": {
+        "en": "competition",
+        "zh": "竞争"
+      },
+      "sentence": {
+        "ja": "子どものころから競争が好きだった。",
+        "zh": "我从小就喜欢竞争。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-778",
+      "index": 778,
+      "word": "活躍＜する＞（かつやく）",
+      "reading": "かつやく",
+      "meaning": {
+        "en": "being active, flourishing",
+        "zh": "活跃"
+      },
+      "sentence": {
+        "ja": "有名なサッカーチームに入って活躍したい。",
+        "zh": "我想进入知名足球队大显身手。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-779",
+      "index": 779,
+      "word": "ウェア（ウェア）",
+      "reading": "ウェア",
+      "meaning": {
+        "en": "wear",
+        "zh": "服装"
+      },
+      "sentence": {
+        "ja": "スポーツを始めるなら、まずウェアが必要だ。",
+        "zh": "如果要开始运动，首先需要准备好服装。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-780",
+      "index": 780,
+      "word": "ける（ける）",
+      "reading": "ける",
+      "meaning": {
+        "en": "to kick",
+        "zh": "踢"
+      },
+      "sentence": {
+        "ja": "試合に出たが、ボールをけるチャンスがなかった。",
+        "zh": "我在比赛中出场了，却没有机会碰到球。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-781",
+      "index": 781,
+      "word": "ホームラン（ホームラン）",
+      "reading": "ホームラン",
+      "meaning": {
+        "en": "homerun",
+        "zh": "本垒打"
+      },
+      "sentence": {
+        "ja": "これで、今日３本目のホームランだ。",
+        "zh": "这是今天第3个本垒打。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-782",
+      "index": 782,
+      "word": "打つ（うつ）",
+      "reading": "うつ",
+      "meaning": {
+        "en": "to hit, to strike",
+        "zh": "打"
+      },
+      "sentence": {
+        "ja": "兄が初めてのヒットを打った。",
+        "zh": "哥哥打出了他的第一个安打。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-783",
+      "index": 783,
+      "word": "前半（ぜんはん）",
+      "reading": "ぜんはん",
+      "meaning": {
+        "en": "first half",
+        "zh": "上半场"
+      },
+      "sentence": {
+        "ja": "サッカーの試合の前半は、０点でおわった。",
+        "zh": "足球比赛上半场以0:0分结束了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-784",
+      "index": 784,
+      "word": "ポイント（ポイント）",
+      "reading": "ポイント",
+      "meaning": {
+        "en": "point",
+        "zh": "得分"
+      },
+      "sentence": {
+        "ja": "両チーム、どちらも強くて、なかなかポイントが入らない。",
+        "zh": "两队都很强，不容易得分。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-785",
+      "index": 785,
+      "word": "引き分け（ひきわけ）",
+      "reading": "ひきわけ",
+      "meaning": {
+        "en": "draw",
+        "zh": "平局"
+      },
+      "sentence": {
+        "ja": "昨日のサッカーの試合は、引き分けだった。",
+        "zh": "昨天的足球比赛是平局。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-786",
+      "index": 786,
+      "word": "運動会（うんどうかい）",
+      "reading": "うんどうかい",
+      "meaning": {
+        "en": "sports day",
+        "zh": "运动会"
+      },
+      "sentence": {
+        "ja": "１０月に、学校で運動会がある。",
+        "zh": "10月份学校将举办运动会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-787",
+      "index": 787,
+      "word": "大声（おおごえ）",
+      "reading": "おおごえ",
+      "meaning": {
+        "en": "loud voice, big voice",
+        "zh": "大声"
+      },
+      "sentence": {
+        "ja": "大声で、兄のチームを応援した。",
+        "zh": "我大声地为哥哥那支球队加油。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-788",
+      "index": 788,
+      "word": "思い切り（おもいきり）",
+      "reading": "おもいきり",
+      "meaning": {
+        "en": "with all one's might",
+        "zh": "尽情地"
+      },
+      "sentence": {
+        "ja": "今日は思い切りやって、優勝しよう。",
+        "zh": "今天，我们尽情地赐一场，赢了它！"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-789",
+      "index": 789,
+      "word": "ペース（ペース）",
+      "reading": "ペース",
+      "meaning": {
+        "en": "pace",
+        "zh": "节奏"
+      },
+      "sentence": {
+        "ja": "あの選手は３０キロ走っても、ペースが落ちない。",
+        "zh": "那名运动员跑了30公里，依然保持着节奏。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-790",
+      "index": 790,
+      "word": "ゴール＜する＞（ゴール）",
+      "reading": "ゴール",
+      "meaning": {
+        "en": "goal",
+        "zh": "终点"
+      },
+      "sentence": {
+        "ja": "マラソンで、５時間かかってゴールした。",
+        "zh": "在马拉松比赛中，我花了5个小时到达了终点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-791",
+      "index": 791,
+      "word": "拍手＜する＞（はくしゅ）",
+      "reading": "はくしゅ",
+      "meaning": {
+        "en": "clapping, applause",
+        "zh": "鼓掌"
+      },
+      "sentence": {
+        "ja": "最後の選手がゴールしたとき、みんなが大きな拍手を送った。",
+        "zh": "当最后一名运动员冲过终点时，大家热烈地鼓掌。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-792",
+      "index": 792,
+      "word": "ライバル（ライバル）",
+      "reading": "ライバル",
+      "meaning": {
+        "en": "rival",
+        "zh": "竞争对手"
+      },
+      "sentence": {
+        "ja": "ライバルには、ぜったいに負けたくない。",
+        "zh": "我一定不能输给对手。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-793",
+      "index": 793,
+      "word": "握手＜する＞（あくしゅ）",
+      "reading": "あくしゅ",
+      "meaning": {
+        "en": "shaking hands",
+        "zh": "握手"
+      },
+      "sentence": {
+        "ja": "試合のあとで、相手の選手と握手した。",
+        "zh": "赛后，我们和对方运动员握了手。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-794",
+      "index": 794,
+      "word": "惜しい（おしい）",
+      "reading": "おしい",
+      "meaning": {
+        "en": "regrettable, disappointing",
+        "zh": "令人懊悔，可惜"
+      },
+      "sentence": {
+        "ja": "１秒の違いで負けるなんて、本当に惜しい。",
+        "zh": "以一秒之差告负，真的好可惜。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-795",
+      "index": 795,
+      "word": "すばやい（すばやい）",
+      "reading": "すばやい",
+      "meaning": {
+        "en": "fast, quick, swift",
+        "zh": "快速，敏捷"
+      },
+      "sentence": {
+        "ja": "弟はすばやくて、サッカーが得意だ。",
+        "zh": "弟弟身手敏捷，擅长踢足球。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-796",
+      "index": 796,
+      "word": "体操＜する＞（たいそう）",
+      "reading": "たいそう",
+      "meaning": {
+        "en": "gymnastics",
+        "zh": "体操"
+      },
+      "sentence": {
+        "ja": "小学生のときは、体操クラブに入っていた。",
+        "zh": "上小学时，我加入了体操队。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-797",
+      "index": 797,
+      "word": "トレーニング＜する＞（トレーニング）",
+      "reading": "トレーニング",
+      "meaning": {
+        "en": "training",
+        "zh": "训练"
+      },
+      "sentence": {
+        "ja": "毎日授業のあと、３時間トレーニングしている。",
+        "zh": "每天放学后，训练3个小时。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-798",
+      "index": 798,
+      "word": "日課（にっか）",
+      "reading": "にっか",
+      "meaning": {
+        "en": "daily routine",
+        "zh": "每天的习惯性活动"
+      },
+      "sentence": {
+        "ja": "私の日課は、朝のジョギングだ。",
+        "zh": "我每天都要晨跑。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-799",
+      "index": 799,
+      "word": "キャプテン（キャプテン）",
+      "reading": "キャプテン",
+      "meaning": {
+        "en": "captain",
+        "zh": "队长"
+      },
+      "sentence": {
+        "ja": "高校３年のとき、キャプテンだった。",
+        "zh": "上高中三年级时，我是队长。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-800",
+      "index": 800,
+      "word": "プロ（プロ）",
+      "reading": "プロ",
+      "meaning": {
+        "en": "professional, pro",
+        "zh": "专业"
+      },
+      "sentence": {
+        "ja": "弟は、プロのスポーツ選手になるのが夢だ。",
+        "zh": "弟弟的梦想是成为专业的体育运动员。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-801",
+      "index": 801,
+      "word": "プレー＜する＞（プレー）",
+      "reading": "プレー",
+      "meaning": {
+        "en": "playing",
+        "zh": "比赛"
+      },
+      "sentence": {
+        "ja": "大好きな選手が、アメリカでプレーしている。",
+        "zh": "我最喜欢的运动员目前在美国比赛。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-802",
+      "index": 802,
+      "word": "ファン（ファン）",
+      "reading": "ファン",
+      "meaning": {
+        "en": "fan",
+        "zh": "粉丝"
+      },
+      "sentence": {
+        "ja": "私は彼の大ファンで、ずっと応援している。",
+        "zh": "我是他的忠实粉丝，一直都在支持他。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-803",
+      "index": 803,
+      "word": "引退＜する＞（いんたい）",
+      "reading": "いんたい",
+      "meaning": {
+        "en": "retirement",
+        "zh": "退役"
+      },
+      "sentence": {
+        "ja": "好きなラグビー選手が引退してしまった。",
+        "zh": "我喜欢的橄榄球运动员退役了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l02-804",
+      "index": 804,
+      "word": "水着（みずぎ）",
+      "reading": "みずぎ",
+      "meaning": {
+        "en": "swimsuit, bathing suit",
+        "zh": "游泳衣"
+      },
+      "sentence": {
+        "ja": "新しい水着を旅行に持って行った。",
+        "zh": "我带上新的游泳衣去旅行了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

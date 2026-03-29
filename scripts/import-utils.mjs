@@ -49,6 +49,15 @@ export function normalizeLessonId(rawId) {
   return `ch${chNum}-l${m[2]}`
 }
 
+export function incrementLessonId(rawId) {
+  const m = rawId.match(/^ch(\d{1,3})-l(\d{2})$/)
+  if (!m) return null
+  const chapter = Number(m[1])
+  const lesson = Number(m[2]) + 1
+  if (lesson > 99) return null
+  return `ch${String(chapter).padStart(2, '0')}-l${String(lesson).padStart(2, '0')}`
+}
+
 function parseItemFormatA(lines, i) {
   const line0 = lines[i] ?? ''
   const m0 = line0.match(/^(\d+)\s+(.+?)(?:（(.+?)）)?\s*$/)
@@ -254,27 +263,62 @@ export function splitChapterTextIntoLessonBlocks(text) {
   const rawLines = text.split(/\r?\n/)
   const blocks = []
   let current = { lessonId: null, titleLine: null, contentLines: [] }
+  let lastLessonId = null
 
   for (const raw of rawLines) {
     const line = raw.trim()
 
     if (/^-{3,}/.test(line)) {
-      if (current?.lessonId) blocks.push(current)
+      if (current?.lessonId) {
+        blocks.push(current)
+        lastLessonId = current.lessonId
+      }
       current = { lessonId: null, titleLine: null, contentLines: [] }
       continue
     }
     if (!line) continue
 
     // 新格式：标题行本身就是 lessonId + 课名 + 范围
-    const inlineHeaderMatch = line.match(/^(ch\d{1,3}-l\d{2})(?:\.txt)?[：:](.+)$/)
+    const inlineHeaderMatch = line.match(/^[.。…]*((?:ch|h)?\d{1,3}-l\d{2})(?:\.txt)?[：:](.+)$/)
     if (inlineHeaderMatch) {
-      if (current?.lessonId) blocks.push(current)
+      if (current?.lessonId) {
+        blocks.push(current)
+        lastLessonId = current.lessonId
+      }
+      const normalizedHeaderId = inlineHeaderMatch[1].startsWith('ch')
+        ? inlineHeaderMatch[1]
+        : `ch${inlineHeaderMatch[1].replace(/^[a-z]+/i, '')}`
       current = {
-        lessonId: normalizeLessonId(inlineHeaderMatch[1]),
+        lessonId: normalizeLessonId(normalizedHeaderId),
         titleLine: inlineHeaderMatch[2].trim(),
         contentLines: [],
       }
       continue
+    }
+
+    const splitHeaderIdMatch = line.match(/^[.。…]*(ch\d{1,3}-l\d{2})\.$/)
+    if (splitHeaderIdMatch) {
+      if (current?.lessonId) {
+        blocks.push(current)
+        lastLessonId = current.lessonId
+      }
+      current = {
+        lessonId: normalizeLessonId(splitHeaderIdMatch[1]),
+        titleLine: null,
+        contentLines: [],
+      }
+      continue
+    }
+
+    const titleOnlyMatch = line.match(/^txt[：:](.+)$/)
+    if (titleOnlyMatch) {
+      if (!current.lessonId && lastLessonId) {
+        current.lessonId = incrementLessonId(lastLessonId)
+      }
+      if (current.lessonId && !current.titleLine) {
+        current.titleLine = titleOnlyMatch[1].trim()
+        continue
+      }
     }
 
     if (!current.lessonId) {

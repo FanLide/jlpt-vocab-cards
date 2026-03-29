@@ -1,0 +1,301 @@
+{
+  "id": "ch10-l02",
+  "chapterId": "ch10",
+  "titleJa": "事件",
+  "titleZh": "事件",
+  "rangeNote": "1099～1119",
+  "audio": {
+    "track": "Chapter10_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter10_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch10-l02-1099",
+      "index": 1099,
+      "word": "怪しい（あやしい）",
+      "reading": "あやしい",
+      "meaning": {
+        "en": "suspicious",
+        "zh": "可疑"
+      },
+      "sentence": {
+        "ja": "怪しい人を見たら、警察に連絡してください。",
+        "zh": "如果发现可疑人员，请与警察联系。 [6, 7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1100",
+      "index": 1100,
+      "word": "恐ろしい（おそろしい）",
+      "reading": "おそろしい",
+      "meaning": {
+        "en": "horrible, frightful",
+        "zh": "可怕"
+      },
+      "sentence": {
+        "ja": "最近は、恐ろしい事件が多い。",
+        "zh": "最近发生了许多可怕的事情。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1101",
+      "index": 1101,
+      "word": "暴れる（あばれる）",
+      "reading": "あばれる",
+      "meaning": {
+        "en": "to behave violently, to be unruly",
+        "zh": "乱闹；横冲直撞"
+      },
+      "sentence": {
+        "ja": "この近くで、男が暴れていたらしい。",
+        "zh": "听说这附近曾经有一个男人闹过事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1102",
+      "index": 1102,
+      "word": "争う（あらそう）",
+      "reading": "あらそう",
+      "meaning": {
+        "en": "to fight",
+        "zh": "争论"
+      },
+      "sentence": {
+        "ja": "夜中に、男性と女性が争う声が聞こえた。",
+        "zh": "深夜，我听到了一男一女争吵的声音。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1103",
+      "index": 1103,
+      "word": "犯罪（はんざい）",
+      "reading": "はんざい",
+      "meaning": {
+        "en": "crime",
+        "zh": "犯罪"
+      },
+      "sentence": {
+        "ja": "あの町は犯罪が多い。",
+        "zh": "那个街区犯罪多发。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1104",
+      "index": 1104,
+      "word": "発見者（はっけんしゃ）",
+      "reading": "はっけんしゃ",
+      "meaning": {
+        "en": "discoverer",
+        "zh": "发现人"
+      },
+      "sentence": {
+        "ja": "警察は、怪しいかばんの発見者に話を聞いている。",
+        "zh": "警察正在询问那个发现了可疑皮包的人。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1105",
+      "index": 1105,
+      "word": "疑う（うたがう）",
+      "reading": "うたがう",
+      "meaning": {
+        "en": "to doubt",
+        "zh": "怀疑"
+      },
+      "sentence": {
+        "ja": "警察に、第一発見者が疑われているようだ。",
+        "zh": "警察似乎在怀疑第一个发现的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1106",
+      "index": 1106,
+      "word": "うそつき（うそつき）",
+      "reading": "うそつき",
+      "meaning": {
+        "en": "liar",
+        "zh": "说谎，爱撒谎的人"
+      },
+      "sentence": {
+        "ja": "だれも彼をうそつきとは思わなかった。",
+        "zh": "谁都没想到他是一个骗子。 [8]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1107",
+      "index": 1107,
+      "word": "犯人（はんにん）",
+      "reading": "はんにん",
+      "meaning": {
+        "en": "culprit, criminal",
+        "zh": "犯人"
+      },
+      "sentence": {
+        "ja": "犯人は、二十歳くらいの男らしい。",
+        "zh": "据说罪犯是一个20岁左右的男子。 [8]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1108",
+      "index": 1108,
+      "word": "いたずら（いたずら）",
+      "reading": "いたずら",
+      "meaning": {
+        "en": "mischief, prank",
+        "zh": "淘气，恶作剧"
+      },
+      "sentence": {
+        "ja": "子どものいたずらが、大きな事件になった。",
+        "zh": "小孩子的恶作剧酿成了重大事故。 [8]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1109",
+      "index": 1109,
+      "word": "さけぶ（さけぶ）",
+      "reading": "さけぶ",
+      "meaning": {
+        "en": "to scream, to shout",
+        "zh": "喊，大声叫"
+      },
+      "sentence": {
+        "ja": "外で女性が大きな声でさけんでいる。",
+        "zh": "外面一名女性在大声尖叫。 [8]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1115",
+      "index": 1115,
+      "word": "捕まえる（つかまえる）",
+      "reading": "つかまえる",
+      "meaning": {
+        "en": "to catch",
+        "zh": "抓住"
+      },
+      "sentence": {
+        "ja": "警察が犯人を捕まえた。",
+        "zh": "警察抓住了犯人。 [12, 13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1116",
+      "index": 1116,
+      "word": "捕まる（つかまる）",
+      "reading": "つかまる",
+      "meaning": {
+        "en": "to be caught",
+        "zh": "被抓"
+      },
+      "sentence": {
+        "ja": "犯人が警察に捕まった。",
+        "zh": "犯人被警察抓住了。 [12, 13]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1117",
+      "index": 1117,
+      "word": "逮捕＜する＞（たいほ）",
+      "reading": "たいほ",
+      "meaning": {
+        "en": "arrest",
+        "zh": "逮捕"
+      },
+      "sentence": {
+        "ja": "昨日、犯人が逮捕された。",
+        "zh": "昨天，犯人被逮捕了。 [9, 12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1118",
+      "index": 1118,
+      "word": "被害（ひがい）",
+      "reading": "ひがい",
+      "meaning": {
+        "en": "damage, harm",
+        "zh": "受害；损失"
+      },
+      "sentence": {
+        "ja": "台風の被害は少なかった。",
+        "zh": "台风造成的损失较小。 [11, 12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l02-1119",
+      "index": 1119,
+      "word": "パトカー（パトカー）",
+      "reading": "パトカー",
+      "meaning": {
+        "en": "police car",
+        "zh": "巡逻警车"
+      },
+      "sentence": {
+        "ja": "パトカーの音が聞こえる。",
+        "zh": "听到了警车的声音。 [11, 12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

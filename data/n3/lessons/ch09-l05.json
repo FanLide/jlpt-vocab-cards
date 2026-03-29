@@ -1,0 +1,337 @@
+{
+  "id": "ch09-l05",
+  "chapterId": "ch09",
+  "titleJa": "日本の１年",
+  "titleZh": "日本の１年",
+  "rangeNote": "1057～1074",
+  "audio": {
+    "track": "Chapter09_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter09_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l05-1057",
+      "index": 1057,
+      "word": "祝日（しゅくじつ）",
+      "reading": "しゅくじつ",
+      "meaning": {
+        "en": "holiday",
+        "zh": "节日"
+      },
+      "sentence": {
+        "ja": "日本の祝日を、カレンダーで確認する。",
+        "zh": "我在日历上查看日本的节日。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1058",
+      "index": 1058,
+      "word": "年末年始（ねんまつねんし）",
+      "reading": "ねんまつねんし",
+      "meaning": {
+        "en": "the end of the old year and the start of the New Year",
+        "zh": "年底年初"
+      },
+      "sentence": {
+        "ja": "年末年始に海外旅行をする人が多い。",
+        "zh": "年底年初出国旅行的人很多。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1059",
+      "index": 1059,
+      "word": "元日（がんじつ）",
+      "reading": "がんじつ",
+      "meaning": {
+        "en": "New Year's Day",
+        "zh": "元旦"
+      },
+      "sentence": {
+        "ja": "元日に友だちと神社に行った。",
+        "zh": "元旦，我和朋友去神社了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1060",
+      "index": 1060,
+      "word": "迎える（むかえる）",
+      "reading": "むかえる",
+      "meaning": {
+        "en": "to receive, to welcome",
+        "zh": "迎接"
+      },
+      "sentence": {
+        "ja": "来年は、富士山で新年を迎えたい。",
+        "zh": "我希望明年在富士山迎接新年。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1061",
+      "index": 1061,
+      "word": "年賀状（ねんがじょう）",
+      "reading": "ねんがじょう",
+      "meaning": {
+        "en": "New Year's Card",
+        "zh": "贺年卡"
+      },
+      "sentence": {
+        "ja": "年賀状が届くのを楽しみにしている。",
+        "zh": "我期待收到贺年卡。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1062",
+      "index": 1062,
+      "word": "お年玉（おとしだま）",
+      "reading": "おとしだま",
+      "meaning": {
+        "en": "New Year's gift",
+        "zh": "压岁钱，新年礼物"
+      },
+      "sentence": {
+        "ja": "就職してから、親にお年玉をあげている。",
+        "zh": "工作之后，我一直给爸妈发新年红包。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1063",
+      "index": 1063,
+      "word": "成人式（せいじんしき）",
+      "reading": "せいじんしき",
+      "meaning": {
+        "en": "Coming-of-Age Ceremony",
+        "zh": "成人节典礼"
+      },
+      "sentence": {
+        "ja": "兄は成人式のために、スーツを買った。",
+        "zh": "哥哥为了成人节典礼，买了一套西装。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1064",
+      "index": 1064,
+      "word": "ひな祭り（ひなまつり）",
+      "reading": "ひなまつり",
+      "meaning": {
+        "en": "Doll Festival",
+        "zh": "女儿节"
+      },
+      "sentence": {
+        "ja": "３月３日は、ひな祭りだ。",
+        "zh": "3月3日是女儿节。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1065",
+      "index": 1065,
+      "word": "ゴールデンウィーク（ゴールデンウィーク）",
+      "reading": "ゴールデンウィーク",
+      "meaning": {
+        "en": "Golden Week",
+        "zh": "黄金周"
+      },
+      "sentence": {
+        "ja": "今年のゴールデンウィークは、どこへも行かない。",
+        "zh": "今年的黄金周，我哪儿都不去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1066",
+      "index": 1066,
+      "word": "七夕（たなばた）",
+      "reading": "たなばた",
+      "meaning": {
+        "en": "Star Festival",
+        "zh": "七夕"
+      },
+      "sentence": {
+        "ja": "子どものころ、七夕に願い事を書いた。",
+        "zh": "小时候，我在七夕节写下了愿望。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1067",
+      "index": 1067,
+      "word": "お盆（おぼん）",
+      "reading": "おぼん",
+      "meaning": {
+        "en": "Bon Festival",
+        "zh": "盂兰盆节"
+      },
+      "sentence": {
+        "ja": "お盆に、国の両親が日本に来る。",
+        "zh": "盂兰盆节期间，我父母会从国内来日本。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1068",
+      "index": 1068,
+      "word": "［お］祭り（［お］まつり）",
+      "reading": "［お］まつり",
+      "meaning": {
+        "en": "festival",
+        "zh": "祭礼"
+      },
+      "sentence": {
+        "ja": "近くの公園で、夏祭りがあった。",
+        "zh": "附近的公园举办了夏日祭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1069",
+      "index": 1069,
+      "word": "盆踊り（ぼんおどり）",
+      "reading": "ぼんおどり",
+      "meaning": {
+        "en": "Bon dance",
+        "zh": "盂兰盆会舞"
+      },
+      "sentence": {
+        "ja": "初めて盆踊りを見て、おもしろいと思った。",
+        "zh": "我第一次看盂兰盆会舞，觉得很有意思。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1070",
+      "index": 1070,
+      "word": "花火大会（はなびたいかい）",
+      "reading": "はなびたいかい",
+      "meaning": {
+        "en": "fireworks display",
+        "zh": "烟花大会"
+      },
+      "sentence": {
+        "ja": "浴衣を着て、花火大会に行った。",
+        "zh": "穿着和服浴衣，去看了烟花大会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1071",
+      "index": 1071,
+      "word": "大晦日（おおみそか）",
+      "reading": "おおみそか",
+      "meaning": {
+        "en": "New Year's Eve",
+        "zh": "除夕"
+      },
+      "sentence": {
+        "ja": "大晦日の夜は、そばを食べる。",
+        "zh": "除夕之夜，我们要吃荞麦面。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1072",
+      "index": 1072,
+      "word": "習慣（しゅうかん）",
+      "reading": "しゅうかん",
+      "meaning": {
+        "en": "habit, custom",
+        "zh": "习惯，习俗"
+      },
+      "sentence": {
+        "ja": "日本には、いろいろな習慣がある。",
+        "zh": "日本有很多各种各样的习俗。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1073",
+      "index": 1073,
+      "word": "伝統（でんとう）",
+      "reading": "でんとう",
+      "meaning": {
+        "en": "tradition",
+        "zh": "传统"
+      },
+      "sentence": {
+        "ja": "伝統を守ることは、大切だと思う。",
+        "zh": "我觉得守住传统非常重要。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l05-1074",
+      "index": 1074,
+      "word": "行事（ぎょうじ）",
+      "reading": "ぎょうじ",
+      "meaning": {
+        "en": "event, ceremony",
+        "zh": "活动，仪式"
+      },
+      "sentence": {
+        "ja": "日本には、季節の行事が多い。",
+        "zh": "日本有很多季节性的活动。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

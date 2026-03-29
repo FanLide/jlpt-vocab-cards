@@ -1,0 +1,499 @@
+{
+  "id": "ch05-l02",
+  "chapterId": "ch05",
+  "titleJa": "勉強",
+  "titleZh": "勉強",
+  "rangeNote": "526～552",
+  "audio": {
+    "track": "Chapter05_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter05_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch05-l02-526",
+      "index": 526,
+      "word": "単語（たんご）",
+      "reading": "たんご",
+      "meaning": {
+        "en": "vocabulary, word",
+        "zh": "单词"
+      },
+      "sentence": {
+        "ja": "単語を、たくさん覚えよう。",
+        "zh": "多记单词。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-527",
+      "index": 527,
+      "word": "アクセント（アクセント）",
+      "reading": "アクセント",
+      "meaning": {
+        "en": "accent",
+        "zh": "音调"
+      },
+      "sentence": {
+        "ja": "アクセントに注意して、発音しよう。",
+        "zh": "发音时要注意音调。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-528",
+      "index": 528,
+      "word": "暗記＜する＞（あんき）",
+      "reading": "あんき",
+      "meaning": {
+        "en": "memorize",
+        "zh": "背诵"
+      },
+      "sentence": {
+        "ja": "この文を暗記するのに、１時間もかかった。",
+        "zh": "背诵这个句子，花了我1个小时。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-529",
+      "index": 529,
+      "word": "記憶＜する＞（きおく）",
+      "reading": "きおく",
+      "meaning": {
+        "en": "memory",
+        "zh": "记忆"
+      },
+      "sentence": {
+        "ja": "小学校のとき、この本を読んだ記憶がある。",
+        "zh": "我记得上小学时读过这本书。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-530",
+      "index": 530,
+      "word": "繰り返す（くりかえす）",
+      "reading": "くりかえす",
+      "meaning": {
+        "en": "to repeat",
+        "zh": "反复"
+      },
+      "sentence": {
+        "ja": "日本語の文を、何回も繰り返して読む。",
+        "zh": "反复读几遍日语句子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-531",
+      "index": 531,
+      "word": "聞き取る（ききとる）",
+      "reading": "ききとる",
+      "meaning": {
+        "en": "to hear, to catch",
+        "zh": "听取"
+      },
+      "sentence": {
+        "ja": "単語を聞き取って、書いてください。",
+        "zh": "听单词，然后写下来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-532",
+      "index": 532,
+      "word": "聞き返す（ききかえす）",
+      "reading": "ききかえす",
+      "meaning": {
+        "en": "to ask again",
+        "zh": "反复问；反问"
+      },
+      "sentence": {
+        "ja": "先生の話がよく聞き取れなかったので、聞き返した。",
+        "zh": "我没听清老师说的话，所以重新问了一次。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-533",
+      "index": 533,
+      "word": "聞き直す（ききなおす）",
+      "reading": "ききなおす",
+      "meaning": {
+        "en": "to listen again",
+        "zh": "重新听"
+      },
+      "sentence": {
+        "ja": "発音を確認するために、もう一度ＣＤを聞き直した。",
+        "zh": "为了确认发音，我又听了一遍CD。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-534",
+      "index": 534,
+      "word": "言い直す（いいなおす）",
+      "reading": "いいなおす",
+      "meaning": {
+        "en": "to restate",
+        "zh": "重新说"
+      },
+      "sentence": {
+        "ja": "発音を間違えたので、言い直した。",
+        "zh": "因为发音错了，所以我重新说了一遍。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-535",
+      "index": 535,
+      "word": "英会話（えいかいわ）",
+      "reading": "えいかいわ",
+      "meaning": {
+        "en": "English conversation",
+        "zh": "英语会话"
+      },
+      "sentence": {
+        "ja": "英会話を習っているが、なかなかうまかならない。",
+        "zh": "我在学英语会话，但怎么都学不好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-536",
+      "index": 536,
+      "word": "入門（にゅうもん）",
+      "reading": "にゅうもん",
+      "meaning": {
+        "en": "entering, beginning",
+        "zh": "入门"
+      },
+      "sentence": {
+        "ja": "フランス語の入門クラスで勉強しています。",
+        "zh": "我在上法语的入门班。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-537",
+      "index": 537,
+      "word": "下書き＜する＞（したがき）",
+      "reading": "したがき",
+      "meaning": {
+        "en": "rough copy, draft",
+        "zh": "草稿"
+      },
+      "sentence": {
+        "ja": "作文は、まず下書きをしたほうがいい。",
+        "zh": "写作最好先打草稿。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-538",
+      "index": 538,
+      "word": "清書＜する＞（せいしょ）",
+      "reading": "せいしょ",
+      "meaning": {
+        "en": "clean copy",
+        "zh": "誊写"
+      },
+      "sentence": {
+        "ja": "清書はていねいに、きれいに書きましょう。",
+        "zh": "誊写时，要写得认真、整洁。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-539",
+      "index": 539,
+      "word": "表れる（あらわれる）",
+      "reading": "あらわれる",
+      "meaning": {
+        "en": "to be expressed, to become apparent",
+        "zh": "表现出"
+      },
+      "sentence": {
+        "ja": "書いた文字には、その人の気持ちが表れる。",
+        "zh": "文字能够表现出写作人的心情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-540",
+      "index": 540,
+      "word": "物語（ものがたり）",
+      "reading": "ものがたり",
+      "meaning": {
+        "en": "tale, story",
+        "zh": "故事"
+      },
+      "sentence": {
+        "ja": "寝る前に、日本の物語を読む。",
+        "zh": "睡觉前阅读日本故事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-541",
+      "index": 541,
+      "word": "教科（きょうか）",
+      "reading": "きょうか",
+      "meaning": {
+        "en": "subject",
+        "zh": "课程"
+      },
+      "sentence": {
+        "ja": "私の好きな教科は、数学です。",
+        "zh": "我喜欢的课程是数学。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-542",
+      "index": 542,
+      "word": "科目（かもく）",
+      "reading": "かもく",
+      "meaning": {
+        "en": "subject, class",
+        "zh": "学科"
+      },
+      "sentence": {
+        "ja": "水曜日は、好きな科目の授業を選べる。",
+        "zh": "周三可以选择喜欢的课。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-543",
+      "index": 543,
+      "word": "足し算（たしざん）",
+      "reading": "たしざん",
+      "meaning": {
+        "en": "addition",
+        "zh": "加法"
+      },
+      "sentence": {
+        "ja": "大きな数字の足し算は間違えそうだ。",
+        "zh": "数字大的加法容易错。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-544",
+      "index": 544,
+      "word": "イコール（イコール）",
+      "reading": "イコール",
+      "meaning": {
+        "en": "equal",
+        "zh": "等于"
+      },
+      "sentence": {
+        "ja": "「＝」はイコールと読む。",
+        "zh": "“=”读作“等于”。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-545",
+      "index": 545,
+      "word": "グラフ（グラフ）",
+      "reading": "グラフ",
+      "meaning": {
+        "en": "graph",
+        "zh": "图表"
+      },
+      "sentence": {
+        "ja": "次のグラフを見て、答えてください。",
+        "zh": "看以下图表，然后作答。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-546",
+      "index": 546,
+      "word": "三角形（さんかくけい）",
+      "reading": "さんかくけい",
+      "meaning": {
+        "en": "triangle",
+        "zh": "三角形"
+      },
+      "sentence": {
+        "ja": "紙を三角形に折る。",
+        "zh": "把纸折成三角形。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-547",
+      "index": 547,
+      "word": "定規（じょうぎ）",
+      "reading": "じょうぎ",
+      "meaning": {
+        "en": "ruler",
+        "zh": "尺子"
+      },
+      "sentence": {
+        "ja": "箱の大きさを定規で測る。",
+        "zh": "用尺子测量箱子的大小。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-548",
+      "index": 548,
+      "word": "センチ（センチ）",
+      "reading": "センチ",
+      "meaning": {
+        "en": "centimeter",
+        "zh": "厘米"
+      },
+      "sentence": {
+        "ja": "１メートルは、何センチですか。",
+        "zh": "1米是多少厘米？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-549",
+      "index": 549,
+      "word": "自習＜する＞（じしゅう）",
+      "reading": "じしゅう",
+      "meaning": {
+        "en": "self study",
+        "zh": "自习"
+      },
+      "sentence": {
+        "ja": "先生が来るまで、自習していてください。",
+        "zh": "老师来之前，请大家自习。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-550",
+      "index": 550,
+      "word": "ローマ字（ローマじ）",
+      "reading": "ローマじ",
+      "meaning": {
+        "en": "Roman characters",
+        "zh": "罗马字"
+      },
+      "sentence": {
+        "ja": "ここに、ローマ字で名前を書いてください。",
+        "zh": "请在这里用罗马字写上名字。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-551",
+      "index": 551,
+      "word": "補講＜する＞（ほこう）",
+      "reading": "ほこう",
+      "meaning": {
+        "en": "supplementary classes or lectures",
+        "zh": "补课"
+      },
+      "sentence": {
+        "ja": "昨日欠席した人は、今日、補講があります。",
+        "zh": "昨天缺席的人，今天要补课。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l02-552",
+      "index": 552,
+      "word": "けずる（けずる）",
+      "reading": "けずる",
+      "meaning": {
+        "en": "to sharpen (a pencil)",
+        "zh": "削(铅笔)"
+      },
+      "sentence": {
+        "ja": "息子は、ナイフでえんぴつをけずれない。",
+        "zh": "儿子不会用小刀削铅笔。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

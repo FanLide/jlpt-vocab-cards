@@ -1,0 +1,427 @@
+{
+  "id": "ch06-l03",
+  "chapterId": "ch06",
+  "titleJa": "上下関係",
+  "titleZh": "上下関係",
+  "rangeNote": "680～702",
+  "audio": {
+    "track": "Chapter06_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter06_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l03-680",
+      "index": 680,
+      "word": "上司（じょうし）",
+      "reading": "じょうし",
+      "meaning": {
+        "en": "boss, supervisor",
+        "zh": "上司"
+      },
+      "sentence": {
+        "ja": "上司はきびしいほうが、いいと思う。",
+        "zh": "我觉得上司严厉一点儿比较好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-681",
+      "index": 681,
+      "word": "部下（ぶか）",
+      "reading": "ぶか",
+      "meaning": {
+        "en": "subordinate",
+        "zh": "部下"
+      },
+      "sentence": {
+        "ja": "この会社では、部下が上司に自由に意見を言える。",
+        "zh": "在这家公司，部下可以自由地对上司说出自己的意见。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-682",
+      "index": 682,
+      "word": "先輩（せんぱい）",
+      "reading": "せんぱい",
+      "meaning": {
+        "en": "senior",
+        "zh": "前辈，比自己早进入公司的同事"
+      },
+      "sentence": {
+        "ja": "私と先輩は、兄弟のように親しい。",
+        "zh": "我和比我早进公司的同事关系亲近，就像亲兄弟一样。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-683",
+      "index": 683,
+      "word": "肩書き（かたがき）",
+      "reading": "かたがき",
+      "meaning": {
+        "en": "title",
+        "zh": "头衔"
+      },
+      "sentence": {
+        "ja": "田中さんの肩書きは課長だ。",
+        "zh": "田中先生的职位是课长。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-684",
+      "index": 684,
+      "word": "アドバイス＜する＞（アドバイス）",
+      "reading": "アドバイス",
+      "meaning": {
+        "en": "advice",
+        "zh": "建议"
+      },
+      "sentence": {
+        "ja": "先輩のアドバイスは役に立つ。",
+        "zh": "前辈的建议很有用。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-685",
+      "index": 685,
+      "word": "ひとこと（ひとこと）",
+      "reading": "ひとこと",
+      "meaning": {
+        "en": "a word",
+        "zh": "一句话"
+      },
+      "sentence": {
+        "ja": "何かひとことアドバイスをお願いします。",
+        "zh": "请给我一点儿建议。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-686",
+      "index": 686,
+      "word": "同僚（どうりょう）",
+      "reading": "どうりょう",
+      "meaning": {
+        "en": "coworker",
+        "zh": "同事"
+      },
+      "sentence": {
+        "ja": "あの会社の同僚はみんないい人だった。",
+        "zh": "那家公司的同事都是好人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-687",
+      "index": 687,
+      "word": "同期（どうき）",
+      "reading": "どうき",
+      "meaning": {
+        "en": "one's contemporary, people who join at the same time",
+        "zh": "同期，同时进入公司的同事"
+      },
+      "sentence": {
+        "ja": "私の同期は１０人しかいない。",
+        "zh": "和我同时进公司的总共只有10个人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-688",
+      "index": 688,
+      "word": "休暇（きゅうか）",
+      "reading": "きゅうか",
+      "meaning": {
+        "en": "break, rest",
+        "zh": "休假"
+      },
+      "sentence": {
+        "ja": "上司に許可をもらって、休暇を取った。",
+        "zh": "我得到了上司的同意，请假了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-689",
+      "index": 689,
+      "word": "オフ（オフ）",
+      "reading": "オフ",
+      "meaning": {
+        "en": "off, day off",
+        "zh": "休息日"
+      },
+      "sentence": {
+        "ja": "オフの日も、会社の同期と会う。",
+        "zh": "休息日，我也会跟和我同时进公司的同事见面。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-690",
+      "index": 690,
+      "word": "責任（せきにん）",
+      "reading": "せきにん",
+      "meaning": {
+        "en": "responsibility",
+        "zh": "责任"
+      },
+      "sentence": {
+        "ja": "今の仕事は責任が重い。",
+        "zh": "我现在这份工作责任重大。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-691",
+      "index": 691,
+      "word": "プレッシャー（プレッシャー）",
+      "reading": "プレッシャー",
+      "meaning": {
+        "en": "pressure",
+        "zh": "压力"
+      },
+      "sentence": {
+        "ja": "上司からのプレッシャーに負けたくない。",
+        "zh": "我不想屈服于上司施加的压力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-692",
+      "index": 692,
+      "word": "不満＜な＞（ふまん）",
+      "reading": "ふまん",
+      "meaning": {
+        "en": "dissatisfaction, displeasure",
+        "zh": "不满"
+      },
+      "sentence": {
+        "ja": "①不満があるなら、はっきり言うべきだ。（名） ②不満な気持ちを上司に伝えた。（ナ形） ①要是有不满，应该明确地说出来。",
+        "zh": "②我向上司表达了我的不满情绪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-693",
+      "index": 693,
+      "word": "命令＜する＞（めいれい）",
+      "reading": "めいれい",
+      "meaning": {
+        "en": "order",
+        "zh": "命令"
+      },
+      "sentence": {
+        "ja": "会社の命令にＮＯと言えない。",
+        "zh": "我不能对公司的命令说“不”。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-694",
+      "index": 694,
+      "word": "指示＜する＞（しじ）",
+      "reading": "しじ",
+      "meaning": {
+        "en": "direction",
+        "zh": "指示，吩咐"
+      },
+      "sentence": {
+        "ja": "上司に指示されたことを忘れてしまった。",
+        "zh": "我彻底忘记上司吩咐的事情了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-695",
+      "index": 695,
+      "word": "苦労＜する＞（くろう）",
+      "reading": "くろう",
+      "meaning": {
+        "en": "trouble, hardship",
+        "zh": "辛苦"
+      },
+      "sentence": {
+        "ja": "仕事を覚えるために、苦労した。",
+        "zh": "为了掌握工作要求，我费了一番辛苦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-696",
+      "index": 696,
+      "word": "くたくたな（くたくたな）",
+      "reading": "くたくたな",
+      "meaning": {
+        "en": "exhausted",
+        "zh": "筋疲力尽"
+      },
+      "sentence": {
+        "ja": "毎日仕事が忙しくて、もうくたくただ。",
+        "zh": "每天工作都很忙，我已经筋疲力尽了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-697",
+      "index": 697,
+      "word": "ミス＜する＞（ミス）",
+      "reading": "ミス",
+      "meaning": {
+        "en": "mistake",
+        "zh": "错误"
+      },
+      "sentence": {
+        "ja": "ミスは、だれにでもあることだ。",
+        "zh": "每个人都会犯错误。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-698",
+      "index": 698,
+      "word": "報告＜する＞（ほうこく）",
+      "reading": "ほうこく",
+      "meaning": {
+        "en": "report",
+        "zh": "报告"
+      },
+      "sentence": {
+        "ja": "もしミスしてしまったら、上司に報告しなさい。",
+        "zh": "如果犯了错误，就要报告上司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-699",
+      "index": 699,
+      "word": "飲み会（のみかい）",
+      "reading": "のみかい",
+      "meaning": {
+        "en": "drinking party",
+        "zh": "喝酒聚会"
+      },
+      "sentence": {
+        "ja": "明日、同期の飲み会がある。",
+        "zh": "明天我们同时进公司的同事有一个聚会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-700",
+      "index": 700,
+      "word": "歓迎会（かんげいかい）",
+      "reading": "かんげいかい",
+      "meaning": {
+        "en": "welcome party",
+        "zh": "迎新会"
+      },
+      "sentence": {
+        "ja": "４月と１０月に歓迎会がある。",
+        "zh": "4月和10月会举办迎新会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-701",
+      "index": 701,
+      "word": "飲み放題（のみほうだい）",
+      "reading": "のみほうだい",
+      "meaning": {
+        "en": "all-you-can-drink",
+        "zh": "无限畅饮"
+      },
+      "sentence": {
+        "ja": "飲み放題だと、飲みすぎてしまう。",
+        "zh": "要是无限畅饮，我就会喝多。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l03-702",
+      "index": 702,
+      "word": "注ぐ（つぐ）",
+      "reading": "つぐ",
+      "meaning": {
+        "en": "to pour",
+        "zh": "倒"
+      },
+      "sentence": {
+        "ja": "乾杯の前に、先輩にビールを注いだ。",
+        "zh": "干杯之前，我给前辈倒上啤酒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "ch08-l01",
+  "chapterId": "ch08",
+  "titleJa": "体",
+  "titleZh": "体",
+  "rangeNote": "872～893",
+  "audio": {
+    "track": "Chapter08_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter08_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch08-l01-872",
+      "index": 872,
+      "word": "身長（しんちょう）",
+      "reading": "しんちょう",
+      "meaning": {
+        "en": "height",
+        "zh": "高度，身高"
+      },
+      "sentence": {
+        "ja": "妹は、私より身長が３センチ高い。",
+        "zh": "妹妹比我高3厘米。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-873",
+      "index": 873,
+      "word": "伸びる（のびる）",
+      "reading": "のびる",
+      "meaning": {
+        "en": "to grow, to extend",
+        "zh": "伸长，长长"
+      },
+      "sentence": {
+        "ja": "弟は高校生で、まだ身長が伸びている。",
+        "zh": "弟弟是高中生，他的身高还在长。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-874",
+      "index": 874,
+      "word": "測る（はかる）",
+      "reading": "はかる",
+      "meaning": {
+        "en": "to measure",
+        "zh": "测量"
+      },
+      "sentence": {
+        "ja": "身長を測ったら、１年前より２センチ伸びていた。",
+        "zh": "我测量了一下身高，发现比一年前长高了2厘米。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-875",
+      "index": 875,
+      "word": "体重（たいじゅう）",
+      "reading": "たいじゅう",
+      "meaning": {
+        "en": "body weight",
+        "zh": "体重"
+      },
+      "sentence": {
+        "ja": "朝と夜、体重をチェックしている。",
+        "zh": "早晚称体重。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-876",
+      "index": 876,
+      "word": "体重計（たいじゅうけい）",
+      "reading": "たいじゅうけい",
+      "meaning": {
+        "en": "scale (for measuring body weight)",
+        "zh": "体重秤"
+      },
+      "sentence": {
+        "ja": "新しい体重計で、家族の健康をチェックする。",
+        "zh": "用这个新的体重秤检查家人的健康状况。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-877",
+      "index": 877,
+      "word": "体温（たいおん）",
+      "reading": "たいおん",
+      "meaning": {
+        "en": "body temperature",
+        "zh": "体温"
+      },
+      "sentence": {
+        "ja": "私の体温は、ふだん３６度ちょっとです。",
+        "zh": "我的体温一般是36度多一点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-878",
+      "index": 878,
+      "word": "额（ひたい）",
+      "reading": "ひたい",
+      "meaning": {
+        "en": "forehead",
+        "zh": "额头"
+      },
+      "sentence": {
+        "ja": "彼の額をさわったら、とても熱かった。",
+        "zh": "我摸了摸他的额头，发现非常烫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-879",
+      "index": 879,
+      "word": "血液（けつえき）",
+      "reading": "けつえき",
+      "meaning": {
+        "en": "blood",
+        "zh": "血液"
+      },
+      "sentence": {
+        "ja": "血液を調べると、病気がわかる。",
+        "zh": "检查一下血液，就能知道得了什么病。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-880",
+      "index": 880,
+      "word": "血液型（けつえきがた）",
+      "reading": "けつえきがた",
+      "meaning": {
+        "en": "blood type",
+        "zh": "血型"
+      },
+      "sentence": {
+        "ja": "私の血液型はＢ型、彼はＯ型です。",
+        "zh": "我的血型是B型，我男朋友是O型。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-881",
+      "index": 881,
+      "word": "心臓（しんぞう）",
+      "reading": "しんぞう",
+      "meaning": {
+        "en": "heart",
+        "zh": "心脏"
+      },
+      "sentence": {
+        "ja": "運動すると、心臓の動きが速くなる。",
+        "zh": "一运动，心跳就会加快。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-882",
+      "index": 882,
+      "word": "汗（あせ）",
+      "reading": "あせ",
+      "meaning": {
+        "en": "sweat",
+        "zh": "汗"
+      },
+      "sentence": {
+        "ja": "スポーツで汗をかくのは気持ちがいい。",
+        "zh": "运动出汗是非常舒服的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-883",
+      "index": 883,
+      "word": "息（いき）",
+      "reading": "いき",
+      "meaning": {
+        "en": "breath",
+        "zh": "呼吸"
+      },
+      "sentence": {
+        "ja": "ゆっくり息をしてください。",
+        "zh": "请慢慢地呼吸。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-884",
+      "index": 884,
+      "word": "ため息（ためいき）",
+      "reading": "ためいき",
+      "meaning": {
+        "en": "sigh",
+        "zh": "叹气"
+      },
+      "sentence": {
+        "ja": "また体重が増えて、ため息が出た。",
+        "zh": "体重又增加了，我叹了一口气。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-885",
+      "index": 885,
+      "word": "皮ふ（ひふ）",
+      "reading": "ひふ",
+      "meaning": {
+        "en": "skin",
+        "zh": "皮肤"
+      },
+      "sentence": {
+        "ja": "皮ふが弱いので、クリームを使っている。",
+        "zh": "我的皮肤很敏感，一直在用护肤霜。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-886",
+      "index": 886,
+      "word": "顔色（かおいろ）",
+      "reading": "かおいろ",
+      "meaning": {
+        "en": "complexion",
+        "zh": "脸色"
+      },
+      "sentence": {
+        "ja": "今日、彼は顔色が悪い。",
+        "zh": "他今天的脸色很差。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-887",
+      "index": 887,
+      "word": "睡眠（すいみん）",
+      "reading": "すいみん",
+      "meaning": {
+        "en": "sleep",
+        "zh": "睡眠"
+      },
+      "sentence": {
+        "ja": "健康のために、睡眠に気をつけている。",
+        "zh": "为了健康，我一直很注意睡眠。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-888",
+      "index": 888,
+      "word": "まぶた（まぶた）",
+      "reading": "まぶた",
+      "meaning": {
+        "en": "eyelid",
+        "zh": "眼皮"
+      },
+      "sentence": {
+        "ja": "花粉症で、まぶたが赤くなった。",
+        "zh": "因为花粉症，眼皮变红了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-889",
+      "index": 889,
+      "word": "丈夫な（じょうぶな）",
+      "reading": "じょうぶな",
+      "meaning": {
+        "en": "sturdy, strong",
+        "zh": "结实"
+      },
+      "sentence": {
+        "ja": "子どものころから、体が丈夫です。",
+        "zh": "我从小身体就很结实。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-890",
+      "index": 890,
+      "word": "歯科医（しかい）",
+      "reading": "しかい",
+      "meaning": {
+        "en": "dentist",
+        "zh": "牙医"
+      },
+      "sentence": {
+        "ja": "１年に１回、歯科医に診てもらう。",
+        "zh": "每年看一次牙医。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-891",
+      "index": 891,
+      "word": "虫歯（むしば）",
+      "reading": "むしば",
+      "meaning": {
+        "en": "cavity",
+        "zh": "蛀牙"
+      },
+      "sentence": {
+        "ja": "虫歯が見つかったので、歯医者に通っている。",
+        "zh": "检查发现我蛀牙了，所以我去看牙医。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-892",
+      "index": 892,
+      "word": "裸（はだか）",
+      "reading": "はだか",
+      "meaning": {
+        "en": "nakedness, nudity",
+        "zh": "裸体"
+      },
+      "sentence": {
+        "ja": "私は子どものころ、裸で泳いでいた。",
+        "zh": "小时候，我光着身子游泳。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l01-893",
+      "index": 893,
+      "word": "裸足（はだし）",
+      "reading": "はだし",
+      "meaning": {
+        "en": "barefoot",
+        "zh": "赤脚"
+      },
+      "sentence": {
+        "ja": "夏休みに、裸足で海岸を走った。",
+        "zh": "暑假里，我光着脚在海边跑。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

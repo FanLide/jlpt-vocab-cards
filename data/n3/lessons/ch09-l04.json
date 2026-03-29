@@ -1,0 +1,301 @@
+{
+  "id": "ch09-l04",
+  "chapterId": "ch09",
+  "titleJa": "どう変わる？",
+  "titleZh": "怎么变化？",
+  "rangeNote": "1041～1056",
+  "audio": {
+    "track": "Chapter09_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter09_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l04-1041",
+      "index": 1041,
+      "word": "状態（じょうたい）",
+      "reading": "じょうたい",
+      "meaning": {
+        "en": "condition, status",
+        "zh": "状态，情况"
+      },
+      "sentence": {
+        "ja": "大雨で、この川は危険な状態だ。",
+        "zh": "因为大雨，这条河的情况很危险。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1042",
+      "index": 1042,
+      "word": "変化＜する＞（へんか）",
+      "reading": "へんか",
+      "meaning": {
+        "en": "change",
+        "zh": "变化"
+      },
+      "sentence": {
+        "ja": "旅行中、天気の変化がとても気になる。",
+        "zh": "旅行期间，我很担心天气变化。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1043",
+      "index": 1043,
+      "word": "一定＜する＞（いってい）",
+      "reading": "いってい",
+      "meaning": {
+        "en": "fixed, set",
+        "zh": "固定；一定"
+      },
+      "sentence": {
+        "ja": "最近、気温が一定している。",
+        "zh": "最近的气温比较稳定。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1044",
+      "index": 1044,
+      "word": "観察＜する＞（かんさつ）",
+      "reading": "かんさつ",
+      "meaning": {
+        "en": "observing, watching",
+        "zh": "观察"
+      },
+      "sentence": {
+        "ja": "弟は、雲の形を観察している。",
+        "zh": "弟弟正在观察云的形状。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1045",
+      "index": 1045,
+      "word": "次第に（しだいに）",
+      "reading": "しだいに",
+      "meaning": {
+        "en": "gradually",
+        "zh": "逐渐"
+      },
+      "sentence": {
+        "ja": "今日の夜から、次第に天気が悪くなるらしい。",
+        "zh": "据说从今晚开始，天气会渐渐变差。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1046",
+      "index": 1046,
+      "word": "じょじょに（じょじょに）",
+      "reading": "じょじょに",
+      "meaning": {
+        "en": "gradually, steadily",
+        "zh": "徐徐"
+      },
+      "sentence": {
+        "ja": "朝から、気温がじょじょに上がってきた。",
+        "zh": "从早上开始，气温慢慢地升高了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1047",
+      "index": 1047,
+      "word": "だんだん［と］（だんだん）",
+      "reading": "だんだん",
+      "meaning": {
+        "en": "gradually, by degrees",
+        "zh": "渐渐"
+      },
+      "sentence": {
+        "ja": "空がだんだん暗くなってきた。",
+        "zh": "天色渐渐变暗了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1048",
+      "index": 1048,
+      "word": "ますます（ますます）",
+      "reading": "ますます",
+      "meaning": {
+        "en": "increasingly",
+        "zh": "越发"
+      },
+      "sentence": {
+        "ja": "今週になって、ますます暑くなってきた。",
+        "zh": "这周越来越热了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1049",
+      "index": 1049,
+      "word": "すっかり（すっかり）",
+      "reading": "すっかり",
+      "meaning": {
+        "en": "completely, thoroughly",
+        "zh": "完全，都"
+      },
+      "sentence": {
+        "ja": "最近、暖かい日が多い。すっかり春だ。",
+        "zh": "最近好多天都很暖和。春天已经到了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1050",
+      "index": 1050,
+      "word": "一気に（いっきに）",
+      "reading": "いっきに",
+      "meaning": {
+        "en": "all of a sudden",
+        "zh": "一下子"
+      },
+      "sentence": {
+        "ja": "１２月になって、一気に寒くなった。",
+        "zh": "到了12月，一下子变冷了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1051",
+      "index": 1051,
+      "word": "一度に（いちどに）",
+      "reading": "いちどに",
+      "meaning": {
+        "en": "all at once",
+        "zh": "同时；一块儿"
+      },
+      "sentence": {
+        "ja": "今日は、夏と冬が一度に来たようだった。",
+        "zh": "感觉今天这一天，夏天和冬天一块儿来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1052",
+      "index": 1052,
+      "word": "いっぺんに（いっぺんに）",
+      "reading": "いっぺんに",
+      "meaning": {
+        "en": "at one time",
+        "zh": "一次；同时"
+      },
+      "sentence": {
+        "ja": "２つの台風がいっぺんに来た。",
+        "zh": "同时来了两个台风。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1053",
+      "index": 1053,
+      "word": "いつの間にか（いつのまにか）",
+      "reading": "いつのまにか",
+      "meaning": {
+        "en": "before one knows it",
+        "zh": "不知不觉"
+      },
+      "sentence": {
+        "ja": "雪がいつの間にか止んでいた。",
+        "zh": "不知道什么时候，雪停了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1054",
+      "index": 1054,
+      "word": "温暖化（おんだんか）",
+      "reading": "おんだんか",
+      "meaning": {
+        "en": "global warming",
+        "zh": "全球气候变暖"
+      },
+      "sentence": {
+        "ja": "世界中で、温暖化が進んでいるようだ。",
+        "zh": "全球气候变暖似乎正在加剧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1055",
+      "index": 1055,
+      "word": "えいきょう＜する＞（えいきょう）",
+      "reading": "えいきょう",
+      "meaning": {
+        "en": "influence",
+        "zh": "影响"
+      },
+      "sentence": {
+        "ja": "温暖化は、いろいろなえいきょうを与えている。",
+        "zh": "全球气候变暖造成了各种各样的影响。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l04-1056",
+      "index": 1056,
+      "word": "変な（へんな）",
+      "reading": "へんな",
+      "meaning": {
+        "en": "strange",
+        "zh": "奇怪"
+      },
+      "sentence": {
+        "ja": "最近ずっと、変な天気が続いている。",
+        "zh": "最近的天气一直很奇怪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

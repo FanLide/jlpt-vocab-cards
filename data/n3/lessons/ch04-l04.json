@@ -1,0 +1,427 @@
+{
+  "id": "ch04-l04",
+  "chapterId": "ch04",
+  "titleJa": "バス",
+  "titleZh": "バス",
+  "rangeNote": "445～467",
+  "audio": {
+    "track": "Chapter04_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter04_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch04-l04-445",
+      "index": 445,
+      "word": "バス停（バスてい）",
+      "reading": "バスてい",
+      "meaning": {
+        "en": "bus stop",
+        "zh": "公交车站"
+      },
+      "sentence": {
+        "ja": "私のアパートの近くに、バス停がある。",
+        "zh": "我住的公寓附近有公交车站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-446",
+      "index": 446,
+      "word": "乗車口（じょうしゃぐち）",
+      "reading": "じょうしゃぐち",
+      "meaning": {
+        "en": "entrance door",
+        "zh": "上车门"
+      },
+      "sentence": {
+        "ja": "乗車口でバス代を払ってください。",
+        "zh": "请在上车门买票。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-447",
+      "index": 447,
+      "word": "乗客（じょうきゃく）",
+      "reading": "じょうきゃく",
+      "meaning": {
+        "en": "passenger",
+        "zh": "乘客"
+      },
+      "sentence": {
+        "ja": "昼間の乗客は、高齢者が多い。",
+        "zh": "白天乘车的多是老年人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-448",
+      "index": 448,
+      "word": "乗車＜する＞（じょうしゃ）",
+      "reading": "じょうしゃ",
+      "meaning": {
+        "en": "to ride",
+        "zh": "乘车"
+      },
+      "sentence": {
+        "ja": "この切符は、一日に何回も乗車できる。",
+        "zh": "这张车票可以在一天之内任意乘坐。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-449",
+      "index": 449,
+      "word": "発車＜する＞（はっしゃ）",
+      "reading": "はっしゃ",
+      "meaning": {
+        "en": "departing",
+        "zh": "发车"
+      },
+      "sentence": {
+        "ja": "このバスは１０時に発車する。",
+        "zh": "这趟车10点发车。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-450",
+      "index": 450,
+      "word": "通過＜する＞（つうか）",
+      "reading": "つうか",
+      "meaning": {
+        "en": "passing, passing through",
+        "zh": "通过；通过不停车"
+      },
+      "sentence": {
+        "ja": "もうすぐ市役所の前を通過する。",
+        "zh": "马上就要通过市政府前面了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-451",
+      "index": 451,
+      "word": "停車＜する＞（ていしゃ）",
+      "reading": "ていしゃ",
+      "meaning": {
+        "en": "stopping",
+        "zh": "停车"
+      },
+      "sentence": {
+        "ja": "駅前で停車すると、たくさんの人が乗ってきた。",
+        "zh": "到了车站前面，车一停，许多人就涌了上来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-452",
+      "index": 452,
+      "word": "下車＜する＞（げしゃ）",
+      "reading": "げしゃ",
+      "meaning": {
+        "en": "getting off",
+        "zh": "下车"
+      },
+      "sentence": {
+        "ja": "たくさんの人が途中で下車した。",
+        "zh": "很多人在半道下车了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-453",
+      "index": 453,
+      "word": "交通費（こうつうひ）",
+      "reading": "こうつうひ",
+      "meaning": {
+        "en": "traveling expenses",
+        "zh": "交通费"
+      },
+      "sentence": {
+        "ja": "日本は交通費が、とても高い。",
+        "zh": "日本的交通费非常高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-454",
+      "index": 454,
+      "word": "バス代（バスだい）",
+      "reading": "バスだい",
+      "meaning": {
+        "en": "bus fare",
+        "zh": "公交车费"
+      },
+      "sentence": {
+        "ja": "今年、バス代が高くなった。",
+        "zh": "今年，公交车费涨了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-455",
+      "index": 455,
+      "word": "払い戻す（はらいもどす）",
+      "reading": "はらいもどす",
+      "meaning": {
+        "en": "to repay, to pay back",
+        "zh": "退还"
+      },
+      "sentence": {
+        "ja": "一度払ったバス代は、払い戻せません。",
+        "zh": "公交车费一经支付，不予退还。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-456",
+      "index": 456,
+      "word": "定員（ていいん）",
+      "reading": "ていいん",
+      "meaning": {
+        "en": "capacity",
+        "zh": "定员"
+      },
+      "sentence": {
+        "ja": "このバスの定員は４５人だ。",
+        "zh": "这辆公交车定员45人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-457",
+      "index": 457,
+      "word": "つめる（つめる）",
+      "reading": "つめる",
+      "meaning": {
+        "en": "to move closer together",
+        "zh": "挤紧"
+      },
+      "sentence": {
+        "ja": "込んでいるときは、席をつめてお座りください。",
+        "zh": "人多的时候，请互相相挤一挤坐下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-458",
+      "index": 458,
+      "word": "がらがらな（がらがらな）",
+      "reading": "がらがらな",
+      "meaning": {
+        "en": "empty, bare",
+        "zh": "人很少"
+      },
+      "sentence": {
+        "ja": "この時間のバスはがらがらだ。",
+        "zh": "这个时间，公交车上空荡荡的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-459",
+      "index": 459,
+      "word": "空く（あく）",
+      "reading": "あく",
+      "meaning": {
+        "en": "to become empty",
+        "zh": "空"
+      },
+      "sentence": {
+        "ja": "駅前で人が降りたので、バスが空いた。",
+        "zh": "公交车里空了，因为人都车站前面下车了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-460",
+      "index": 460,
+      "word": "満員（まんいん）",
+      "reading": "まんいん",
+      "meaning": {
+        "en": "full to capacity, no vacancy",
+        "zh": "满员；载满"
+      },
+      "sentence": {
+        "ja": "雨の日の朝は、満員になることが多い。",
+        "zh": "下雨天的早上，常常挤满了人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-461",
+      "index": 461,
+      "word": "ぎっしり［と］（ぎっしり）",
+      "reading": "ぎっしり",
+      "meaning": {
+        "en": "densely packed",
+        "zh": "满满的"
+      },
+      "sentence": {
+        "ja": "バスに人がぎっしり乗っている。",
+        "zh": "公交车上，人挤得满满的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-462",
+      "index": 462,
+      "word": "時刻（じこく）",
+      "reading": "じこく",
+      "meaning": {
+        "en": "time schedule",
+        "zh": "时刻"
+      },
+      "sentence": {
+        "ja": "日本のバスは、時刻の通りに走る。",
+        "zh": "日本的公交车是按照时刻表运行的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-463",
+      "index": 463,
+      "word": "優先席（ゆうせんせき）",
+      "reading": "ゆうせんせき",
+      "meaning": {
+        "en": "priority seating",
+        "zh": "老幼病残孕专座"
+      },
+      "sentence": {
+        "ja": "優先席に若い男性が座っている。",
+        "zh": "一名年轻男性坐在老幼病残孕专座上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-464",
+      "index": 464,
+      "word": "立ち上がる（たちあがる）",
+      "reading": "たちあがる",
+      "meaning": {
+        "en": "to stand up",
+        "zh": "站起来"
+      },
+      "sentence": {
+        "ja": "お年寄りが乗ってきたので、すぐに立ち上がった。",
+        "zh": "一位老年人上车了，他立刻站了起来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-465",
+      "index": 465,
+      "word": "ゆずる（ゆずる）",
+      "reading": "ゆずる",
+      "meaning": {
+        "en": "to give up (one's seat)",
+        "zh": "让给"
+      },
+      "sentence": {
+        "ja": "お年寄りに席をゆずった。",
+        "zh": "他把座位让给了老年人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-466",
+      "index": 466,
+      "word": "かかる（かかる）",
+      "reading": "かかる",
+      "meaning": {
+        "en": "to take, to use up",
+        "zh": "花费"
+      },
+      "sentence": {
+        "ja": "電車よりバスのほうが、時間がかかる。",
+        "zh": "公交车要比电车花时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l04-467",
+      "index": 467,
+      "word": "ブレーキ（ブレーキ）",
+      "reading": "ブレーキ",
+      "meaning": {
+        "en": "brake",
+        "zh": "刹车"
+      },
+      "sentence": {
+        "ja": "急なブレーキで、バスが止まった。",
+        "zh": "一个急刹车，公交车停住了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

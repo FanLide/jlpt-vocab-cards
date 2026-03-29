@@ -1,0 +1,373 @@
+{
+  "id": "ch11-l03",
+  "chapterId": "ch11",
+  "titleJa": "ブルーな気分",
+  "titleZh": "ブルーな気分",
+  "rangeNote": "1232～1251",
+  "audio": {
+    "track": "Chapter11_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter11_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch11-l03-1232",
+      "index": 1232,
+      "word": "**あきる（あきる）**",
+      "reading": "あきる",
+      "meaning": {
+        "en": "to get tired of",
+        "zh": "腻烦，厌倦"
+      },
+      "sentence": {
+        "ja": "このドラマには、もうあきてしまった。",
+        "zh": "已经厌倦了这部电视剧。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1233",
+      "index": 1233,
+      "word": "**嫌がる（いやがる）**",
+      "reading": "いやがる",
+      "meaning": {
+        "en": "to dislike",
+        "zh": "讨厌，不愿意"
+      },
+      "sentence": {
+        "ja": "息子は家の手伝いを嫌がる。",
+        "zh": "儿子不愿意帮家里做事情。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1234",
+      "index": 1234,
+      "word": "**落ち込む（おちこむ）**",
+      "reading": "おちこむ",
+      "meaning": {
+        "en": "to get depressed",
+        "zh": "郁闷，消沉"
+      },
+      "sentence": {
+        "ja": "友だちに悪口を言われて落ち込んだ。",
+        "zh": "朋友说我的坏话，这让我很郁闷。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1235",
+      "index": 1235,
+      "word": "**がっかり（がっかり）**",
+      "reading": "がっかり",
+      "meaning": {
+        "en": "to be disappointed",
+        "zh": "失望，垂头丧气"
+      },
+      "sentence": {
+        "ja": "試験の結果が悪くて、がっかりした。",
+        "zh": "考试成绩糟糕，这让我很气馁。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1236",
+      "index": 1236,
+      "word": "**悲しむ（かなしむ）**",
+      "reading": "かなしむ",
+      "meaning": {
+        "en": "to be sad",
+        "zh": "悲伤"
+      },
+      "sentence": {
+        "ja": "大きな事故が起きて、国中が悲しんでいる。",
+        "zh": "发生了一起重大事故，全国各地陷入悲伤当中。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1237",
+      "index": 1237,
+      "word": "**かわいそうな（かわいそうな）**",
+      "reading": "かわいそうな",
+      "meaning": {
+        "en": "pitiful, poor",
+        "zh": "可怜"
+      },
+      "sentence": {
+        "ja": "この地域の子どもたちは学校に行けない。かわいそうだ。",
+        "zh": "这个地区的儿童上不了学，真可怜。 [8]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1238",
+      "index": 1238,
+      "word": "**気の毒（きのどく）**",
+      "reading": "きのどく",
+      "meaning": {
+        "en": "unfortunate",
+        "zh": "可怜，可悲，可惜"
+      },
+      "sentence": {
+        "ja": "気の毒な人たちに、元気を与えたい。",
+        "zh": "我希望能够让不幸的人们打起精神来。 [8]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1239",
+      "index": 1239,
+      "word": "**きつい（きつい）**",
+      "reading": "きつい",
+      "meaning": {
+        "en": "tight, intense, severe, tough",
+        "zh": "紧；累人；严厉"
+      },
+      "sentence": {
+        "ja": "このバイトはきつい。",
+        "zh": "这份兼职很累人。 [9]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1240",
+      "index": 1240,
+      "word": "**恐怖（きょうふ）**",
+      "reading": "きょうふ",
+      "meaning": {
+        "en": "fear",
+        "zh": "恐怖，恐惧"
+      },
+      "sentence": {
+        "ja": "こんな恐怖は経験したことがない。",
+        "zh": "我从来没有这么恐惧过。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1241",
+      "index": 1241,
+      "word": "**ショック（ショック）**",
+      "reading": "ショック",
+      "meaning": {
+        "en": "shock",
+        "zh": "冲击，打击"
+      },
+      "sentence": {
+        "ja": "親友の言葉に、ひどいショックを受けた。",
+        "zh": "好朋友的话让我深受打击。 [9]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1242",
+      "index": 1242,
+      "word": "**後悔（こうかい）**",
+      "reading": "こうかい",
+      "meaning": {
+        "en": "regret",
+        "zh": "后悔"
+      },
+      "sentence": {
+        "ja": "高いバッグを買って、後悔している。",
+        "zh": "我买了一个昂贵的包，现在后悔了。 [9]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1243",
+      "index": 1243,
+      "word": "**悩む（なやむ）**",
+      "reading": "なやむ",
+      "meaning": {
+        "en": "to be worried, to be troubled",
+        "zh": "烦恼"
+      },
+      "sentence": {
+        "ja": "一人で悩んでいないで、话を聞かせてください。",
+        "zh": "不要独自烦恼，说出来听听。 [9]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1244",
+      "index": 1244,
+      "word": "**悩み（なやみ）**",
+      "reading": "なやみ",
+      "meaning": {
+        "en": "worry, trouble",
+        "zh": "烦恼"
+      },
+      "sentence": {
+        "ja": "悩みがあるなら、私に相談してほしい。",
+        "zh": "如果有什么烦恼，我希望你告诉我。 [9]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1245",
+      "index": 1245,
+      "word": "**不安（ふあん）**",
+      "reading": "ふあん",
+      "meaning": {
+        "en": "anxiety, insecurity",
+        "zh": "不安，担心"
+      },
+      "sentence": {
+        "ja": "明日入学試験を受ける。不安でいっぱいだ。",
+        "zh": "明天要参加入学考试了，我的内心充满了不安。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1246",
+      "index": 1246,
+      "word": "**迷惑（めいわく）**",
+      "reading": "めいわく",
+      "meaning": {
+        "en": "nuisance, annoyance",
+        "zh": "麻烦，打搅"
+      },
+      "sentence": {
+        "ja": "近所に迷惑な人がいる。",
+        "zh": "附近有一个人总惹麻烦。 [10]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1247",
+      "index": 1247,
+      "word": "**面倒（めんどう）**",
+      "reading": "めんどう",
+      "meaning": {
+        "en": "looking after, trouble",
+        "zh": "麻烦，棘手；照顾"
+      },
+      "sentence": {
+        "ja": "面倒なことは、先にやったほうがいい。",
+        "zh": "最好先把麻烦的事情解决了。 [10]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1248",
+      "index": 1248,
+      "word": "**面倒くさい（めんどうくさい）**",
+      "reading": "めんどうくさい",
+      "meaning": {
+        "en": "annoying, troublesome",
+        "zh": "非常麻烦"
+      },
+      "sentence": {
+        "ja": "この仕事は時間がかかって、面倒くさい。",
+        "zh": "这工作很耗时间，太麻烦了。 [10]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1249",
+      "index": 1249,
+      "word": "**ぶつぶつ（ぶつぶつ）**",
+      "reading": "ぶつぶつ",
+      "meaning": {
+        "en": "grumble, mutter",
+        "zh": "抱怨，嘟哝"
+      },
+      "sentence": {
+        "ja": "彼は、いつも、ぶつぶつ言っている。",
+        "zh": "他总是嘟嘟囔囔的。 [10]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1250",
+      "index": 1250,
+      "word": "**いちいち（いちいち）**",
+      "reading": "いちいち",
+      "meaning": {
+        "en": "every one, each and every one",
+        "zh": "一个一个"
+      },
+      "sentence": {
+        "ja": "父は、細かいことをいちいち私に注意する。",
+        "zh": "爸爸总是提醒我各种细节。 [10]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l03-1251",
+      "index": 1251,
+      "word": "**やかましい（やかましい）**",
+      "reading": "やかましい",
+      "meaning": {
+        "en": "loud, noisy",
+        "zh": "吵闹；啰唆"
+      },
+      "sentence": {
+        "ja": "外で、工事の音がやかましい。",
+        "zh": "外面施工的声音很吵。 [10]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

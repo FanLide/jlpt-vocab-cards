@@ -1,0 +1,157 @@
+{
+  "id": "ch10-l03",
+  "chapterId": "ch10",
+  "titleJa": "気をつけよう!",
+  "titleZh": "小心!",
+  "rangeNote": "1120～1141",
+  "audio": {
+    "track": "Chapter10_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter10_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch10-l03-1120",
+      "index": 1120,
+      "word": "（事故に）あう",
+      "reading": "事故に",
+      "meaning": {
+        "en": "to have (an accident)",
+        "zh": "遭遇，碰上（事故）"
+      },
+      "sentence": {
+        "ja": "子どものころ、交通事故にあったことがある。",
+        "zh": "小时候，我曾经遇到过交通事故。 [9, 12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1121",
+      "index": 1121,
+      "word": "発生＜する＞（はっせい）",
+      "reading": "はっせい",
+      "meaning": {
+        "en": "to occur",
+        "zh": "发生"
+      },
+      "sentence": {
+        "ja": "あの交差点では、毎日事故が発生している。",
+        "zh": "那个十字路口，每天都会发生事故。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1122",
+      "index": 1122,
+      "word": "命（いのち）",
+      "reading": "いのち",
+      "meaning": {
+        "en": "life",
+        "zh": "生命"
+      },
+      "sentence": {
+        "ja": "命は何よりも大切だ。",
+        "zh": "生命重于一切。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1123",
+      "index": 1123,
+      "word": "救う（すくう）",
+      "reading": "すくう",
+      "meaning": {
+        "en": "to save, to rescue",
+        "zh": "救"
+      },
+      "sentence": {
+        "ja": "知らない人に、命を救ってもらった。",
+        "zh": "一个陌生人救了我的命。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1124",
+      "index": 1124,
+      "word": "そうぞうしい（そうぞうしい）",
+      "reading": "そうぞうしい",
+      "meaning": {
+        "en": "noisy, boisterous",
+        "zh": "吵闹，嘈杂"
+      },
+      "sentence": {
+        "ja": "信号の近くが、ずいぶんそうぞうしい。",
+        "zh": "红绿灯附近非常嘈杂。 [12]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1139",
+      "index": 1139,
+      "word": "行方不明（ゆくえふめい）",
+      "reading": "ゆくえふめい",
+      "meaning": {
+        "en": "whereabouts unknown",
+        "zh": "失踪，下落不明"
+      },
+      "sentence": {
+        "ja": "山で、3人の男女が行方不明になっている。",
+        "zh": "男女共3人在山上失踪了。 [18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1140",
+      "index": 1140,
+      "word": "亡くなる（ななくなる）",
+      "reading": "ななくなる",
+      "meaning": {
+        "en": "to pass away",
+        "zh": "去世"
+      },
+      "sentence": {
+        "ja": "毎年、登山中に亡くなる人がいる。",
+        "zh": "每年都有人在登山途中死亡。 [18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l03-1141",
+      "index": 1141,
+      "word": "偶然（ぐうぜん）",
+      "reading": "ぐうぜん",
+      "meaning": {
+        "en": "coincidence, chance",
+        "zh": "偶然"
+      },
+      "sentence": {
+        "ja": "高校の友だちに偶然会った。",
+        "zh": "我偶然遇见了高中时的朋友。 [18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

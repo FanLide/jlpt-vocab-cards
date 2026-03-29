@@ -1,0 +1,463 @@
+{
+  "id": "ch03-l03",
+  "chapterId": "ch03",
+  "titleJa": "買い物",
+  "titleZh": "買い物",
+  "rangeNote": "295～319",
+  "audio": {
+    "track": "Chapter03_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter03_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l03-295",
+      "index": 295,
+      "word": "品物（しなもの）",
+      "reading": "しなもの",
+      "meaning": {
+        "en": "goods",
+        "zh": "商品"
+      },
+      "sentence": {
+        "ja": "駅前のデパートは、高い品物が多い。",
+        "zh": "车站前面的百货商店里有很多昂贵的商品。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-296",
+      "index": 296,
+      "word": "現金（げんきん）",
+      "reading": "げんきん",
+      "meaning": {
+        "en": "cash",
+        "zh": "现金"
+      },
+      "sentence": {
+        "ja": "買い物は、いつも現金で払う。",
+        "zh": "我买东西总是付现金。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-297",
+      "index": 297,
+      "word": "クレジットカード（クレジットカード）",
+      "reading": "クレジットカード",
+      "meaning": {
+        "en": "credit card",
+        "zh": "信用卡"
+      },
+      "sentence": {
+        "ja": "このクレジットカードは、とても便利だ。",
+        "zh": "这张信用卡非常方便。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-298",
+      "index": 298,
+      "word": "１回払い（いっかいばらい）",
+      "reading": "いっかいばらい",
+      "meaning": {
+        "en": "one-time payment",
+        "zh": "一次性支付，全额支付"
+      },
+      "sentence": {
+        "ja": "カードの支払いは、１回払いだ。",
+        "zh": "刷卡付款是一次性支付。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-299",
+      "index": 299,
+      "word": "合計＜する＞（ごうけい）",
+      "reading": "ごうけい",
+      "meaning": {
+        "en": "total amount",
+        "zh": "总共"
+      },
+      "sentence": {
+        "ja": "先月のカードの支払いは、合計１０万円になった。",
+        "zh": "上个月的刷卡消费总共10万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-300",
+      "index": 300,
+      "word": "代金（だいきん）",
+      "reading": "だいきん",
+      "meaning": {
+        "en": "price, charge",
+        "zh": "货款"
+      },
+      "sentence": {
+        "ja": "品物は代金を払って、３日以内に届く。",
+        "zh": "付款后，商品将在3日内送到。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-301",
+      "index": 301,
+      "word": "税込（ぜいこみ）",
+      "reading": "ぜいこみ",
+      "meaning": {
+        "en": "tax included",
+        "zh": "含税"
+      },
+      "sentence": {
+        "ja": "この値段は税込ですか。",
+        "zh": "这个价格是含税的吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-302",
+      "index": 302,
+      "word": "請求書（せいきゅうしょ）",
+      "reading": "せいきゅうしょ",
+      "meaning": {
+        "en": "bill",
+        "zh": "账单，付款通知单"
+      },
+      "sentence": {
+        "ja": "電話料金の請求书が届いた。",
+        "zh": "电话费的账单寄到了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-303",
+      "index": 303,
+      "word": "領収書（りょうしゅうしょ）",
+      "reading": "りょうしゅうしょ",
+      "meaning": {
+        "en": "formal receipt",
+        "zh": "发票"
+      },
+      "sentence": {
+        "ja": "買い物をするときは、領収書をもらう。",
+        "zh": "买东西时我会索要发票。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-304",
+      "index": 304,
+      "word": "売り切れ（うりきれ）",
+      "reading": "うりきれ",
+      "meaning": {
+        "en": "sold out",
+        "zh": "售罄"
+      },
+      "sentence": {
+        "ja": "ほしかったバッグは、売り切れだった。",
+        "zh": "我想买的那款包卖光了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-305",
+      "index": 305,
+      "word": "品切れ（しなぎれ）",
+      "reading": "しなぎれ",
+      "meaning": {
+        "en": "out of stock",
+        "zh": "缺货，脱销"
+      },
+      "sentence": {
+        "ja": "店の人に、Ｍサイズは品切れだと言われた。",
+        "zh": "店员说M号脱销了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-306",
+      "index": 306,
+      "word": "日替わり（ひがわり）",
+      "reading": "ひがわり",
+      "meaning": {
+        "en": "daily, changing daily",
+        "zh": "一天一换"
+      },
+      "sentence": {
+        "ja": "この店は、日替わりでセールをしている。",
+        "zh": "这家店每天促销的东西都不一样。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-307",
+      "index": 307,
+      "word": "割引（わりびき）",
+      "reading": "わりびき",
+      "meaning": {
+        "en": "discount",
+        "zh": "打折"
+      },
+      "sentence": {
+        "ja": "あのパン屋は、水曜日に１０パーセント割引をしている。",
+        "zh": "那家面包店周三打九折。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-308",
+      "index": 308,
+      "word": "半額（はんがく）",
+      "reading": "はんがく",
+      "meaning": {
+        "en": "half price",
+        "zh": "半价"
+      },
+      "sentence": {
+        "ja": "５万円のコートが半額で買えた。",
+        "zh": "我半价买了一件原价5万日元的大衣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-309",
+      "index": 309,
+      "word": "特売日（とくばいび）",
+      "reading": "とくばいび",
+      "meaning": {
+        "en": "special sale day",
+        "zh": "大减价日"
+      },
+      "sentence": {
+        "ja": "今日はスーパーの特売日だ。",
+        "zh": "今天是超市的大减价日。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-310",
+      "index": 310,
+      "word": "たった（たった）",
+      "reading": "たった",
+      "meaning": {
+        "en": "just, only",
+        "zh": "只，仅"
+      },
+      "sentence": {
+        "ja": "有名ブランドのバッグがたった３万円だった。",
+        "zh": "名牌包只需要3万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-311",
+      "index": 311,
+      "word": "得＜な＞（とく）",
+      "reading": "とく",
+      "meaning": {
+        "en": "bargain, good value",
+        "zh": "合算；赚头"
+      },
+      "sentence": {
+        "ja": "バーゲンに行って、得をした。（名） 我去甩卖区买的，赚到了。",
+        "zh": "[相關]：得する (to get a bargain / 合算；有赚头)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-312",
+      "index": 312,
+      "word": "損＜な＞（そん）",
+      "reading": "そん",
+      "meaning": {
+        "en": "loss, disadvantage, unprofitable",
+        "zh": "亏；损失"
+      },
+      "sentence": {
+        "ja": "バーゲンに行けなくて、損をした。（名） 我没去成甩卖区，亏了。",
+        "zh": "[相關]：損する (to take a loss (in profit, etc.) / 亏损)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-313",
+      "index": 313,
+      "word": "おまけ＜する＞（おまけ）",
+      "reading": "おまけ",
+      "meaning": {
+        "en": "plus, bonus, free gift",
+        "zh": "赠送"
+      },
+      "sentence": {
+        "ja": "店の人が、りんごをおまけしてくれた。",
+        "zh": "店员赠送了我一粒苹果。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-314",
+      "index": 314,
+      "word": "むだ＜な＞（むだ）",
+      "reading": "むだ",
+      "meaning": {
+        "en": "no use, useless",
+        "zh": "浪费，没用"
+      },
+      "sentence": {
+        "ja": "そんなものを買って、お金のむだだ。（名） むだな物は買わないようにしている。（ナ形） 买那种东西，浪费钱。",
+        "zh": "我尽量不买没用的东西。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-315",
+      "index": 315,
+      "word": "むだづかい＜する＞（むだづかい）",
+      "reading": "むだづかい",
+      "meaning": {
+        "en": "wasteful use",
+        "zh": "乱花钱，乱用"
+      },
+      "sentence": {
+        "ja": "ボーナスをむだづかいしてしまった。",
+        "zh": "奖金都被我乱花了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-316",
+      "index": 316,
+      "word": "寄る（よる）",
+      "reading": "よる",
+      "meaning": {
+        "en": "to briefly stop by",
+        "zh": "顺便去"
+      },
+      "sentence": {
+        "ja": "帰りにデパートに寄って、買い物をした。",
+        "zh": "回来时，我顺便去了百货商店买东西。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-317",
+      "index": 317,
+      "word": "ついでに（ついでに）",
+      "reading": "ついでに",
+      "meaning": {
+        "en": "incidentally, on the occasion",
+        "zh": "顺便"
+      },
+      "sentence": {
+        "ja": "郵便局に行った。ついでに、コンビニに寄った。",
+        "zh": "我去了邮局，顺便去了一趟便利店。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-318",
+      "index": 318,
+      "word": "レジ袋（レジぶくろ）",
+      "reading": "レジぶくろ",
+      "meaning": {
+        "en": "shopping bag",
+        "zh": "购物袋"
+      },
+      "sentence": {
+        "ja": "あのスーパーでは、レジ袋が３円です。",
+        "zh": "那家超市的购物袋是3日元一个。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l03-319",
+      "index": 319,
+      "word": "定休日（ていきゅうび）",
+      "reading": "ていきゅうび",
+      "meaning": {
+        "en": "fixed holiday",
+        "zh": "定期休息日"
+      },
+      "sentence": {
+        "ja": "本日は定休日のため、休ませていただきます。",
+        "zh": "今天休息，本店不营业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

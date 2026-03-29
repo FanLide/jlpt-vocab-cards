@@ -1,0 +1,463 @@
+{
+  "id": "ch03-l04",
+  "chapterId": "ch03",
+  "titleJa": "朝から夜まで",
+  "titleZh": "朝から夜まで",
+  "rangeNote": "320～344",
+  "audio": {
+    "track": "Chapter03_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter03_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l04-320",
+      "index": 320,
+      "word": "覚ます（さます）",
+      "reading": "さます",
+      "meaning": {
+        "en": "to wake up",
+        "zh": "弄醒"
+      },
+      "sentence": {
+        "ja": "夜中の３時に目を覚ましました。",
+        "zh": "夜里3点，我醒了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-321",
+      "index": 321,
+      "word": "覚める（さめる）",
+      "reading": "さめる",
+      "meaning": {
+        "en": "to be awoken",
+        "zh": "醒"
+      },
+      "sentence": {
+        "ja": "毎朝、７時に目が覚める。",
+        "zh": "我每天早上7点醒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-322",
+      "index": 322,
+      "word": "(夜が)明ける（(よが)あける）",
+      "reading": "(よが)あける",
+      "meaning": {
+        "en": "to become dawn",
+        "zh": "(天)亮"
+      },
+      "sentence": {
+        "ja": "ゲームをしていたら、夜が明けてしまった。",
+        "zh": "打游戏一直打到了天亮。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-323",
+      "index": 323,
+      "word": "支度＜する＞（したく）",
+      "reading": "したく",
+      "meaning": {
+        "en": "arrangements, preparation",
+        "zh": "准备；打扮"
+      },
+      "sentence": {
+        "ja": "起きたら、急いで朝ごはんを食べて、支度する。",
+        "zh": "起床之后，我赶紧吃早饭，梳妆打扮。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-324",
+      "index": 324,
+      "word": "合わせる（あわせる）",
+      "reading": "あわせる",
+      "meaning": {
+        "en": "to combine, to put together",
+        "zh": "合(在一起)"
+      },
+      "sentence": {
+        "ja": "ごはんのとき、手を合わせて「いただきます」と言う。",
+        "zh": "吃饭时，要合掌说“我开吃了”。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-325",
+      "index": 325,
+      "word": "しまう（しまう）",
+      "reading": "しまう",
+      "meaning": {
+        "en": "to put away",
+        "zh": "收藏，放在……里"
+      },
+      "sentence": {
+        "ja": "午前中に、冬のふとんを干して、しまう。",
+        "zh": "上午，我把冬天的被褥晒了晒，收好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-326",
+      "index": 326,
+      "word": "(ひげを)そる（(ひげを)そる）",
+      "reading": "(ひげを)そる",
+      "meaning": {
+        "en": "to shave",
+        "zh": "剃，刮(胡子)"
+      },
+      "sentence": {
+        "ja": "夫はひげをそるのに、時間がかかる。",
+        "zh": "老公刮胡子比较花时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-327",
+      "index": 327,
+      "word": "(髪を)とかす（(かみを)とかす）",
+      "reading": "(かみを)とかす",
+      "meaning": {
+        "en": "to comb",
+        "zh": "梳(头发)"
+      },
+      "sentence": {
+        "ja": "朝、３分くらいで髪をとかす。",
+        "zh": "早上，我大约花3分钟梳头发。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-328",
+      "index": 328,
+      "word": "そろえる（そろえる）",
+      "reading": "そろえる",
+      "meaning": {
+        "en": "to gather",
+        "zh": "使一致；齐备"
+      },
+      "sentence": {
+        "ja": "持っていくものをそろえて、バッグに入れる。",
+        "zh": "我把要带的东西都准备好，放进包里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-329",
+      "index": 329,
+      "word": "昼寝＜する＞（ひるね）",
+      "reading": "ひるね",
+      "meaning": {
+        "en": "nap",
+        "zh": "午睡"
+      },
+      "sentence": {
+        "ja": "会社で１５分だけ、昼寝している。",
+        "zh": "我在公司只午睡15分钟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-330",
+      "index": 330,
+      "word": "腰かける（こしかける）",
+      "reading": "こしかける",
+      "meaning": {
+        "en": "to sit, to have a seat",
+        "zh": "坐下"
+      },
+      "sentence": {
+        "ja": "いすに腰かけて、少し休もう。",
+        "zh": "坐在椅子上休息一会儿吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-331",
+      "index": 331,
+      "word": "暮れる（くれる）",
+      "reading": "くれる",
+      "meaning": {
+        "en": "to close, to conclude",
+        "zh": "天黑；即将过去"
+      },
+      "sentence": {
+        "ja": "もう少しで日が暮れる。",
+        "zh": "再过一会儿，天就黑了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-332",
+      "index": 332,
+      "word": "おしゃべり＜する＞（おしゃべり）",
+      "reading": "おしゃべり",
+      "meaning": {
+        "en": "chatting",
+        "zh": "聊天"
+      },
+      "sentence": {
+        "ja": "家族とおしゃべりする時間を大切にしている。",
+        "zh": "我珍惜和家人聊天的时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-333",
+      "index": 333,
+      "word": "リラックス＜する＞（リラックス）",
+      "reading": "リラックス",
+      "meaning": {
+        "en": "relaxing",
+        "zh": "放松"
+      },
+      "sentence": {
+        "ja": "家に帰って、リビングでリラックスする。",
+        "zh": "我回到家，在起居室放松一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-334",
+      "index": 334,
+      "word": "ふだん（ふだん）",
+      "reading": "ふだん",
+      "meaning": {
+        "en": "usually, normally",
+        "zh": "平时"
+      },
+      "sentence": {
+        "ja": "ふだんは家で食事をする。",
+        "zh": "我平时在家吃饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-335",
+      "index": 335,
+      "word": "ふだん着（ふだんぎ）",
+      "reading": "ふだんぎ",
+      "meaning": {
+        "en": "casual wear",
+        "zh": "便服"
+      },
+      "sentence": {
+        "ja": "ふだん着のまま、ソファーで寝てしまった。",
+        "zh": "我穿着便服在沙发上睡着了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-336",
+      "index": 336,
+      "word": "相変わらず（あいかわらず）",
+      "reading": "あいかわらず",
+      "meaning": {
+        "en": "as always",
+        "zh": "照旧"
+      },
+      "sentence": {
+        "ja": "息子は相変わらずゲームをしている。",
+        "zh": "儿子仍旧在打游戏。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-337",
+      "index": 337,
+      "word": "たいてい（たいてい）",
+      "reading": "たいてい",
+      "meaning": {
+        "en": "normally",
+        "zh": "大部分；大概；一般"
+      },
+      "sentence": {
+        "ja": "たいてい、１時ごろ寝る。",
+        "zh": "我大多1点左右睡觉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-338",
+      "index": 338,
+      "word": "夜ふかし＜する＞（よふかし）",
+      "reading": "よふかし",
+      "meaning": {
+        "en": "staying up late",
+        "zh": "熬夜"
+      },
+      "sentence": {
+        "ja": "週末は、ちょっと夜ふかししてしまう。",
+        "zh": "周末我会稍微熬一熬夜。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-339",
+      "index": 339,
+      "word": "電源（でんげん）",
+      "reading": "でんげん",
+      "meaning": {
+        "en": "power, power source, outlet",
+        "zh": "电源"
+      },
+      "sentence": {
+        "ja": "夜、パソコンの電源を切る。",
+        "zh": "晚上把电脑的电源切断。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-340",
+      "index": 340,
+      "word": "充電＜する＞（じゅうでん）",
+      "reading": "じゅうでん",
+      "meaning": {
+        "en": "charging (a battery)",
+        "zh": "充电"
+      },
+      "sentence": {
+        "ja": "寝る前に、スマートフォンを充電しておく。",
+        "zh": "睡觉前把智能手机充好电。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-341",
+      "index": 341,
+      "word": "セット＜する＞（セット）",
+      "reading": "セット",
+      "meaning": {
+        "en": "setting",
+        "zh": "设定"
+      },
+      "sentence": {
+        "ja": "目覚ましを７時にセットした。",
+        "zh": "我把闹钟设成7点了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-342",
+      "index": 342,
+      "word": "なでる（なでる）",
+      "reading": "なでる",
+      "meaning": {
+        "en": "to pet, to stroke",
+        "zh": "抚摸"
+      },
+      "sentence": {
+        "ja": "ペットの犬をなでて、「おやすみ」と言った。",
+        "zh": "我抚摸着宠物狗狗，说：“晚安。”"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-343",
+      "index": 343,
+      "word": "ぐっすり［と］（ぐっすり）",
+      "reading": "ぐっすり",
+      "meaning": {
+        "en": "sound asleep",
+        "zh": "熟睡"
+      },
+      "sentence": {
+        "ja": "今日もぐっすり寝られそうだ。",
+        "zh": "看来今天我又能饱饱地睡一觉了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l04-344",
+      "index": 344,
+      "word": "運（うん）",
+      "reading": "うん",
+      "meaning": {
+        "en": "luck",
+        "zh": "运气"
+      },
+      "sentence": {
+        "ja": "今日は、運がいい一日だった。",
+        "zh": "今天我的运气很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "ch12-l01",
+  "chapterId": "ch12",
+  "titleJa": "デザイン",
+  "titleZh": "设计",
+  "rangeNote": "1288～1305",
+  "audio": {
+    "track": "Chapter12_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter12_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch12-l01-1288",
+      "index": 1288,
+      "word": "**模様（もよう）**",
+      "reading": "もよう",
+      "meaning": {
+        "en": "design, pattern, décor",
+        "zh": "花样，图案"
+      },
+      "sentence": {
+        "ja": "今年は、どんな模様の服がはやりですか。",
+        "zh": "今年流行什么花样的衣服？ [1, 2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1289",
+      "index": 1289,
+      "word": "**特徴（とくちょう）**",
+      "reading": "とくちょう",
+      "meaning": {
+        "en": "characteristic",
+        "zh": "特征"
+      },
+      "sentence": {
+        "ja": "彼女のデザインには、特徴がある。",
+        "zh": "她的设计很有特点。 [1, 2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1290",
+      "index": 1290,
+      "word": "**特色（とくしょく）**",
+      "reading": "とくしょく",
+      "meaning": {
+        "en": "feature, characteristic",
+        "zh": "特色"
+      },
+      "sentence": {
+        "ja": "兄はいつも特色のない服装をしている。",
+        "zh": "哥哥总是穿一些没有特色的衣服。[2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1291",
+      "index": 1291,
+      "word": "**柄（がら）**",
+      "reading": "がら",
+      "meaning": {
+        "en": "pattern, design",
+        "zh": "花样，花纹"
+      },
+      "sentence": {
+        "ja": "このＴシャツは１０種類の柄から選べます。",
+        "zh": "这款T恤有10种花样可选。[2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1292",
+      "index": 1292,
+      "word": "**花柄（はながら）**",
+      "reading": "はながら",
+      "meaning": {
+        "en": "flower pattern",
+        "zh": "花的图案"
+      },
+      "sentence": {
+        "ja": "花柄のスカートがほしい。",
+        "zh": "我想要一条图案是花的裙子。[2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1293",
+      "index": 1293,
+      "word": "**水玉（みずたま）**",
+      "reading": "みずたま",
+      "meaning": {
+        "en": "polka dot",
+        "zh": "水珠"
+      },
+      "sentence": {
+        "ja": "この水玉のワンピースは、とてもかわいい。",
+        "zh": "这条波点裙非常可爱。[2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1294",
+      "index": 1294,
+      "word": "**しま（しま）**",
+      "reading": "しま",
+      "meaning": {
+        "en": "stripe",
+        "zh": "条纹，格纹"
+      },
+      "sentence": {
+        "ja": "しまのシャツを着ると、やせて見える。",
+        "zh": "穿条纹衬衫显瘦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1295",
+      "index": 1295,
+      "word": "**たて（たて）**",
+      "reading": "たて",
+      "meaning": {
+        "en": "vertical",
+        "zh": "纵，竖"
+      },
+      "sentence": {
+        "ja": "たての方向に線を書いてください。",
+        "zh": "请纵向画线。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1296",
+      "index": 1296,
+      "word": "**横（よこ）**",
+      "reading": "よこ",
+      "meaning": {
+        "en": "horizontal",
+        "zh": "横"
+      },
+      "sentence": {
+        "ja": "英語は横に書く。",
+        "zh": "英语要横着书写。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1297",
+      "index": 1297,
+      "word": "**ななめ（ななめ）**",
+      "reading": "ななめ",
+      "meaning": {
+        "en": "diagonal",
+        "zh": "斜"
+      },
+      "sentence": {
+        "ja": "このイラストは、ななめから見ると、おもしろい。（名） 絵がななめにかかっている。（ナ形） 这幅插画斜着看很有意思。",
+        "zh": "画斜着挂。[3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1298",
+      "index": 1298,
+      "word": "**幅（はば）**",
+      "reading": "はば",
+      "meaning": {
+        "en": "width",
+        "zh": "宽"
+      },
+      "sentence": {
+        "ja": "このテーブルの幅は、９０センチだ。",
+        "zh": "这张桌子宽90厘米。[3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1299",
+      "index": 1299,
+      "word": "**ストライプ（ストライプ）**",
+      "reading": "ストライプ",
+      "meaning": {
+        "en": "stripe",
+        "zh": "条纹"
+      },
+      "sentence": {
+        "ja": "細いストライプのＴシャツを買った。",
+        "zh": "我买了一件细条纹的T恤。[3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1300",
+      "index": 1300,
+      "word": "**無地（むじ）**",
+      "reading": "むじ",
+      "meaning": {
+        "en": "plain",
+        "zh": "素色"
+      },
+      "sentence": {
+        "ja": "無地のシャツは、柄のスカートと合わせやすい。",
+        "zh": "素色衬衫跟有花样的裙子很好搭配。[3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1301",
+      "index": 1301,
+      "word": "**シンプルな（シンプルな）**",
+      "reading": "シンプルな",
+      "meaning": {
+        "en": "simple",
+        "zh": "简单，朴素"
+      },
+      "sentence": {
+        "ja": "今日はシンプルなファッションで出かけよう。",
+        "zh": "今天我打算穿一身简约的衣服出门。[4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1302",
+      "index": 1302,
+      "word": "**真っ赤な（まっかな）**",
+      "reading": "まっかな",
+      "meaning": {
+        "en": "completely red",
+        "zh": "鲜红"
+      },
+      "sentence": {
+        "ja": "真っ赤な服を着て、パーティーに行った。",
+        "zh": "我穿着鲜红的衣服去参加聚会了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1303",
+      "index": 1303,
+      "word": "**ばらばらな（ばらばらな）**",
+      "reading": "ばらばらな",
+      "meaning": {
+        "en": "separate, scattered",
+        "zh": "零乱"
+      },
+      "sentence": {
+        "ja": "このシャツのボタンは、色もデザインもばらばらだ。",
+        "zh": "这件衬衫的纽扣，无论颜色还是设计都零乱不一。[4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1304",
+      "index": 1304,
+      "word": "**すっきり［と］＜する＞（すっきり）**",
+      "reading": "すっきり",
+      "meaning": {
+        "en": "simple, neat",
+        "zh": "舒畅；整洁"
+      },
+      "sentence": {
+        "ja": "彼のスーツは細めで、すっきりしている。",
+        "zh": "他的西装比较收身，干净利落。[4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l01-1305",
+      "index": 1305,
+      "word": "**素敵な（すてきな）**",
+      "reading": "すてきな",
+      "meaning": {
+        "en": "wonderful, beautiful",
+        "zh": "帅，漂亮"
+      },
+      "sentence": {
+        "ja": "このスカーフは、とても素敵です。",
+        "zh": "这条围巾非常漂亮。[4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

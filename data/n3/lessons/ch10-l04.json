@@ -1,0 +1,211 @@
+{
+  "id": "ch10-l04",
+  "chapterId": "ch10",
+  "titleJa": "トラブル",
+  "titleZh": "遇上麻烦",
+  "rangeNote": "1142～1162",
+  "audio": {
+    "track": "Chapter10_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter10_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch10-l04-1149",
+      "index": 1149,
+      "word": "場合（ばあい）",
+      "reading": "ばあい",
+      "meaning": {
+        "en": "instance, occasion",
+        "zh": "情况，时候"
+      },
+      "sentence": {
+        "ja": "迷子になった場合は、交番で聞いてください。",
+        "zh": "迷路的时候，请询问警察岗亭。 [22]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1150",
+      "index": 1150,
+      "word": "落とす（おとす）",
+      "reading": "おとす",
+      "meaning": {
+        "en": "to drop, to let fall",
+        "zh": "使落下；丢掉"
+      },
+      "sentence": {
+        "ja": "駅で定期券を落としたが、戻ってきた。",
+        "zh": "我在车站丢的月票找回来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1151",
+      "index": 1151,
+      "word": "なくす（なくす）",
+      "reading": "なくす",
+      "meaning": {
+        "en": "to lose",
+        "zh": "丢失"
+      },
+      "sentence": {
+        "ja": "大切な書類をなくして、部長にひどく叱られた。",
+        "zh": "我把重要文件弄丢了，被部长狠狠地骂了一顿。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1152",
+      "index": 1152,
+      "word": "借金＜する＞（しゃっきん）",
+      "reading": "しゃっきん",
+      "meaning": {
+        "en": "loan",
+        "zh": "借钱，欠债"
+      },
+      "sentence": {
+        "ja": "親に借金をしたが、まだ半分も返していない。",
+        "zh": "我向父母借了钱，但还没还够一半。 [22]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1153",
+      "index": 1153,
+      "word": "ずるい（ずるい）",
+      "reading": "ずるい",
+      "meaning": {
+        "en": "dishonest, sly",
+        "zh": "狡猾"
+      },
+      "sentence": {
+        "ja": "彼はずるい人だから、信じないほうがいい。",
+        "zh": "他是一个狡猾的人，最好别信他。 [22]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1157",
+      "index": 1157,
+      "word": "次々［と］（つぎつぎ）",
+      "reading": "つぎつぎ",
+      "meaning": {
+        "en": "one after another",
+        "zh": "一个接一个，连续不断"
+      },
+      "sentence": {
+        "ja": "会社で、次々と問題が発生した。",
+        "zh": "公司不断地出问题。 [24]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1158",
+      "index": 1158,
+      "word": "停電＜する＞（ていてん）",
+      "reading": "ていてん",
+      "meaning": {
+        "en": "blackout",
+        "zh": "停电"
+      },
+      "sentence": {
+        "ja": "地域で停電があり、2時間も回復しなかった。",
+        "zh": "这个地区停电了，过了两小时都没有恢复。 [24]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1159",
+      "index": 1159,
+      "word": "断水＜する＞（だんすい）",
+      "reading": "だんすい",
+      "meaning": {
+        "en": "cut off of water supply",
+        "zh": "断水"
+      },
+      "sentence": {
+        "ja": "この地域は地震で断水した。",
+        "zh": "这个地区因地震断水了。 [24]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1160",
+      "index": 1160,
+      "word": "ゆれる（ゆれる）",
+      "reading": "ゆれる",
+      "meaning": {
+        "en": "to shake, to quake",
+        "zh": "摇晃"
+      },
+      "sentence": {
+        "ja": "このマンションは、地震のとき、けっこうゆれる。",
+        "zh": "这栋公寓在地震时摇晃得相当厉害。 [24]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1161",
+      "index": 1161,
+      "word": "ぐらぐら＜する＞（ぐらぐら）",
+      "reading": "ぐらぐら",
+      "meaning": {
+        "en": "unsteadily, faltering",
+        "zh": "摇晃，不稳定"
+      },
+      "sentence": {
+        "ja": "地震で家具がぐらぐら揺れた。",
+        "zh": "地震时，家具都摇摇晃晃的。 [24]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l04-1162",
+      "index": 1162,
+      "word": "非常口（ひじょうぐち）",
+      "reading": "ひじょうぐち",
+      "meaning": {
+        "en": "emergency exit",
+        "zh": "紧急出口"
+      },
+      "sentence": {
+        "ja": "非常口は必ず確認しておきましょう。",
+        "zh": "请务必事先确认好紧急出口。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "ch06-l02",
+  "chapterId": "ch06",
+  "titleJa": "会社",
+  "titleZh": "会社",
+  "rangeNote": "658～679",
+  "audio": {
+    "track": "Chapter06_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter06_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l02-658",
+      "index": 658,
+      "word": "受付（うけつけ）",
+      "reading": "うけつけ",
+      "meaning": {
+        "en": "reception desk",
+        "zh": "前台"
+      },
+      "sentence": {
+        "ja": "受付で名前を書かないと、会社の中に入れない。",
+        "zh": "如果不在前台登记姓名，就进不了公司内部。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-659",
+      "index": 659,
+      "word": "ミーティング＜する＞（ミーティング）",
+      "reading": "ミーティング",
+      "meaning": {
+        "en": "meeting",
+        "zh": "会议"
+      },
+      "sentence": {
+        "ja": "３時からのミーティングには、社長も出席する。",
+        "zh": "总经理也将参加3点开始的会议。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-660",
+      "index": 660,
+      "word": "話し合う（はなしあう）",
+      "reading": "はなしあう",
+      "meaning": {
+        "en": "to discuss",
+        "zh": "商量"
+      },
+      "sentence": {
+        "ja": "来月のイベントについて、みんなで話し合った。",
+        "zh": "大家商量了下个月的活动。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-661",
+      "index": 661,
+      "word": "調整＜する＞（ちょうせい）",
+      "reading": "ちょうせい",
+      "meaning": {
+        "en": "adjustment",
+        "zh": "调整"
+      },
+      "sentence": {
+        "ja": "出張のスケジュールを調整した。",
+        "zh": "我调整了出差日程。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-662",
+      "index": 662,
+      "word": "能力（のうりょく）",
+      "reading": "のうりょく",
+      "meaning": {
+        "en": "ability",
+        "zh": "能力"
+      },
+      "sentence": {
+        "ja": "Ａ社では、能力のある外国人を採用している。",
+        "zh": "A公司录用了一些有能力的外国人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-663",
+      "index": 663,
+      "word": "役割（やくわり）",
+      "reading": "やくわり",
+      "meaning": {
+        "en": "role",
+        "zh": "任务"
+      },
+      "sentence": {
+        "ja": "一人ひとりの役割を、しっかり決めましょう。",
+        "zh": "定好每个人的任务。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-664",
+      "index": 664,
+      "word": "もうかる（もうかる）",
+      "reading": "もうかる",
+      "meaning": {
+        "en": "to be profitable",
+        "zh": "赚钱"
+      },
+      "sentence": {
+        "ja": "会社がもうかるためには、アイディアが必要だ。",
+        "zh": "公司要赚钱，就需要点子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-665",
+      "index": 665,
+      "word": "通勤＜する＞（つうきん）",
+      "reading": "つうきん",
+      "meaning": {
+        "en": "commuting to work",
+        "zh": "上下班"
+      },
+      "sentence": {
+        "ja": "通勤に往復で４時間もかかる。",
+        "zh": "上下班往返要花4个小时。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-666",
+      "index": 666,
+      "word": "早退＜する＞（そうたい）",
+      "reading": "そうたい",
+      "meaning": {
+        "en": "leaving early",
+        "zh": "早退"
+      },
+      "sentence": {
+        "ja": "かぜをひいたので、３時くらいに早退した。",
+        "zh": "我感冒了，所以3点左右就早退了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-667",
+      "index": 667,
+      "word": "無断（むだん）",
+      "reading": "むだん",
+      "meaning": {
+        "en": "without permission",
+        "zh": "擅自"
+      },
+      "sentence": {
+        "ja": "社会人が無断で休むなんて、信じられない。",
+        "zh": "不敢相信，已经参加工作的人居然擅自不上班。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-668",
+      "index": 668,
+      "word": "社会人（しゃかいじん）",
+      "reading": "しゃかいじん",
+      "meaning": {
+        "en": "working adult, member of society",
+        "zh": "走入社会的人"
+      },
+      "sentence": {
+        "ja": "弟は、今年の春から社会人になる。",
+        "zh": "从今年春天开始，弟弟就要参加工作了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-669",
+      "index": 669,
+      "word": "一人ひとり（ひとりひとり）",
+      "reading": "ひとりひとり",
+      "meaning": {
+        "en": "one by one, each person",
+        "zh": "每个人"
+      },
+      "sentence": {
+        "ja": "社長が一人ひとりの意見を聞いた。",
+        "zh": "总经理听取了每个人的意见。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-670",
+      "index": 670,
+      "word": "印鑑（いんかん）",
+      "reading": "いんかん",
+      "meaning": {
+        "en": "seal",
+        "zh": "印鉴"
+      },
+      "sentence": {
+        "ja": "銀行の書類のために、印鑑が必要だ。",
+        "zh": "银行文件需要盖章。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-671",
+      "index": 671,
+      "word": "インタビュー＜する＞（インタビュー）",
+      "reading": "インタビュー",
+      "meaning": {
+        "en": "interview",
+        "zh": "采访"
+      },
+      "sentence": {
+        "ja": "テレビ番組のインタビューで、仕事について聞かれた。",
+        "zh": "在一个电视节目的采访中，我被问到有关工作的事情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-672",
+      "index": 672,
+      "word": "アンケート（アンケート）",
+      "reading": "アンケート",
+      "meaning": {
+        "en": "survey",
+        "zh": "问卷调查"
+      },
+      "sentence": {
+        "ja": "会社で商品に関するアンケートを取った。",
+        "zh": "我在公司进行了有关商品的问卷调查。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-673",
+      "index": 673,
+      "word": "回答＜する＞（かいとう）",
+      "reading": "かいとう",
+      "meaning": {
+        "en": "answer, fill out",
+        "zh": "回答"
+      },
+      "sentence": {
+        "ja": "ほとんどの社員が、アンケートに回答した。",
+        "zh": "几乎所有员工都参加了问卷调查。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-674",
+      "index": 674,
+      "word": "ノック＜する＞（ノック）",
+      "reading": "ノック",
+      "meaning": {
+        "en": "knock",
+        "zh": "敲"
+      },
+      "sentence": {
+        "ja": "部屋に入るときは、ドアをノックしてください。",
+        "zh": "进房间之前请敲门。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-675",
+      "index": 675,
+      "word": "月末（げつまつ）",
+      "reading": "げつまつ",
+      "meaning": {
+        "en": "end of the month",
+        "zh": "月末"
+      },
+      "sentence": {
+        "ja": "この会社では月末が給料日だ。",
+        "zh": "这家公司是月末发工资。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-676",
+      "index": 676,
+      "word": "確かめる（たしかめる）",
+      "reading": "たしかめる",
+      "meaning": {
+        "en": "to confirm",
+        "zh": "确认"
+      },
+      "sentence": {
+        "ja": "書類を受け取ったら、必ず内容を確かめる。",
+        "zh": "收到文件后一定要确认一下内容。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-677",
+      "index": 677,
+      "word": "確かに（たしかに）",
+      "reading": "たしかに",
+      "meaning": {
+        "en": "surely, truly",
+        "zh": "的确"
+      },
+      "sentence": {
+        "ja": "Ａ「今日は社長が出張なので、会議は明日にしましょう。」 Ｂ「確かにそのほうがいいですね。」 Ａ：总经理今天出差了，会议改到明天吧。",
+        "zh": "Ｂ：的确，这样比较好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-678",
+      "index": 678,
+      "word": "とっくに（とっくに）",
+      "reading": "とっくに",
+      "meaning": {
+        "en": "long ago",
+        "zh": "早就"
+      },
+      "sentence": {
+        "ja": "Ａ「部長は？」 Ｂ「とっくに帰りましたよ。１時間くらい前に。」 Ａ：部长呢？",
+        "zh": "Ｂ：早就回家了。大概1小时之前。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l02-679",
+      "index": 679,
+      "word": "失業＜する＞（しつぎょう）",
+      "reading": "しつぎょう",
+      "meaning": {
+        "en": "unemployment",
+        "zh": "失业"
+      },
+      "sentence": {
+        "ja": "兄は先月会社を辞めて、今失業中だ。",
+        "zh": "哥哥上个月辞职了，现在处于失业状态。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

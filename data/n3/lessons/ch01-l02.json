@@ -1,0 +1,373 @@
+{
+  "id": "ch01-l02",
+  "chapterId": "ch01",
+  "titleJa": "友だちと知り合い",
+  "titleZh": "友だちと知り合い",
+  "rangeNote": "27～46",
+  "audio": {
+    "track": "Chapter01_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter01_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l02-027",
+      "index": 27,
+      "word": "親友（しんゆう）",
+      "reading": "しんゆう",
+      "meaning": {
+        "en": "close friend",
+        "zh": "知心朋友"
+      },
+      "sentence": {
+        "ja": "私には親友が３人います。",
+        "zh": "我有3个知心朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-028",
+      "index": 28,
+      "word": "仲間（なかま）",
+      "reading": "なかま",
+      "meaning": {
+        "en": "comrade, mate, friend, fellow member of a group",
+        "zh": "伙伴"
+      },
+      "sentence": {
+        "ja": "彼もサッカーの仲間に入れよう。",
+        "zh": "让他也加入足球队吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-029",
+      "index": 29,
+      "word": "仲良し（なかよし）",
+      "reading": "なかよし",
+      "meaning": {
+        "en": "close friend, intimate friend",
+        "zh": "好朋友"
+      },
+      "sentence": {
+        "ja": "クラスメートは、みんな仲良しだ。",
+        "zh": "全班同学都是好朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-030",
+      "index": 30,
+      "word": "幼なじみ（おさななじみ）",
+      "reading": "おさななじみ",
+      "meaning": {
+        "en": "childhood friend",
+        "zh": "发小，从小一起长大的朋友"
+      },
+      "sentence": {
+        "ja": "いなかに帰ると、いつも幼なじみに会う。",
+        "zh": "每次回乡下，我总要见一见从小一起长大的朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-031",
+      "index": 31,
+      "word": "友情（ゆうじょう）",
+      "reading": "ゆうじょう",
+      "meaning": {
+        "en": "friendship",
+        "zh": "友情"
+      },
+      "sentence": {
+        "ja": "彼との友情をいつまでも大切にしたい。",
+        "zh": "我想永远珍惜我和他之间的友情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-032",
+      "index": 32,
+      "word": "親しい（したしい）",
+      "reading": "したしい",
+      "meaning": {
+        "en": "intimate, close",
+        "zh": "亲密的"
+      },
+      "sentence": {
+        "ja": "親しい友だちの結婚式に招待された。",
+        "zh": "我受邀参加了好朋友的婚礼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-033",
+      "index": 33,
+      "word": "知人（ちじん）",
+      "reading": "ちじん",
+      "meaning": {
+        "en": "acquaintance",
+        "zh": "相识的人，熟人"
+      },
+      "sentence": {
+        "ja": "知人の紹介で、彼と知り合った。",
+        "zh": "在熟人的介绍下，我认识了他。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-034",
+      "index": 34,
+      "word": "メンバー（メンバー）",
+      "reading": "メンバー",
+      "meaning": {
+        "en": "member",
+        "zh": "成员"
+      },
+      "sentence": {
+        "ja": "Ａ「明日のパーティーのメンバーは、だれですか。」 Ｂ「先生と私たちです。」 Ａ：明天的聚会都有谁参加？",
+        "zh": "Ｂ：老师和我们。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-035",
+      "index": 35,
+      "word": "つなぐ（つなぐ）",
+      "reading": "つなぐ",
+      "meaning": {
+        "en": "to put together, to tie together, to connect",
+        "zh": "接上"
+      },
+      "sentence": {
+        "ja": "子どもたちは、手をつないで学校に行く。",
+        "zh": "孩子们手拉手去学校。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-036",
+      "index": 36,
+      "word": "つながる（つながる）",
+      "reading": "つながる",
+      "meaning": {
+        "en": "to be put together, to be connected",
+        "zh": "连接"
+      },
+      "sentence": {
+        "ja": "夜になっても、電話がつながらない。",
+        "zh": "到了晚上，电话还是打不通。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-037",
+      "index": 37,
+      "word": "当時（とうじ）",
+      "reading": "とうじ",
+      "meaning": {
+        "en": "at that time, then",
+        "zh": "当时"
+      },
+      "sentence": {
+        "ja": "彼女はクラスメートだったが、当時は、あまり話さなかった。",
+        "zh": "我和她是同班同学，但当时我们俩没怎么说过话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-038",
+      "index": 38,
+      "word": "祝う（いわう）",
+      "reading": "いわう",
+      "meaning": {
+        "en": "to celebrate",
+        "zh": "庆祝"
+      },
+      "sentence": {
+        "ja": "友だちの婚約を祝うための会を開いた。",
+        "zh": "我们办了一个聚会，庆祝朋友订婚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-039",
+      "index": 39,
+      "word": "遠慮＜する＞（えんりょ）",
+      "reading": "えんりょ",
+      "meaning": {
+        "en": "hesitation, declining",
+        "zh": "客气，推辞"
+      },
+      "sentence": {
+        "ja": "遠慮しないで食べてください。",
+        "zh": "别客气，吃吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-040",
+      "index": 40,
+      "word": "しょっちゅう（しょっちゅう）",
+      "reading": "しょっちゅう",
+      "meaning": {
+        "en": "often, frequently",
+        "zh": "经常，总是"
+      },
+      "sentence": {
+        "ja": "幼なじみとしょっちゅう食事している。",
+        "zh": "我经常跟发小一起吃饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-041",
+      "index": 41,
+      "word": "たびたび（たびたび）",
+      "reading": "たびたび",
+      "meaning": {
+        "en": "again and again, repeatedly",
+        "zh": "屡次"
+      },
+      "sentence": {
+        "ja": "仕事中に、友だちからたびたびメールが来る。",
+        "zh": "上班时，朋友接二连三地给我发来信息。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-042",
+      "index": 42,
+      "word": "たまに（たまに）",
+      "reading": "たまに",
+      "meaning": {
+        "en": "occasionally, once in a while",
+        "zh": "偶尔"
+      },
+      "sentence": {
+        "ja": "大学の友だちとたまにお酒を飲む。",
+        "zh": "我偶尔会跟大学朋友一起喝酒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-043",
+      "index": 43,
+      "word": "たまたま（たまたま）",
+      "reading": "たまたま",
+      "meaning": {
+        "en": "by chance, unexpectedly",
+        "zh": "偶然"
+      },
+      "sentence": {
+        "ja": "昨日駅前で、たまたま高校時代の友だちに会った。",
+        "zh": "昨天，在车站前面，我偶然碰到了高中时的朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-044",
+      "index": 44,
+      "word": "めったに（めったに）",
+      "reading": "めったに",
+      "meaning": {
+        "en": "rarely",
+        "zh": "很少"
+      },
+      "sentence": {
+        "ja": "東京に来てから、幼なじみとめったに会えない。",
+        "zh": "来东京以后，我就很少见到发小了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-045",
+      "index": 45,
+      "word": "しばらく（しばらく）",
+      "reading": "しばらく",
+      "meaning": {
+        "en": "a while, a moment",
+        "zh": "一会儿；一段时间"
+      },
+      "sentence": {
+        "ja": "幼なじみとしばらく会っていない。",
+        "zh": "我有一阵子没见到发小了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l02-046",
+      "index": 46,
+      "word": "別々＜な＞（べつべつ）",
+      "reading": "べつべつ",
+      "meaning": {
+        "en": "different, separate",
+        "zh": "分别，各自"
+      },
+      "sentence": {
+        "ja": "親友とは別々の大学に進んだ。",
+        "zh": "我和我的知心朋友分别考上了不同的大学。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

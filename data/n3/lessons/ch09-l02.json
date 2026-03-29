@@ -1,0 +1,445 @@
+{
+  "id": "ch09-l02",
+  "chapterId": "ch09",
+  "titleJa": "明日の天気",
+  "titleZh": "明日の天気",
+  "rangeNote": "1000～1023",
+  "audio": {
+    "track": "Chapter09_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter09_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l02-1000",
+      "index": 1000,
+      "word": "予想＜する＞（よそう）",
+      "reading": "よそう",
+      "meaning": {
+        "en": "expectation, prediction",
+        "zh": "预计，预想"
+      },
+      "sentence": {
+        "ja": "明日は雨だと予想している。",
+        "zh": "预计明天会下雨。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1001",
+      "index": 1001,
+      "word": "予報＜する＞（よほう）",
+      "reading": "よほう",
+      "meaning": {
+        "en": "forecast",
+        "zh": "预报"
+      },
+      "sentence": {
+        "ja": "明日の予報は大雨だ。",
+        "zh": "明天预报下大雨。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1002",
+      "index": 1002,
+      "word": "湿度（しつど）",
+      "reading": "しつど",
+      "meaning": {
+        "en": "level of humidity",
+        "zh": "湿度"
+      },
+      "sentence": {
+        "ja": "今日は、とても湿度が高くなりそうだ。",
+        "zh": "今天的湿度可能会变得很高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1003",
+      "index": 1003,
+      "word": "湿気（しっけ）",
+      "reading": "しっけ",
+      "meaning": {
+        "en": "humidity, moisture",
+        "zh": "湿气"
+      },
+      "sentence": {
+        "ja": "日本の夏は湿気が多い。",
+        "zh": "日本的夏天湿气大。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1004",
+      "index": 1004,
+      "word": "くもる（くもる）",
+      "reading": "くもる",
+      "meaning": {
+        "en": "to be cloudy",
+        "zh": "阴天"
+      },
+      "sentence": {
+        "ja": "今はくもっているが、すぐに晴れるだろう。",
+        "zh": "虽然现在是阴天，但应该马上会转晴。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1005",
+      "index": 1005,
+      "word": "嵐（あらし）",
+      "reading": "あらし",
+      "meaning": {
+        "en": "storm",
+        "zh": "暴风雨"
+      },
+      "sentence": {
+        "ja": "嵐になりそうなので、早めに家に帰ろう。",
+        "zh": "暴风雨眼看就要来了，早点回家吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1006",
+      "index": 1006,
+      "word": "強風（きょうふう）",
+      "reading": "きょうふう",
+      "meaning": {
+        "en": "strong wind",
+        "zh": "强风，大风"
+      },
+      "sentence": {
+        "ja": "強風で木が倒れた。",
+        "zh": "大风把树刮倒了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1007",
+      "index": 1007,
+      "word": "大雨（おおあめ）",
+      "reading": "おおあめ",
+      "meaning": {
+        "en": "heavy rain",
+        "zh": "大雨"
+      },
+      "sentence": {
+        "ja": "昨日は、大雨で出かけられなかった。",
+        "zh": "昨天下大雨，我没办法出门。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1008",
+      "index": 1008,
+      "word": "折りたたみ傘（おりたたみがさ）",
+      "reading": "おりたたみがさ",
+      "meaning": {
+        "en": "folding umbrella",
+        "zh": "折叠伞"
+      },
+      "sentence": {
+        "ja": "折りたたみ傘をバッグに入れて、出かける。",
+        "zh": "出门时我把折叠伞放进包里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1009",
+      "index": 1009,
+      "word": "（傘を）さす（（かさを）さす）",
+      "reading": "傘を",
+      "meaning": {
+        "en": "to open (an umbrella)",
+        "zh": "打（伞）"
+      },
+      "sentence": {
+        "ja": "雨の中、傘をさしていない人もいる。",
+        "zh": "雨中也有人不打伞。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1010",
+      "index": 1010,
+      "word": "にわか雨（にわかあめ）",
+      "reading": "にわかあめ",
+      "meaning": {
+        "en": "rain shower",
+        "zh": "阵雨"
+      },
+      "sentence": {
+        "ja": "にわか雨が降りそうなので、傘を持って行く。",
+        "zh": "眼看要下阵雨了，我把伞带上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1011",
+      "index": 1011,
+      "word": "突然（とつぜん）",
+      "reading": "とつぜん",
+      "meaning": {
+        "en": "suddenly",
+        "zh": "突然"
+      },
+      "sentence": {
+        "ja": "突然、空が暗くなった。",
+        "zh": "突然，天变暗了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1012",
+      "index": 1012,
+      "word": "とたん［に］（とたん）",
+      "reading": "とたん",
+      "meaning": {
+        "en": "as soon as, in the moment that",
+        "zh": "……就……"
+      },
+      "sentence": {
+        "ja": "家に帰ると、とたんに雨が降ってきた。",
+        "zh": "我一回到家，雨就下起来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1013",
+      "index": 1013,
+      "word": "ぬれる（ぬれる）",
+      "reading": "ぬれる",
+      "meaning": {
+        "en": "to get wet",
+        "zh": "淋湿"
+      },
+      "sentence": {
+        "ja": "傘がなくて、雨にぬれた。",
+        "zh": "我没带伞，被雨淋湿了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1014",
+      "index": 1014,
+      "word": "あっという間（あっというま）",
+      "reading": "あっというま",
+      "meaning": {
+        "en": "in the blink of an eye",
+        "zh": "瞬间"
+      },
+      "sentence": {
+        "ja": "雨はあっという間に、はげしくなった。",
+        "zh": "雨瞬间下大了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1015",
+      "index": 1015,
+      "word": "止む（やむ）",
+      "reading": "やむ",
+      "meaning": {
+        "en": "to stop",
+        "zh": "停止"
+      },
+      "sentence": {
+        "ja": "にわか雨なので、すぐに止むだろう。",
+        "zh": "这是阵雨，应该很快就停了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1016",
+      "index": 1016,
+      "word": "ところどころ（ところどころ）",
+      "reading": "ところどころ",
+      "meaning": {
+        "en": "here and there",
+        "zh": "这儿那儿，有些地方"
+      },
+      "sentence": {
+        "ja": "昨日降った雪が、ところどころに残っている。",
+        "zh": "有些地方还残留着昨天的雪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1017",
+      "index": 1017,
+      "word": "積もる（つもる）",
+      "reading": "つもる",
+      "meaning": {
+        "en": "to pile up, to accumulate",
+        "zh": "积，堆积"
+      },
+      "sentence": {
+        "ja": "雪が積もっているので、気をつけて歩こう。",
+        "zh": "积雪了，走路要小心。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1018",
+      "index": 1018,
+      "word": "快晴（かいせい）",
+      "reading": "かいせい",
+      "meaning": {
+        "en": "clear weather",
+        "zh": "晴朗，万里无云"
+      },
+      "sentence": {
+        "ja": "今日は快晴で、雲が一つもない。",
+        "zh": "今天天气晴朗，万里无云。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1019",
+      "index": 1019,
+      "word": "かがやく（かがやく）",
+      "reading": "かがやく",
+      "meaning": {
+        "en": "to shine",
+        "zh": "放光，闪耀"
+      },
+      "sentence": {
+        "ja": "今夜は、月がかがやいている。",
+        "zh": "今夜月光皎洁。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1020",
+      "index": 1020,
+      "word": "まぶしい（まぶしい）",
+      "reading": "まぶしい",
+      "meaning": {
+        "en": "blinding, overly bright",
+        "zh": "晃眼"
+      },
+      "sentence": {
+        "ja": "急に天気がよくなって、太陽がまぶしい。",
+        "zh": "天气突然变好了，阳光直晃眼睛。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1021",
+      "index": 1021,
+      "word": "のち（のち）",
+      "reading": "のち",
+      "meaning": {
+        "en": "later",
+        "zh": "后，之后"
+      },
+      "sentence": {
+        "ja": "明日の天気は、雨のち晴れだそうだ。",
+        "zh": "据说明天天气雨转晴。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1022",
+      "index": 1022,
+      "word": "当たる（あたる）",
+      "reading": "あたる",
+      "meaning": {
+        "en": "to be right, to be correct",
+        "zh": "中，成功"
+      },
+      "sentence": {
+        "ja": "この番組の天気予報は、よく当たる。",
+        "zh": "这个节目的天气预报常常很准。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l02-1023",
+      "index": 1023,
+      "word": "ふるさと（ふるさと）",
+      "reading": "ふるさと",
+      "meaning": {
+        "en": "hometown",
+        "zh": "故乡"
+      },
+      "sentence": {
+        "ja": "私のふるさとでは、雪がたくさん降る。",
+        "zh": "我的故乡常常下雪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

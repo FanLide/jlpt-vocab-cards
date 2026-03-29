@@ -1,0 +1,427 @@
+{
+  "id": "ch11-l02",
+  "chapterId": "ch11",
+  "titleJa": "うれしい気持ち",
+  "titleZh": "うれしい気持ち",
+  "rangeNote": "1209～1231",
+  "audio": {
+    "track": "Chapter11_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter11_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch11-l02-1209",
+      "index": 1209,
+      "word": "**感情（かんじょう）**",
+      "reading": "かんじょう",
+      "meaning": {
+        "en": "emotion",
+        "zh": "感情"
+      },
+      "sentence": {
+        "ja": "彼女は感情を人に見せない。",
+        "zh": "她不向人表露自己的感情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1210",
+      "index": 1210,
+      "word": "**あこがれる（あこがれる）**",
+      "reading": "あこがれる",
+      "meaning": {
+        "en": "to admire",
+        "zh": "憧憬，向往"
+      },
+      "sentence": {
+        "ja": "この女優に、ずっとあこがれている。",
+        "zh": "我一直很崇拜这个女演员。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1211",
+      "index": 1211,
+      "word": "**うらやましい（うらやましい）**",
+      "reading": "うらやましい",
+      "meaning": {
+        "en": "jealous",
+        "zh": "羡慕"
+      },
+      "sentence": {
+        "ja": "彼には欠点がない。本当にうらやましい。",
+        "zh": "他完美无缺，真让人羡慕。 [5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1212",
+      "index": 1212,
+      "word": "**落ち着く（おちつく）**",
+      "reading": "おちつく",
+      "meaning": {
+        "en": "to calm down",
+        "zh": "沉着，安静，平心静气"
+      },
+      "sentence": {
+        "ja": "彼としゃべっていると、とても落ち着く。",
+        "zh": "和他聊天，会让人非常平静。 [5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1213",
+      "index": 1213,
+      "word": "**感激（かんげき）**",
+      "reading": "かんげき",
+      "meaning": {
+        "en": "deep emotion, impression",
+        "zh": "感激，感动"
+      },
+      "sentence": {
+        "ja": "彼に婚約指輪をもらって、感激した。",
+        "zh": "我接受了男朋友的订婚戒指，非常感动。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1214",
+      "index": 1214,
+      "word": "**感動（かんどう）**",
+      "reading": "かんどう",
+      "meaning": {
+        "en": "being moved emotionally",
+        "zh": "感动"
+      },
+      "sentence": {
+        "ja": "この映画に、みんなが感動するだろう。",
+        "zh": "看了这部电影，所有人都会感动吧。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1215",
+      "index": 1215,
+      "word": "**感心（かんしん）**",
+      "reading": "かんしん",
+      "meaning": {
+        "en": "admiration, being impressed",
+        "zh": "钦佩，赞叹"
+      },
+      "sentence": {
+        "ja": "日本語が上手になりましたね。感心しました。",
+        "zh": "你的日语变得非常好了呢，真棒！ [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1216",
+      "index": 1216,
+      "word": "**なつかしい（なつかしい）**",
+      "reading": "なつかしい",
+      "meaning": {
+        "en": "nostalgic, reminding",
+        "zh": "怀念，眷恋"
+      },
+      "sentence": {
+        "ja": "高校時代が、とてもなつかしい。",
+        "zh": "我非常怀念我的高中生活。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1217",
+      "index": 1217,
+      "word": "**気軽（きがる）**",
+      "reading": "きがる",
+      "meaning": {
+        "en": "free, without hesitation",
+        "zh": "爽快；随意"
+      },
+      "sentence": {
+        "ja": "何でも気軽に相談してください。",
+        "zh": "不管什么事情，都可以找我商量。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1218",
+      "index": 1218,
+      "word": "**気楽（きらく）**",
+      "reading": "きらく",
+      "meaning": {
+        "en": "carefree, easygoing",
+        "zh": "轻松；坦然"
+      },
+      "sentence": {
+        "ja": "ストレスのない気楽な生活がしたい。",
+        "zh": "我希望能够生活得没有压力、轻轻松松。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1219",
+      "index": 1219,
+      "word": "**幸せ（しあわせ）**",
+      "reading": "しあわせ",
+      "meaning": {
+        "en": "good fortune, happiness",
+        "zh": "幸福"
+      },
+      "sentence": {
+        "ja": "いろいろあったが、今は幸せな每天だ。",
+        "zh": "虽然发生了许多事情，但现在我每一天都很幸福。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1220",
+      "index": 1220,
+      "word": "**冗談（じょうだん）**",
+      "reading": "じょうだん",
+      "meaning": {
+        "en": "joke",
+        "zh": "玩笑"
+      },
+      "sentence": {
+        "ja": "彼の冗談は、おもしろい。",
+        "zh": "他开的玩笑很有意思。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1221",
+      "index": 1221,
+      "word": "**ユーモア（ユーモア）**",
+      "reading": "ユーモア",
+      "meaning": {
+        "en": "humor",
+        "zh": "幽默"
+      },
+      "sentence": {
+        "ja": "ユーモアのない人と话しても、おもしろくない。",
+        "zh": "跟没有幽默感的人说话很无趣。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1222",
+      "index": 1222,
+      "word": "**ゆかい（ゆかい）**",
+      "reading": "ゆかい",
+      "meaning": {
+        "en": "pleasant",
+        "zh": "愉快"
+      },
+      "sentence": {
+        "ja": "彼はゆかいな人だ。",
+        "zh": "他是一个快活的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1223",
+      "index": 1223,
+      "word": "**愛（あい）する**",
+      "reading": "あい",
+      "meaning": {
+        "en": "to love",
+        "zh": "爱，热爱"
+      },
+      "sentence": {
+        "ja": "あの歌手は世界中で爱されている。",
+        "zh": "那个歌手受到世界各地人们的喜爱。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1224",
+      "index": 1224,
+      "word": "**真剣（しんけん）**",
+      "reading": "しんけん",
+      "meaning": {
+        "en": "serious",
+        "zh": "认真，正经"
+      },
+      "sentence": {
+        "ja": "彼は彼女を真剣に爱しているらしい。",
+        "zh": "他对她的爱好像是认真的。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1225",
+      "index": 1225,
+      "word": "**どきどき（どきどき）**",
+      "reading": "どきどき",
+      "meaning": {
+        "en": "one's heart beating quickly",
+        "zh": "心脏怦怦地跳"
+      },
+      "sentence": {
+        "ja": "大好きな人が近くにいると、どきどきする。",
+        "zh": "一靠近我非常喜欢的人，我就会很紧张。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1226",
+      "index": 1226,
+      "word": "**わくわく（わくわく）**",
+      "reading": "わくわく",
+      "meaning": {
+        "en": "excited",
+        "zh": "欢欣雀跃"
+      },
+      "sentence": {
+        "ja": "来週、日本に留学するので、わくわくしている。",
+        "zh": "下周我要去日本留学了，我很兴奋。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1227",
+      "index": 1227,
+      "word": "**ほっと（ほっと）**",
+      "reading": "ほっと",
+      "meaning": {
+        "en": "feeling relieved",
+        "zh": "放心"
+      },
+      "sentence": {
+        "ja": "試験に合格して、ほっとした。",
+        "zh": "考试合格了，我松了一口气。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1228",
+      "index": 1228,
+      "word": "**のんびり（のんびり）**",
+      "reading": "のんびり",
+      "meaning": {
+        "en": "at leisure, carefree",
+        "zh": "悠闲自在"
+      },
+      "sentence": {
+        "ja": "将来は、いなかでのんびり暮らしたい。",
+        "zh": "将来，我想在乡下悠闲地生活。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1229",
+      "index": 1229,
+      "word": "**ほほえむ（ほほえむ）**",
+      "reading": "ほほえむ",
+      "meaning": {
+        "en": "to smile",
+        "zh": "微笑"
+      },
+      "sentence": {
+        "ja": "彼女がほほえむと、みんなが幸せな気持ちになる。",
+        "zh": "她微微一笑，大家就会觉得很幸福。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1230",
+      "index": 1230,
+      "word": "**夢中（むちゅう）**",
+      "reading": "むちゅう",
+      "meaning": {
+        "en": "in a daze, be crazy about",
+        "zh": "入迷，着迷"
+      },
+      "sentence": {
+        "ja": "妹はおしゃれに夢中だ。",
+        "zh": "妹妹很着迷于打扮。 [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l02-1231",
+      "index": 1231,
+      "word": "**勇気（ゆうき）**",
+      "reading": "ゆうき",
+      "meaning": {
+        "en": "courage, bravery",
+        "zh": "勇气"
+      },
+      "sentence": {
+        "ja": "勇気を持って、チャレンジしよう。",
+        "zh": "拿出勇气来挑战！ [7]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

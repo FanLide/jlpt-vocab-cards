@@ -1,0 +1,355 @@
+{
+  "id": "ch08-l04",
+  "chapterId": "ch08",
+  "titleJa": "大丈夫？",
+  "titleZh": "大丈夫？",
+  "rangeNote": "933～951",
+  "audio": {
+    "track": "Chapter08_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter08_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch08-l04-933",
+      "index": 933,
+      "word": "痛み（いたみ）",
+      "reading": "いたみ",
+      "meaning": {
+        "en": "pain",
+        "zh": "疼痛"
+      },
+      "sentence": {
+        "ja": "体の痛みは、何かのサインだ。",
+        "zh": "身体疼痛是某些疾病的信号。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-934",
+      "index": 934,
+      "word": "頭痛（ずつう）",
+      "reading": "ずつう",
+      "meaning": {
+        "en": "headache",
+        "zh": "头疼"
+      },
+      "sentence": {
+        "ja": "頭痛がひどいので、今日は会社を休みます。",
+        "zh": "我头疼得厉害，今天南要请假。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-935",
+      "index": 935,
+      "word": "腹痛（ふくつう）",
+      "reading": "ふくつう",
+      "meaning": {
+        "en": "stomachache",
+        "zh": "腹痛"
+      },
+      "sentence": {
+        "ja": "腹痛がひどくて、学校に行けなかった。",
+        "zh": "我肚子疼得厉害，没能去学校。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-936",
+      "index": 936,
+      "word": "はげしい（はげしい）",
+      "reading": "はげしい",
+      "meaning": {
+        "en": "intense, rough, violent",
+        "zh": "剧烈"
+      },
+      "sentence": {
+        "ja": "はげしい頭痛がしたので、病院で診てもらった。",
+        "zh": "头痛剧烈，于是我去医院看了看。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-937",
+      "index": 937,
+      "word": "異常＜な＞（いじょう）",
+      "reading": "いじょう",
+      "meaning": {
+        "en": "abnormality",
+        "zh": "异常"
+      },
+      "sentence": {
+        "ja": "医者に診てもらったが、異常はなかった。（名） この痛みは異常だ。（ナ形） 我看过医生了，没有异常。这种痛不正常。",
+        "zh": "[相關]：正常＜な＞"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-938",
+      "index": 938,
+      "word": "めまい（めまい）",
+      "reading": "めまい",
+      "meaning": {
+        "en": "dizziness",
+        "zh": "头晕"
+      },
+      "sentence": {
+        "ja": "急に立ち上がったら、めまいがした。",
+        "zh": "猛地一起身，头就晕了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-939",
+      "index": 939,
+      "word": "やけど＜する＞（やけど）",
+      "reading": "やけど",
+      "meaning": {
+        "en": "burn",
+        "zh": "烧伤，烫伤"
+      },
+      "sentence": {
+        "ja": "なべのお湯でやけどした。",
+        "zh": "我被锅里的热水烫伤了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-940",
+      "index": 940,
+      "word": "吐く（はく）",
+      "reading": "はく",
+      "meaning": {
+        "en": "to throw up, to spit up, to vomit",
+        "zh": "呕吐"
+      },
+      "sentence": {
+        "ja": "晩ごはんに食べた物を吐いてしまった。",
+        "zh": "晚饭吃的全吐了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-941",
+      "index": 941,
+      "word": "吐き気（はきけ）",
+      "reading": "はきけ",
+      "meaning": {
+        "en": "feeling of throwing up, nausea",
+        "zh": "恶心，想吐"
+      },
+      "sentence": {
+        "ja": "吐き気がするので、何も食べられない。",
+        "zh": "我恶心，什么都吃不下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-942",
+      "index": 942,
+      "word": "(痛みが)",
+      "reading": "(痛みが)",
+      "meaning": {
+        "en": "とれる（(いたみが) とれる） to recede (pain)",
+        "zh": "(疼痛) 消除"
+      },
+      "sentence": {
+        "ja": "薬を飲んでも、なかなか痛みがとれない。",
+        "zh": "吃了药，疼痛也不见消。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-943",
+      "index": 943,
+      "word": "インフルエンザ（インフルエンザ）",
+      "reading": "インフルエンザ",
+      "meaning": {
+        "en": "influenza, the flu",
+        "zh": "流感"
+      },
+      "sentence": {
+        "ja": "全国で、インフルエンザが流行している。",
+        "zh": "全国正在闹流感。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-944",
+      "index": 944,
+      "word": "ウイルス（ウイルス）",
+      "reading": "ウイルス",
+      "meaning": {
+        "en": "virus",
+        "zh": "病毒"
+      },
+      "sentence": {
+        "ja": "今年のインフルエンザのウイルスは、とても強いようだ。",
+        "zh": "今年的流感病毒似乎非常强。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-945",
+      "index": 945,
+      "word": "ふるえる（ふるえる）",
+      "reading": "ふるえる",
+      "meaning": {
+        "en": "to shake, to shiver",
+        "zh": "颤动，发抖"
+      },
+      "sentence": {
+        "ja": "寒くて、体がふるえた。",
+        "zh": "冷得身体发抖。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-946",
+      "index": 946,
+      "word": "うなる（うなる）",
+      "reading": "うなる",
+      "meaning": {
+        "en": "to groan, to moan",
+        "zh": "呻吟，哼哼"
+      },
+      "sentence": {
+        "ja": "ゆうべは３９度の熱があって、ずっとうなっていた。",
+        "zh": "昨晚我烧到39度，一直在哼哼着。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-947",
+      "index": 947,
+      "word": "苦しむ（くるしむ）",
+      "reading": "くるしむ",
+      "meaning": {
+        "en": "to suffer",
+        "zh": "感到痛苦；受折磨"
+      },
+      "sentence": {
+        "ja": "早く病院に行けば、こんなに苦しまなかったのに。",
+        "zh": "早一点去医院，就不由于这么受罪了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-948",
+      "index": 948,
+      "word": "しびれる（しびれる）",
+      "reading": "しびれる",
+      "meaning": {
+        "en": "to go numb",
+        "zh": "麻木，发麻"
+      },
+      "sentence": {
+        "ja": "手と足が少ししびれている。",
+        "zh": "手脚有点儿发麻。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-949",
+      "index": 949,
+      "word": "部分（ぶぶん）",
+      "reading": "ぶぶん",
+      "meaning": {
+        "en": "area, part",
+        "zh": "部分"
+      },
+      "sentence": {
+        "ja": "頭の、どの部分が痛いですか。",
+        "zh": "头的那哪个位置疼？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-950",
+      "index": 950,
+      "word": "骨折＜する＞（こっせつ）",
+      "reading": "こっせつ",
+      "meaning": {
+        "en": "bone break, bone fracture",
+        "zh": "骨折"
+      },
+      "sentence": {
+        "ja": "バレーボールで、右手の中指を骨折した。",
+        "zh": "打排球打得右手中指骨折了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l04-951",
+      "index": 951,
+      "word": "さわる（さわる）",
+      "reading": "さわる",
+      "meaning": {
+        "en": "to touch",
+        "zh": "碰，摸"
+      },
+      "sentence": {
+        "ja": "そこは痛いから、さわらないで。",
+        "zh": "那里疼，别碰。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

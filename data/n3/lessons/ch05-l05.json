@@ -1,0 +1,391 @@
+{
+  "id": "ch05-l05",
+  "chapterId": "ch05",
+  "titleJa": "もっとがんばれ！",
+  "titleZh": "继续加油！",
+  "rangeNote": "609～629",
+  "audio": {
+    "track": "Chapter05_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter05_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch05-l05-609",
+      "index": 609,
+      "word": "知識（ちしき）",
+      "reading": "ちしき",
+      "meaning": {
+        "en": "knowledge",
+        "zh": "知识"
+      },
+      "sentence": {
+        "ja": "もっといろいろな知識を増やしたい。",
+        "zh": "我想学习更多各种各样的知识。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-610",
+      "index": 610,
+      "word": "理解＜する＞（りかい）",
+      "reading": "りかい",
+      "meaning": {
+        "en": "understanding",
+        "zh": "理解"
+      },
+      "sentence": {
+        "ja": "前より早く日本語が理解できるようになった。",
+        "zh": "比起以前，现在我能够更快地理解日语了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-611",
+      "index": 611,
+      "word": "目指す（めざす）",
+      "reading": "めざす",
+      "meaning": {
+        "en": "to aim for, to head for",
+        "zh": "以……为目标"
+      },
+      "sentence": {
+        "ja": "Ｎ３合格を目指して毎日がんばっている。",
+        "zh": "为了通过N3级考试，我每天都在努力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-612",
+      "index": 612,
+      "word": "試す（ためす）",
+      "reading": "ためす",
+      "meaning": {
+        "en": "to test, to try",
+        "zh": "试"
+      },
+      "sentence": {
+        "ja": "練習問題で自分の実力を試してみよう。",
+        "zh": "通过练习题测试一下自己的实力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-613",
+      "index": 613,
+      "word": "自信（じしん）",
+      "reading": "じしん",
+      "meaning": {
+        "en": "self confidence",
+        "zh": "自信"
+      },
+      "sentence": {
+        "ja": "日本語の日常会話に自信がある。",
+        "zh": "我有自信能用日语进行日常会话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-614",
+      "index": 614,
+      "word": "やる気（やるき）",
+      "reading": "やるき",
+      "meaning": {
+        "en": "motivation",
+        "zh": "干劲"
+      },
+      "sentence": {
+        "ja": "やる気はあるが、なかなか集中できない。",
+        "zh": "我有干劲，就是怎么也集中不了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-615",
+      "index": 615,
+      "word": "くやしい（くやしい）",
+      "reading": "くやしい",
+      "meaning": {
+        "en": "annoying, vexing",
+        "zh": "令人懊悔，遗憾"
+      },
+      "sentence": {
+        "ja": "９４点で不合格だった。とてもくやしい。",
+        "zh": "我考了94分，不及格。我很不甘心。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-616",
+      "index": 616,
+      "word": "レベル（レベル）",
+      "reading": "レベル",
+      "meaning": {
+        "en": "level",
+        "zh": "级别"
+      },
+      "sentence": {
+        "ja": "早くＮ１レベルの勉強をしたい。",
+        "zh": "我想尽快开始学N1级。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-617",
+      "index": 617,
+      "word": "利口＜な＞（りこう）",
+      "reading": "りこう",
+      "meaning": {
+        "en": "clever",
+        "zh": "聪明伶俐"
+      },
+      "sentence": {
+        "ja": "弟は利口で、医者になることを目指している。",
+        "zh": "弟弟很聪明，他立志要当医生。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-618",
+      "index": 618,
+      "word": "さっそく（さっそく）",
+      "reading": "さっそく",
+      "meaning": {
+        "en": "at once, without delay",
+        "zh": "立刻，马上"
+      },
+      "sentence": {
+        "ja": "勉強した単語を、さっそく使ってみる。",
+        "zh": "学到的单词，我会马上用用看。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-619",
+      "index": 619,
+      "word": "ざっと（ざっと）",
+      "reading": "ざっと",
+      "meaning": {
+        "en": "roughly",
+        "zh": "粗略地"
+      },
+      "sentence": {
+        "ja": "テスト前に教科書をざっと復習した。",
+        "zh": "考试前，我把教材粗略地复习了一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-620",
+      "index": 620,
+      "word": "しっかり［と］＜する＞（しっかり）",
+      "reading": "しっかり",
+      "meaning": {
+        "en": "properly, thoroughly",
+        "zh": "好好地"
+      },
+      "sentence": {
+        "ja": "彼は毎日しっかり予習も復習もしている。",
+        "zh": "他每天都认真真地预习、复习。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-621",
+      "index": 621,
+      "word": "じっくり［と］（じっくり）",
+      "reading": "じっくり",
+      "meaning": {
+        "en": "carefully, thoroughly",
+        "zh": "慢慢地，仔细地"
+      },
+      "sentence": {
+        "ja": "時間はあるので、じっくりと解いてください。",
+        "zh": "时间充裕，请仔细作答。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-622",
+      "index": 622,
+      "word": "相当＜な＞（そうとう）",
+      "reading": "そうとう",
+      "meaning": {
+        "en": "extremely, considerably",
+        "zh": "相当"
+      },
+      "sentence": {
+        "ja": "今日のテストは、相当難しかった。（副）",
+        "zh": "今天的考试相当难。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-623",
+      "index": 623,
+      "word": "まあまあ＜な＞（まあまあ）",
+      "reading": "まあまあ",
+      "meaning": {
+        "en": "so-so",
+        "zh": "凑合，还说得过去"
+      },
+      "sentence": {
+        "ja": "この問題で８０点なら、まあまあだろう。（ナ形）",
+        "zh": "这种题考了80分，还凑合吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-624",
+      "index": 624,
+      "word": "努力＜する＞（どりょく）",
+      "reading": "どりょく",
+      "meaning": {
+        "en": "effort",
+        "zh": "努力"
+      },
+      "sentence": {
+        "ja": "努力すれば、きっといい結果になる。",
+        "zh": "只要努力，就一定会有好的结果。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-625",
+      "index": 625,
+      "word": "なまける（なまける）",
+      "reading": "なまける",
+      "meaning": {
+        "en": "to be idle, to slack off",
+        "zh": "懒惰"
+      },
+      "sentence": {
+        "ja": "昨日の夜なまけたので、テストの点が悪かった。",
+        "zh": "昨晚我偷懒了，所以考试得分很低。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-626",
+      "index": 626,
+      "word": "得意＜な＞（とくい）",
+      "reading": "とくい",
+      "meaning": {
+        "en": "good at, skillful",
+        "zh": "擅长"
+      },
+      "sentence": {
+        "ja": "努力したので、会話も得意になった。",
+        "zh": "我付出了努力，于是会话也变成我擅长的了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-627",
+      "index": 627,
+      "word": "苦手＜な＞（にがて）",
+      "reading": "にがて",
+      "meaning": {
+        "en": "unskillful, not good at",
+        "zh": "不擅长"
+      },
+      "sentence": {
+        "ja": "苦手な科目は作文だ。",
+        "zh": "我不擅长写作文。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-628",
+      "index": 628,
+      "word": "マスター＜する＞（マスター）",
+      "reading": "マスター",
+      "meaning": {
+        "en": "mastery",
+        "zh": "精通"
+      },
+      "sentence": {
+        "ja": "外国語をマスターするのは大変だ。",
+        "zh": "精通一门外语是很不容易的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l05-629",
+      "index": 629,
+      "word": "問い合わせる（といあわせる）",
+      "reading": "といあわせる",
+      "meaning": {
+        "en": "to inquire",
+        "zh": "询问"
+      },
+      "sentence": {
+        "ja": "日本語能力試験について、電話で問い合わせた。",
+        "zh": "我打电话询问了日语能力考试的事情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

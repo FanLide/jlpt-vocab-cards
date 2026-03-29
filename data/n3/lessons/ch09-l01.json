@@ -1,0 +1,463 @@
+{
+  "id": "ch09-l01",
+  "chapterId": "ch09",
+  "titleJa": "自然",
+  "titleZh": "自然",
+  "rangeNote": "975～999",
+  "audio": {
+    "track": "Chapter09_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter09_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l01-975",
+      "index": 975,
+      "word": "豊かな（ゆたかな）",
+      "reading": "ゆたかな",
+      "meaning": {
+        "en": "abundant, rich",
+        "zh": "丰富，富裕"
+      },
+      "sentence": {
+        "ja": "日本は、自然が豊かな国だ。",
+        "zh": "日本是一个大自然丰富的国家。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-976",
+      "index": 976,
+      "word": "資源（しげん）",
+      "reading": "しげん",
+      "meaning": {
+        "en": "resource",
+        "zh": "资源"
+      },
+      "sentence": {
+        "ja": "資源は大切に使わなければならない。",
+        "zh": "我们必须珍惜使用资源。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-977",
+      "index": 977,
+      "word": "種類（しゅるい）",
+      "reading": "しゅるい",
+      "meaning": {
+        "en": "type, kind",
+        "zh": "种类"
+      },
+      "sentence": {
+        "ja": "いろいろな種類の花が咲いている。",
+        "zh": "各种各样的鲜花盛开了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-978",
+      "index": 978,
+      "word": "枯れる（かれる）",
+      "reading": "かれる",
+      "meaning": {
+        "en": "to wither",
+        "zh": "凋谢；干燥"
+      },
+      "sentence": {
+        "ja": "庭のチューリップが枯れてしまった。",
+        "zh": "院子里的郁金香枯萎了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-979",
+      "index": 979,
+      "word": "散る（ちる）",
+      "reading": "ちる",
+      "meaning": {
+        "en": "to fall, to scatter",
+        "zh": "落，凋谢"
+      },
+      "sentence": {
+        "ja": "入学式の前に、さくらが散った。",
+        "zh": "入学典礼之前，樱花凋谢了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-980",
+      "index": 980,
+      "word": "草（くさ）",
+      "reading": "くさ",
+      "meaning": {
+        "en": "grass",
+        "zh": "草"
+      },
+      "sentence": {
+        "ja": "草の名前を本で調べた。",
+        "zh": "我在书上查了草的名称。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-981",
+      "index": 981,
+      "word": "種（たね）",
+      "reading": "たね",
+      "meaning": {
+        "en": "seed",
+        "zh": "种子"
+      },
+      "sentence": {
+        "ja": "春になって、庭に花の種を植えた。",
+        "zh": "春天到了，我在院子里种下了花的种子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-982",
+      "index": 982,
+      "word": "浮かぶ（うかぶ）",
+      "reading": "うかぶ",
+      "meaning": {
+        "en": "to float",
+        "zh": "漂，浮"
+      },
+      "sentence": {
+        "ja": "湖に小さな舟が浮かんでいる。",
+        "zh": "湖里漂着一艘小船。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-983",
+      "index": 983,
+      "word": "太陽（たいよう）",
+      "reading": "たいよう",
+      "meaning": {
+        "en": "sun",
+        "zh": "太阳"
+      },
+      "sentence": {
+        "ja": "窓から太陽の光が入ってきた。",
+        "zh": "阳光透过窗户照了进来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-984",
+      "index": 984,
+      "word": "現れる（あらわれる）",
+      "reading": "あらわれる",
+      "meaning": {
+        "en": "to appear",
+        "zh": "出现"
+      },
+      "sentence": {
+        "ja": "東の空から太陽が現れた。",
+        "zh": "太阳出现在东边的天空上了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-985",
+      "index": 985,
+      "word": "沈む（しずむ）",
+      "reading": "しずむ",
+      "meaning": {
+        "en": "to sink, to go down",
+        "zh": "下沉"
+      },
+      "sentence": {
+        "ja": "太陽が海に沈むとき、美しくて感動する。",
+        "zh": "太阳沉落大海的那一刻，美得让人感动。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-986",
+      "index": 986,
+      "word": "薄暗い（うすぐらい）",
+      "reading": "うすぐらい",
+      "meaning": {
+        "en": "dim, gloomy",
+        "zh": "昏暗"
+      },
+      "sentence": {
+        "ja": "太陽が沈み、薄暗くなった。",
+        "zh": "太阳落山，天色变得昏暗了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-987",
+      "index": 987,
+      "word": "穴（あな）",
+      "reading": "あな",
+      "meaning": {
+        "en": "hole",
+        "zh": "洞穴"
+      },
+      "sentence": {
+        "ja": "冬の間、クマは穴の中で暮らす。",
+        "zh": "整个冬天，熊将生活在洞穴里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-988",
+      "index": 988,
+      "word": "ほる（ほる）",
+      "reading": "ほる",
+      "meaning": {
+        "en": "to dig",
+        "zh": "挖，刨"
+      },
+      "sentence": {
+        "ja": "うちの犬が、庭に穴をほった。",
+        "zh": "我家的狗在院子里刨了个洞。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-989",
+      "index": 989,
+      "word": "うめる（うめる）",
+      "reading": "うめる",
+      "meaning": {
+        "en": "to bury",
+        "zh": "填；埋"
+      },
+      "sentence": {
+        "ja": "庭に穴をほって、生ごみをうめた。",
+        "zh": "我在院子里挖了个洞，把厨余垃圾埋了进去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-990",
+      "index": 990,
+      "word": "土（つち）",
+      "reading": "つち",
+      "meaning": {
+        "en": "dirt, earth",
+        "zh": "土"
+      },
+      "sentence": {
+        "ja": "この皿は、この山の土で、できている。",
+        "zh": "这个碟子是用这座山上的土制作的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-991",
+      "index": 991,
+      "word": "岩（いわ）",
+      "reading": "いわ",
+      "meaning": {
+        "en": "rock, boulder",
+        "zh": "岩石"
+      },
+      "sentence": {
+        "ja": "大きな岩の上に座って、海を見た。",
+        "zh": "我坐在一块巨大的岩石上看着海。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-992",
+      "index": 992,
+      "word": "丘（おか）",
+      "reading": "おか",
+      "meaning": {
+        "en": "hill",
+        "zh": "山冈，小山"
+      },
+      "sentence": {
+        "ja": "向こうの丘の上に、小さな家が見える。",
+        "zh": "对面那座小山上面有一栋小房子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-993",
+      "index": 993,
+      "word": "火山（かざん）",
+      "reading": "かざん",
+      "meaning": {
+        "en": "volcano",
+        "zh": "火山"
+      },
+      "sentence": {
+        "ja": "日本には、火山がたくさんある。",
+        "zh": "日本有许多火山。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-994",
+      "index": 994,
+      "word": "想像＜する＞（そうぞう）",
+      "reading": "そうぞう",
+      "meaning": {
+        "en": "imagining",
+        "zh": "想象"
+      },
+      "sentence": {
+        "ja": "ここが昔は海だったなんて、想像できない。",
+        "zh": "难以想象，以前这里居然是大海。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-995",
+      "index": 995,
+      "word": "見上げる（みあげる）",
+      "reading": "みあげる",
+      "meaning": {
+        "en": "to look up",
+        "zh": "抬头看，仰视"
+      },
+      "sentence": {
+        "ja": "空を見上げると、星がいっぱいだった。",
+        "zh": "抬头一看，满天繁星。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-996",
+      "index": 996,
+      "word": "見下ろす（みおろす）",
+      "reading": "みおろす",
+      "meaning": {
+        "en": "to look down",
+        "zh": "低头看，俯视"
+      },
+      "sentence": {
+        "ja": "山の上から、町を見下ろす。",
+        "zh": "从山上俯视小城。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-997",
+      "index": 997,
+      "word": "ほえる（ほえる）",
+      "reading": "ほえる",
+      "meaning": {
+        "en": "to howl",
+        "zh": "叫，吼"
+      },
+      "sentence": {
+        "ja": "夜、動物がほえるのが聞こえた。",
+        "zh": "夜晚，我听到了动物的叫声。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-998",
+      "index": 998,
+      "word": "しっぽ（しっぽ）",
+      "reading": "しっぽ",
+      "meaning": {
+        "en": "tail",
+        "zh": "尾巴"
+      },
+      "sentence": {
+        "ja": "うちの猫のしっぽは長い。",
+        "zh": "我家猫的尾巴很长。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l01-999",
+      "index": 999,
+      "word": "さびる（さびる）",
+      "reading": "さびる",
+      "meaning": {
+        "en": "to rust",
+        "zh": "生锈"
+      },
+      "sentence": {
+        "ja": "海のそばに引っ越したら、車がさびた。",
+        "zh": "搬到海边之后，车子生锈了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

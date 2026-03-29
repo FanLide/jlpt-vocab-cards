@@ -1,0 +1,571 @@
+{
+  "id": "ch05-l03",
+  "chapterId": "ch05",
+  "titleJa": "日本の大学",
+  "titleZh": "日本の大学",
+  "rangeNote": "553～583",
+  "audio": {
+    "track": "Chapter05_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter05_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch05-l03-553",
+      "index": 553,
+      "word": "学部（がくぶ）",
+      "reading": "がくぶ",
+      "meaning": {
+        "en": "school department",
+        "zh": "院系"
+      },
+      "sentence": {
+        "ja": "人気の学部に、定員の５０倍の学生が集まった。",
+        "zh": "热门院系吸引了50倍于招生人数的学生。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-554",
+      "index": 554,
+      "word": "文系（ぶんけい）",
+      "reading": "ぶんけい",
+      "meaning": {
+        "en": "humanities, fine arts",
+        "zh": "文科"
+      },
+      "sentence": {
+        "ja": "ほとんどの大学では、文系に女子が多い。",
+        "zh": "几乎所有的大学里，文科都是女生多。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-555",
+      "index": 555,
+      "word": "理系（りけい）",
+      "reading": "りけい",
+      "meaning": {
+        "en": "sciences",
+        "zh": "理科"
+      },
+      "sentence": {
+        "ja": "化学が好きなので、理系に進んだ。",
+        "zh": "我喜欢化学，所以进了理科。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-556",
+      "index": 556,
+      "word": "学科（がっか）",
+      "reading": "がっか",
+      "meaning": {
+        "en": "course of study",
+        "zh": "专业"
+      },
+      "sentence": {
+        "ja": "私は外国語学部の日本語学科で勉強している。",
+        "zh": "我在外语系日语专业学习。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-557",
+      "index": 557,
+      "word": "専攻＜する＞（せんこう）",
+      "reading": "せんこう",
+      "meaning": {
+        "en": "major",
+        "zh": "专业"
+      },
+      "sentence": {
+        "ja": "大学で何を専攻するか、よく考えて受験する。",
+        "zh": "报考时要想清楚上大学选什么专业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-558",
+      "index": 558,
+      "word": "前期（ぜんき）",
+      "reading": "ぜんき",
+      "meaning": {
+        "en": "first term",
+        "zh": "上学期"
+      },
+      "sentence": {
+        "ja": "明日から前期の試験が始まる。",
+        "zh": "上学期的考试从明天开始。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-559",
+      "index": 559,
+      "word": "学費（がくひ）",
+      "reading": "がくひ",
+      "meaning": {
+        "en": "school tuition",
+        "zh": "学费"
+      },
+      "sentence": {
+        "ja": "この大学の学費は、あまり高くない。",
+        "zh": "这所大学的学费不太高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-560",
+      "index": 560,
+      "word": "奨学金（しょうがくきん）",
+      "reading": "しょうがくきん",
+      "meaning": {
+        "en": "scholarship",
+        "zh": "奖学金"
+      },
+      "sentence": {
+        "ja": "今年から奨学金が、もらえることになった。",
+        "zh": "从今年起，我可以领奖学金了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-561",
+      "index": 561,
+      "word": "公立（こうりつ）",
+      "reading": "こうりつ",
+      "meaning": {
+        "en": "public institution",
+        "zh": "公立"
+      },
+      "sentence": {
+        "ja": "高校まで、公立の学校に通っていた。",
+        "zh": "到高中为止，我一直上的是公立学校。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-562",
+      "index": 562,
+      "word": "私立（しりつ）",
+      "reading": "しりつ",
+      "meaning": {
+        "en": "private institution",
+        "zh": "私立"
+      },
+      "sentence": {
+        "ja": "東京には、有名な私立大学がたくさんある。",
+        "zh": "东京有许多知名的私立大学。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-563",
+      "index": 563,
+      "word": "教授（きょうじゅ）",
+      "reading": "きょうじゅ",
+      "meaning": {
+        "en": "professor",
+        "zh": "教授"
+      },
+      "sentence": {
+        "ja": "法学部の田中教授は、とても有名な人だ。",
+        "zh": "法学系的田中教授非常有名。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-564",
+      "index": 564,
+      "word": "講義＜する＞（こうぎ）",
+      "reading": "こうぎ",
+      "meaning": {
+        "en": "lecture",
+        "zh": "课，讲课"
+      },
+      "sentence": {
+        "ja": "鈴木教授の講義は、学生に大人気だ。",
+        "zh": "铃木教授的课深受学生的欢迎。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-565",
+      "index": 565,
+      "word": "えらい（えらい）",
+      "reading": "えらい",
+      "meaning": {
+        "en": "excellent, eminent",
+        "zh": "了不起"
+      },
+      "sentence": {
+        "ja": "この大学には、えらい教授が多い。",
+        "zh": "这所大学里有很多了不起的教授。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-566",
+      "index": 566,
+      "word": "ゼミ（ゼミ）",
+      "reading": "ゼミ",
+      "meaning": {
+        "en": "seminar",
+        "zh": "研究班"
+      },
+      "sentence": {
+        "ja": "どのゼミを選ぶか、まだ考えている。",
+        "zh": "我还在考虑选择哪一个研究班。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-567",
+      "index": 567,
+      "word": "テーマ（テーマ）",
+      "reading": "テーマ",
+      "meaning": {
+        "en": "theme",
+        "zh": "主题"
+      },
+      "sentence": {
+        "ja": "論文のテーマを、来週までに決めなければいけない。",
+        "zh": "下周之前必须决定论文的主题。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-568",
+      "index": 568,
+      "word": "手続き＜する＞（てつづき）",
+      "reading": "てつづき",
+      "meaning": {
+        "en": "procedure, process",
+        "zh": "手续"
+      },
+      "sentence": {
+        "ja": "入学の手続きは、金曜日までにしなければならない。",
+        "zh": "周五之前必须办理入学手续。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-569",
+      "index": 569,
+      "word": "日付（ひづけ）",
+      "reading": "ひづけ",
+      "meaning": {
+        "en": "date",
+        "zh": "日期"
+      },
+      "sentence": {
+        "ja": "レポートに日付を書いてください。",
+        "zh": "请在报告里写上日期。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-570",
+      "index": 570,
+      "word": "筆者（ひっしゃ）",
+      "reading": "ひっしゃ",
+      "meaning": {
+        "en": "writer, author",
+        "zh": "笔者，作者"
+      },
+      "sentence": {
+        "ja": "この筆者の本は、私にはとても役に立つ。",
+        "zh": "这位作者的书对我很有帮助。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-571",
+      "index": 571,
+      "word": "内容（ないよう）",
+      "reading": "ないよう",
+      "meaning": {
+        "en": "content",
+        "zh": "内容"
+      },
+      "sentence": {
+        "ja": "レポートの内容はいいが、枚数が足りない。",
+        "zh": "报告的内容虽好，但页数不够。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-572",
+      "index": 572,
+      "word": "まとめる（まとめる）",
+      "reading": "まとめる",
+      "meaning": {
+        "en": "summarize",
+        "zh": "整理，归纳"
+      },
+      "sentence": {
+        "ja": "考えをまとめて、発表してください。",
+        "zh": "归纳一下想法，然后做报告。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-573",
+      "index": 573,
+      "word": "仕上げる（しあげる）",
+      "reading": "しあげる",
+      "meaning": {
+        "en": "to finish up, to complete",
+        "zh": "完成"
+      },
+      "sentence": {
+        "ja": "卒業論文を１週間で仕上げた。",
+        "zh": "我用一个星期写完了毕业论文。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-574",
+      "index": 574,
+      "word": "提出＜する＞（ていしゅつ）",
+      "reading": "ていしゅつ",
+      "meaning": {
+        "en": "submission",
+        "zh": "提交"
+      },
+      "sentence": {
+        "ja": "締め切りまでに、レポートを提出しなければ。",
+        "zh": "我得在截止日期之前提交报告。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-575",
+      "index": 575,
+      "word": "進路（しんろ）",
+      "reading": "しんろ",
+      "meaning": {
+        "en": "route, course, university choices",
+        "zh": "前进的道路"
+      },
+      "sentence": {
+        "ja": "大学卒業後の進路について、親に相談した。",
+        "zh": "我找父母商量了大学毕业后的去向。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-576",
+      "index": 576,
+      "word": "大学院（だいがくいん）",
+      "reading": "だいがくいん",
+      "meaning": {
+        "en": "graduate school",
+        "zh": "研究生院"
+      },
+      "sentence": {
+        "ja": "私は大学院で、研究をしたいと思っている。",
+        "zh": "我想进入研究生院做研究。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-577",
+      "index": 577,
+      "word": "進学＜する＞（しんがく）",
+      "reading": "しんがく",
+      "meaning": {
+        "en": "school progression",
+        "zh": "升学"
+      },
+      "sentence": {
+        "ja": "大学院進学のための準備をする。",
+        "zh": "为考研做准备。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-578",
+      "index": 578,
+      "word": "一人暮らし（ひとりぐらし）",
+      "reading": "ひとりぐらし",
+      "meaning": {
+        "en": "living alone",
+        "zh": "独自生活"
+      },
+      "sentence": {
+        "ja": "一人暮らしは楽しいが、ときどきさびしくなる。",
+        "zh": "一个人生活虽然开心，但有时也会寂寞。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-579",
+      "index": 579,
+      "word": "アルバイト＜する＞（アルバイト）",
+      "reading": "アルバイト",
+      "meaning": {
+        "en": "part-time job",
+        "zh": "打工，兼职"
+      },
+      "sentence": {
+        "ja": "来月からアルバイトを減らすことにした。",
+        "zh": "我决定从下个月起少做一些兼职。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-580",
+      "index": 580,
+      "word": "時給（じきゅう）",
+      "reading": "じきゅう",
+      "meaning": {
+        "en": "hourly wage",
+        "zh": "时薪"
+      },
+      "sentence": {
+        "ja": "今のバイトの時給は悪くない。",
+        "zh": "我现在这份兼职的时薪还不差。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-581",
+      "index": 581,
+      "word": "寮（りょう）",
+      "reading": "りょう",
+      "meaning": {
+        "en": "dorm",
+        "zh": "宿舍"
+      },
+      "sentence": {
+        "ja": "大学の寮が空いていれば、ぜひ入りたい。",
+        "zh": "如果大学宿舍有空床，我很想住。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-582",
+      "index": 582,
+      "word": "休学＜する＞（きゅうがく）",
+      "reading": "きゅうがく",
+      "meaning": {
+        "en": "taking time off from school",
+        "zh": "休学"
+      },
+      "sentence": {
+        "ja": "海外留学するために、２年間休学することにした。",
+        "zh": "为了出国留学，我决定休学两年。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l03-583",
+      "index": 583,
+      "word": "退学＜する＞（たいがく）",
+      "reading": "たいがく",
+      "meaning": {
+        "en": "leaving school, dropping out",
+        "zh": "退学"
+      },
+      "sentence": {
+        "ja": "経済的な理由で退学した。",
+        "zh": "因为经济上的原因，我退学了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "ch05-l04",
+  "chapterId": "ch05",
+  "titleJa": "試験",
+  "titleZh": "試験",
+  "rangeNote": "584～608",
+  "audio": {
+    "track": "Chapter05_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter05_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch05-l04-584",
+      "index": 584,
+      "word": "受験＜する＞（じゅけん）",
+      "reading": "じゅけん",
+      "meaning": {
+        "en": "taking a test",
+        "zh": "报考，应考"
+      },
+      "sentence": {
+        "ja": "受験のために、毎日１０時間勉強している。",
+        "zh": "为了应考，我每天学习10个小时。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-585",
+      "index": 585,
+      "word": "受験生（じゅけんせい）",
+      "reading": "じゅけんせい",
+      "meaning": {
+        "en": "test taker",
+        "zh": "考生"
+      },
+      "sentence": {
+        "ja": "妹が受験生なので、家族で応援している。",
+        "zh": "妹妹是考生，全家人都在为她加油。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-586",
+      "index": 586,
+      "word": "合格＜する＞（ごうかく）",
+      "reading": "ごうかく",
+      "meaning": {
+        "en": "passing",
+        "zh": "合格"
+      },
+      "sentence": {
+        "ja": "毎日がんばったのだから、ぜひ合格したい。",
+        "zh": "我每天都在努力，希望一定要考过。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-587",
+      "index": 587,
+      "word": "配る（くばる）",
+      "reading": "くばる",
+      "meaning": {
+        "en": "to distribute, to hand out",
+        "zh": "分，发"
+      },
+      "sentence": {
+        "ja": "試験の説明のあとで、問題が配られた。",
+        "zh": "老师宣读完考试说明，就分发了试卷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-588",
+      "index": 588,
+      "word": "氏名（しめい）",
+      "reading": "しめい",
+      "meaning": {
+        "en": "full name",
+        "zh": "姓名"
+      },
+      "sentence": {
+        "ja": "氏名のところに、ローマ字で名前を書く。",
+        "zh": "在姓名处用罗马字写上名字。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-589",
+      "index": 589,
+      "word": "裏返す（うらがえす）",
+      "reading": "うらがえす",
+      "meaning": {
+        "en": "to turn over",
+        "zh": "翻过来"
+      },
+      "sentence": {
+        "ja": "時間になるまで、問題の紙を裏返しておいてください。",
+        "zh": "考试时间开始之前，请把试卷翻过来放着。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-590",
+      "index": 590,
+      "word": "問い（とい）",
+      "reading": "とい",
+      "meaning": {
+        "en": "question",
+        "zh": "题目"
+      },
+      "sentence": {
+        "ja": "問いをよく読んでから、答えましょう。",
+        "zh": "认真读题目，然后作答。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-591",
+      "index": 591,
+      "word": "解く（とく）",
+      "reading": "とく",
+      "meaning": {
+        "en": "to solve",
+        "zh": "解答"
+      },
+      "sentence": {
+        "ja": "どんどん問題を解いていく。",
+        "zh": "一题接一题地作答。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-592",
+      "index": 592,
+      "word": "正解＜する＞（せいかい）",
+      "reading": "せいかい",
+      "meaning": {
+        "en": "correct answer",
+        "zh": "正确答案"
+      },
+      "sentence": {
+        "ja": "試験が終わったら、正解の紙を配ります。",
+        "zh": "考完之后会发正确答案。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-593",
+      "index": 593,
+      "word": "正確＜な＞（せいかく）",
+      "reading": "せいかく",
+      "meaning": {
+        "en": "accuracy",
+        "zh": "准确"
+      },
+      "sentence": {
+        "ja": "漢字は正確に書いてください。（ナ形）",
+        "zh": "请准确地写出汉字。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-594",
+      "index": 594,
+      "word": "すらすら［と］（すらすら）",
+      "reading": "すらすら",
+      "meaning": {
+        "en": "smoothly",
+        "zh": "顺利地"
+      },
+      "sentence": {
+        "ja": "問題が簡単なので、すらすらと解けた。",
+        "zh": "题目很简单，我答得很顺利。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-595",
+      "index": 595,
+      "word": "ちっとも（ちっとも）",
+      "reading": "ちっとも",
+      "meaning": {
+        "en": "not at all",
+        "zh": "一点儿（也不）"
+      },
+      "sentence": {
+        "ja": "何度問題を読んでも、ちっともわからない。",
+        "zh": "读了好几遍题目，还是完全不明白。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-596",
+      "index": 596,
+      "word": "カンニング＜する＞（カンニング）",
+      "reading": "カンニング",
+      "meaning": {
+        "en": "cheating",
+        "zh": "作弊"
+      },
+      "sentence": {
+        "ja": "カンニングをした学生が、注意された。",
+        "zh": "作弊的学生受到了警告。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-597",
+      "index": 597,
+      "word": "ぎりぎり＜な＞（ぎりぎり）",
+      "reading": "ぎりぎり",
+      "meaning": {
+        "en": "barely",
+        "zh": "最大限度，极限"
+      },
+      "sentence": {
+        "ja": "これが合格ぎりぎりの点だった。（名） 試験の時間ぎりぎりに間に合った。（ナ形） 这个分数刚刚好及格。",
+        "zh": "差一点儿没赶上考试。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-598",
+      "index": 598,
+      "word": "余る（あまる）",
+      "reading": "あまる",
+      "meaning": {
+        "en": "to remain, to be left over",
+        "zh": "剩"
+      },
+      "sentence": {
+        "ja": "問題が早く解けたので、時間が余った。",
+        "zh": "题目做得快，我还剩了一些时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-599",
+      "index": 599,
+      "word": "適当＜な＞（てきとう）",
+      "reading": "てきとう",
+      "meaning": {
+        "en": "appropriately, suitable",
+        "zh": "恰当；敷衍"
+      },
+      "sentence": {
+        "ja": "①４つの中から、適当な答えを１つ選びなさい。",
+        "zh": "②彼の仕事は、いつも適当で、みんな怒っている。 ①请从4个选项中选择恰当的1项。 ②他做工作总是敷衍了事，大家都很生气。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-600",
+      "index": 600,
+      "word": "でたらめ＜な＞（でたらめ）",
+      "reading": "でたらめ",
+      "meaning": {
+        "en": "nonsense, haphazard, random",
+        "zh": "胡来，胡说八道"
+      },
+      "sentence": {
+        "ja": "全然わからないので、でたらめな答えを書いた。（ナ形）",
+        "zh": "我完全不懂，于是就胡乱作答了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-601",
+      "index": 601,
+      "word": "間違い（まちがい）",
+      "reading": "まちがい",
+      "meaning": {
+        "en": "mistake",
+        "zh": "错误"
+      },
+      "sentence": {
+        "ja": "試験の問題に間違いがあった。",
+        "zh": "考试题目有错。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-602",
+      "index": 602,
+      "word": "優れる（すぐれる）",
+      "reading": "すぐれる",
+      "meaning": {
+        "en": "to surpass, to excel",
+        "zh": "优秀"
+      },
+      "sentence": {
+        "ja": "彼女は学力が優れている。",
+        "zh": "她的学习能力很优秀。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-603",
+      "index": 603,
+      "word": "実力（じつりょく）",
+      "reading": "じつりょく",
+      "meaning": {
+        "en": "real ability, actual ability",
+        "zh": "实力"
+      },
+      "sentence": {
+        "ja": "試験で、１００パーセント実力を出すのは難しい。",
+        "zh": "考试时很难发挥100%的实力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-604",
+      "index": 604,
+      "word": "結果（けっか）",
+      "reading": "けっか",
+      "meaning": {
+        "en": "result",
+        "zh": "结果"
+      },
+      "sentence": {
+        "ja": "早く結果を知りたいが、知るのが怖い。",
+        "zh": "我想早一点知道结果，却又害怕知道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-605",
+      "index": 605,
+      "word": "少数（しょうすう）",
+      "reading": "しょうすう",
+      "meaning": {
+        "en": "small amount",
+        "zh": "少数"
+      },
+      "sentence": {
+        "ja": "この試験は少数の人しか合格しない。",
+        "zh": "这次考试只有少数人及格。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-606",
+      "index": 606,
+      "word": "可能性（かのうせい）",
+      "reading": "かのうせい",
+      "meaning": {
+        "en": "possibility",
+        "zh": "可能性"
+      },
+      "sentence": {
+        "ja": "自分が大学に受かる可能性を信じたい。",
+        "zh": "我相信自己考上大学的可能性。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-607",
+      "index": 607,
+      "word": "あきらめる（あきらめる）",
+      "reading": "あきらめる",
+      "meaning": {
+        "en": "to give up",
+        "zh": "放弃"
+      },
+      "sentence": {
+        "ja": "どんな結果でも、あきらめない。",
+        "zh": "不管结果怎么样，我都不会放弃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l04-608",
+      "index": 608,
+      "word": "掲示板（けいじばん）",
+      "reading": "けいじばん",
+      "meaning": {
+        "en": "bulletin board",
+        "zh": "布告栏"
+      },
+      "sentence": {
+        "ja": "掲示板に、試験のお知らせがはってある。",
+        "zh": "布告栏上贴着考试通知。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

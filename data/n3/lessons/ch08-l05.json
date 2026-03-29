@@ -1,0 +1,427 @@
+{
+  "id": "ch08-l05",
+  "chapterId": "ch08",
+  "titleJa": "病院",
+  "titleZh": "病院",
+  "rangeNote": "952～974",
+  "audio": {
+    "track": "Chapter08_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter08_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch08-l05-952",
+      "index": 952,
+      "word": "患者（かんじゃ）",
+      "reading": "かんじゃ",
+      "meaning": {
+        "en": "patient",
+        "zh": "患者，病人"
+      },
+      "sentence": {
+        "ja": "この病院は、高齢の患者が多い。",
+        "zh": "这所医院有很多老年病人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-953",
+      "index": 953,
+      "word": "診察＜する＞（しんさつ）",
+      "reading": "しんさつ",
+      "meaning": {
+        "en": "examination",
+        "zh": "看病，检查"
+      },
+      "sentence": {
+        "ja": "鈴木先生は診察中です。",
+        "zh": "铃木老师正在看病。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-954",
+      "index": 954,
+      "word": "検査＜する＞（けんさ）",
+      "reading": "けんさ",
+      "meaning": {
+        "en": "scan",
+        "zh": "检查"
+      },
+      "sentence": {
+        "ja": "大きな病院で検査したほうがいいですよ。",
+        "zh": "最好去大医院检查一下。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-955",
+      "index": 955,
+      "word": "治疗＜する＞（ちりょう）",
+      "reading": "ちりょう",
+      "meaning": {
+        "en": "medical treatment",
+        "zh": "治疗"
+      },
+      "sentence": {
+        "ja": "兄は、けがの治疗のために入院している。",
+        "zh": "哥哥正因伤入院治疗。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-956",
+      "index": 956,
+      "word": "健康診断（けんこうしんだん）",
+      "reading": "けんこうしんだん",
+      "meaning": {
+        "en": "heath examination, checkup",
+        "zh": "体检"
+      },
+      "sentence": {
+        "ja": "毎年、健康診断を受けている。",
+        "zh": "我每年都接受体检。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-957",
+      "index": 957,
+      "word": "内科（ないか）",
+      "reading": "ないか",
+      "meaning": {
+        "en": "internal medicine",
+        "zh": "内科"
+      },
+      "sentence": {
+        "ja": "かぜをひいたら、内科に行く。",
+        "zh": "要是感冒了，就去内科。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-958",
+      "index": 958,
+      "word": "外科（げか）",
+      "reading": "げか",
+      "meaning": {
+        "en": "surgery, department of surgery",
+        "zh": "外科"
+      },
+      "sentence": {
+        "ja": "けがをしたので、外科で診てもらった。",
+        "zh": "我受伤了，就去看了外科。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-959",
+      "index": 959,
+      "word": "小児科（しょうにか）",
+      "reading": "しょうにか",
+      "meaning": {
+        "en": "pediatrics",
+        "zh": "儿科"
+      },
+      "sentence": {
+        "ja": "小児科から、子どもの泣き声が聞こえてきた。",
+        "zh": "儿科诊室传来了孩子的哭声。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-960",
+      "index": 960,
+      "word": "保険（ほけん）",
+      "reading": "ほけん",
+      "meaning": {
+        "en": "health insurance",
+        "zh": "保险"
+      },
+      "sentence": {
+        "ja": "病気やけがのために、保険に入った。",
+        "zh": "考虑到生病、受伤，我加入了保险。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-961",
+      "index": 961,
+      "word": "保険証（ほけんしょう）",
+      "reading": "ほけんしょう",
+      "meaning": {
+        "en": "health insurance card",
+        "zh": "保险证"
+      },
+      "sentence": {
+        "ja": "病院に、保険証を持っていくのを忘れた。",
+        "zh": "我忘记带保险证去医院了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-962",
+      "index": 962,
+      "word": "効く（きく）",
+      "reading": "きく",
+      "meaning": {
+        "en": "to work, to be effective",
+        "zh": "有效，见效"
+      },
+      "sentence": {
+        "ja": "この薬は、かぜによく効く。",
+        "zh": "这药治感冒很见效。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-963",
+      "index": 963,
+      "word": "注射＜する＞（ちゅうしゃ）",
+      "reading": "ちゅうしゃ",
+      "meaning": {
+        "en": "injection",
+        "zh": "注射，打针"
+      },
+      "sentence": {
+        "ja": "注射をしてもらったら、すぐに熱が下がった。",
+        "zh": "打了针，立刻退烧了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-964",
+      "index": 964,
+      "word": "おんぶ＜する＞（おんぶ）",
+      "reading": "おんぶ",
+      "meaning": {
+        "en": "carrying on one's back",
+        "zh": "背"
+      },
+      "sentence": {
+        "ja": "娘をおんぶして、病院に行った。",
+        "zh": "我背着女儿去了医院。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-965",
+      "index": 965,
+      "word": "だっこ＜する＞（だっこ）",
+      "reading": "だっこ",
+      "meaning": {
+        "en": "carrying in one's arms",
+        "zh": "抱"
+      },
+      "sentence": {
+        "ja": "夫が初めて娘をだっこした。",
+        "zh": "老公第一次抱了女儿。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-966",
+      "index": 966,
+      "word": "栄養（えいよう）",
+      "reading": "えいよう",
+      "meaning": {
+        "en": "nutrition",
+        "zh": "营养"
+      },
+      "sentence": {
+        "ja": "栄養のある物を食べてください。",
+        "zh": "要吃有营养的食物。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-967",
+      "index": 967,
+      "word": "回復＜する＞（かいふく）",
+      "reading": "かいふく",
+      "meaning": {
+        "en": "to recover",
+        "zh": "恢复"
+      },
+      "sentence": {
+        "ja": "薬が効いて、翌日には体調が回復した。",
+        "zh": "吃的药见效了，第二天，我的身体就恢复了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-968",
+      "index": 968,
+      "word": "証明＜する＞（しょうめい）",
+      "reading": "しょうめい",
+      "meaning": {
+        "en": "proof, verification",
+        "zh": "证明"
+      },
+      "sentence": {
+        "ja": "インフルエンザを証明するために、診断書を書いてもらった。",
+        "zh": "为了证明我得了流感，我让医生开了诊断书。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-969",
+      "index": 969,
+      "word": "そっと＜する＞（そっと）",
+      "reading": "そっと",
+      "meaning": {
+        "en": "gently, softly",
+        "zh": "悄悄地，轻轻地"
+      },
+      "sentence": {
+        "ja": "子どもが起きないように、そっとドアを閉めた。",
+        "zh": "我轻轻地关上了门，以免吵醒孩子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-970",
+      "index": 970,
+      "word": "じっと＜する＞（じっと）",
+      "reading": "じっと",
+      "meaning": {
+        "en": "quietly",
+        "zh": "保持稳定，一动不动"
+      },
+      "sentence": {
+        "ja": "動かないで、じっとしてください。",
+        "zh": "待着，别动。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-971",
+      "index": 971,
+      "word": "手術＜する＞（しゅじゅつ）",
+      "reading": "しゅじゅつ",
+      "meaning": {
+        "en": "surgery",
+        "zh": "手术"
+      },
+      "sentence": {
+        "ja": "母は足の手術をした。",
+        "zh": "妈妈做了腿部手术。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-972",
+      "index": 972,
+      "word": "包帯（ほうたい）",
+      "reading": "ほうたい",
+      "meaning": {
+        "en": "bandage",
+        "zh": "绷带"
+      },
+      "sentence": {
+        "ja": "退院したとき、まだ包帯をしていた。",
+        "zh": "出院时我还绑着绷带。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-973",
+      "index": 973,
+      "word": "巻く（まく）",
+      "reading": "まく",
+      "meaning": {
+        "en": "to wrap",
+        "zh": "卷，缠"
+      },
+      "sentence": {
+        "ja": "自分で包帯を巻くのは難しい。",
+        "zh": "自己缠绷带是一件难事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l05-974",
+      "index": 974,
+      "word": "長生き＜する＞（ながいき）",
+      "reading": "ながいき",
+      "meaning": {
+        "en": "long life, longevity",
+        "zh": "长寿"
+      },
+      "sentence": {
+        "ja": "できるだけ長生きしたいと思っている。",
+        "zh": "我想尽可能活得长一些一些。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

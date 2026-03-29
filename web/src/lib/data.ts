@@ -46,6 +46,7 @@ const structureCache = new Map<string, BookStructure>()
 
 const structureLoaders: Record<string, () => Promise<{ default: unknown }>> = {
   'n2-lesson-structure.json': () => import('../../../data/n2-lesson-structure.json'),
+  'n3-lesson-structure.json': () => import('../../../data/n3-lesson-structure.json'),
 }
 
 export async function loadBookStructure(bookId: string): Promise<BookStructure | null> {

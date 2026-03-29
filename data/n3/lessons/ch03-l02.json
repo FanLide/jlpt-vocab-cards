@@ -1,0 +1,481 @@
+{
+  "id": "ch03-l02",
+  "chapterId": "ch03",
+  "titleJa": "お金と銀行",
+  "titleZh": "お金と銀行",
+  "rangeNote": "269～294",
+  "audio": {
+    "track": "Chapter03_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter03_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l02-269",
+      "index": 269,
+      "word": "［お］札（［お］さつ）",
+      "reading": "［お］さつ",
+      "meaning": {
+        "en": "monetary note",
+        "zh": "纸币"
+      },
+      "sentence": {
+        "ja": "日本のお札は、千円から一万円まである。",
+        "zh": "日本的纸币是从一千日元到一万日元的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-270",
+      "index": 270,
+      "word": "コイン（コイン）",
+      "reading": "コイン",
+      "meaning": {
+        "en": "coin",
+        "zh": "硬币"
+      },
+      "sentence": {
+        "ja": "海外のコインを集めるのが好きだ。",
+        "zh": "我喜欢收集国外的硬币。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-271",
+      "index": 271,
+      "word": "小銭（こぜに）",
+      "reading": "こぜに",
+      "meaning": {
+        "en": "coin, change",
+        "zh": "零钱"
+      },
+      "sentence": {
+        "ja": "財布に小銭がない。",
+        "zh": "钱包里没有零钱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-272",
+      "index": 272,
+      "word": "生活費（せいかつひ）",
+      "reading": "せいかつひ",
+      "meaning": {
+        "en": "cost of living",
+        "zh": "生活费"
+      },
+      "sentence": {
+        "ja": "日本は生活費が高い。",
+        "zh": "日本的生活费很高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-273",
+      "index": 273,
+      "word": "食費（しょくひ）",
+      "reading": "しょくひ",
+      "meaning": {
+        "en": "food expense",
+        "zh": "伙食费"
+      },
+      "sentence": {
+        "ja": "１か月の食費は２万円ぐらいだ。",
+        "zh": "每个月伙食费大约两万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-274",
+      "index": 274,
+      "word": "光熱費（こうねつひ）",
+      "reading": "こうねつひ",
+      "meaning": {
+        "en": "heating and electricity expense",
+        "zh": "煤电费"
+      },
+      "sentence": {
+        "ja": "日本は光熱費が高い。",
+        "zh": "日本的煤电费很高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-275",
+      "index": 275,
+      "word": "交際費（こうさいひ）",
+      "reading": "こうさいひ",
+      "meaning": {
+        "en": "entertainment expense",
+        "zh": "交际开销"
+      },
+      "sentence": {
+        "ja": "友だちとよく飲みに行くので、交際費がかかる。",
+        "zh": "我常和朋友一起喝酒，所以有一些交际上的开销。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-276",
+      "index": 276,
+      "word": "公共料金（こうきょうりょうきん）",
+      "reading": "こうきょうりょうきん",
+      "meaning": {
+        "en": "public utilities charge",
+        "zh": "公共事业费"
+      },
+      "sentence": {
+        "ja": "この国は公共料金が安い。",
+        "zh": "这个国家的公共事业费比较低。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-277",
+      "index": 277,
+      "word": "［お］こづかい（［お］こづかい）",
+      "reading": "［お］こづかい",
+      "meaning": {
+        "en": "allowance",
+        "zh": "零花钱"
+      },
+      "sentence": {
+        "ja": "１か月のこづかいは３万円だ。",
+        "zh": "每个月零花钱是3万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-278",
+      "index": 278,
+      "word": "節約＜する＞（せつやく）",
+      "reading": "せつやく",
+      "meaning": {
+        "en": "saving, economizing",
+        "zh": "节约"
+      },
+      "sentence": {
+        "ja": "旅行のために節約している。",
+        "zh": "为了旅行，我正在省吃俭用。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-279",
+      "index": 279,
+      "word": "ぜいたく＜な／する＞（ぜいたく）",
+      "reading": "ぜいたく",
+      "meaning": {
+        "en": "luxury, extravagance",
+        "zh": "奢侈，浪费；过分讲究"
+      },
+      "sentence": {
+        "ja": "①今はまだ学生なので、ぜいたくはできない。",
+        "zh": "②ぜいたくな生活に、あまり興味がない。 ①我现在还是学生，所以不能太奢侈。 ②我对奢华的生活不太感兴趣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-280",
+      "index": 280,
+      "word": "割り勘（わりかん）",
+      "reading": "わりかん",
+      "meaning": {
+        "en": "splitting the cost",
+        "zh": "AA制"
+      },
+      "sentence": {
+        "ja": "今日は割り勘にしよう。",
+        "zh": "今天我们AA吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-281",
+      "index": 281,
+      "word": "レンタル＜する＞（レンタル）",
+      "reading": "レンタル",
+      "meaning": {
+        "en": "rental",
+        "zh": "租赁"
+      },
+      "sentence": {
+        "ja": "結婚式のドレスは、レンタルにした。",
+        "zh": "我决定租婚礼礼服。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-282",
+      "index": 282,
+      "word": "支払う（しはらう）",
+      "reading": "しはらう",
+      "meaning": {
+        "en": "to pay",
+        "zh": "支付"
+      },
+      "sentence": {
+        "ja": "コンビニで、公共料金を支払うことができる。",
+        "zh": "可以在便利店缴纳公共事业费。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-283",
+      "index": 283,
+      "word": "支払い（しはらい）",
+      "reading": "しはらい",
+      "meaning": {
+        "en": "payment",
+        "zh": "支付"
+      },
+      "sentence": {
+        "ja": "公共料金の支払いを忘れていた。",
+        "zh": "我忘记交公共事业费了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-284",
+      "index": 284,
+      "word": "勘定＜する＞（かんじょう）",
+      "reading": "かんじょう",
+      "meaning": {
+        "en": "bill, check",
+        "zh": "结账"
+      },
+      "sentence": {
+        "ja": "客「お勘定は、どこでしますか。」 店員「レジでお願いします。」 客人：在哪里结账？",
+        "zh": "店员：收银台。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-285",
+      "index": 285,
+      "word": "口座（こうざ）",
+      "reading": "こうざ",
+      "meaning": {
+        "en": "account",
+        "zh": "账户"
+      },
+      "sentence": {
+        "ja": "初めて自分の口座を開いた。",
+        "zh": "我开了自己的第一个账户。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-286",
+      "index": 286,
+      "word": "キャッシュカード（キャッシュカード）",
+      "reading": "キャッシュカード",
+      "meaning": {
+        "en": "cash card",
+        "zh": "借记卡"
+      },
+      "sentence": {
+        "ja": "銀行からキャッシュカードが届いた。",
+        "zh": "银行寄来了借记卡。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-287",
+      "index": 287,
+      "word": "暗証番号（あんしょうばんごう）",
+      "reading": "あんしょうばんごう",
+      "meaning": {
+        "en": "personal identification number, P.I.N.",
+        "zh": "密码"
+      },
+      "sentence": {
+        "ja": "カードの暗証番号を忘れてしまった。",
+        "zh": "我忘记卡的密码了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-288",
+      "index": 288,
+      "word": "預金＜する＞（よきん）",
+      "reading": "よきん",
+      "meaning": {
+        "en": "deposit",
+        "zh": "存款"
+      },
+      "sentence": {
+        "ja": "銀行に１００万円預金した。",
+        "zh": "我在银行里存了100万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-289",
+      "index": 289,
+      "word": "ためる（ためる）",
+      "reading": "ためる",
+      "meaning": {
+        "en": "to save, to gather",
+        "zh": "存，积攒"
+      },
+      "sentence": {
+        "ja": "会社員になったら、お金をためるつもりだ。",
+        "zh": "我打算进了公司就存钱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-290",
+      "index": 290,
+      "word": "たまる（たまる）",
+      "reading": "たまる",
+      "meaning": {
+        "en": "to be saved, to be gathered",
+        "zh": "积攒"
+      },
+      "sentence": {
+        "ja": "節約しても、なかなかお金がたまらない。",
+        "zh": "省吃俭用也存不下多少钱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-291",
+      "index": 291,
+      "word": "引き出す（ひきだす）",
+      "reading": "ひきだす",
+      "meaning": {
+        "en": "to pull out",
+        "zh": "取出"
+      },
+      "sentence": {
+        "ja": "大きな買い物をするので、お金を引き出した。",
+        "zh": "我要花一大笔钱买东西，于是把钱取了出来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-292",
+      "index": 292,
+      "word": "振り込む（ふりこむ）",
+      "reading": "ふりこむ",
+      "meaning": {
+        "en": "to deposit, to make a payment via bank deposit",
+        "zh": "存钱，缴费"
+      },
+      "sentence": {
+        "ja": "銀行で、公共料金を振り込んだ。",
+        "zh": "我在银行缴了公共事业费。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-293",
+      "index": 293,
+      "word": "送金＜する＞（そうきん）",
+      "reading": "そうきん",
+      "meaning": {
+        "en": "to send money, to transfer money",
+        "zh": "汇款"
+      },
+      "sentence": {
+        "ja": "今月も、国の両親に送金した。",
+        "zh": "我这个月也给国内的父母汇款了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l02-294",
+      "index": 294,
+      "word": "通帳記入（つうちょうきにゅう）",
+      "reading": "つうちょうきにゅう",
+      "meaning": {
+        "en": "entering in bankbook",
+        "zh": "登折"
+      },
+      "sentence": {
+        "ja": "通帳記入のために、銀行に寄った。",
+        "zh": "我顺便去了银行补登存折。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

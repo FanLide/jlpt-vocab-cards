@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState, type MouseEvent } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { getLessonMeta, friendlyLessonTitle, getNextLessonId, getBookEntry } from '../lib/data'
+import { getLessonMeta, friendlyLessonTitle, getNextLessonId, getBookEntry, loadBookStructure, type BookStructure } from '../lib/data'
 import { loadLesson } from '../lib/lesson'
 import { isAudioCached, precacheAudio } from '../lib/cacheAudio'
 import { CardDeck } from '../components/CardDeck'
@@ -12,7 +12,8 @@ export function LessonPage() {
   const { bookId, lessonId } = useParams<{ bookId: string; lessonId: string }>()
   const bookEntry = bookId ? getBookEntry(bookId) : null
   const lessonDir = bookEntry?.lessonDir ?? 'n2'
-  const meta = useMemo(() => (lessonId ? getLessonMeta(lessonId) : null), [lessonId])
+  const [structure, setStructure] = useState<BookStructure | null>(null)
+  const meta = useMemo(() => (lessonId && structure ? getLessonMeta(lessonId, structure) : null), [lessonId, structure])
 
   const [lesson, setLesson] = useState<Awaited<ReturnType<typeof loadLesson>>>(null)
   const navigate = useNavigate()
@@ -27,13 +28,18 @@ export function LessonPage() {
   const audioRef = useRef<HTMLAudioElement | null>(null)
 
   useEffect(() => {
+    if (!bookId) return
+    loadBookStructure(bookId).then(setStructure)
+  }, [bookId])
+
+  useEffect(() => {
     setError(null)
     setLesson(null)
     if (!lessonId) return
     loadLesson(lessonId, lessonDir)
       .then((x) => setLesson(x))
       .catch((e) => setError(String(e)))
-  }, [lessonId])
+  }, [lessonId, lessonDir])
 
   const audioBase = import.meta.env.VITE_AUDIO_BASE_URL as string | undefined
   const audioUrl = lesson?.audio?.track
@@ -119,8 +125,8 @@ export function LessonPage() {
                 src={audioUrl}
                 loop={loopEnabled}
                 onEnded={() => {
-                  if (autoNext && lessonId) {
-                    const nextId = getNextLessonId(lessonId)
+                  if (autoNext && lessonId && structure) {
+                    const nextId = getNextLessonId(lessonId, structure)
                     if (nextId) navigate(`/book/${bookId}/lesson/${nextId}`)
                   }
                 }}

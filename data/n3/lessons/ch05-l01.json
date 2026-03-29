@@ -1,0 +1,535 @@
+{
+  "id": "ch05-l01",
+  "chapterId": "ch05",
+  "titleJa": "学校",
+  "titleZh": "学校",
+  "rangeNote": "497～525",
+  "audio": {
+    "track": "Chapter05_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter05_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch05-l01-497",
+      "index": 497,
+      "word": "入学式（にゅうがくしき）",
+      "reading": "にゅうがくしき",
+      "meaning": {
+        "en": "school entrance ceremony",
+        "zh": "开学典礼"
+      },
+      "sentence": {
+        "ja": "入学式のころ、さくらが咲く。",
+        "zh": "开学典礼时，樱花将开。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-498",
+      "index": 498,
+      "word": "卒業式（そつぎょうしき）",
+      "reading": "そつぎょうしき",
+      "meaning": {
+        "en": "graduation ceremony",
+        "zh": "毕业典礼"
+      },
+      "sentence": {
+        "ja": "卒業式の日、大きな声で泣いた。",
+        "zh": "毕业典礼那天，我大声地哭了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-499",
+      "index": 499,
+      "word": "通学＜する＞（つうがく）",
+      "reading": "つうがく",
+      "meaning": {
+        "en": "commuting to school",
+        "zh": "走读"
+      },
+      "sentence": {
+        "ja": "私はバスと電車で通学しています。",
+        "zh": "我坐公交车和电车走读。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-500",
+      "index": 500,
+      "word": "学年（がくねん）",
+      "reading": "がくねん",
+      "meaning": {
+        "en": "school year, grade",
+        "zh": "学年；年级"
+      },
+      "sentence": {
+        "ja": "日本の小学校は６学年、中学校は３学年だ。",
+        "zh": "日本的小学是6年，初中是3年。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-501",
+      "index": 501,
+      "word": "学期（がっき）",
+      "reading": "がっき",
+      "meaning": {
+        "en": "school term, semester",
+        "zh": "学期"
+      },
+      "sentence": {
+        "ja": "夏休みが終わって、新しい学期が始まる。",
+        "zh": "暑假结束了，新学期就要开始了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-502",
+      "index": 502,
+      "word": "欠席＜する＞（けっせき）",
+      "reading": "けっせき",
+      "meaning": {
+        "en": "to be absent",
+        "zh": "缺席"
+      },
+      "sentence": {
+        "ja": "授業を欠席するときは、学校に連絡してください。",
+        "zh": "不能来上课时请联系学校。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-503",
+      "index": 503,
+      "word": "遅れる（おくれる）",
+      "reading": "おくれる",
+      "meaning": {
+        "en": "to be late",
+        "zh": "晚，延误"
+      },
+      "sentence": {
+        "ja": "朝の電車が３０分も遅れた。",
+        "zh": "早上的电车晚点了30分钟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-504",
+      "index": 504,
+      "word": "遅刻＜する＞（ちこく）",
+      "reading": "ちこく",
+      "meaning": {
+        "en": "tardiness, being late",
+        "zh": "迟到"
+      },
+      "sentence": {
+        "ja": "電車が遅れて、学校に遅刻してしまった。",
+        "zh": "因为电车晚点，我上学迟到了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-505",
+      "index": 505,
+      "word": "サボる（サボる）",
+      "reading": "サボる",
+      "meaning": {
+        "en": "to skip, to cut (class)",
+        "zh": "旷课，旷工"
+      },
+      "sentence": {
+        "ja": "二日も授業をサボって、先生にしかられた。",
+        "zh": "我旷了两天课，挨老师批评了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-506",
+      "index": 506,
+      "word": "集中＜する＞（しゅうちゅう）",
+      "reading": "しゅうちゅう",
+      "meaning": {
+        "en": "focus",
+        "zh": "集中"
+      },
+      "sentence": {
+        "ja": "授業のとき、なかなか集中できなくて困った。",
+        "zh": "课堂上怎么都集中不了注意力，真伤脑筋。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-507",
+      "index": 507,
+      "word": "うとうと［と］＜する＞（うとうと）",
+      "reading": "うとうと",
+      "meaning": {
+        "en": "dozing",
+        "zh": "迷迷糊糊"
+      },
+      "sentence": {
+        "ja": "教室が暖かいと、うとうとしてしまう。",
+        "zh": "教室里一暖和，我就犯困。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-508",
+      "index": 508,
+      "word": "居眠り＜する＞（いねむり）",
+      "reading": "いねむり",
+      "meaning": {
+        "en": "nodding off, dozing",
+        "zh": "打盹儿"
+      },
+      "sentence": {
+        "ja": "居眠りしていて、先生に注意された。",
+        "zh": "我上课打盹儿，被老师警告了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-509",
+      "index": 509,
+      "word": "寝不足＜な＞（ねぶそく）",
+      "reading": "ねぶそく",
+      "meaning": {
+        "en": "sleep deprivation, not enough sleep",
+        "zh": "睡眠不足"
+      },
+      "sentence": {
+        "ja": "最近、寝不足が続いている。（名） 最近ずっと寝不足で、授業中に眠くなる。（ナ形） 最近一直睡眠不足。",
+        "zh": "最近一直睡眠不足，所以课堂上就犯困。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-510",
+      "index": 510,
+      "word": "期間（きかん）",
+      "reading": "きかん",
+      "meaning": {
+        "en": "period (of time)",
+        "zh": "期间"
+      },
+      "sentence": {
+        "ja": "テスト期間なので、毎日遅くまで勉強している。",
+        "zh": "现在是考试期间，所以我每天都学习到很晚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-511",
+      "index": 511,
+      "word": "期限（きげん）",
+      "reading": "きげん",
+      "meaning": {
+        "en": "time frame, deadline",
+        "zh": "期限"
+      },
+      "sentence": {
+        "ja": "宿題の期限は、明日までだ。",
+        "zh": "作业提交期限是明天之前。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-512",
+      "index": 512,
+      "word": "時間割（じかんわり）",
+      "reading": "じかんわり",
+      "meaning": {
+        "en": "timetable",
+        "zh": "课程表"
+      },
+      "sentence": {
+        "ja": "先生から、新しい時間割をもらった。",
+        "zh": "老师发了新的课程表。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-513",
+      "index": 513,
+      "word": "項目（こうもく）",
+      "reading": "こうもく",
+      "meaning": {
+        "en": "item, entry",
+        "zh": "项目"
+      },
+      "sentence": {
+        "ja": "資料を、項目に分けて整理する。",
+        "zh": "分项整理资料。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-514",
+      "index": 514,
+      "word": "座席（ざせき）",
+      "reading": "ざせき",
+      "meaning": {
+        "en": "seat",
+        "zh": "座位"
+      },
+      "sentence": {
+        "ja": "クラスの座席は、１か月に１度変える。",
+        "zh": "班上的座位一个月一换。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-515",
+      "index": 515,
+      "word": "締め切り（しめきり）",
+      "reading": "しめきり",
+      "meaning": {
+        "en": "deadline",
+        "zh": "截止日期"
+      },
+      "sentence": {
+        "ja": "試験の申し込みは、金曜日が締め切りだ。",
+        "zh": "考试申请截止到周五。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-516",
+      "index": 516,
+      "word": "開く（ひらく）",
+      "reading": "ひらく",
+      "meaning": {
+        "en": "to open",
+        "zh": "打开"
+      },
+      "sentence": {
+        "ja": "教科書の１２３ページを開いてください。",
+        "zh": "请打开教材第123页。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-517",
+      "index": 517,
+      "word": "一応（いちおう）",
+      "reading": "いちおう",
+      "meaning": {
+        "en": "more or less, pretty much",
+        "zh": "姑且；大致"
+      },
+      "sentence": {
+        "ja": "答えを書いたら、一応確認しよう。",
+        "zh": "写好答案后，再大致检查一遍。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-518",
+      "index": 518,
+      "word": "きちんと＜する＞（きちんと）",
+      "reading": "きちんと",
+      "meaning": {
+        "en": "precisely, accurately, properly",
+        "zh": "准时；好好地"
+      },
+      "sentence": {
+        "ja": "宿題は、毎日きちんと出してください。",
+        "zh": "每天请准时交作业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-519",
+      "index": 519,
+      "word": "きっかけ（きっかけ）",
+      "reading": "きっかけ",
+      "meaning": {
+        "en": "chance, opportunity",
+        "zh": "开端；机会"
+      },
+      "sentence": {
+        "ja": "先生との出会いがきっかけで、勉強が好きになった。",
+        "zh": "自从遇到了老师，我就喜欢上了学习。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-520",
+      "index": 520,
+      "word": "かしこい（かしこい）",
+      "reading": "かしこい",
+      "meaning": {
+        "en": "clever, smart",
+        "zh": "聪明"
+      },
+      "sentence": {
+        "ja": "あの子はかしこくて、親の手伝いもよくする。",
+        "zh": "那孩子聪明伶俐，还经常帮父母做事情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-521",
+      "index": 521,
+      "word": "貸し出し（かしだし）",
+      "reading": "かしだし",
+      "meaning": {
+        "en": "renting",
+        "zh": "出借"
+      },
+      "sentence": {
+        "ja": "図書館の本の貸し出しは、１回５冊までです。",
+        "zh": "图书馆的书，一次最多借5本。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-522",
+      "index": 522,
+      "word": "返却＜する＞（へんきゃく）",
+      "reading": "へんきゃく",
+      "meaning": {
+        "en": "returning",
+        "zh": "归还"
+      },
+      "sentence": {
+        "ja": "この本は、２週間以内に返却してください。",
+        "zh": "请在两周内归还这本书。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-523",
+      "index": 523,
+      "word": "名札（なふだ）",
+      "reading": "なふだ",
+      "meaning": {
+        "en": "name plate, name tag",
+        "zh": "姓名牌"
+      },
+      "sentence": {
+        "ja": "中学校までは、学校で名札をつけていた。",
+        "zh": "我在学校一直带着姓名牌，直到上完初中。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-524",
+      "index": 524,
+      "word": "給食（きゅうしょく）",
+      "reading": "きゅうしょく",
+      "meaning": {
+        "en": "lunch service",
+        "zh": "配餐"
+      },
+      "sentence": {
+        "ja": "子どものころ、給食がとても楽しみだった。",
+        "zh": "小时候，我很期待学校提供的午餐。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch05-l01-525",
+      "index": 525,
+      "word": "体育（たいいく）",
+      "reading": "たいいく",
+      "meaning": {
+        "en": "physical education, P.E.",
+        "zh": "体育"
+      },
+      "sentence": {
+        "ja": "勉強はできなかったが、体育は得意だった。",
+        "zh": "我虽然学习不好，但体育很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": "ch09-l03",
+  "chapterId": "ch09",
+  "titleJa": "暑い日と寒い日",
+  "titleZh": "暑い日と寒い日",
+  "rangeNote": "1024～1040",
+  "audio": {
+    "track": "Chapter09_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter09_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch09-l03-1024",
+      "index": 1024,
+      "word": "蒸し暑い（むしあつい）",
+      "reading": "むしあつい",
+      "meaning": {
+        "en": "humid",
+        "zh": "闷热"
+      },
+      "sentence": {
+        "ja": "今日は湿度が高くて、蒸し暑い。",
+        "zh": "今天湿度高，很闷热。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1025",
+      "index": 1025,
+      "word": "温度計（おんどけい）",
+      "reading": "おんどけい",
+      "meaning": {
+        "en": "thermometer",
+        "zh": "温度计"
+      },
+      "sentence": {
+        "ja": "この温度計は湿度も測れる。",
+        "zh": "这个温度计还可以测湿度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1026",
+      "index": 1026,
+      "word": "プラス（プラス）",
+      "reading": "プラス",
+      "meaning": {
+        "en": "plus, higher",
+        "zh": "加；正"
+      },
+      "sentence": {
+        "ja": "明日の気温は、今日と比べてプラス３度らしい。",
+        "zh": "据说明天的气温会比今天高3度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1027",
+      "index": 1027,
+      "word": "マイナス（マイナス）",
+      "reading": "マイナス",
+      "meaning": {
+        "en": "minus, lower",
+        "zh": "减；负"
+      },
+      "sentence": {
+        "ja": "①今日の気温は、昨日と比べてマイナス１０度だった。",
+        "zh": "②明日の朝の気温は、マイナスになるだろう。 ①今天的气温比昨天低了10度。 ②明天早上的气温大概会低于0度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1028",
+      "index": 1028,
+      "word": "凍る（こおる）",
+      "reading": "こおる",
+      "meaning": {
+        "en": "to freeze",
+        "zh": "冻，结冰"
+      },
+      "sentence": {
+        "ja": "道が凍っていて、とても危ない。",
+        "zh": "道路结冰了，非常危险。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1029",
+      "index": 1029,
+      "word": "氷（こおり）",
+      "reading": "こおり",
+      "meaning": {
+        "en": "ice",
+        "zh": "冰"
+      },
+      "sentence": {
+        "ja": "夏、冷凍庫で氷を作っておく。",
+        "zh": "夏天，我会用冰箱把冰块做好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1030",
+      "index": 1030,
+      "word": "冷える（ひえる）",
+      "reading": "ひえる",
+      "meaning": {
+        "en": "to chill",
+        "zh": "变冷"
+      },
+      "sentence": {
+        "ja": "天気予報によると、夕方から冷えるらしい。",
+        "zh": "天气予报说，傍晚开始会变冷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1031",
+      "index": 1031,
+      "word": "けっこう（けっこう）",
+      "reading": "けっこう",
+      "meaning": {
+        "en": "pretty, quite",
+        "zh": "相当"
+      },
+      "sentence": {
+        "ja": "今週、けっこう寒い日が続いている。",
+        "zh": "这周连续几天都相当冷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1032",
+      "index": 1032,
+      "word": "非常な（ひじょうな）",
+      "reading": "ひじょうな",
+      "meaning": {
+        "en": "severely, extremely",
+        "zh": "非常"
+      },
+      "sentence": {
+        "ja": "今年の夏は、非常に暑くなりそうだ。",
+        "zh": "看来今年夏天会变得非常热。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1033",
+      "index": 1033,
+      "word": "夏日（なつび）",
+      "reading": "なつび",
+      "meaning": {
+        "en": "summer day",
+        "zh": "夏日"
+      },
+      "sentence": {
+        "ja": "今日は、今年初めての夏日になった。",
+        "zh": "今天，今年第一次最高气温超过了25度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1034",
+      "index": 1034,
+      "word": "真夏日（まなつび）",
+      "reading": "まなつび",
+      "meaning": {
+        "en": "tropical day",
+        "zh": "暑日"
+      },
+      "sentence": {
+        "ja": "今年は、真夏日が多いそうだ。",
+        "zh": "据说今年夏天，气温经常会超过30度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1035",
+      "index": 1035,
+      "word": "猛暑日（もうしょび）",
+      "reading": "もうしょび",
+      "meaning": {
+        "en": "extremely hot day",
+        "zh": "猛暑日"
+      },
+      "sentence": {
+        "ja": "猛暑日が続いているので、体に気をつけている。",
+        "zh": "接连几天都是猛暑，所以我小心地照顾着自己。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1036",
+      "index": 1036,
+      "word": "冬日（ふゆび）",
+      "reading": "ふゆび",
+      "meaning": {
+        "en": "chilly day",
+        "zh": "冬日"
+      },
+      "sentence": {
+        "ja": "冬日には、手袋もマフラーも必要だ。",
+        "zh": "寒冷的日子里，手套、围巾都要戴。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1037",
+      "index": 1037,
+      "word": "真冬日（まふゆび）",
+      "reading": "まふゆび",
+      "meaning": {
+        "en": "ice day",
+        "zh": "冰日"
+      },
+      "sentence": {
+        "ja": "東京で、真冬日はとても珍しい。",
+        "zh": "东京的最高气温很难得会低于0度。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1038",
+      "index": 1038,
+      "word": "暖冬（だんとう）",
+      "reading": "だんとう",
+      "meaning": {
+        "en": "warm winter",
+        "zh": "暖冬"
+      },
+      "sentence": {
+        "ja": "今年は暖冬で、雪が少ない。",
+        "zh": "今年是暖冬，雪下得少。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1039",
+      "index": 1039,
+      "word": "冷夏（れいか）",
+      "reading": "れいか",
+      "meaning": {
+        "en": "cold summer",
+        "zh": "冷夏"
+      },
+      "sentence": {
+        "ja": "冷夏になると、海に行く人が減る。",
+        "zh": "一到冷夏，去海边的人就少了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch09-l03-1040",
+      "index": 1040,
+      "word": "せっかく（せっかく）",
+      "reading": "せっかく",
+      "meaning": {
+        "en": "with considerable effort, at great pains",
+        "zh": "难得"
+      },
+      "sentence": {
+        "ja": "せっかくの休みなのに、天気が悪くて寒い。",
+        "zh": "难得休息一下，天气却很糟糕，还冷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "id": "ch06-l04",
+  "chapterId": "ch06",
+  "titleJa": "どんな仕事？",
+  "titleZh": "什么样的工作？",
+  "rangeNote": "703～723",
+  "audio": {
+    "track": "Chapter06_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter06_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l04-703",
+      "index": 703,
+      "word": "勤務＜する＞（きんむ）",
+      "reading": "きんむ",
+      "meaning": {
+        "en": "work, duty",
+        "zh": "工作"
+      },
+      "sentence": {
+        "ja": "勤務時間は９時から５時だ。",
+        "zh": "工作时间是朝九晚五。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-704",
+      "index": 704,
+      "word": "事務（じむ）",
+      "reading": "じむ",
+      "meaning": {
+        "en": "business, office work",
+        "zh": "事务，办公"
+      },
+      "sentence": {
+        "ja": "会社に入ったときは、事務をやっていた。",
+        "zh": "进公司时，我做的是事务性工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-705",
+      "index": 705,
+      "word": "担当＜する＞（たんとう）",
+      "reading": "たんとう",
+      "meaning": {
+        "en": "charge",
+        "zh": "负责"
+      },
+      "sentence": {
+        "ja": "今年から、大きな仕事を担当している。",
+        "zh": "从今年开始，我负责一个大项目。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-706",
+      "index": 706,
+      "word": "営業＜する＞（えいぎょう）",
+      "reading": "えいぎょう",
+      "meaning": {
+        "en": "sales",
+        "zh": "销售"
+      },
+      "sentence": {
+        "ja": "営業の仕事は、いろいろな人に会えて楽しい。",
+        "zh": "销售是一份开心的工作，能够遇见各种各样的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-707",
+      "index": 707,
+      "word": "経営＜する＞（けいえい）",
+      "reading": "けいえい",
+      "meaning": {
+        "en": "management",
+        "zh": "经营"
+      },
+      "sentence": {
+        "ja": "将来、自分の会社を経営したい。",
+        "zh": "将来，我想经营自己的公司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-708",
+      "index": 708,
+      "word": "広告（こうこく）",
+      "reading": "こうこく",
+      "meaning": {
+        "en": "advertising",
+        "zh": "广告"
+      },
+      "sentence": {
+        "ja": "学生時代から広告の仕事に興味があった。",
+        "zh": "我从上学时起，就对广告的工作感兴趣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-709",
+      "index": 709,
+      "word": "出版＜する＞（しゅっぱん）",
+      "reading": "しゅっぱん",
+      "meaning": {
+        "en": "publishing",
+        "zh": "出版"
+      },
+      "sentence": {
+        "ja": "あの会社は、日本語の本を出版している。",
+        "zh": "那家公司出版日语书。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-710",
+      "index": 710,
+      "word": "制作＜する＞（せいさく）",
+      "reading": "せいさく",
+      "meaning": {
+        "en": "production",
+        "zh": "制作"
+      },
+      "sentence": {
+        "ja": "私は、テレビドラマを制作したいと思っている。",
+        "zh": "我想制作电视剧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-711",
+      "index": 711,
+      "word": "通訳＜する＞（つうやく）",
+      "reading": "つうやく",
+      "meaning": {
+        "en": "interpreting",
+        "zh": "口译"
+      },
+      "sentence": {
+        "ja": "会社でベトナム語の通訳の仕事をしている。",
+        "zh": "我在公司从事越南语翻译工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-712",
+      "index": 712,
+      "word": "精算＜する＞（せいさん）",
+      "reading": "せいさん",
+      "meaning": {
+        "en": "settlement, adjustment",
+        "zh": "结算"
+      },
+      "sentence": {
+        "ja": "交通費は１週間以内に精算してください。",
+        "zh": "交通费请在１周内结算。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-713",
+      "index": 713,
+      "word": "(予定を)",
+      "reading": "(予定を)",
+      "meaning": {
+        "en": "立てる（(よていを) たてる） to make (plans)",
+        "zh": "制订(计划)"
+      },
+      "sentence": {
+        "ja": "海外出張の予定を立てる。",
+        "zh": "制订出国出差的计划。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-714",
+      "index": 714,
+      "word": "長期（ちょうき）",
+      "reading": "ちょうき",
+      "meaning": {
+        "en": "long term, long time period",
+        "zh": "长期"
+      },
+      "sentence": {
+        "ja": "今度の出張は長期の予定だ。",
+        "zh": "预计这次是长期出差。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-715",
+      "index": 715,
+      "word": "日程（にってい）",
+      "reading": "にってい",
+      "meaning": {
+        "en": "schedule",
+        "zh": "日程"
+      },
+      "sentence": {
+        "ja": "仕事が忙しくて、旅行の日程が決められない。",
+        "zh": "我工作很忙，定不了旅行的日程。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-716",
+      "index": 716,
+      "word": "ずらす（ずらす）",
+      "reading": "ずらす",
+      "meaning": {
+        "en": "to shift, to slide, to push back",
+        "zh": "移开；错开"
+      },
+      "sentence": {
+        "ja": "①いすをずらして、掃除する。",
+        "zh": "②会議のスケジュールを３日ずらそう。 ①移开椅子打扫卫生。 ②把会议日程错开３天吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-717",
+      "index": 717,
+      "word": "延期＜する＞（えんき）",
+      "reading": "えんき",
+      "meaning": {
+        "en": "postponement",
+        "zh": "延期"
+      },
+      "sentence": {
+        "ja": "出張が来週に延期された。",
+        "zh": "出差延期到下周了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-718",
+      "index": 718,
+      "word": "携帯＜する＞（けいたい）",
+      "reading": "けいたい",
+      "meaning": {
+        "en": "carrying around",
+        "zh": "携带"
+      },
+      "sentence": {
+        "ja": "出張には、必ずパソコンを携帯している。",
+        "zh": "出差时，我一定会携带电脑。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-719",
+      "index": 719,
+      "word": "協力＜する＞（きょうりょく）",
+      "reading": "きょうりょく",
+      "meaning": {
+        "en": "cooperation",
+        "zh": "协作，共同努力"
+      },
+      "sentence": {
+        "ja": "みんなで協力して、いい結果を出そう。",
+        "zh": "让我们共同努力，拿出一个好结果。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-720",
+      "index": 720,
+      "word": "省略＜する＞（しょうりゃく）",
+      "reading": "しょうりゃく",
+      "meaning": {
+        "en": "abbreviation, omission",
+        "zh": "省略"
+      },
+      "sentence": {
+        "ja": "あいさつは省略して、さっそく会議を始めよう。",
+        "zh": "寒暄的话就省了，我们马上开始开会吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-721",
+      "index": 721,
+      "word": "積む（つむ）",
+      "reading": "つむ",
+      "meaning": {
+        "en": "to pile up, to stack, to gain (experience)",
+        "zh": "堆积；积累"
+      },
+      "sentence": {
+        "ja": "①部長の机の上に、書類が積んである。",
+        "zh": "②経験を積んで、自分の会社を作りたい。 ①部长的桌上，文件堆积如山。 ②我想积累经验，然后开一家自己的公司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-722",
+      "index": 722,
+      "word": "成長＜する＞（せいちょう）",
+      "reading": "せいちょう",
+      "meaning": {
+        "en": "to grow",
+        "zh": "成长"
+      },
+      "sentence": {
+        "ja": "大学生のころと比べると、成長したと思う。",
+        "zh": "相比上大学的时候，我觉得我成长了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l04-723",
+      "index": 723,
+      "word": "かせぐ（かせぐ）",
+      "reading": "かせぐ",
+      "meaning": {
+        "en": "to earn income",
+        "zh": "赚"
+      },
+      "sentence": {
+        "ja": "お金をかせいで、将来のために貯金したい。",
+        "zh": "赚钱之后，我想把钱存起来，留着将来用。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

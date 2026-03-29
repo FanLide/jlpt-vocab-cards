@@ -1,0 +1,319 @@
+{
+  "id": "ch08-l03",
+  "chapterId": "ch08",
+  "titleJa": "症状",
+  "titleZh": "症状",
+  "rangeNote": "916～932",
+  "audio": {
+    "track": "Chapter08_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter08_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch08-l03-916",
+      "index": 916,
+      "word": "アレルギー（アレルギー）",
+      "reading": "アレルギー",
+      "meaning": {
+        "en": "allergy",
+        "zh": "过敏"
+      },
+      "sentence": {
+        "ja": "病院で、猫アレルギーだと言われた。",
+        "zh": "在医院，我被告知我对猫过敏。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-917",
+      "index": 917,
+      "word": "花粉症（かふんしょう）",
+      "reading": "かふんしょう",
+      "meaning": {
+        "en": "hay fever",
+        "zh": "花粉症"
+      },
+      "sentence": {
+        "ja": "くしゃみが止まらない。花粉症かもしれない。",
+        "zh": "我不停地打喷嚏，可能是花粉症。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-918",
+      "index": 918,
+      "word": "うがい＜する＞（うがい）",
+      "reading": "うがい",
+      "meaning": {
+        "en": "gargling",
+        "zh": "漱口"
+      },
+      "sentence": {
+        "ja": "家に帰ったら、必ずうがいをしている。",
+        "zh": "回到家之后，我一定会漱口。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-919",
+      "index": 919,
+      "word": "手洗い（てあらい）",
+      "reading": "てあらい",
+      "meaning": {
+        "en": "washing one's hands",
+        "zh": "洗手"
+      },
+      "sentence": {
+        "ja": "いつも、しっかり手洗いをしよう。",
+        "zh": "平时要好好地洗手。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-920",
+      "index": 920,
+      "word": "くしゃみ＜する＞（くしゃみ）",
+      "reading": "くしゃみ",
+      "meaning": {
+        "en": "sneeze",
+        "zh": "喷嚏"
+      },
+      "sentence": {
+        "ja": "彼は朝からずっと、くしゃみをしている。",
+        "zh": "他从一早上就开始就一直在打喷嚏。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-921",
+      "index": 921,
+      "word": "鼻水（はなみず）",
+      "reading": "はなみず",
+      "meaning": {
+        "en": "runny nose",
+        "zh": "鼻涕"
+      },
+      "sentence": {
+        "ja": "くしゃみと鼻水が止まらない。",
+        "zh": "我不停地打喷嚏、流鼻涕。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-922",
+      "index": 922,
+      "word": "マスク（マスク）",
+      "reading": "マスク",
+      "meaning": {
+        "en": "(face) mask",
+        "zh": "口罩"
+      },
+      "sentence": {
+        "ja": "花粉症の季節は、マスクをする。",
+        "zh": "到了会犯花粉症的季节，我就戴口罩。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-923",
+      "index": 923,
+      "word": "つらい（つらい）",
+      "reading": "つらい",
+      "meaning": {
+        "en": "tough, painful",
+        "zh": "难受"
+      },
+      "sentence": {
+        "ja": "今朝から熱があって、つらい。",
+        "zh": "我今天早上开始发烧，很难受。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-924",
+      "index": 924,
+      "word": "かゆい（かゆい）",
+      "reading": "かゆい",
+      "meaning": {
+        "en": "itchy",
+        "zh": "痒"
+      },
+      "sentence": {
+        "ja": "花粉が多い日は、目がかゆくなる。",
+        "zh": "花粉多的日子里，我的眼睛会发痒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-925",
+      "index": 925,
+      "word": "かゆみ（かゆみ）",
+      "reading": "かゆみ",
+      "meaning": {
+        "en": "itch",
+        "zh": "发痒"
+      },
+      "sentence": {
+        "ja": "かゆみが、だんだんひどくなってきた。",
+        "zh": "痒得越来越厉害了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-926",
+      "index": 926,
+      "word": "かく（かく）",
+      "reading": "かく",
+      "meaning": {
+        "en": "to scratch",
+        "zh": "搔，挠"
+      },
+      "sentence": {
+        "ja": "かゆくても、かかないでください。",
+        "zh": "就算痒，也不要挠。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-927",
+      "index": 927,
+      "word": "こする（こする）",
+      "reading": "こする",
+      "meaning": {
+        "en": "to rub",
+        "zh": "擦，揉"
+      },
+      "sentence": {
+        "ja": "目をこすりすぎて、赤くなった。",
+        "zh": "眼睛揉多了，变红了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-928",
+      "index": 928,
+      "word": "(肩が)",
+      "reading": "(肩が)",
+      "meaning": {
+        "en": "こる（(かたが) こる） to get stiff (shoulders/neck)",
+        "zh": "(肩膀) 僵硬"
+      },
+      "sentence": {
+        "ja": "ずっと勉強していて、肩がこった。",
+        "zh": "一直在学习，肩膀都僵硬了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-929",
+      "index": 929,
+      "word": "肩こり（かたこり）",
+      "reading": "かたこり",
+      "meaning": {
+        "en": "to get stiff shoulders/a stiff neck",
+        "zh": "肩酸，肩头发僵"
+      },
+      "sentence": {
+        "ja": "肩こりがひどいと、気持ちが悪くなる。",
+        "zh": "如果肩膀硬得厉害，我就很不舒服。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-930",
+      "index": 930,
+      "word": "だるい（だるい）",
+      "reading": "だるい",
+      "meaning": {
+        "en": "sluggish",
+        "zh": "发懒"
+      },
+      "sentence": {
+        "ja": "体がだるい。かぜかもしれない。",
+        "zh": "身体发懒。可能是感冒了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-931",
+      "index": 931,
+      "word": "だるさ（だるさ）",
+      "reading": "だるさ",
+      "meaning": {
+        "en": "sluggishness",
+        "zh": "发懒的程度"
+      },
+      "sentence": {
+        "ja": "少し寝たら、体のだるさが少しとれた。",
+        "zh": "睡了一会儿，身体稍微没那么发懒了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l03-932",
+      "index": 932,
+      "word": "マッサージ＜する＞（マッサージ）",
+      "reading": "マッサージ",
+      "meaning": {
+        "en": "massage",
+        "zh": "按摩"
+      },
+      "sentence": {
+        "ja": "肩こりがひどいので、マッサージしてもらった。",
+        "zh": "肩膀硬得厉害，于是我去做了按摩。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

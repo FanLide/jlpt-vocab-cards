@@ -1,0 +1,427 @@
+{
+  "id": "ch07-l03",
+  "chapterId": "ch07",
+  "titleJa": "ファッション",
+  "titleZh": "ファッション",
+  "rangeNote": "805～827",
+  "audio": {
+    "track": "Chapter07_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter07_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch07-l03-805",
+      "index": 805,
+      "word": "おしゃれ＜な／する＞（おしゃれ）",
+      "reading": "おしゃれ",
+      "meaning": {
+        "en": "fashionable",
+        "zh": "打扮，讲究穿戴"
+      },
+      "sentence": {
+        "ja": "①学生時代からおしゃれが大好きだった。（名） ②渋谷はおしゃれな町だ。（ナ形） ①从我还是一个学生开始，我就非常喜欢打扮。",
+        "zh": "②涩谷是一个时尚街区。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-806",
+      "index": 806,
+      "word": "好む（このむ）",
+      "reading": "このむ",
+      "meaning": {
+        "en": "to favor, to like",
+        "zh": "喜欢"
+      },
+      "sentence": {
+        "ja": "姉はイタリアのバッグを好んで買っている。",
+        "zh": "姐姐喜欢买意大利的包。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-807",
+      "index": 807,
+      "word": "好み（このみ）",
+      "reading": "このみ",
+      "meaning": {
+        "en": "liking",
+        "zh": "爱好，喜爱"
+      },
+      "sentence": {
+        "ja": "このコートは、色もデザインも私の好みだ。",
+        "zh": "这件外套的颜色和设计都是我喜欢的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-808",
+      "index": 808,
+      "word": "流行＜する＞（りゅうこう）",
+      "reading": "りゅうこう",
+      "meaning": {
+        "en": "being popular, be in fashion",
+        "zh": "流行"
+      },
+      "sentence": {
+        "ja": "雑誌を読んでいると、今年の流行がよくわかる。",
+        "zh": "看了杂志，就能清楚地了解今年的流行趋势。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-809",
+      "index": 809,
+      "word": "はやり（はやり）",
+      "reading": "はやり",
+      "meaning": {
+        "en": "fad, craze",
+        "zh": "流行，时尚"
+      },
+      "sentence": {
+        "ja": "今年はグリーンが、はやりのようだ。",
+        "zh": "今年似乎流行绿色。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-810",
+      "index": 810,
+      "word": "カタログ（カタログ）",
+      "reading": "カタログ",
+      "meaning": {
+        "en": "catalogue",
+        "zh": "商品目录"
+      },
+      "sentence": {
+        "ja": "買い物に行けないので、カタログで洋服を買う。",
+        "zh": "我不能上街购物，因此通过商品目录买衣服。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-811",
+      "index": 811,
+      "word": "サンプル（サンプル）",
+      "reading": "サンプル",
+      "meaning": {
+        "en": "sample",
+        "zh": "样品"
+      },
+      "sentence": {
+        "ja": "デパートで、化粧品のサンプルをもらった。",
+        "zh": "我在百货商店要了一个化妆品的小样。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-812",
+      "index": 812,
+      "word": "探す（さがす）",
+      "reading": "さがす",
+      "meaning": {
+        "en": "to look for, to seek",
+        "zh": "找，寻找"
+      },
+      "sentence": {
+        "ja": "ずっと、こんなバッグを探していた。",
+        "zh": "我一直在找这样的包。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-813",
+      "index": 813,
+      "word": "似合う（にあう）",
+      "reading": "にあう",
+      "meaning": {
+        "en": "to suit, to go well with",
+        "zh": "适合"
+      },
+      "sentence": {
+        "ja": "彼にグリーンが似合うと言われた。",
+        "zh": "我男朋友说绿色适合我。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-814",
+      "index": 814,
+      "word": "ぴったり＜する＞（ぴったり）",
+      "reading": "ぴったり",
+      "meaning": {
+        "en": "fit just right",
+        "zh": "正合适"
+      },
+      "sentence": {
+        "ja": "①このスカートは、私にぴったりのサイズだ。",
+        "zh": "②このバッグは、私のコートにぴったりだ。 ①这条裙子的尺寸，我穿正合适。 ②这个包搭配我的外套正合适。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-815",
+      "index": 815,
+      "word": "高級＜な＞（こうきゅう）",
+      "reading": "こうきゅう",
+      "meaning": {
+        "en": "high grade, high quality",
+        "zh": "高级，高档"
+      },
+      "sentence": {
+        "ja": "友だちは、いくつも高級なバッグを持っている。",
+        "zh": "朋友有好几个高档包。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-816",
+      "index": 816,
+      "word": "ブランド（ブランド）",
+      "reading": "ブランド",
+      "meaning": {
+        "en": "brand, brand name",
+        "zh": "品牌，名牌"
+      },
+      "sentence": {
+        "ja": "ボーナスで、ブランドのバッグを買った。",
+        "zh": "我用奖金买了一个名牌包。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-817",
+      "index": 817,
+      "word": "本物（ほんもの）",
+      "reading": "ほんもの",
+      "meaning": {
+        "en": "real thing, authentic thing",
+        "zh": "真货"
+      },
+      "sentence": {
+        "ja": "あの店で売っている時計は、本物だ。",
+        "zh": "那家店卖的表是真货。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-818",
+      "index": 818,
+      "word": "にせ物（にせもの）",
+      "reading": "にせもの",
+      "meaning": {
+        "en": "fake, imitation",
+        "zh": "假货"
+      },
+      "sentence": {
+        "ja": "本物にそっくりなのにせ物に注意してください。",
+        "zh": "请注意那些极像真货的假货。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-819",
+      "index": 819,
+      "word": "保証＜する＞（ほしょう）",
+      "reading": "ほしょう",
+      "meaning": {
+        "en": "guarantee",
+        "zh": "保证"
+      },
+      "sentence": {
+        "ja": "この商品は、１００パーセント本物だと保証します。",
+        "zh": "我们保证这个商品百分之百是真货。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-820",
+      "index": 820,
+      "word": "バーゲンセール（バーゲンセール）",
+      "reading": "バーゲンセール",
+      "meaning": {
+        "en": "bargain sale",
+        "zh": "大甩卖"
+      },
+      "sentence": {
+        "ja": "このくつは、バーゲンセールで半額だった。",
+        "zh": "当时这双鞋大甩卖，才半价。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-821",
+      "index": 821,
+      "word": "取り替える（とりかえる）",
+      "reading": "とりかえる",
+      "meaning": {
+        "en": "to exchange, to replace",
+        "zh": "换，更换"
+      },
+      "sentence": {
+        "ja": "このシャツは汚れているので、取り替えてください。",
+        "zh": "这件衬衫脏了，请换一件。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-822",
+      "index": 822,
+      "word": "はめる（はめる）",
+      "reading": "はめる",
+      "meaning": {
+        "en": "to put on, to place on",
+        "zh": "镶嵌；戴上"
+      },
+      "sentence": {
+        "ja": "結婚指輪は左の薬指にはめる。",
+        "zh": "结婚戒指戴在左手无名指上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-823",
+      "index": 823,
+      "word": "外す（はずす）",
+      "reading": "はずす",
+      "meaning": {
+        "en": "to take off, to remove",
+        "zh": "取下；离开"
+      },
+      "sentence": {
+        "ja": "①指輪を外して、なくさないように箱に入れる。",
+        "zh": "②田中部長は、席を外しています。 ①我摘下戒指，放进盒子里，以免弄丢。 ②田中部长此刻不在座位上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-824",
+      "index": 824,
+      "word": "カット＜する＞（カット）",
+      "reading": "カット",
+      "meaning": {
+        "en": "cutting",
+        "zh": "剪"
+      },
+      "sentence": {
+        "ja": "夏になったら、髪をカットしたい。",
+        "zh": "到了夏天，我想剪头发。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-825",
+      "index": 825,
+      "word": "パーマ（パーマ）",
+      "reading": "パーマ",
+      "meaning": {
+        "en": "perm",
+        "zh": "烫发"
+      },
+      "sentence": {
+        "ja": "たまにはパーマをかけて、気分を変えよう。",
+        "zh": "偶尔烫个头发，改变一下心情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-826",
+      "index": 826,
+      "word": "染める（そめる）",
+      "reading": "そめる",
+      "meaning": {
+        "en": "to dye",
+        "zh": "染"
+      },
+      "sentence": {
+        "ja": "髪を明るい色に染めた。",
+        "zh": "我把头发染成了鲜亮的颜色。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l03-827",
+      "index": 827,
+      "word": "サイズ（サイズ）",
+      "reading": "サイズ",
+      "meaning": {
+        "en": "size",
+        "zh": "尺寸"
+      },
+      "sentence": {
+        "ja": "このデザインの、ほかのサイズはありますか。",
+        "zh": "这款有别的尺寸吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

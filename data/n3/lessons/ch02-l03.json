@@ -1,0 +1,409 @@
+{
+  "id": "ch02-l03",
+  "chapterId": "ch02",
+  "titleJa": "料理の道具と材料",
+  "titleZh": "料理の道具と材料",
+  "rangeNote": "160～181",
+  "audio": {
+    "track": "Chapter02_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter02_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch02-l03-160",
+      "index": 160,
+      "word": "なべ（なべ）",
+      "reading": "なべ",
+      "meaning": {
+        "en": "pot",
+        "zh": "锅"
+      },
+      "sentence": {
+        "ja": "スーパーで、大きななべを買った。",
+        "zh": "我在超市买了一口大锅。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-161",
+      "index": 161,
+      "word": "フライパン（フライパン）",
+      "reading": "フライパン",
+      "meaning": {
+        "en": "frying pan",
+        "zh": "平底锅"
+      },
+      "sentence": {
+        "ja": "フライパンで、オムレツを作った。",
+        "zh": "我用平底锅做鸡蛋卷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-162",
+      "index": 162,
+      "word": "包丁（ほうちょう）",
+      "reading": "ほうちょう",
+      "meaning": {
+        "en": "kitchen knife",
+        "zh": "菜刀"
+      },
+      "sentence": {
+        "ja": "私の家には包丁が１本しかない。",
+        "zh": "我家只有一把菜刀。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-163",
+      "index": 163,
+      "word": "まな板（まないた）",
+      "reading": "まないた",
+      "meaning": {
+        "en": "cutting board",
+        "zh": "砧板"
+      },
+      "sentence": {
+        "ja": "うちのまな板は、木でできている。",
+        "zh": "我家的砧板是木制的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-164",
+      "index": 164,
+      "word": "おたま（おたま）",
+      "reading": "おたま",
+      "meaning": {
+        "en": "ladle",
+        "zh": "长柄勺"
+      },
+      "sentence": {
+        "ja": "おたまでカレーを、よく混ぜてください。",
+        "zh": "请用长柄勺把咖喱搅拌均匀。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-165",
+      "index": 165,
+      "word": "しゃもじ（しゃもじ）",
+      "reading": "しゃもじ",
+      "meaning": {
+        "en": "rice scoop, wooden spoon",
+        "zh": "饭勺"
+      },
+      "sentence": {
+        "ja": "このしゃもじは、ごはんがつきにくい。",
+        "zh": "这种饭勺不容易粘饭粒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-166",
+      "index": 166,
+      "word": "大さじ（おおさじ）",
+      "reading": "おおさじ",
+      "meaning": {
+        "en": "tablespoon",
+        "zh": "大汤匙"
+      },
+      "sentence": {
+        "ja": "まず、砂糖を大さじ２杯入れてください。",
+        "zh": "首先，请放入两汤匙的糖。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-167",
+      "index": 167,
+      "word": "炊飯器（すいはんき）",
+      "reading": "すいはんき",
+      "meaning": {
+        "en": "rice cooker",
+        "zh": "电饭锅"
+      },
+      "sentence": {
+        "ja": "炊飯器で、ごはんを炊く。",
+        "zh": "用电饭锅煮饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-168",
+      "index": 168,
+      "word": "流し台（ながしだい）",
+      "reading": "ながしだい",
+      "meaning": {
+        "en": "sink",
+        "zh": "洗碗池"
+      },
+      "sentence": {
+        "ja": "この流し台は石でできている。",
+        "zh": "这个洗碗池是用石头做的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-169",
+      "index": 169,
+      "word": "電子レンジ（でんしレンジ）",
+      "reading": "でんしレンジ",
+      "meaning": {
+        "en": "microwave",
+        "zh": "微波炉"
+      },
+      "sentence": {
+        "ja": "電子レンジの「チン」という音が聞こえた。",
+        "zh": "微波炉响了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-170",
+      "index": 170,
+      "word": "ガスレンジ（ガスレンジ）",
+      "reading": "ガスレンジ",
+      "meaning": {
+        "en": "gas stove, gas cooker",
+        "zh": "煤气灶"
+      },
+      "sentence": {
+        "ja": "ガスレンジから変な臭いがする。",
+        "zh": "煤气灶发出奇怪的臭味。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-171",
+      "index": 171,
+      "word": "調味料（ちょうみりょう）",
+      "reading": "ちょうみりょう",
+      "meaning": {
+        "en": "seasoning",
+        "zh": "调味料"
+      },
+      "sentence": {
+        "ja": "台所に調味料が、たくさんある。",
+        "zh": "厨房里有许多调味料。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-172",
+      "index": 172,
+      "word": "サラダ油（サラダゆ）",
+      "reading": "サラダゆ",
+      "meaning": {
+        "en": "salad oil",
+        "zh": "色拉油"
+      },
+      "sentence": {
+        "ja": "サラダ油を買って来るのを忘れた。",
+        "zh": "我忘记买色拉油回来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-173",
+      "index": 173,
+      "word": "食品（しょくひん）",
+      "reading": "しょくひん",
+      "meaning": {
+        "en": "food, food products",
+        "zh": "食品"
+      },
+      "sentence": {
+        "ja": "食品は近所のスーパーで買う。",
+        "zh": "我在附近的超市买食品。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-174",
+      "index": 174,
+      "word": "切らす（きらす）",
+      "reading": "きらす",
+      "meaning": {
+        "en": "to run out of, to use up",
+        "zh": "用光"
+      },
+      "sentence": {
+        "ja": "しょうゆを切らしたので、コンビニに買いに行った。",
+        "zh": "酱油用光了，所以我去了便利店买酱油。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-175",
+      "index": 175,
+      "word": "くさる（くさる）",
+      "reading": "くさる",
+      "meaning": {
+        "en": "to spoil, to go bad",
+        "zh": "腐烂，坏"
+      },
+      "sentence": {
+        "ja": "冷蔵庫の牛乳が、くさっていた。",
+        "zh": "冰箱里的牛奶坏了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-176",
+      "index": 176,
+      "word": "アルミホイル（アルミホイル）",
+      "reading": "アルミホイル",
+      "meaning": {
+        "en": "aluminum foil",
+        "zh": "铝箔"
+      },
+      "sentence": {
+        "ja": "アルミホイルで包んで、魚を焼く。",
+        "zh": "先把鱼用铝箔包住，再烤。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-177",
+      "index": 177,
+      "word": "ラップ＜する＞（ラップ）",
+      "reading": "ラップ",
+      "meaning": {
+        "en": "plastic wrap",
+        "zh": "保鲜膜"
+      },
+      "sentence": {
+        "ja": "残ったものはラップして、冷蔵庫に入れておく。",
+        "zh": "剩下的东西用保鲜膜包好，放入冰箱保存。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-178",
+      "index": 178,
+      "word": "おしぼり（おしぼり）",
+      "reading": "おしぼり",
+      "meaning": {
+        "en": "hot towel, moistened hand towel",
+        "zh": "擦手巾"
+      },
+      "sentence": {
+        "ja": "かにを食べるときは、おしぼりが必要だ。",
+        "zh": "吃螃蟹时需要擦手巾。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-179",
+      "index": 179,
+      "word": "食器（しょっき）",
+      "reading": "しょっき",
+      "meaning": {
+        "en": "tableware, dinnerware",
+        "zh": "餐具"
+      },
+      "sentence": {
+        "ja": "クリスマスの料理に合う食器を選ぶ。",
+        "zh": "选择适合圣诞节菜肴的餐具。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-180",
+      "index": 180,
+      "word": "茶わん（ちゃわん）",
+      "reading": "ちゃわん",
+      "meaning": {
+        "en": "bowl, rice bowl, teacup",
+        "zh": "饭碗；茶杯"
+      },
+      "sentence": {
+        "ja": "一人暮らしのために、新しい茶わんを買った。",
+        "zh": "因为要一个人生活了，所以我买了新的饭碗。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l03-181",
+      "index": 181,
+      "word": "グラス（グラス）",
+      "reading": "グラス",
+      "meaning": {
+        "en": "glass",
+        "zh": "玻璃杯"
+      },
+      "sentence": {
+        "ja": "ビールを飲むグラスは、どれがいいですか。",
+        "zh": "喝啤酒要用哪个玻璃杯？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

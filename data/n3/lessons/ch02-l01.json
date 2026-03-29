@@ -1,0 +1,337 @@
+{
+  "id": "ch02-l01",
+  "chapterId": "ch02",
+  "titleJa": "時の表現",
+  "titleZh": "時の表現",
+  "rangeNote": "115～132",
+  "audio": {
+    "track": "Chapter02_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter02_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch02-l01-115",
+      "index": 115,
+      "word": "本日（ほんじつ）",
+      "reading": "ほんじつ",
+      "meaning": {
+        "en": "today, this day",
+        "zh": "今天"
+      },
+      "sentence": {
+        "ja": "本日はお忙しいところ、ありがとうございます。",
+        "zh": "感谢您今天百忙之中抽出时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-116",
+      "index": 116,
+      "word": "明日（あす）",
+      "reading": "あす",
+      "meaning": {
+        "en": "tomorrow",
+        "zh": "明天"
+      },
+      "sentence": {
+        "ja": "明日の３時に、そちらにうかがいます。",
+        "zh": "明天3点我来拜访您。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-117",
+      "index": 117,
+      "word": "前日（ぜんじつ）",
+      "reading": "ぜんじつ",
+      "meaning": {
+        "en": "the day before, the previous day",
+        "zh": "前一天"
+      },
+      "sentence": {
+        "ja": "会議の前日に準備をする。",
+        "zh": "开会前一天做准备。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-118",
+      "index": 118,
+      "word": "翌日（よくじつ）",
+      "reading": "よくじつ",
+      "meaning": {
+        "en": "the next day, the following day",
+        "zh": "次日，第二天"
+      },
+      "sentence": {
+        "ja": "誕生日の翌日に、韓国に出張した。",
+        "zh": "过完生日第二天，我就去韩国出差了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-119",
+      "index": 119,
+      "word": "しあさって（しあさって）",
+      "reading": "しあさって",
+      "meaning": {
+        "en": "three days' time (two days after tomorrow)",
+        "zh": "大后天"
+      },
+      "sentence": {
+        "ja": "私の誕生日は、しあさってだ。",
+        "zh": "我后天生日。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-120",
+      "index": 120,
+      "word": "先おととい（さきおととい）",
+      "reading": "さきおととい",
+      "meaning": {
+        "en": "three days ago",
+        "zh": "大前天"
+      },
+      "sentence": {
+        "ja": "先おととい、高校のクラス会があった。",
+        "zh": "大前天，我们高中同学聚会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-121",
+      "index": 121,
+      "word": "昨日（さくじつ）",
+      "reading": "さくじつ",
+      "meaning": {
+        "en": "yesterday",
+        "zh": "昨天"
+      },
+      "sentence": {
+        "ja": "昨日は、いろいろとお世話になりました。",
+        "zh": "昨天真是谢谢您了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-122",
+      "index": 122,
+      "word": "昨年（さくねん）",
+      "reading": "さくねん",
+      "meaning": {
+        "en": "last year",
+        "zh": "去年"
+      },
+      "sentence": {
+        "ja": "昨年の５月に日本にまいりました。",
+        "zh": "去年5月，我来到日本。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-123",
+      "index": 123,
+      "word": "先日（せんじつ）",
+      "reading": "せんじつ",
+      "meaning": {
+        "en": "the other day",
+        "zh": "前几天"
+      },
+      "sentence": {
+        "ja": "Ａ「先日は、どうもありがとうございました。」 Ｂ「こちらこそ、どうも。」 Ａ：前几天真的谢谢了。",
+        "zh": "Ｂ：彼此彼此。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-124",
+      "index": 124,
+      "word": "再来週（さいらいしゅう）",
+      "reading": "さいらいしゅう",
+      "meaning": {
+        "en": "the week after next",
+        "zh": "下下周"
+      },
+      "sentence": {
+        "ja": "再来週は仕事が忙しくなりそうだ。",
+        "zh": "看来下下周工作会很忙。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-125",
+      "index": 125,
+      "word": "先々週（せんせんしゅう）",
+      "reading": "せんせんしゅう",
+      "meaning": {
+        "en": "two weeks ago",
+        "zh": "上上周"
+      },
+      "sentence": {
+        "ja": "先々週の試験が、今日やっと返ってきた。",
+        "zh": "上上周考的试，今天终于发试卷了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-126",
+      "index": 126,
+      "word": "上旬（じょうじゅん）",
+      "reading": "じょうじゅん",
+      "meaning": {
+        "en": "the first 10 days of a month",
+        "zh": "上旬"
+      },
+      "sentence": {
+        "ja": "来月の上旬、タイに旅行に行きます。",
+        "zh": "下个月上旬，我要去泰国旅行。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-127",
+      "index": 127,
+      "word": "中旬（ちゅうじゅん）",
+      "reading": "ちゅうじゅん",
+      "meaning": {
+        "en": "the middle 10 days of a month",
+        "zh": "中旬"
+      },
+      "sentence": {
+        "ja": "今月の中旬までにレポートを出してください。",
+        "zh": "请在本月中旬之前提交报告。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-128",
+      "index": 128,
+      "word": "下旬（げじゅん）",
+      "reading": "げじゅん",
+      "meaning": {
+        "en": "last 10 (or 11) days in a month",
+        "zh": "下旬"
+      },
+      "sentence": {
+        "ja": "毎月下旬になると、給料が楽しみだ。",
+        "zh": "每月一到下旬，我就盼着发工资。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-129",
+      "index": 129,
+      "word": "深夜（しんや）",
+      "reading": "しんや",
+      "meaning": {
+        "en": "late night",
+        "zh": "深夜"
+      },
+      "sentence": {
+        "ja": "深夜になると、大きな声が聞こえる。",
+        "zh": "到了深夜，我就听见巨大的声音。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-130",
+      "index": 130,
+      "word": "未来（みらい）",
+      "reading": "みらい",
+      "meaning": {
+        "en": "future",
+        "zh": "未来"
+      },
+      "sentence": {
+        "ja": "子どもたちの明るい未来を考えよう。",
+        "zh": "想一想孩子门光明的未来吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-131",
+      "index": 131,
+      "word": "数日（すうじつ）",
+      "reading": "すうじつ",
+      "meaning": {
+        "en": "several days",
+        "zh": "数日"
+      },
+      "sentence": {
+        "ja": "土曜日から数日は、天気が悪いそうだ。",
+        "zh": "据说，从周六开始，连续几天的天气将会很糟糕。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l01-132",
+      "index": 132,
+      "word": "以降（いこう）",
+      "reading": "いこう",
+      "meaning": {
+        "en": "hereafter, thereafter",
+        "zh": "之后"
+      },
+      "sentence": {
+        "ja": "大地震以降、水を買っておくようになった。",
+        "zh": "发生大地震之后，人们开始买水备着了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

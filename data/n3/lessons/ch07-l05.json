@@ -1,0 +1,373 @@
+{
+  "id": "ch07-l05",
+  "chapterId": "ch07",
+  "titleJa": "趣味",
+  "titleZh": "趣味",
+  "rangeNote": "852～871",
+  "audio": {
+    "track": "Chapter07_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter07_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch07-l05-852",
+      "index": 852,
+      "word": "気に入る（きにいる）",
+      "reading": "きにいる",
+      "meaning": {
+        "en": "to be pleased with, to like",
+        "zh": "喜欢"
+      },
+      "sentence": {
+        "ja": "私は、この画家の絵が気に入っている。",
+        "zh": "我喜欢这位画家的画。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-853",
+      "index": 853,
+      "word": "お気に入り（おきにいり）",
+      "reading": "おきにいり",
+      "meaning": {
+        "en": "favorite",
+        "zh": "喜欢"
+      },
+      "sentence": {
+        "ja": "ドラマで見てから、この俳優がお気に入りだ。",
+        "zh": "自从在电视剧里看到他，我就喜欢上了这个演员。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-854",
+      "index": 854,
+      "word": "芸術（げいじゅつ）",
+      "reading": "げいじゅつ",
+      "meaning": {
+        "en": "art, the arts",
+        "zh": "艺术"
+      },
+      "sentence": {
+        "ja": "日本の芸術に興味がある。",
+        "zh": "我对日本的艺术感兴趣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-855",
+      "index": 855,
+      "word": "絵画（かいが）",
+      "reading": "かいが",
+      "meaning": {
+        "en": "picture, painting",
+        "zh": "绘画"
+      },
+      "sentence": {
+        "ja": "来年は、絵画教室に通うつもりだ。",
+        "zh": "我打算明年去上绘画班。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-856",
+      "index": 856,
+      "word": "才能（さいのう）",
+      "reading": "さいのう",
+      "meaning": {
+        "en": "talent, ability",
+        "zh": "才能，才华"
+      },
+      "sentence": {
+        "ja": "先生から、絵の才能があると言われた。",
+        "zh": "老师说我有绘画才华。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-857",
+      "index": 857,
+      "word": "けいこ＜する＞（けいこ）",
+      "reading": "けいこ",
+      "meaning": {
+        "en": "training, practice",
+        "zh": "练习，学习"
+      },
+      "sentence": {
+        "ja": "お茶のけいこを始めた。",
+        "zh": "我开始学习茶道了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-858",
+      "index": 858,
+      "word": "アニメ（アニメ）",
+      "reading": "アニメ",
+      "meaning": {
+        "en": "anime",
+        "zh": "动漫"
+      },
+      "sentence": {
+        "ja": "日本のアニメは、世界中で見られている。",
+        "zh": "世界各地的人们都在看日本动漫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-859",
+      "index": 859,
+      "word": "読書＜する＞（どくしょ）",
+      "reading": "どくしょ",
+      "meaning": {
+        "en": "reading",
+        "zh": "读书"
+      },
+      "sentence": {
+        "ja": "通勤時間に読書をしている。",
+        "zh": "我在上下班时间里看书。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-860",
+      "index": 860,
+      "word": "おすすめ（おすすめ）",
+      "reading": "おすすめ",
+      "meaning": {
+        "en": "suggestion",
+        "zh": "推荐"
+      },
+      "sentence": {
+        "ja": "何かおすすめの本は、ありませんか。",
+        "zh": "有什么推荐的书吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-861",
+      "index": 861,
+      "word": "ストーリー（ストーリー）",
+      "reading": "ストーリー",
+      "meaning": {
+        "en": "story",
+        "zh": "故事；情节"
+      },
+      "sentence": {
+        "ja": "この小説のストーリーは、おもしろい。",
+        "zh": "这部小说的情节有意思。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-862",
+      "index": 862,
+      "word": "シリーズ（シリーズ）",
+      "reading": "シリーズ",
+      "meaning": {
+        "en": "series",
+        "zh": "系列"
+      },
+      "sentence": {
+        "ja": "『スーパーマン』のシリーズは、全部見た。",
+        "zh": "“超人”系列我全部都看了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-863",
+      "index": 863,
+      "word": "名作（めいさく）",
+      "reading": "めいさく",
+      "meaning": {
+        "en": "famous work, masterpiece",
+        "zh": "名作"
+      },
+      "sentence": {
+        "ja": "この映画は名作だから、ぜひ見てください。",
+        "zh": "这部电影很有名，你一定要看一看。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-864",
+      "index": 864,
+      "word": "登場＜する＞（とうじょう）",
+      "reading": "とうじょう",
+      "meaning": {
+        "en": "appearance, entrance",
+        "zh": "登场"
+      },
+      "sentence": {
+        "ja": "この映画の最後のほうで、人気俳優が登場する。",
+        "zh": "在这部电影的最后，将有一位知名演员登场。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-865",
+      "index": 865,
+      "word": "好奇心（こうきしん）",
+      "reading": "こうきしん",
+      "meaning": {
+        "en": "curiosity",
+        "zh": "好奇心"
+      },
+      "sentence": {
+        "ja": "彼は好奇心が強くて、趣味が多い。",
+        "zh": "他好奇心强，兴趣广泛。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-866",
+      "index": 866,
+      "word": "コンクール（コンクール）",
+      "reading": "コンクール",
+      "meaning": {
+        "en": "competition, contest",
+        "zh": "比赛"
+      },
+      "sentence": {
+        "ja": "来年の絵画コンクールに、チャレンジするつもりだ。",
+        "zh": "我打算挑战一下明年的绘画比赛。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-867",
+      "index": 867,
+      "word": "出品＜する＞（しゅっぴん）",
+      "reading": "しゅっぴん",
+      "meaning": {
+        "en": "submit (a work/piece)",
+        "zh": "展出"
+      },
+      "sentence": {
+        "ja": "コンクールに出品する絵を選ぶ。",
+        "zh": "挑选绘画比赛的参展作品。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-868",
+      "index": 868,
+      "word": "演奏＜する＞（えんそう）",
+      "reading": "えんそう",
+      "meaning": {
+        "en": "performance",
+        "zh": "演奏"
+      },
+      "sentence": {
+        "ja": "月に１回、ピアノの演奏を聞きに行く。",
+        "zh": "我每个月去听一次钢琴演奏。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-869",
+      "index": 869,
+      "word": "イヤホン（イヤホン）",
+      "reading": "イヤホン",
+      "meaning": {
+        "en": "earphones",
+        "zh": "耳机，耳塞"
+      },
+      "sentence": {
+        "ja": "ジョギング中に、イヤホンで音楽を聞いている。",
+        "zh": "慢跑时，我戴着耳机听音乐。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-870",
+      "index": 870,
+      "word": "講演会（こうえんかい）",
+      "reading": "こうえんかい",
+      "meaning": {
+        "en": "lecture",
+        "zh": "演讲"
+      },
+      "sentence": {
+        "ja": "興味があるテーマの講演会を聞きに行った。",
+        "zh": "我去听了一场演讲，演讲的主题是我感兴趣的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l05-871",
+      "index": 871,
+      "word": "サークル（サークル）",
+      "reading": "サークル",
+      "meaning": {
+        "en": "circle, club",
+        "zh": "小组，俱乐部"
+      },
+      "sentence": {
+        "ja": "大学時代から、音楽のサークルに入っている。",
+        "zh": "从上大学起，我就加入了音乐俱乐部。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

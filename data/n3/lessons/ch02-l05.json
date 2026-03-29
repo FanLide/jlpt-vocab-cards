@@ -1,0 +1,607 @@
+{
+  "id": "ch02-l05",
+  "chapterId": "ch02",
+  "titleJa": "家事",
+  "titleZh": "家事",
+  "rangeNote": "212～244",
+  "audio": {
+    "track": "Chapter02_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter02_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch02-l05-212",
+      "index": 212,
+      "word": "ちらかる（ちらかる）",
+      "reading": "ちらかる",
+      "meaning": {
+        "en": "to be scattered",
+        "zh": "散乱"
+      },
+      "sentence": {
+        "ja": "弟の部屋に、おもちゃがちらかっている。",
+        "zh": "弟弟的房间里，玩具到处乱放。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-213",
+      "index": 213,
+      "word": "片づける（かたづける）",
+      "reading": "かたづける",
+      "meaning": {
+        "en": "to clean up",
+        "zh": "收拾"
+      },
+      "sentence": {
+        "ja": "母親「今すぐ部屋を片づけなさい。」 子ども「ゲームが終わったら、やるよ。」 妈妈：现在马上把房间收拾好。",
+        "zh": "小孩：我打完游戏就收拾。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-214",
+      "index": 214,
+      "word": "清潔な（せいけつな）",
+      "reading": "せいけつな",
+      "meaning": {
+        "en": "clean",
+        "zh": "干净"
+      },
+      "sentence": {
+        "ja": "家の中は、いつも清潔にしておきたい。",
+        "zh": "我希望家里始终保持干净。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-215",
+      "index": 215,
+      "word": "掃く（はく）",
+      "reading": "はく",
+      "meaning": {
+        "en": "to sweep",
+        "zh": "打扫"
+      },
+      "sentence": {
+        "ja": "毎日、家の前を掃いている。",
+        "zh": "每天打扫家门口。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-216",
+      "index": 216,
+      "word": "ほうき（ほうき）",
+      "reading": "ほうき",
+      "meaning": {
+        "en": "broom",
+        "zh": "扫帚"
+      },
+      "sentence": {
+        "ja": "ほうきで玄関を掃く。",
+        "zh": "用扫帚打扫玄关。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-217",
+      "index": 217,
+      "word": "ちりとり（ちりとり）",
+      "reading": "ちりとり",
+      "meaning": {
+        "en": "dustpan",
+        "zh": "簸箕"
+      },
+      "sentence": {
+        "ja": "掃いたごみを、ちりとりに集める。",
+        "zh": "把垃圾集中扫进簸箕里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-218",
+      "index": 218,
+      "word": "掃除機（そうじき）",
+      "reading": "そうじき",
+      "meaning": {
+        "en": "vacuum cleaner",
+        "zh": "吸尘器"
+      },
+      "sentence": {
+        "ja": "うちの掃除機は、音がとても静かだ。",
+        "zh": "我们家的吸尘器静音效果很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-219",
+      "index": 219,
+      "word": "ふく（ふく）",
+      "reading": "ふく",
+      "meaning": {
+        "en": "to wipe",
+        "zh": "擦"
+      },
+      "sentence": {
+        "ja": "食事前に、テーブルをきれいにふく。",
+        "zh": "吃饭之前把桌子擦干净。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-220",
+      "index": 220,
+      "word": "ぞうきん（ぞうきん）",
+      "reading": "ぞうきん",
+      "meaning": {
+        "en": "rag, dustcloth",
+        "zh": "抹布"
+      },
+      "sentence": {
+        "ja": "古いタオルでぞうきんを作った。",
+        "zh": "用旧毛巾做成抹布。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-221",
+      "index": 221,
+      "word": "バケツ（バケツ）",
+      "reading": "バケツ",
+      "meaning": {
+        "en": "bucket",
+        "zh": "水桶"
+      },
+      "sentence": {
+        "ja": "もう少し大きなバケツは、ありませんか。",
+        "zh": "有稍微大一点的水桶吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-222",
+      "index": 222,
+      "word": "しぼる（しぼる）",
+      "reading": "しぼる",
+      "meaning": {
+        "en": "to wring",
+        "zh": "拧"
+      },
+      "sentence": {
+        "ja": "ぞうきんを、よくしぼってください。",
+        "zh": "请把抹布拧干。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-223",
+      "index": 223,
+      "word": "こぼす（こぼす）",
+      "reading": "こぼす",
+      "meaning": {
+        "en": "to spill",
+        "zh": "洒"
+      },
+      "sentence": {
+        "ja": "バケツの水をこぼしてしまった。",
+        "zh": "水桶里的水洒出来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-224",
+      "index": 224,
+      "word": "洗剤（せんざい）",
+      "reading": "せんざい",
+      "meaning": {
+        "en": "detergent",
+        "zh": "洗涤剂"
+      },
+      "sentence": {
+        "ja": "お風呂の掃除には、どんな洗剤がいいですか。",
+        "zh": "打扫浴室要用什么样的洗涤剂才好呢？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-225",
+      "index": 225,
+      "word": "かび（かび）",
+      "reading": "かび",
+      "meaning": {
+        "en": "mold",
+        "zh": "霉"
+      },
+      "sentence": {
+        "ja": "お風呂のかびを取る。",
+        "zh": "清除浴室的霉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-226",
+      "index": 226,
+      "word": "ほこり（ほこり）",
+      "reading": "ほこり",
+      "meaning": {
+        "en": "dust",
+        "zh": "灰尘"
+      },
+      "sentence": {
+        "ja": "窓を開けると、部屋にほこりが入る。",
+        "zh": "一开窗，灰尘就会进入房间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-227",
+      "index": 227,
+      "word": "みがく（みがく）",
+      "reading": "みがく",
+      "meaning": {
+        "en": "to polish, to shine",
+        "zh": "刷"
+      },
+      "sentence": {
+        "ja": "かがみを、きれいにみがく。",
+        "zh": "把镜子刷干净。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-228",
+      "index": 228,
+      "word": "ブラシ（ブラシ）",
+      "reading": "ブラシ",
+      "meaning": {
+        "en": "brush",
+        "zh": "刷子"
+      },
+      "sentence": {
+        "ja": "ブラシで、お風呂を洗う。",
+        "zh": "用刷子洗浴室。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-229",
+      "index": 229,
+      "word": "あわ（あわ）",
+      "reading": "あわ",
+      "meaning": {
+        "en": "bubble",
+        "zh": "泡沫"
+      },
+      "sentence": {
+        "ja": "この石けんは、あわがよく出る。",
+        "zh": "这块肥皂会产生丰富的泡沫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-230",
+      "index": 230,
+      "word": "臭う（におう）",
+      "reading": "におう",
+      "meaning": {
+        "en": "to smell, to give off an odor",
+        "zh": "发臭"
+      },
+      "sentence": {
+        "ja": "バケツの中の生ごみが臭う。",
+        "zh": "水桶里的厨余垃圾发臭了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-231",
+      "index": 231,
+      "word": "洗濯物（せんたくもの）",
+      "reading": "せんたくもの",
+      "meaning": {
+        "en": "laundry",
+        "zh": "换洗衣物"
+      },
+      "sentence": {
+        "ja": "毎日、洗濯物が多い。",
+        "zh": "每天要洗很多衣服。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-232",
+      "index": 232,
+      "word": "汚れ（よごれ）",
+      "reading": "よごれ",
+      "meaning": {
+        "en": "dirt, grime",
+        "zh": "污垢，脏"
+      },
+      "sentence": {
+        "ja": "この洗剤は、汚れがよく落ちる。",
+        "zh": "这种洗衣粉能洗净污垢。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-233",
+      "index": 233,
+      "word": "干す（ほす）",
+      "reading": "ほす",
+      "meaning": {
+        "en": "to hang",
+        "zh": "晒干，弄干"
+      },
+      "sentence": {
+        "ja": "天気がいいので、洗濯物を外に干そう。",
+        "zh": "天气很好，把衣服拿到外面晒干吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-234",
+      "index": 234,
+      "word": "乾燥＜する＞（かんそう）",
+      "reading": "かんそう",
+      "meaning": {
+        "en": "drying",
+        "zh": "干燥"
+      },
+      "sentence": {
+        "ja": "厚いバスタオルは、乾燥機で乾燥させる。",
+        "zh": "厚浴巾要用烘干机烘干。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-235",
+      "index": 235,
+      "word": "たたむ（たたむ）",
+      "reading": "たたむ",
+      "meaning": {
+        "en": "to fold",
+        "zh": "叠"
+      },
+      "sentence": {
+        "ja": "息子は自分で洗濯物をたたむ。",
+        "zh": "儿子自己把洗好的衣服叠起来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-236",
+      "index": 236,
+      "word": "アイロン（アイロン）",
+      "reading": "アイロン",
+      "meaning": {
+        "en": "iron",
+        "zh": "熨斗"
+      },
+      "sentence": {
+        "ja": "娘はアイロンをかけるのが上手だ。",
+        "zh": "女儿熨衣服熨得很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-237",
+      "index": 237,
+      "word": "敷く（しく）",
+      "reading": "しく",
+      "meaning": {
+        "en": "to spread, to lay out",
+        "zh": "铺"
+      },
+      "sentence": {
+        "ja": "たたみの部屋に、ふとんを敷いて寝ている。",
+        "zh": "在榻榻米房间里铺上被褥睡觉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-238",
+      "index": 238,
+      "word": "育児（いくじ）",
+      "reading": "いくじ",
+      "meaning": {
+        "en": "childcare, upbringing, raising a child",
+        "zh": "育儿"
+      },
+      "sentence": {
+        "ja": "働きながら育児をするのは大変だ。",
+        "zh": "边工作边带孩子很辛苦。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-239",
+      "index": 239,
+      "word": "（人を）起こす（（ひとを）おこす）",
+      "reading": "人を",
+      "meaning": {
+        "en": "to wake (someone) up",
+        "zh": "把（人）叫醒"
+      },
+      "sentence": {
+        "ja": "毎朝６時に、子どもを起こす。",
+        "zh": "我每天早上6点叫小孩起床。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-240",
+      "index": 240,
+      "word": "糸（いと）",
+      "reading": "いと",
+      "meaning": {
+        "en": "string, thread",
+        "zh": "线"
+      },
+      "sentence": {
+        "ja": "黒い糸でボタンをつけた。",
+        "zh": "我用黑色的线缝了扣子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-241",
+      "index": 241,
+      "word": "針（はり）",
+      "reading": "はり",
+      "meaning": {
+        "en": "needle",
+        "zh": "针"
+      },
+      "sentence": {
+        "ja": "針に糸を通すのは、とても難しい。",
+        "zh": "穿针很难。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-242",
+      "index": 242,
+      "word": "生ごみ（なまごみ）",
+      "reading": "なまごみ",
+      "meaning": {
+        "en": "raw garbage",
+        "zh": "厨余垃圾"
+      },
+      "sentence": {
+        "ja": "夏は、生ごみがすぐに臭う。",
+        "zh": "夏天，厨余垃圾很快会发臭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-243",
+      "index": 243,
+      "word": "空き缶（あきかん）",
+      "reading": "あきかん",
+      "meaning": {
+        "en": "empty can",
+        "zh": "空罐"
+      },
+      "sentence": {
+        "ja": "水曜日は、空き缶を捨てる日だ。",
+        "zh": "周三是扔空罐的日子。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l05-244",
+      "index": 244,
+      "word": "（ごみを）出す（（ごみを）だす）",
+      "reading": "ごみを",
+      "meaning": {
+        "en": "to take out (the trash)",
+        "zh": "拿出，扔（垃圾）"
+      },
+      "sentence": {
+        "ja": "決められた日に、ごみを出す。",
+        "zh": "在规定的日子里把垃圾拿出去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

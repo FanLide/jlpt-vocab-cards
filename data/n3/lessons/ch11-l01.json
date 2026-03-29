@@ -1,0 +1,517 @@
+{
+  "id": "ch11-l01",
+  "chapterId": "ch11",
+  "titleJa": "性格",
+  "titleZh": "性格",
+  "rangeNote": "1181～1208",
+  "audio": {
+    "track": "Chapter11_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter11_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch11-l01-1181",
+      "index": 1181,
+      "word": "**個性（こせい）**",
+      "reading": "こせい",
+      "meaning": {
+        "en": "individuality",
+        "zh": "个性"
+      },
+      "sentence": {
+        "ja": "一人ひとりの個性を大切にしよう。",
+        "zh": "尊重每个人的个性。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1182",
+      "index": 1182,
+      "word": "**まじめ（まじめ）**",
+      "reading": "まじめ",
+      "meaning": {
+        "en": "serious, diligent",
+        "zh": "认真，老实；正派"
+      },
+      "sentence": {
+        "ja": "彼は、とてもまじめな会社員だ。",
+        "zh": "他是一名非常踏实的员工。 [1]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1183",
+      "index": 1183,
+      "word": "**働き者（はたらきもの）**",
+      "reading": "はたらきもの",
+      "meaning": {
+        "en": "hard worker",
+        "zh": "能干的人"
+      },
+      "sentence": {
+        "ja": "私の母は働き者だ。",
+        "zh": "我妈妈很能干。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1184",
+      "index": 1184,
+      "word": "**正直（しょうじき）**",
+      "reading": "しょうじき",
+      "meaning": {
+        "en": "honest",
+        "zh": "老实，正直"
+      },
+      "sentence": {
+        "ja": "うそはいけません。正直に言いなさい。",
+        "zh": "不许说谎。说实话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1185",
+      "index": 1185,
+      "word": "**素直（すなお）**",
+      "reading": "すなお",
+      "meaning": {
+        "en": "straightforward",
+        "zh": "直率，听话"
+      },
+      "sentence": {
+        "ja": "弟は、とても素直な性格だ。",
+        "zh": "弟弟的性格非常直率。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1186",
+      "index": 1186,
+      "word": "**積極的（せっきょくてき）**",
+      "reading": "せっきょくてき",
+      "meaning": {
+        "en": "assertive, active",
+        "zh": "积极的"
+      },
+      "sentence": {
+        "ja": "会社では、積極的に仕事をしている。",
+        "zh": "我在公司积极地工作。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1187",
+      "index": 1187,
+      "word": "**消極的（しょうきょくてき）**",
+      "reading": "しょうきょくてき",
+      "meaning": {
+        "en": "passive",
+        "zh": "消极的"
+      },
+      "sentence": {
+        "ja": "彼は消極的なタイプだ。",
+        "zh": "他是一个消极的人。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1188",
+      "index": 1188,
+      "word": "**ほがらかな（ほがらかな）**",
+      "reading": "ほがらかな",
+      "meaning": {
+        "en": "bright, cheerful",
+        "zh": "开朗，爽快"
+      },
+      "sentence": {
+        "ja": "ほがらかな人と一緒にいると、楽しくなる。",
+        "zh": "和开朗的人待在一起，就会变得快乐。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1189",
+      "index": 1189,
+      "word": "**人なつこい（ひとなつこい）**",
+      "reading": "ひとなつこい",
+      "meaning": {
+        "en": "friendly, sociable",
+        "zh": "容易和人亲近"
+      },
+      "sentence": {
+        "ja": "彼女は人なつこいので、先輩にかわいがられる。",
+        "zh": "她是一个容易亲近的人，前辈们都喜欢她。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1190",
+      "index": 1190,
+      "word": "**おだやかな（おだやかな）**",
+      "reading": "おだやかな",
+      "meaning": {
+        "en": "calm, gentle, quiet",
+        "zh": "平稳；温和"
+      },
+      "sentence": {
+        "ja": "彼はおだやかなので、みんなに好かれる。",
+        "zh": "他个性温和，大家都喜欢他。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1191",
+      "index": 1191,
+      "word": "**のん気（のんき）**",
+      "reading": "のんき",
+      "meaning": {
+        "en": "carefree, happy-go-lucky",
+        "zh": "无忧无虑；不慌不忙"
+      },
+      "sentence": {
+        "ja": "のん気に遊んでいないで、勉強しなさい。",
+        "zh": "去学习，别老是悠闲地玩耍！ [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1192",
+      "index": 1192,
+      "word": "**おとなしい（おとなしい）**",
+      "reading": "おとなしい",
+      "meaning": {
+        "en": "quiet, docile",
+        "zh": "老实，规规矩矩"
+      },
+      "sentence": {
+        "ja": "姉は、会社ではおとなしいらしい。",
+        "zh": "姐姐在公司似乎很老实。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1193",
+      "index": 1193,
+      "word": "**そそっかしい（そそっかしい）**",
+      "reading": "そそっかしい",
+      "meaning": {
+        "en": "careless, thoughtless",
+        "zh": "举止慌张，马虎"
+      },
+      "sentence": {
+        "ja": "田中さんはそそっかしくて、1日に3回はミスする。",
+        "zh": "田中先生是个马大哈，一天要犯3次错。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1194",
+      "index": 1194,
+      "word": "**いいかげん（いいかげん）**",
+      "reading": "いいかげん",
+      "meaning": {
+        "en": "irresponsible, careless",
+        "zh": "马马虎虎，敷衍"
+      },
+      "sentence": {
+        "ja": "いいかげんな返事をしてはいけません。",
+        "zh": "不能回答得不负责任。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1195",
+      "index": 1195,
+      "word": "**意地悪（いじわる）**",
+      "reading": "いじわる",
+      "meaning": {
+        "en": "mean",
+        "zh": "使坏，刁难，心眼儿坏"
+      },
+      "sentence": {
+        "ja": "意地悪な人は嫌われる。",
+        "zh": "心眼儿坏的人遭人讨厌。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1196",
+      "index": 1196,
+      "word": "**わがまま（わがまま）**",
+      "reading": "わがまま",
+      "meaning": {
+        "en": "selfish",
+        "zh": "任性"
+      },
+      "sentence": {
+        "ja": "彼女はわがままな性格だ。",
+        "zh": "她很任性。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1197",
+      "index": 1197,
+      "word": "**勝手（かって）**",
+      "reading": "かって",
+      "meaning": {
+        "en": "selfish, self-centered",
+        "zh": "任意，随便"
+      },
+      "sentence": {
+        "ja": "勝手に人のノートを見ないでください。",
+        "zh": "不要随便看别人的笔记本。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1198",
+      "index": 1198,
+      "word": "**図々しい（ずうずうしい）**",
+      "reading": "ずうずうしい",
+      "meaning": {
+        "en": "shameless, audacious",
+        "zh": "厚脸皮"
+      },
+      "sentence": {
+        "ja": "彼は、勝手に人の辞書を使う。図々しい人だ。",
+        "zh": "他随便就用别人的字典，脸皮真厚。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1199",
+      "index": 1199,
+      "word": "**生意気（なまいき）**",
+      "reading": "なまいき",
+      "meaning": {
+        "en": "impudent, sassy",
+        "zh": "自大，不知天高地厚"
+      },
+      "sentence": {
+        "ja": "彼女は生意気だが、嫌いじゃない。",
+        "zh": "虽然她比较自大，但我并不讨厌她。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1200",
+      "index": 1200,
+      "word": "**けち（けち）**",
+      "reading": "けち",
+      "meaning": {
+        "en": "stinginess, cheapness",
+        "zh": "吝啬，小气"
+      },
+      "sentence": {
+        "ja": "彼はけちだから、ごちそうしてくれない。",
+        "zh": "他是个小气鬼，不请我吃饭。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1201",
+      "index": 1201,
+      "word": "**しつこい（しつこい）**",
+      "reading": "しつこい",
+      "meaning": {
+        "en": "(annoyingly) persistent",
+        "zh": "执拗，纠缠不休"
+      },
+      "sentence": {
+        "ja": "彼はしつこいから、きっとあきらめないだろう。",
+        "zh": "他是一个执拗的人，一定不会放弃的。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1202",
+      "index": 1202,
+      "word": "**鋭い（するどい）**",
+      "reading": "するどい",
+      "meaning": {
+        "en": "sharp",
+        "zh": "锐利；敏锐"
+      },
+      "sentence": {
+        "ja": "母は鋭いので、私のうそに気づく。",
+        "zh": "妈妈很敏锐，会发现我说谎的。 [4]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1203",
+      "index": 1203,
+      "word": "**鈍い（にぶい）**",
+      "reading": "にぶい",
+      "meaning": {
+        "en": "dim, dull",
+        "zh": "钝；迟钝"
+      },
+      "sentence": {
+        "ja": "父は鈍いから、はっきり言わないとわからない。",
+        "zh": "爸爸比较迟钝，要是不直接说，他听不懂。 [5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1204",
+      "index": 1204,
+      "word": "**単純（たんしゅん）**",
+      "reading": "たんしゅん",
+      "meaning": {
+        "en": "simple, uncomplicated",
+        "zh": "单纯，简单"
+      },
+      "sentence": {
+        "ja": "彼は単純な計算ミスをした。",
+        "zh": "他犯了一个简单的计算错误。 [5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1205",
+      "index": 1205,
+      "word": "**オーバー（オーバー）**",
+      "reading": "オーバー",
+      "meaning": {
+        "en": "over, to an extreme",
+        "zh": "夸张"
+      },
+      "sentence": {
+        "ja": "あの人は何でもオーバーに言う。",
+        "zh": "那个人无论什么都说得很夸张。 [5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1206",
+      "index": 1206,
+      "word": "**欠点（けってん）**",
+      "reading": "けってん",
+      "meaning": {
+        "en": "flaw, shortcoming",
+        "zh": "缺点"
+      },
+      "sentence": {
+        "ja": "だれにでも欠点がある。",
+        "zh": "无论是谁都有缺点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1207",
+      "index": 1207,
+      "word": "**くせ（くせ）**",
+      "reading": "くせ",
+      "meaning": {
+        "en": "habit",
+        "zh": "习惯，毛病"
+      },
+      "sentence": {
+        "ja": "話しているときに髪にさわるのが私のくせです。",
+        "zh": "说话时摸头发是我的习惯。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l01-1208",
+      "index": 1208,
+      "word": "**器用（きよう）**",
+      "reading": "きよう",
+      "meaning": {
+        "en": "dexterous, skillful",
+        "zh": "灵巧；巧妙"
+      },
+      "sentence": {
+        "ja": "姉は器用で、料理も上手だ。",
+        "zh": "姐姐手巧，做饭也好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

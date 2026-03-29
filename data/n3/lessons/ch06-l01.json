@@ -1,0 +1,517 @@
+{
+  "id": "ch06-l01",
+  "chapterId": "ch06",
+  "titleJa": "就職",
+  "titleZh": "就職",
+  "rangeNote": "630～657",
+  "audio": {
+    "track": "Chapter06_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter06_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l01-630",
+      "index": 630,
+      "word": "企業（きぎょう）",
+      "reading": "きぎょう",
+      "meaning": {
+        "en": "industry",
+        "zh": "企业"
+      },
+      "sentence": {
+        "ja": "興味がある企業が、いくつかある。",
+        "zh": "有几家我感兴趣的企业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-631",
+      "index": 631,
+      "word": "ホームページ（ホームページ）",
+      "reading": "ホームページ",
+      "meaning": {
+        "en": "homepage, website",
+        "zh": "官网"
+      },
+      "sentence": {
+        "ja": "行きたい会社のホームページをチェックする。",
+        "zh": "到我想去的公司的官网上看一看。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-632",
+      "index": 632,
+      "word": "条件（じょうけん）",
+      "reading": "じょうけん",
+      "meaning": {
+        "en": "condition",
+        "zh": "条件"
+      },
+      "sentence": {
+        "ja": "就職の条件は、企業によって違う。",
+        "zh": "不同的企业有不同的入职条件。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-633",
+      "index": 633,
+      "word": "募集＜する＞（ぼしゅう）",
+      "reading": "ぼしゅう",
+      "meaning": {
+        "en": "recruiting, taking applications",
+        "zh": "招募"
+      },
+      "sentence": {
+        "ja": "サイトを見て、募集の条件を確認した。",
+        "zh": "我看了一下网站，确认了招聘条件。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-634",
+      "index": 634,
+      "word": "応募＜する＞（おうぼ）",
+      "reading": "おうぼ",
+      "meaning": {
+        "en": "applying for",
+        "zh": "应征，应募"
+      },
+      "sentence": {
+        "ja": "３つの企業に応募してみようと思っている。",
+        "zh": "我打算应聘3家企业。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-635",
+      "index": 635,
+      "word": "登録＜する＞（とうろく）",
+      "reading": "とうろく",
+      "meaning": {
+        "en": "registration",
+        "zh": "登记，注册"
+      },
+      "sentence": {
+        "ja": "就職サイトに登録した。",
+        "zh": "我在求职网站上登记了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-636",
+      "index": 636,
+      "word": "面接＜する＞（めんせつ）",
+      "reading": "めんせつ",
+      "meaning": {
+        "en": "interview",
+        "zh": "面试"
+      },
+      "sentence": {
+        "ja": "面接の翌日、さっそく連絡が来た。",
+        "zh": "面试的第二天，我很快就收到联系了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-637",
+      "index": 637,
+      "word": "履歴書（りれきしょ）",
+      "reading": "りれきしょ",
+      "meaning": {
+        "en": "resume",
+        "zh": "简历"
+      },
+      "sentence": {
+        "ja": "履歴書のために写真を撮った。",
+        "zh": "因为简历需要照片，我去拍了一张。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-638",
+      "index": 638,
+      "word": "記入＜する＞（きにゅう）",
+      "reading": "きにゅう",
+      "meaning": {
+        "en": "filling out",
+        "zh": "填写"
+      },
+      "sentence": {
+        "ja": "履歴書に趣味を記入した。",
+        "zh": "我在简历上填写了个人兴趣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-639",
+      "index": 639,
+      "word": "資格（しかく）",
+      "reading": "しかく",
+      "meaning": {
+        "en": "qualification",
+        "zh": "资格"
+      },
+      "sentence": {
+        "ja": "就職のためには、どんな資格が必要ですか。",
+        "zh": "求职需要什么样的资格证？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-640",
+      "index": 640,
+      "word": "服装（ふくそう）",
+      "reading": "ふくそう",
+      "meaning": {
+        "en": "attire, garments",
+        "zh": "服装"
+      },
+      "sentence": {
+        "ja": "面接では、髪型や服装にも気をつけましょう。",
+        "zh": "面试时，还要注意发型和服装等。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-641",
+      "index": 641,
+      "word": "長所（ちょうしょ）",
+      "reading": "ちょうしょ",
+      "meaning": {
+        "en": "strong point, merit",
+        "zh": "长处，优点"
+      },
+      "sentence": {
+        "ja": "あなたの長所を２つ答えてください。",
+        "zh": "请说出你的两个优点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-642",
+      "index": 642,
+      "word": "短所（たんしょ）",
+      "reading": "たんしょ",
+      "meaning": {
+        "en": "weak point, shortcoming",
+        "zh": "短处，缺点"
+      },
+      "sentence": {
+        "ja": "あなたの短所は何ですか。",
+        "zh": "你的缺点是什么？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-643",
+      "index": 643,
+      "word": "全て（すべて）",
+      "reading": "すべて",
+      "meaning": {
+        "en": "all, every",
+        "zh": "全部"
+      },
+      "sentence": {
+        "ja": "社長の本は、全て読んだ。",
+        "zh": "总经理的书我都读了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-644",
+      "index": 644,
+      "word": "ワイシャツ（ワイシャツ）",
+      "reading": "ワイシャツ",
+      "meaning": {
+        "en": "white collared shirt",
+        "zh": "白衬衫"
+      },
+      "sentence": {
+        "ja": "デパートで、面接のためのワイシャツを買った。",
+        "zh": "我在百货商店买了一件面试穿的白衬衫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-645",
+      "index": 645,
+      "word": "ぜひ（ぜひ）",
+      "reading": "ぜひ",
+      "meaning": {
+        "en": "certainly, by all means",
+        "zh": "务必，一定"
+      },
+      "sentence": {
+        "ja": "ぜひ、こちらで働かせていただきたいです。",
+        "zh": "请务必允许我在这里工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-646",
+      "index": 646,
+      "word": "ぜひとも（ぜひとも）",
+      "reading": "ぜひとも",
+      "meaning": {
+        "en": "by all means",
+        "zh": "务必，无论如何"
+      },
+      "sentence": {
+        "ja": "ぜひとも、この会社で働きたいです。",
+        "zh": "无论如何，我都想在贵公司工作。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-647",
+      "index": 647,
+      "word": "やとう（やとう）",
+      "reading": "やとう",
+      "meaning": {
+        "en": "to hire, to employ",
+        "zh": "雇佣"
+      },
+      "sentence": {
+        "ja": "この会社では、１０００人以上の社員をやっているそうだ。",
+        "zh": "听说这家公司聘用了超过1000名员工。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-648",
+      "index": 648,
+      "word": "採用＜する＞（さいよう）",
+      "reading": "さいよう",
+      "meaning": {
+        "en": "hiring",
+        "zh": "录用"
+      },
+      "sentence": {
+        "ja": "あの会社に採用されるか、心配だ。",
+        "zh": "我担心我能不能被那家公司录用。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-649",
+      "index": 649,
+      "word": "受け取る（うけとる）",
+      "reading": "うけとる",
+      "meaning": {
+        "en": "to receive",
+        "zh": "接收"
+      },
+      "sentence": {
+        "ja": "面接した会社から、採用の書類を受け取った。",
+        "zh": "我收到了面试过的那家公司寄来的录用函。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-650",
+      "index": 650,
+      "word": "正社員（せいしゃいん）",
+      "reading": "せいしゃいん",
+      "meaning": {
+        "en": "regular employee",
+        "zh": "正式员工"
+      },
+      "sentence": {
+        "ja": "できれば正社員になりたい。",
+        "zh": "可能的话，我希望成为正式员工。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-651",
+      "index": 651,
+      "word": "サラリーマン（サラリーマン）",
+      "reading": "サラリーマン",
+      "meaning": {
+        "en": "salary man, businessman",
+        "zh": "上班族"
+      },
+      "sentence": {
+        "ja": "サラリーマンらしいスーツを買った。",
+        "zh": "我买了一套适合上班族穿的西装。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-652",
+      "index": 652,
+      "word": "研修＜する＞（けんしゅう）",
+      "reading": "けんしゅう",
+      "meaning": {
+        "en": "training",
+        "zh": "培训"
+      },
+      "sentence": {
+        "ja": "採用が決まって、すぐに研修が始まる。",
+        "zh": "确定录用之后，马上就会开始培训。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-653",
+      "index": 653,
+      "word": "実習＜する＞（じっしゅう）",
+      "reading": "じっしゅう",
+      "meaning": {
+        "en": "practical training, on-the-job training",
+        "zh": "实习，见习"
+      },
+      "sentence": {
+        "ja": "研修で習ったことを実習する。",
+        "zh": "实践一下培训所学。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-654",
+      "index": 654,
+      "word": "インターン（インターン）",
+      "reading": "インターン",
+      "meaning": {
+        "en": "intern",
+        "zh": "实习生"
+      },
+      "sentence": {
+        "ja": "インターンは学生にとって、いい経験だ。",
+        "zh": "对于学生来说，实习是一段很好的经历。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-655",
+      "index": 655,
+      "word": "職場（しょくば）",
+      "reading": "しょくば",
+      "meaning": {
+        "en": "workplace",
+        "zh": "职场"
+      },
+      "sentence": {
+        "ja": "職場では、人との関係がとても大切だ。",
+        "zh": "在职场，人际关系非常重要。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-656",
+      "index": 656,
+      "word": "得る（える）",
+      "reading": "える",
+      "meaning": {
+        "en": "to procure, to get",
+        "zh": "获得"
+      },
+      "sentence": {
+        "ja": "仕事から、多くの経験を得ることができる。",
+        "zh": "我们能从工作中获得众多经验。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l01-657",
+      "index": 657,
+      "word": "たとえ（たとえ）",
+      "reading": "たとえ",
+      "meaning": {
+        "en": "even if, supposing that",
+        "zh": "即使，哪怕"
+      },
+      "sentence": {
+        "ja": "たとえ嫌なことがあっても、がんばりたい。",
+        "zh": "哪怕有不喜欢的事情，我也想努力做好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

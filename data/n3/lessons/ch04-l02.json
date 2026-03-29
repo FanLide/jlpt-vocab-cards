@@ -1,0 +1,337 @@
+{
+  "id": "ch04-l02",
+  "chapterId": "ch04",
+  "titleJa": "町を歩く",
+  "titleZh": "町を歩く",
+  "rangeNote": "397～414",
+  "audio": {
+    "track": "Chapter04_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter04_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch04-l02-397",
+      "index": 397,
+      "word": "人ごみ（ひとごみ）",
+      "reading": "ひとごみ",
+      "meaning": {
+        "en": "crowd of people",
+        "zh": "人群"
+      },
+      "sentence": {
+        "ja": "人ごみの中を歩くと、ちょっと疲れる。",
+        "zh": "在人群中穿行，有点累。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-398",
+      "index": 398,
+      "word": "都会（とかい）",
+      "reading": "とかい",
+      "meaning": {
+        "en": "city, urban area",
+        "zh": "都市，城市"
+      },
+      "sentence": {
+        "ja": "都会には自然が少ない。",
+        "zh": "城市里少有自然的景色。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-399",
+      "index": 399,
+      "word": "ぶらぶら＜する＞（ぶらぶら）",
+      "reading": "ぶらぶら",
+      "meaning": {
+        "en": "roaming, wandering",
+        "zh": "溜达"
+      },
+      "sentence": {
+        "ja": "休みの日は、一人で町をぶらぶらする。",
+        "zh": "休息日，我一个人在街上溜达。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-400",
+      "index": 400,
+      "word": "うろうろ＜する＞（うろうろ）",
+      "reading": "うろうろ",
+      "meaning": {
+        "en": "aimlessly wandering",
+        "zh": "徘徊，转来转去"
+      },
+      "sentence": {
+        "ja": "最近、知らない人が家の前をうろうろしている。",
+        "zh": "最近，有一个陌生人在我家门前转来转去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-401",
+      "index": 401,
+      "word": "通りかかる（とおりかかる）",
+      "reading": "とおりかかる",
+      "meaning": {
+        "en": "to happen by",
+        "zh": "恰巧路过"
+      },
+      "sentence": {
+        "ja": "通りかかった店に、ちょっと入ってみた。",
+        "zh": "恰巧路过一家店，我走进法看了看。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-402",
+      "index": 402,
+      "word": "通り過ぎる（とおりすぎる）",
+      "reading": "とおりすぎる",
+      "meaning": {
+        "en": "to pass by",
+        "zh": "走过了"
+      },
+      "sentence": {
+        "ja": "スマホを見ていて、学校を通りすぎてしまった。",
+        "zh": "我边看手机边往学校走，结果，走过了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-403",
+      "index": 403,
+      "word": "徒歩（とほ）",
+      "reading": "とほ",
+      "meaning": {
+        "en": "walking",
+        "zh": "步行"
+      },
+      "sentence": {
+        "ja": "うちから駅まで、徒歩で１５分くらいだ。",
+        "zh": "从我家到车站大约要走15分钟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-404",
+      "index": 404,
+      "word": "方向（ほうこう）",
+      "reading": "ほうこう",
+      "meaning": {
+        "en": "direction, orientation",
+        "zh": "方向"
+      },
+      "sentence": {
+        "ja": "知らない町では、方向がわからない。",
+        "zh": "在陌生的街区里，我找不到方向。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-405",
+      "index": 405,
+      "word": "遠回り＜する＞（とおまわり）",
+      "reading": "とおまわり",
+      "meaning": {
+        "en": "taking the long way, taking a detour",
+        "zh": "绕远，绕道"
+      },
+      "sentence": {
+        "ja": "時間があるから、ちょっと遠回りしてみよう。",
+        "zh": "还有时间，我们稍微绕远看看吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-406",
+      "index": 406,
+      "word": "近道＜する＞（ちかみち）",
+      "reading": "ちかみち",
+      "meaning": {
+        "en": "shortcut",
+        "zh": "近路；捷径"
+      },
+      "sentence": {
+        "ja": "駅に行くとき、公園を通って近道した。",
+        "zh": "我穿过公园，抄近道去了车站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-407",
+      "index": 407,
+      "word": "距離（きょり）",
+      "reading": "きょり",
+      "meaning": {
+        "en": "distance",
+        "zh": "距离"
+      },
+      "sentence": {
+        "ja": "うちから学校まで、ちょっと距離がある。",
+        "zh": "从我家到学校距离有一点远。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-408",
+      "index": 408,
+      "word": "追いかける（おいかける）",
+      "reading": "おいかける",
+      "meaning": {
+        "en": "to chase, to pursue",
+        "zh": "追赶"
+      },
+      "sentence": {
+        "ja": "女の子が犬を追いかけている。",
+        "zh": "一个女孩在追赶一只狗。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-409",
+      "index": 409,
+      "word": "追いつく（おいつく）",
+      "reading": "おいつく",
+      "meaning": {
+        "en": "to catch up with",
+        "zh": "赶上"
+      },
+      "sentence": {
+        "ja": "ちょっと走ったら、すぐに追いついた。",
+        "zh": "跑了几步，她很快就追上了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-410",
+      "index": 410,
+      "word": "追い越す（おいこす）",
+      "reading": "おいこす",
+      "meaning": {
+        "en": "to pass, to surpass",
+        "zh": "超过"
+      },
+      "sentence": {
+        "ja": "前の人がゆっくり歩いていたので、追い越した。",
+        "zh": "前面的人走得太慢，于是我超过了他。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-411",
+      "index": 411,
+      "word": "突き当たり（つきあたり）",
+      "reading": "つきあたり",
+      "meaning": {
+        "en": "end of a street",
+        "zh": "尽头"
+      },
+      "sentence": {
+        "ja": "この道の突き当たりに病院がある。",
+        "zh": "这条路走到头有一家医院。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-412",
+      "index": 412,
+      "word": "立ち止まる（たちどまる）",
+      "reading": "たちどまる",
+      "meaning": {
+        "en": "to stop, to stand still",
+        "zh": "站住，停步"
+      },
+      "sentence": {
+        "ja": "立ち止まらないで、前に進んでください。",
+        "zh": "别停下脚步，往前走。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-413",
+      "index": 413,
+      "word": "横切る（よこぎる）",
+      "reading": "よこぎる",
+      "meaning": {
+        "en": "to cross, to go across",
+        "zh": "横穿"
+      },
+      "sentence": {
+        "ja": "黒猫が道を横切った。",
+        "zh": "一只黑猫横穿了马路。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l02-414",
+      "index": 414,
+      "word": "見かける（みかける）",
+      "reading": "みかける",
+      "meaning": {
+        "en": "to notice, to catch sight of",
+        "zh": "看到"
+      },
+      "sentence": {
+        "ja": "駅で知り合いを見かけた。",
+        "zh": "我在车站看到了一个朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

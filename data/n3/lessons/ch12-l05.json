@@ -1,0 +1,463 @@
+{
+  "id": "ch12-l05",
+  "chapterId": "ch12",
+  "titleJa": "国際社会",
+  "titleZh": "国际社会",
+  "rangeNote": "1369～1393",
+  "audio": {
+    "track": "Chapter12_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter12_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch12-l05-1369",
+      "index": 1369,
+      "word": "**語る（かたる）**",
+      "reading": "かたる",
+      "meaning": {
+        "en": "to speak, to talk",
+        "zh": "讲，讲述"
+      },
+      "sentence": {
+        "ja": "政治家が平和について語った。",
+        "zh": "那名政治家就和平进行了阐述。[1, 16]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1370",
+      "index": 1370,
+      "word": "**解消＜する＞（かいしょう）**",
+      "reading": "かいしょう",
+      "meaning": {
+        "en": "resolution",
+        "zh": "解除，取消"
+      },
+      "sentence": {
+        "ja": "国と国のトラブルを解消するのは、難しい。",
+        "zh": "国与国之间的纠纷很难消除。 [相关]：ストレス解消 (stress relief / 减压) [16]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1371",
+      "index": 1371,
+      "word": "**それぞれ（それぞれ）**",
+      "reading": "それぞれ",
+      "meaning": {
+        "en": "each",
+        "zh": "分别，各个"
+      },
+      "sentence": {
+        "ja": "全ての国に、それぞれの文化がある。（名） 人は、それぞれ違う考えを持っている。（副） 所有的国家都有自己的文化。",
+        "zh": "每个人都有各自不同的想法。[17]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1372",
+      "index": 1372,
+      "word": "**片方（かたほう）**",
+      "reading": "かたほう",
+      "meaning": {
+        "en": "(on the) one side",
+        "zh": "一个，一方"
+      },
+      "sentence": {
+        "ja": "片方だけでなく、両方の意見を聞くことが大切だ。",
+        "zh": "关键是要听双方的意见，而不是只听一方的。[17]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1373",
+      "index": 1373,
+      "word": "**囲む（かこむ）**",
+      "reading": "かこむ",
+      "meaning": {
+        "en": "to surround",
+        "zh": "围，包围"
+      },
+      "sentence": {
+        "ja": "Ａ国は３つの国に囲まれている。",
+        "zh": "A国被3个国家环抱在中间。[17]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1374",
+      "index": 1374,
+      "word": "**代わり（かわり）**",
+      "reading": "かわり",
+      "meaning": {
+        "en": "instead of, in return for",
+        "zh": "代替；补偿"
+      },
+      "sentence": {
+        "ja": "車を輸出する代わりに、石油や小麦粉を輸入する。",
+        "zh": "我们出口汽车，同时进口石油、面粉等。[17]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1375",
+      "index": 1375,
+      "word": "**友好（ゆうこう）**",
+      "reading": "ゆうこう",
+      "meaning": {
+        "en": "friendship",
+        "zh": "友好"
+      },
+      "sentence": {
+        "ja": "近くの国との友好は、特に大切だ。",
+        "zh": "与邻近国家之间友好相处，是至关重要的。 [相关]：友好国 (friendly nation / 友好国家)；友好関係 (friendly relationship / 友好关系) [18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1376",
+      "index": 1376,
+      "word": "**期待＜する＞（きたい）**",
+      "reading": "きたい",
+      "meaning": {
+        "en": "expectation",
+        "zh": "期待"
+      },
+      "sentence": {
+        "ja": "これからの両国の友好関係に期待したい。",
+        "zh": "我们期待今后两国之间继续发展友好关系。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1377",
+      "index": 1377,
+      "word": "**区別＜する＞（くべつ）**",
+      "reading": "くべつ",
+      "meaning": {
+        "en": "distinction",
+        "zh": "区别，分清"
+      },
+      "sentence": {
+        "ja": "国の問題と個人の問題を区別しよう。",
+        "zh": "分清国家问题和个人问题。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1378",
+      "index": 1378,
+      "word": "**差別＜する＞（さべつ）**",
+      "reading": "さべつ",
+      "meaning": {
+        "en": "discrimination",
+        "zh": "差异；歧视"
+      },
+      "sentence": {
+        "ja": "差別のない社会にしたい。",
+        "zh": "我希望建设一个无歧视的社会。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1379",
+      "index": 1379,
+      "word": "**限界（げんかい）**",
+      "reading": "げんかい",
+      "meaning": {
+        "en": "limit",
+        "zh": "界限；极限"
+      },
+      "sentence": {
+        "ja": "Ａ国のＢ国に対する我慢が、限界を超えた。",
+        "zh": "A国对B国的容忍超过极限了。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1380",
+      "index": 1380,
+      "word": "**通じる（つうじる）**",
+      "reading": "つうじる",
+      "meaning": {
+        "en": "to get across, to be understood",
+        "zh": "通；通晓"
+      },
+      "sentence": {
+        "ja": "海外で言葉が通じないのは、とても不便だ。",
+        "zh": "在国外，语言不通是非常不方便的。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1381",
+      "index": 1381,
+      "word": "**ジェスチャー（ジェスチャー）**",
+      "reading": "ジェスチャー",
+      "meaning": {
+        "en": "gesture",
+        "zh": "姿态；手势"
+      },
+      "sentence": {
+        "ja": "言葉が通じない場合は、ジェスチャーで伝える。",
+        "zh": "语言不通时，用手势来表达。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1382",
+      "index": 1382,
+      "word": "**首都（しゅと）**",
+      "reading": "しゅと",
+      "meaning": {
+        "en": "capital city",
+        "zh": "首都"
+      },
+      "sentence": {
+        "ja": "スイスの首都で大きな会議が開かれる。",
+        "zh": "瑞士首都将召开大型会议。[18]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1383",
+      "index": 1383,
+      "word": "**順調な（じゅんちょうな）**",
+      "reading": "じゅんちょうな",
+      "meaning": {
+        "en": "favorable, doing well",
+        "zh": "顺利"
+      },
+      "sentence": {
+        "ja": "３か国の話し合いは、順調に進んでいるようだ。",
+        "zh": "看来，三方会谈进展顺利。[19]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1384",
+      "index": 1384,
+      "word": "**対象（たいしょう）**",
+      "reading": "たいしょう",
+      "meaning": {
+        "en": "object, subject",
+        "zh": "对象"
+      },
+      "sentence": {
+        "ja": "となりの国の首相を対象に、インタビューをした。",
+        "zh": "我采访了邻国总理。 [相关]：恋愛対象 (object of romantic interest / 恋爱对象) [19]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1385",
+      "index": 1385,
+      "word": "**通知＜する＞（つうち）**",
+      "reading": "つうち",
+      "meaning": {
+        "en": "notification",
+        "zh": "通知，告知"
+      },
+      "sentence": {
+        "ja": "Ａ国から、来年の訪日の予定が通知された。",
+        "zh": "A国告知了明年的访日计划。[19]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1386",
+      "index": 1386,
+      "word": "**態度（たいど）**",
+      "reading": "たいど",
+      "meaning": {
+        "en": "attitude, behavior",
+        "zh": "态度"
+      },
+      "sentence": {
+        "ja": "相手の態度で、こちらの態度を変える。",
+        "zh": "根据对方的态度改变我方的态度。[19]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1387",
+      "index": 1387,
+      "word": "**求める（もとめる）**",
+      "reading": "もとめる",
+      "meaning": {
+        "en": "to seek, to search for",
+        "zh": "要求，追求"
+      },
+      "sentence": {
+        "ja": "貧しい人たちが何を求めているのか考えるべきだ。",
+        "zh": "我们应当思考一下穷人要什么。[19]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1388",
+      "index": 1388,
+      "word": "**結論（けつろん）**",
+      "reading": "けつろん",
+      "meaning": {
+        "en": "conclusion",
+        "zh": "结论"
+      },
+      "sentence": {
+        "ja": "話し合いの結論は、明日わかるそうだ。",
+        "zh": "据说明天就能知道协商的结果了。[19]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1389",
+      "index": 1389,
+      "word": "**ひっくり返す（ひっくりかえす）**",
+      "reading": "ひっくりかえす",
+      "meaning": {
+        "en": "to flip over",
+        "zh": "翻过来；推翻"
+      },
+      "sentence": {
+        "ja": "①ステーキを焼くときは、途中でひっくり返す。",
+        "zh": "②昨日出た結論が、もうひっくり返された。 ①烤牛排的过程中把牛排翻个面。 ②昨天得出的结论已经被推翻了。 [相关]：ひっくり返る (to be flipped over / 翻倒) [19, 20]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1390",
+      "index": 1390,
+      "word": "**広がる（ひろがる）**",
+      "reading": "ひろがる",
+      "meaning": {
+        "en": "to be spread, to be expanded",
+        "zh": "扩大；蔓延"
+      },
+      "sentence": {
+        "ja": "留学によって可能性が広がった。",
+        "zh": "通过留学，可能性更多了。[20]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1391",
+      "index": 1391,
+      "word": "**広げる（ひろげる）**",
+      "reading": "ひろげる",
+      "meaning": {
+        "en": "to spread, to expand",
+        "zh": "扩大；展开"
+      },
+      "sentence": {
+        "ja": "積極的に自分の世界を広げていきたい。",
+        "zh": "我想积极地扩大自己的世界。[20]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1392",
+      "index": 1392,
+      "word": "**活動＜する＞（かつどう）**",
+      "reading": "かつどう",
+      "meaning": {
+        "en": "activity",
+        "zh": "活动"
+      },
+      "sentence": {
+        "ja": "小さな活動から、世界を変えていく。",
+        "zh": "从小事做起，改变世界。 [相关]：クラブ活動 (club activities / 课外集体活动)；就職活動 (job hunting / 找工作)；活動的な (active / 活动的，有活力的) [20]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch12-l05-1393",
+      "index": 1393,
+      "word": "**ボランティア（ボランティア）**",
+      "reading": "ボランティア",
+      "meaning": {
+        "en": "volunteer",
+        "zh": "志愿者"
+      },
+      "sentence": {
+        "ja": "ボランティアに参加して、成長したい。",
+        "zh": "我希望参加志愿者活动，让自己成长起来。 [相关]：ボランティア活動；ボランティア団体 (volunteer group / 志愿者组织) [20]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

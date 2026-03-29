@@ -1,0 +1,453 @@
+{
+  "book": {
+    "id": "vocab-taisaku-n3",
+    "title": "新日语能力考试 万词对策 N3",
+    "level": "N3"
+  },
+  "chapters": [
+    {
+      "id": "ch01",
+      "titleJa": "人と人との関係",
+      "titleZh": "人际关系篇",
+      "lessons": [
+        {
+          "id": "ch01-l01",
+          "index": 1,
+          "titleJa": "家族",
+          "titleZh": "家族"
+        },
+        {
+          "id": "ch01-l02",
+          "index": 2,
+          "titleJa": "友だちと知り合い",
+          "titleZh": "友だちと知り合い"
+        },
+        {
+          "id": "ch01-l03",
+          "index": 3,
+          "titleJa": "恋人",
+          "titleZh": "恋人"
+        },
+        {
+          "id": "ch01-l04",
+          "index": 4,
+          "titleJa": "コミュニケーション",
+          "titleZh": "交流"
+        },
+        {
+          "id": "ch01-l05",
+          "index": 5,
+          "titleJa": "どんな人？",
+          "titleZh": "什么样的人？"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "titleJa": "暮らし",
+      "titleZh": "生活篇",
+      "lessons": [
+        {
+          "id": "ch02-l01",
+          "index": 1,
+          "titleJa": "時の表現",
+          "titleZh": "時の表現"
+        },
+        {
+          "id": "ch02-l02",
+          "index": 2,
+          "titleJa": "食生活",
+          "titleZh": "食生活"
+        },
+        {
+          "id": "ch02-l03",
+          "index": 3,
+          "titleJa": "料理の道具と材料",
+          "titleZh": "料理の道具と材料"
+        },
+        {
+          "id": "ch02-l04",
+          "index": 4,
+          "titleJa": "料理の作り方",
+          "titleZh": "料理の作り方"
+        },
+        {
+          "id": "ch02-l05",
+          "index": 5,
+          "titleJa": "家事",
+          "titleZh": "家事"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "titleJa": "住まい・買い物",
+      "titleZh": "居住消费篇",
+      "lessons": [
+        {
+          "id": "ch03-l01",
+          "index": 1,
+          "titleJa": "家",
+          "titleZh": "家"
+        },
+        {
+          "id": "ch03-l02",
+          "index": 2,
+          "titleJa": "お金と銀行",
+          "titleZh": "お金と銀行"
+        },
+        {
+          "id": "ch03-l03",
+          "index": 3,
+          "titleJa": "買い物",
+          "titleZh": "買い物"
+        },
+        {
+          "id": "ch03-l04",
+          "index": 4,
+          "titleJa": "朝から夜まで",
+          "titleZh": "朝から夜まで"
+        },
+        {
+          "id": "ch03-l05",
+          "index": 5,
+          "titleJa": "こんなことも",
+          "titleZh": "其他"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "titleJa": "町・交通",
+      "titleZh": "城市交通篇",
+      "lessons": [
+        {
+          "id": "ch04-l01",
+          "index": 1,
+          "titleJa": "町のようす",
+          "titleZh": "町のようす"
+        },
+        {
+          "id": "ch04-l02",
+          "index": 2,
+          "titleJa": "町を歩く",
+          "titleZh": "町を歩く"
+        },
+        {
+          "id": "ch04-l03",
+          "index": 3,
+          "titleJa": "電車と新幹線",
+          "titleZh": "電車と新幹線"
+        },
+        {
+          "id": "ch04-l04",
+          "index": 4,
+          "titleJa": "バス",
+          "titleZh": "バス"
+        },
+        {
+          "id": "ch04-l05",
+          "index": 5,
+          "titleJa": "運転する",
+          "titleZh": "運転する"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "titleJa": "学校・勉強",
+      "titleZh": "学校学习篇",
+      "lessons": [
+        {
+          "id": "ch05-l01",
+          "index": 1,
+          "titleJa": "学校",
+          "titleZh": "学校"
+        },
+        {
+          "id": "ch05-l02",
+          "index": 2,
+          "titleJa": "勉強",
+          "titleZh": "勉強"
+        },
+        {
+          "id": "ch05-l03",
+          "index": 3,
+          "titleJa": "日本の大学",
+          "titleZh": "日本の大学"
+        },
+        {
+          "id": "ch05-l04",
+          "index": 4,
+          "titleJa": "試験",
+          "titleZh": "試験"
+        },
+        {
+          "id": "ch05-l05",
+          "index": 5,
+          "titleJa": "もっとがんばれ！",
+          "titleZh": "继续加油！"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "titleJa": "会社・仕事",
+      "titleZh": "公司工作篇",
+      "lessons": [
+        {
+          "id": "ch06-l01",
+          "index": 1,
+          "titleJa": "就職",
+          "titleZh": "就職"
+        },
+        {
+          "id": "ch06-l02",
+          "index": 2,
+          "titleJa": "会社",
+          "titleZh": "会社"
+        },
+        {
+          "id": "ch06-l03",
+          "index": 3,
+          "titleJa": "上下関係",
+          "titleZh": "上下関係"
+        },
+        {
+          "id": "ch06-l04",
+          "index": 4,
+          "titleJa": "どんな仕事？",
+          "titleZh": "什么样的工作？"
+        },
+        {
+          "id": "ch06-l05",
+          "index": 5,
+          "titleJa": "パソコンで",
+          "titleZh": "电脑"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "titleJa": "旅行・趣味",
+      "titleZh": "旅行兴趣篇",
+      "lessons": [
+        {
+          "id": "ch07-l01",
+          "index": 1,
+          "titleJa": "旅行",
+          "titleZh": "旅行"
+        },
+        {
+          "id": "ch07-l02",
+          "index": 2,
+          "titleJa": "スポーツ",
+          "titleZh": "スポーツ"
+        },
+        {
+          "id": "ch07-l03",
+          "index": 3,
+          "titleJa": "ファッション",
+          "titleZh": "ファッション"
+        },
+        {
+          "id": "ch07-l04",
+          "index": 4,
+          "titleJa": "おしゃれ",
+          "titleZh": "おしゃれ"
+        },
+        {
+          "id": "ch07-l05",
+          "index": 5,
+          "titleJa": "趣味",
+          "titleZh": "趣味"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "titleJa": "体・健康",
+      "titleZh": "身体健康篇",
+      "lessons": [
+        {
+          "id": "ch08-l01",
+          "index": 1,
+          "titleJa": "体",
+          "titleZh": "体"
+        },
+        {
+          "id": "ch08-l02",
+          "index": 2,
+          "titleJa": "何のサイン？",
+          "titleZh": "何のサイン？"
+        },
+        {
+          "id": "ch08-l03",
+          "index": 3,
+          "titleJa": "症状",
+          "titleZh": "症状"
+        },
+        {
+          "id": "ch08-l04",
+          "index": 4,
+          "titleJa": "大丈夫？",
+          "titleZh": "大丈夫？"
+        },
+        {
+          "id": "ch08-l05",
+          "index": 5,
+          "titleJa": "病院",
+          "titleZh": "病院"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "titleJa": "自然・天気",
+      "titleZh": "自然天气篇",
+      "lessons": [
+        {
+          "id": "ch09-l01",
+          "index": 1,
+          "titleJa": "自然",
+          "titleZh": "自然"
+        },
+        {
+          "id": "ch09-l02",
+          "index": 2,
+          "titleJa": "明日の天気",
+          "titleZh": "明日の天気"
+        },
+        {
+          "id": "ch09-l03",
+          "index": 3,
+          "titleJa": "暑い日と寒い日",
+          "titleZh": "暑い日と寒い日"
+        },
+        {
+          "id": "ch09-l04",
+          "index": 4,
+          "titleJa": "どう変わる？",
+          "titleZh": "怎么变化？"
+        },
+        {
+          "id": "ch09-l05",
+          "index": 5,
+          "titleJa": "日本の１年",
+          "titleZh": "日本の１年"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "titleJa": "ニュース・トラブル",
+      "titleZh": "新闻纠纷篇",
+      "lessons": [
+        {
+          "id": "ch10-l01",
+          "index": 1,
+          "titleJa": "マスコミ",
+          "titleZh": "媒体"
+        },
+        {
+          "id": "ch10-l02",
+          "index": 2,
+          "titleJa": "事件",
+          "titleZh": "事件"
+        },
+        {
+          "id": "ch10-l03",
+          "index": 3,
+          "titleJa": "気をつけよう!",
+          "titleZh": "小心!"
+        },
+        {
+          "id": "ch10-l04",
+          "index": 4,
+          "titleJa": "トラブル",
+          "titleZh": "遇上麻烦"
+        },
+        {
+          "id": "ch10-l05",
+          "index": 5,
+          "titleJa": "データ",
+          "titleZh": "数据"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "titleJa": "気持ち・様子",
+      "titleZh": "心情印象篇",
+      "lessons": [
+        {
+          "id": "ch11-l01",
+          "index": 1,
+          "titleJa": "性格",
+          "titleZh": "性格"
+        },
+        {
+          "id": "ch11-l02",
+          "index": 2,
+          "titleJa": "うれしい気持ち",
+          "titleZh": "うれしい気持ち"
+        },
+        {
+          "id": "ch11-l03",
+          "index": 3,
+          "titleJa": "ブルーな気分",
+          "titleZh": "ブルーな気分"
+        },
+        {
+          "id": "ch11-l04",
+          "index": 4,
+          "titleJa": "どんな感じ？",
+          "titleZh": "どんな感じ？"
+        },
+        {
+          "id": "ch11-l05",
+          "index": 5,
+          "titleJa": "複雑な気持ち",
+          "titleZh": "複雑な気持ち"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "titleJa": "イメージ・社会",
+      "titleZh": "印象社会篇",
+      "lessons": [
+        {
+          "id": "ch12-l01",
+          "index": 1,
+          "titleJa": "デザイン",
+          "titleZh": "设计"
+        },
+        {
+          "id": "ch12-l02",
+          "index": 2,
+          "titleJa": "人のイメージ",
+          "titleZh": "描述人"
+        },
+        {
+          "id": "ch12-l03",
+          "index": 3,
+          "titleJa": "物のイメージ",
+          "titleZh": "描述物体"
+        },
+        {
+          "id": "ch12-l04",
+          "index": 4,
+          "titleJa": "私たちの社会",
+          "titleZh": "我们的社会"
+        },
+        {
+          "id": "ch12-l05",
+          "index": 5,
+          "titleJa": "国際社会",
+          "titleZh": "国际社会"
+        }
+      ]
+    }
+  ]
+}

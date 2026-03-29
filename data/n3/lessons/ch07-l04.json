@@ -1,0 +1,445 @@
+{
+  "id": "ch07-l04",
+  "chapterId": "ch07",
+  "titleJa": "おしゃれ",
+  "titleZh": "おしゃれ",
+  "rangeNote": "828～851",
+  "audio": {
+    "track": "Chapter07_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter07_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch07-l04-828",
+      "index": 828,
+      "word": "夏物（なつもの）",
+      "reading": "なつもの",
+      "meaning": {
+        "en": "summer goods",
+        "zh": "夏季用品，夏装"
+      },
+      "sentence": {
+        "ja": "暖かくなってきたので、そろそろ夏物を出そう。",
+        "zh": "天渐渐暖和了，差不多把夏天的衣物拿出来吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-829",
+      "index": 829,
+      "word": "冬物（ふゆもの）",
+      "reading": "ふゆもの",
+      "meaning": {
+        "en": "winter goods",
+        "zh": "冬季用品，冬装"
+      },
+      "sentence": {
+        "ja": "暖かくなってきたので、冬物をしまおう。",
+        "zh": "天渐渐暖和了，把冬天的衣物收拾起来吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-830",
+      "index": 830,
+      "word": "上着（うわぎ）",
+      "reading": "うわぎ",
+      "meaning": {
+        "en": "upper garment, jacket",
+        "zh": "上衣"
+      },
+      "sentence": {
+        "ja": "もう春だ。うすい上着がほしい。",
+        "zh": "已经春天了。我想要一件薄上衣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-831",
+      "index": 831,
+      "word": "婦人服（ふじんふく）",
+      "reading": "ふじんふく",
+      "meaning": {
+        "en": "women's clothing",
+        "zh": "女装"
+      },
+      "sentence": {
+        "ja": "婦人服売り場は３階だ。",
+        "zh": "女装卖场在3层。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-832",
+      "index": 832,
+      "word": "紳士服（しんしふく）",
+      "reading": "しんしふく",
+      "meaning": {
+        "en": "men's wear",
+        "zh": "男装"
+      },
+      "sentence": {
+        "ja": "最近は、おしゃれな紳士服が増えた。",
+        "zh": "最近，时尚的男装越来越多了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-833",
+      "index": 833,
+      "word": "ジーンズ（ジーンズ）",
+      "reading": "ジーンズ",
+      "meaning": {
+        "en": "jeans",
+        "zh": "牛仔裤"
+      },
+      "sentence": {
+        "ja": "私の会社では、ジーンズは禁止されている。",
+        "zh": "我们公司禁止穿牛仔裤。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-834",
+      "index": 834,
+      "word": "パンツ（パンツ）",
+      "reading": "パンツ",
+      "meaning": {
+        "en": "pants",
+        "zh": "裤子"
+      },
+      "sentence": {
+        "ja": "スカートより、パンツのスーツが好きだ。",
+        "zh": "西装我更喜欢下身是裤子而不是裙子的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-835",
+      "index": 835,
+      "word": "イヤリング（イヤリング）",
+      "reading": "イヤリング",
+      "meaning": {
+        "en": "clip-on earring",
+        "zh": "耳环"
+      },
+      "sentence": {
+        "ja": "会社に、小さいイヤリングをして行く。",
+        "zh": "我戴着一副小耳环去公司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-836",
+      "index": 836,
+      "word": "ネックレス（ネックレス）",
+      "reading": "ネックレス",
+      "meaning": {
+        "en": "necklace",
+        "zh": "项链"
+      },
+      "sentence": {
+        "ja": "パーティーに、ダイヤのネックレスをして行く。",
+        "zh": "我戴着钻石项链去参加派对。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-837",
+      "index": 837,
+      "word": "宝石（ほうせき）",
+      "reading": "ほうせき",
+      "meaning": {
+        "en": "precious gem",
+        "zh": "宝石"
+      },
+      "sentence": {
+        "ja": "宝石は高くて買えない。",
+        "zh": "宝石很贵，我买不起。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-838",
+      "index": 838,
+      "word": "スカーフ（スカーフ）",
+      "reading": "スカーフ",
+      "meaning": {
+        "en": "scarf",
+        "zh": "围巾"
+      },
+      "sentence": {
+        "ja": "ブランドのスカーフを何枚か持っている。",
+        "zh": "我有几条名牌围巾。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-839",
+      "index": 839,
+      "word": "手袋（てぶくろ）",
+      "reading": "てぶくろ",
+      "meaning": {
+        "en": "glove",
+        "zh": "手套"
+      },
+      "sentence": {
+        "ja": "今年、新しい手袋を買った。",
+        "zh": "今年，我买了一副新的手套。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-840",
+      "index": 840,
+      "word": "マフラー（マフラー）",
+      "reading": "マフラー",
+      "meaning": {
+        "en": "scarf, muffler",
+        "zh": "围巾"
+      },
+      "sentence": {
+        "ja": "寒い日でも、マフラーがあれば暖かい。",
+        "zh": "就算天气寒冷，只要戴着围巾，就会很暖和。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-841",
+      "index": 841,
+      "word": "［お］化粧＜する＞（［お］けしょう）",
+      "reading": "［お］けしょう",
+      "meaning": {
+        "en": "makeup",
+        "zh": "化妆"
+      },
+      "sentence": {
+        "ja": "出かけるときは、必ず化粧をする。",
+        "zh": "我出门之前一定要化妆。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-842",
+      "index": 842,
+      "word": "口紅（くちべに）",
+      "reading": "くちべに",
+      "meaning": {
+        "en": "lipstick",
+        "zh": "口红"
+      },
+      "sentence": {
+        "ja": "季節によって口紅を変えている。",
+        "zh": "根据季节更换口红。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-843",
+      "index": 843,
+      "word": "まつ毛（まつげ）",
+      "reading": "まつげ",
+      "meaning": {
+        "en": "eyelash",
+        "zh": "睫毛"
+      },
+      "sentence": {
+        "ja": "彼女はまつ毛が長くて、かわいい。",
+        "zh": "她的睫毛很长，很可爱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-844",
+      "index": 844,
+      "word": "ほほ（ほほ）",
+      "reading": "ほほ",
+      "meaning": {
+        "en": "cheek",
+        "zh": "脸颊"
+      },
+      "sentence": {
+        "ja": "彼女のほほは、ピンクでかわいい。",
+        "zh": "她的脸颊是粉红色的，很可爱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-845",
+      "index": 845,
+      "word": "つめ（つめ）",
+      "reading": "つめ",
+      "meaning": {
+        "en": "nail",
+        "zh": "指甲"
+      },
+      "sentence": {
+        "ja": "つめの色を変えると、気分が変わる。",
+        "zh": "换一种指甲颜色，换一种心情。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-846",
+      "index": 846,
+      "word": "香水（こうすい）",
+      "reading": "こうすい",
+      "meaning": {
+        "en": "perfume",
+        "zh": "香水"
+      },
+      "sentence": {
+        "ja": "この香水は少し匂いが強い。",
+        "zh": "这款香水的味道有点浓。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-847",
+      "index": 847,
+      "word": "古着（ふるぎ）",
+      "reading": "ふるぎ",
+      "meaning": {
+        "en": "used clothing",
+        "zh": "旧衣服"
+      },
+      "sentence": {
+        "ja": "古着が好きで、よくこの店に寄る。",
+        "zh": "我喜欢穿旧衣服，常常会顺便来这家店。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-848",
+      "index": 848,
+      "word": "革（かわ）",
+      "reading": "かわ",
+      "meaning": {
+        "en": "leather",
+        "zh": "皮革"
+      },
+      "sentence": {
+        "ja": "このくつは、とてもいい革でできている。",
+        "zh": "这双鞋是用上好的皮革做成的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-849",
+      "index": 849,
+      "word": "ベルト（ベルト）",
+      "reading": "ベルト",
+      "meaning": {
+        "en": "belt",
+        "zh": "腰带"
+      },
+      "sentence": {
+        "ja": "ブランドのベルトを、父にプレゼントした。",
+        "zh": "我送了爸爸一条名牌腰带。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-850",
+      "index": 850,
+      "word": "そで（そで）",
+      "reading": "そで",
+      "meaning": {
+        "en": "sleeve",
+        "zh": "袖子"
+      },
+      "sentence": {
+        "ja": "会社の冷房が強いので、長そでを着ている。",
+        "zh": "公司的冷气太强，所以我穿着长袖。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l04-851",
+      "index": 851,
+      "word": "ショップ（ショップ）",
+      "reading": "ショップ",
+      "meaning": {
+        "en": "shop",
+        "zh": "商店"
+      },
+      "sentence": {
+        "ja": "近くに、とてもおしゃれなショップができた。",
+        "zh": "附近开了一家富丽堂皇的商店。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

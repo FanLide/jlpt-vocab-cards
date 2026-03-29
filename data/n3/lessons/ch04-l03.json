@@ -1,0 +1,553 @@
+{
+  "id": "ch04-l03",
+  "chapterId": "ch04",
+  "titleJa": "電車と新幹線",
+  "titleZh": "電車と新幹線",
+  "rangeNote": "415～444",
+  "audio": {
+    "track": "Chapter04_Section3",
+    "file": "resources/audio/extracted/万词对策N3/Chapter04_Section3.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch04-l03-415",
+      "index": 415,
+      "word": "行き先（いきさき）",
+      "reading": "いきさき",
+      "meaning": {
+        "en": "destination",
+        "zh": "目的地"
+      },
+      "sentence": {
+        "ja": "急いでいたので、行き先を間違えてしまった。",
+        "zh": "太匆忙了，我把目的地搞错了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-416",
+      "index": 416,
+      "word": "往復＜する＞（おうふく）",
+      "reading": "おうふく",
+      "meaning": {
+        "en": "round trip",
+        "zh": "往返"
+      },
+      "sentence": {
+        "ja": "会社まで往復４時間かかる。",
+        "zh": "我去公司往返要花4个小时。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-417",
+      "index": 417,
+      "word": "片道（かたみち）",
+      "reading": "かたみち",
+      "meaning": {
+        "en": "one-way trip",
+        "zh": "单程"
+      },
+      "sentence": {
+        "ja": "東京まで新幹線で、片道１万円だ。",
+        "zh": "坐新干线去东京，单程要1万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-418",
+      "index": 418,
+      "word": "各駅停車（かくえきていしゃ）",
+      "reading": "かくえきていしゃ",
+      "meaning": {
+        "en": "local train",
+        "zh": "每站都停"
+      },
+      "sentence": {
+        "ja": "時間があるときは、各駅停車に乗る。",
+        "zh": "有时间的话，我会坐每站都停的车。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-419",
+      "index": 419,
+      "word": "急行（きゅうこう）",
+      "reading": "きゅうこう",
+      "meaning": {
+        "en": "express",
+        "zh": "快车"
+      },
+      "sentence": {
+        "ja": "急行に乗るときは、急行料金が必要だ。",
+        "zh": "搭乘快车需要支付快车费。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-420",
+      "index": 420,
+      "word": "始発（しはつ）",
+      "reading": "しはつ",
+      "meaning": {
+        "en": "first train",
+        "zh": "始发；首班车"
+      },
+      "sentence": {
+        "ja": "①この駅の始発電車は、５時半ごろだ。",
+        "zh": "②ここは中央線の始発駅だ。 ①这一站的首班车是5点半左右。 ②这里是中央线的始发站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-421",
+      "index": 421,
+      "word": "終電（しゅうでん）",
+      "reading": "しゅうでん",
+      "meaning": {
+        "en": "last train",
+        "zh": "末班车"
+      },
+      "sentence": {
+        "ja": "１２時半の終電に間に合わない。",
+        "zh": "赶不上12点半的末班车。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-422",
+      "index": 422,
+      "word": "終点（しゅうてん）",
+      "reading": "しゅうてん",
+      "meaning": {
+        "en": "last stop, final destination",
+        "zh": "终点"
+      },
+      "sentence": {
+        "ja": "終電で寝てしまって、終点まで行った。",
+        "zh": "我在末班车上睡着了，一路坐到了终点站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-423",
+      "index": 423,
+      "word": "上り（のぼり）",
+      "reading": "のぼり",
+      "meaning": {
+        "en": "up, ascending, inbound",
+        "zh": "上行"
+      },
+      "sentence": {
+        "ja": "もうすぐ上り電車が来る。",
+        "zh": "上行电车马上要进站了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-424",
+      "index": 424,
+      "word": "下り（くだり）",
+      "reading": "くだり",
+      "meaning": {
+        "en": "down, descending, outbound",
+        "zh": "下行"
+      },
+      "sentence": {
+        "ja": "下りの電車に乗って、山へ行く。",
+        "zh": "我搭乘下行电车去山里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-425",
+      "index": 425,
+      "word": "ＪＲ（ジェイアール）",
+      "reading": "ジェイアール",
+      "meaning": {
+        "en": "JR (Japan Railways)",
+        "zh": "JR"
+      },
+      "sentence": {
+        "ja": "私はＪＲを、よく利用する。",
+        "zh": "我经常乘坐JR。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-426",
+      "index": 426,
+      "word": "私鉄（してつ）",
+      "reading": "してつ",
+      "meaning": {
+        "en": "private railway",
+        "zh": "私营铁路"
+      },
+      "sentence": {
+        "ja": "この近くに私鉄の駅はない。",
+        "zh": "这附近没有私铁的站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-427",
+      "index": 427,
+      "word": "経由＜する＞（けいゆ）",
+      "reading": "けいゆ",
+      "meaning": {
+        "en": "through, by way of",
+        "zh": "经由"
+      },
+      "sentence": {
+        "ja": "今日は東京駅を経由して、家に帰る。",
+        "zh": "我今天回家会途经东京站。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-428",
+      "index": 428,
+      "word": "定期券（ていきけん）",
+      "reading": "ていきけん",
+      "meaning": {
+        "en": "commuter pass",
+        "zh": "月票"
+      },
+      "sentence": {
+        "ja": "定期券は割引があるので、得だ。",
+        "zh": "月票比较合算，因为有折扣。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-429",
+      "index": 429,
+      "word": "有効期限（ゆうこうきげん）",
+      "reading": "ゆうこうきげん",
+      "meaning": {
+        "en": "expiration date",
+        "zh": "有效期"
+      },
+      "sentence": {
+        "ja": "カードの有効期限は、来月までだ。",
+        "zh": "卡片有效期到下个月。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-430",
+      "index": 430,
+      "word": "窓口（まどぐち）",
+      "reading": "まどぐち",
+      "meaning": {
+        "en": "ticket window, teller",
+        "zh": "窗口"
+      },
+      "sentence": {
+        "ja": "駅の窓口で、旅行の予約ができる。",
+        "zh": "可以在车站的窗口预订旅行。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-431",
+      "index": 431,
+      "word": "販売＜する＞（はんばい）",
+      "reading": "はんばい",
+      "meaning": {
+        "en": "sales, selling",
+        "zh": "销售"
+      },
+      "sentence": {
+        "ja": "窓口で、記念切符を販売している。",
+        "zh": "纪念车票在窗口有售。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-432",
+      "index": 432,
+      "word": "通路側（つうろがわ）",
+      "reading": "つうろがわ",
+      "meaning": {
+        "en": "aisle side",
+        "zh": "靠通道"
+      },
+      "sentence": {
+        "ja": "新幹線では通路側に座る。",
+        "zh": "在新干线上，我会坐在靠通道的位置。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-433",
+      "index": 433,
+      "word": "改札（かいさつ）",
+      "reading": "かいさつ",
+      "meaning": {
+        "en": "ticket gate",
+        "zh": "检票"
+      },
+      "sentence": {
+        "ja": "改札を出たところで待ち合わせた。",
+        "zh": "我们约在检票出来的地方见面。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-434",
+      "index": 434,
+      "word": "指定席（していせき）",
+      "reading": "していせき",
+      "meaning": {
+        "en": "reserved seats",
+        "zh": "对号入座"
+      },
+      "sentence": {
+        "ja": "旅行の前に、指定席を予約した。",
+        "zh": "旅行前，我预订了对号入座的车票。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-435",
+      "index": 435,
+      "word": "車内アナウンス（しゃないアナウンス）",
+      "reading": "しゃないアナウンス",
+      "meaning": {
+        "en": "onboard announcement",
+        "zh": "车内广播"
+      },
+      "sentence": {
+        "ja": "車内アナウンスで、携帯電話のルールを説明している。",
+        "zh": "车内广播正在说明手机的使用规则。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-436",
+      "index": 436,
+      "word": "車掌（しゃしょう）",
+      "reading": "しゃしょう",
+      "meaning": {
+        "en": "train conductor",
+        "zh": "乘务员"
+      },
+      "sentence": {
+        "ja": "新幹線の車掌の制服は、かっこいい。",
+        "zh": "新干线乘务员的制服很酷。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-437",
+      "index": 437,
+      "word": "ホーム（ホーム）",
+      "reading": "ホーム",
+      "meaning": {
+        "en": "platform",
+        "zh": "站台"
+      },
+      "sentence": {
+        "ja": "ホームに、たくさんの人が並んでいる。",
+        "zh": "站台上，许多人排着队。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-438",
+      "index": 438,
+      "word": "線路（せんろ）",
+      "reading": "せんろ",
+      "meaning": {
+        "en": "railway tracks",
+        "zh": "铁路，轨道"
+      },
+      "sentence": {
+        "ja": "線路には、ぜったいに降りないでください。",
+        "zh": "禁止进入轨道。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-439",
+      "index": 439,
+      "word": "踏切（ふみきり）",
+      "reading": "ふみきり",
+      "meaning": {
+        "en": "railway crossing",
+        "zh": "铁路道口"
+      },
+      "sentence": {
+        "ja": "あの踏切は１０分くらい開かないことがある。",
+        "zh": "那个道口有时会关闭10分钟左右。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-440",
+      "index": 440,
+      "word": "乗り遅れる（のりおくれる）",
+      "reading": "のりおくれる",
+      "meaning": {
+        "en": "to miss (a train or bus)",
+        "zh": "误(车)，赶不上"
+      },
+      "sentence": {
+        "ja": "道が込んで、新幹線に乗り遅れた。",
+        "zh": "因为堵车，我误了新干线。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-441",
+      "index": 441,
+      "word": "乗り換える（のりかえる）",
+      "reading": "のりかえる",
+      "meaning": {
+        "en": "to transfer",
+        "zh": "换乘"
+      },
+      "sentence": {
+        "ja": "次の駅で、地下鉄に乗り換える。",
+        "zh": "在下一站换乘地铁。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-442",
+      "index": 442,
+      "word": "乗り越す（のりこす）",
+      "reading": "のりこす",
+      "meaning": {
+        "en": "to pass, to ride past",
+        "zh": "坐过站"
+      },
+      "sentence": {
+        "ja": "乗り越したら、改札でお金を払う。",
+        "zh": "如果坐过站，就要到检票处交钱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-443",
+      "index": 443,
+      "word": "乗り過ごす（のりすごす）",
+      "reading": "のりすごす",
+      "meaning": {
+        "en": "to ride past, to miss one's stop",
+        "zh": "坐过站"
+      },
+      "sentence": {
+        "ja": "電車で寝てしまって、乗り過ごした。",
+        "zh": "我在电车上睡着了，结果坐过站了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l03-444",
+      "index": 444,
+      "word": "踏む（ふむ）",
+      "reading": "ふむ",
+      "meaning": {
+        "en": "to step on, to stomp",
+        "zh": "踩，踏"
+      },
+      "sentence": {
+        "ja": "電車の中で、となりの人の足を踏んでしまった。",
+        "zh": "在电车里，我踩到旁边人的脚了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

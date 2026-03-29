@@ -1,0 +1,445 @@
+{
+  "id": "ch06-l05",
+  "chapterId": "ch06",
+  "titleJa": "パソコンで",
+  "titleZh": "电脑",
+  "rangeNote": "724～747",
+  "audio": {
+    "track": "Chapter06_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter06_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch06-l05-724",
+      "index": 724,
+      "word": "画面（がめん）",
+      "reading": "がめん",
+      "meaning": {
+        "en": "screen",
+        "zh": "屏幕"
+      },
+      "sentence": {
+        "ja": "パソコンの画面を見ていると、目が疲れる。",
+        "zh": "一直盯着电脑屏幕，眼睛会疲劳。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-725",
+      "index": 725,
+      "word": "件名（けんめい）",
+      "reading": "けんめい",
+      "meaning": {
+        "en": "subject (of an e-mail)",
+        "zh": "邮件名"
+      },
+      "sentence": {
+        "ja": "メールの件名は、長すぎないほうがいい。",
+        "zh": "邮件名最好不要太长。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-726",
+      "index": 726,
+      "word": "受信＜する＞（じゅしん）",
+      "reading": "じゅしん",
+      "meaning": {
+        "en": "receiving, to receive",
+        "zh": "收信"
+      },
+      "sentence": {
+        "ja": "このメールは昨日受信した。",
+        "zh": "这封邮件是昨天收到的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-727",
+      "index": 727,
+      "word": "送信＜する＞（そうしん）",
+      "reading": "そうしん",
+      "meaning": {
+        "en": "sending, to send",
+        "zh": "发送"
+      },
+      "sentence": {
+        "ja": "さっき送信したメールは届いただろうか。",
+        "zh": "刚才发送的邮件，对方收到了吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-728",
+      "index": 728,
+      "word": "返信＜する＞（へんしん）",
+      "reading": "へんしん",
+      "meaning": {
+        "en": "reply, to reply",
+        "zh": "回信"
+      },
+      "sentence": {
+        "ja": "仕事のメールは、できるだけ早く返信しよう。",
+        "zh": "工作上的邮件要尽早回复。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-729",
+      "index": 729,
+      "word": "やり取り＜する＞（やりとり）",
+      "reading": "やりとり",
+      "meaning": {
+        "en": "to have an exchange",
+        "zh": "交换"
+      },
+      "sentence": {
+        "ja": "毎日のように、メールをやり取りしている。",
+        "zh": "我每天都在收发邮件。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-730",
+      "index": 730,
+      "word": "入力＜する＞（にゅうりょく）",
+      "reading": "にゅうりょく",
+      "meaning": {
+        "en": "input, writing",
+        "zh": "输入"
+      },
+      "sentence": {
+        "ja": "大切なメールは、入力したら何回も確認する。",
+        "zh": "重要的邮件写完之后要检查几遍。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-731",
+      "index": 731,
+      "word": "変換＜する＞（へんかん）",
+      "reading": "へんかん",
+      "meaning": {
+        "en": "conversion",
+        "zh": "转换"
+      },
+      "sentence": {
+        "ja": "彼のメールは漢字の変換ミスがとても多い。",
+        "zh": "他的邮件里有很多汉字转换错误。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-732",
+      "index": 732,
+      "word": "改行＜する＞（かいぎょう）",
+      "reading": "かいぎょう",
+      "meaning": {
+        "en": "new line, new paragraph",
+        "zh": "另起一行，换行"
+      },
+      "sentence": {
+        "ja": "メールの文は、読みやすいように改行してください。",
+        "zh": "写邮件时，句子要换行，以便阅读。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-733",
+      "index": 733,
+      "word": "見直す（みなおす）",
+      "reading": "みなおす",
+      "meaning": {
+        "en": "to review, to check",
+        "zh": "查看，重新修改"
+      },
+      "sentence": {
+        "ja": "内容を２回見直して、送信した。",
+        "zh": "我重新修改了两遍内容，把邮件发了出去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-734",
+      "index": 734,
+      "word": "変更＜する＞（へんこう）",
+      "reading": "へんこう",
+      "meaning": {
+        "en": "change, modification",
+        "zh": "变更"
+      },
+      "sentence": {
+        "ja": "アドレスを変更するのに、時間がかかった。",
+        "zh": "变更邮箱地址花了不少时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-735",
+      "index": 735,
+      "word": "画像（がぞう）",
+      "reading": "がぞう",
+      "meaning": {
+        "en": "image, picture, display",
+        "zh": "图像，画面"
+      },
+      "sentence": {
+        "ja": "このパソコンは画像がとてもきれいだ。",
+        "zh": "这台电脑的画面非常清晰。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-736",
+      "index": 736,
+      "word": "挿入＜する＞（そうにゅう）",
+      "reading": "そうにゅう",
+      "meaning": {
+        "en": "insertion",
+        "zh": "插入"
+      },
+      "sentence": {
+        "ja": "画像を挿入して、おもしろいメールを送った。",
+        "zh": "我插入图片，把这封有趣的邮件发送了出去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-737",
+      "index": 737,
+      "word": "添付＜する＞（てんぷ）",
+      "reading": "てんぷ",
+      "meaning": {
+        "en": "attachment",
+        "zh": "附件"
+      },
+      "sentence": {
+        "ja": "ファイルを添付して、送信した。",
+        "zh": "我添加了附件，把邮件发送了出去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-738",
+      "index": 738,
+      "word": "削除＜する＞（さくじょ）",
+      "reading": "さくじょ",
+      "meaning": {
+        "en": "deletion",
+        "zh": "删除"
+      },
+      "sentence": {
+        "ja": "昨日のメールは、削除してください。",
+        "zh": "请删除昨天的邮件。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-739",
+      "index": 739,
+      "word": "保存＜する＞（ほぞん）",
+      "reading": "ほぞん",
+      "meaning": {
+        "en": "saving",
+        "zh": "保存"
+      },
+      "sentence": {
+        "ja": "好きな写真を何枚か保存した。",
+        "zh": "我保存了几张喜欢的照片。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-740",
+      "index": 740,
+      "word": "新規作成＜する＞（しんきさくせい）",
+      "reading": "しんきさくせい",
+      "meaning": {
+        "en": "new file",
+        "zh": "新建"
+      },
+      "sentence": {
+        "ja": "ファイルを新規作成したが、保存し忘れた。",
+        "zh": "我新建了一个文件，但是忘记保存了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-741",
+      "index": 741,
+      "word": "完了＜する＞（かんりょう）",
+      "reading": "かんりょう",
+      "meaning": {
+        "en": "completion",
+        "zh": "完成"
+      },
+      "sentence": {
+        "ja": "データの送信が完了して、安心した。",
+        "zh": "数据发送完成，我放心了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-742",
+      "index": 742,
+      "word": "ブログ（ブログ）",
+      "reading": "ブログ",
+      "meaning": {
+        "en": "blog",
+        "zh": "博客"
+      },
+      "sentence": {
+        "ja": "友だちのブログは、毎日更新されている。",
+        "zh": "朋友每天都更新博客。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-743",
+      "index": 743,
+      "word": "マウス（マウス）",
+      "reading": "マウス",
+      "meaning": {
+        "en": "mouse",
+        "zh": "鼠标"
+      },
+      "sentence": {
+        "ja": "パソコンは古いが、マウスは新しい。",
+        "zh": "虽然电脑是旧的，但鼠标是新的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-744",
+      "index": 744,
+      "word": "クリック＜する＞（クリック）",
+      "reading": "クリック",
+      "meaning": {
+        "en": "click",
+        "zh": "点击"
+      },
+      "sentence": {
+        "ja": "ここをクリックすると、画面が変わる。",
+        "zh": "点击一下这里，屏幕就会改变。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-745",
+      "index": 745,
+      "word": "プロバイダー（プロバイダー）",
+      "reading": "プロバイダー",
+      "meaning": {
+        "en": "provider",
+        "zh": "供应商"
+      },
+      "sentence": {
+        "ja": "引っ越したので、プロバイダーに連絡した。",
+        "zh": "我搬家了，因此联系了供应商。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-746",
+      "index": 746,
+      "word": "ダウンロード＜する＞（ダウンロード）",
+      "reading": "ダウンロード",
+      "meaning": {
+        "en": "download",
+        "zh": "下载"
+      },
+      "sentence": {
+        "ja": "便利なソフトウェアを、無料でダウンロードした。",
+        "zh": "我免费下载了便捷的软件。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch06-l05-747",
+      "index": 747,
+      "word": "ノートパソコン（ノートパソコン）",
+      "reading": "ノートパソコン",
+      "meaning": {
+        "en": "notebook computer, laptop",
+        "zh": "笔记本电脑"
+      },
+      "sentence": {
+        "ja": "私はこのノートパソコンを、８年も使っている。",
+        "zh": "这台笔记本电脑，我已经用了８年了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

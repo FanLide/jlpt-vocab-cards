@@ -1,0 +1,373 @@
+{
+  "id": "ch03-l05",
+  "chapterId": "ch03",
+  "titleJa": "こんなことも",
+  "titleZh": "其他",
+  "rangeNote": "345～364",
+  "audio": {
+    "track": "Chapter03_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter03_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l05-345",
+      "index": 345,
+      "word": "日常（にちじょう）",
+      "reading": "にちじょう",
+      "meaning": {
+        "en": "daily, everyday",
+        "zh": "日常"
+      },
+      "sentence": {
+        "ja": "日常の生活を楽しみたい。",
+        "zh": "我想好好地享受日常生活。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-346",
+      "index": 346,
+      "word": "常に（つねに）",
+      "reading": "つねに",
+      "meaning": {
+        "en": "always",
+        "zh": "常常"
+      },
+      "sentence": {
+        "ja": "常に、家族の健康を考えている。",
+        "zh": "我常常想着家人的健康。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-347",
+      "index": 347,
+      "word": "出迎え（でむかえ）",
+      "reading": "でむかえ",
+      "meaning": {
+        "en": "reception, welcome",
+        "zh": "迎接"
+      },
+      "sentence": {
+        "ja": "空港へ国の友だちの出迎えに行く。",
+        "zh": "我去机场接国内来的朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-348",
+      "index": 348,
+      "word": "出迎える（でむかえる）",
+      "reading": "でむかえる",
+      "meaning": {
+        "en": "to receive, to welcome",
+        "zh": "迎接"
+      },
+      "sentence": {
+        "ja": "バス停で友だちを出迎えた。",
+        "zh": "我在公交车站接了朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-349",
+      "index": 349,
+      "word": "見送り（みおくり）",
+      "reading": "みおくり",
+      "meaning": {
+        "en": "seeing off",
+        "zh": "送别"
+      },
+      "sentence": {
+        "ja": "空港へ家族を見送りに行く。",
+        "zh": "我去机场送家人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-350",
+      "index": 350,
+      "word": "見送る（みおくる）",
+      "reading": "みおくる",
+      "meaning": {
+        "en": "to see off",
+        "zh": "送别"
+      },
+      "sentence": {
+        "ja": "泣きながら家族を見送った。",
+        "zh": "我哭着送走了家人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-351",
+      "index": 351,
+      "word": "郵送＜する＞（ゆうそう）",
+      "reading": "ゆうそう",
+      "meaning": {
+        "en": "mail",
+        "zh": "邮寄"
+      },
+      "sentence": {
+        "ja": "母に誕生日プレゼントを郵送した。",
+        "zh": "我给妈妈寄了一份生日礼物。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-352",
+      "index": 352,
+      "word": "小包（こづつみ）",
+      "reading": "こづつみ",
+      "meaning": {
+        "en": "package",
+        "zh": "包裹"
+      },
+      "sentence": {
+        "ja": "小包にセーターを入れた。",
+        "zh": "我把毛衣装进包裹。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-353",
+      "index": 353,
+      "word": "送料（そうりょう）",
+      "reading": "そうりょう",
+      "meaning": {
+        "en": "fee, charge",
+        "zh": "邮费，运费"
+      },
+      "sentence": {
+        "ja": "荷物を送るとき、送料がかかる。",
+        "zh": "寄行李时会产生运费。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-354",
+      "index": 354,
+      "word": "あて先（あてさき）",
+      "reading": "あてさき",
+      "meaning": {
+        "en": "address of recipient",
+        "zh": "收件人地址"
+      },
+      "sentence": {
+        "ja": "あて先を間違えないように書いた。",
+        "zh": "我准确地填写了收件人地址。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-355",
+      "index": 355,
+      "word": "あて名（あてな）",
+      "reading": "あてな",
+      "meaning": {
+        "en": "name of recipient",
+        "zh": "收件人姓名"
+      },
+      "sentence": {
+        "ja": "あて名に母の名前を書いた。",
+        "zh": "我在收件人姓名处写上了我妈妈的名字。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-356",
+      "index": 356,
+      "word": "差出人（さしだしにん）",
+      "reading": "さしだしにん",
+      "meaning": {
+        "en": "sender",
+        "zh": "寄件人"
+      },
+      "sentence": {
+        "ja": "ここに差出人の住所を書いてください。",
+        "zh": "请在这里填写寄件人地址。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-357",
+      "index": 357,
+      "word": "とりあえず（とりあえず）",
+      "reading": "とりあえず",
+      "meaning": {
+        "en": "first, for the moment",
+        "zh": "赶快；暂且"
+      },
+      "sentence": {
+        "ja": "大学に合格したので、とりあえず母に知らせた。",
+        "zh": "我考上大学了，于是赶忙通知了妈妈。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-358",
+      "index": 358,
+      "word": "出前（でまえ）",
+      "reading": "でまえ",
+      "meaning": {
+        "en": "home delivery",
+        "zh": "送外卖"
+      },
+      "sentence": {
+        "ja": "今日は疲れたので、すしの出前にしよう。",
+        "zh": "今天累了，我们叫寿司外卖吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-359",
+      "index": 359,
+      "word": "ほどく（ほどく）",
+      "reading": "ほどく",
+      "meaning": {
+        "en": "to unwind, to untie",
+        "zh": "解开"
+      },
+      "sentence": {
+        "ja": "玄関で、くつのひもをほどいた。",
+        "zh": "我在玄关解开了鞋带。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-360",
+      "index": 360,
+      "word": "留守番電話（るすばんでんわ）",
+      "reading": "るすばんでんわ",
+      "meaning": {
+        "en": "answering machine, voicemail",
+        "zh": "电话答录机；语音留言"
+      },
+      "sentence": {
+        "ja": "留守番電話に母の声が入っていた。",
+        "zh": "语音留言里有妈妈的留言。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-361",
+      "index": 361,
+      "word": "よく（よく）",
+      "reading": "よく",
+      "meaning": {
+        "en": "often",
+        "zh": "经常"
+      },
+      "sentence": {
+        "ja": "両親や兄弟と、よく電話で話している。",
+        "zh": "我经常和父母或兄弟姐妹打电话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-362",
+      "index": 362,
+      "word": "早め＜な＞（はやめ）",
+      "reading": "はやめ",
+      "meaning": {
+        "en": "early",
+        "zh": "提前"
+      },
+      "sentence": {
+        "ja": "飛行機のチケットを早めに予約しておく。（ナ形） 提前预订好机票。",
+        "zh": "[相關]：遅め＜な＞ (late / 迟)"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-363",
+      "index": 363,
+      "word": "リサイクル＜する＞（リサイクル）",
+      "reading": "リサイクル",
+      "meaning": {
+        "en": "recycling",
+        "zh": "回收"
+      },
+      "sentence": {
+        "ja": "洋服も家具もリサイクルできる。",
+        "zh": "衣服和家具都能回收。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l05-364",
+      "index": 364,
+      "word": "どける（どける）",
+      "reading": "どける",
+      "meaning": {
+        "en": "to move (out of the way)",
+        "zh": "挪开"
+      },
+      "sentence": {
+        "ja": "その自転車をどけてください。",
+        "zh": "请挪开那辆自行车。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

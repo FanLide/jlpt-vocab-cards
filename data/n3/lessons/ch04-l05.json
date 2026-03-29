@@ -1,0 +1,535 @@
+{
+  "id": "ch04-l05",
+  "chapterId": "ch04",
+  "titleJa": "運転する",
+  "titleZh": "運転する",
+  "rangeNote": "468～496",
+  "audio": {
+    "track": "Chapter04_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter04_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch04-l05-468",
+      "index": 468,
+      "word": "ドライブ＜する＞（ドライブ）",
+      "reading": "ドライブ",
+      "meaning": {
+        "en": "going for a drive",
+        "zh": "兜风"
+      },
+      "sentence": {
+        "ja": "私の趣味はドライブです。",
+        "zh": "我的兴趣是兜风。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-469",
+      "index": 469,
+      "word": "乗せる（のせる）",
+      "reading": "のせる",
+      "meaning": {
+        "en": "to let someone get on, to give a ride",
+        "zh": "载，使搭乘"
+      },
+      "sentence": {
+        "ja": "友だちや彼女を乗せて、よくドライブする。",
+        "zh": "我经常载着朋友或女朋友去兜风。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-470",
+      "index": 470,
+      "word": "助手席（じょしゅせき）",
+      "reading": "じょしゅせき",
+      "meaning": {
+        "en": "passenger seat",
+        "zh": "副驾驶员座位"
+      },
+      "sentence": {
+        "ja": "彼女が助手席に座ると、どきどきする。",
+        "zh": "她一坐上副驾驶员座位，我就紧张。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-471",
+      "index": 471,
+      "word": "シートベルト（シートベルト）",
+      "reading": "シートベルト",
+      "meaning": {
+        "en": "seat belt",
+        "zh": "安全带"
+      },
+      "sentence": {
+        "ja": "シートベルトをするのを、忘れないでください。",
+        "zh": "别忘了系安全带。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-472",
+      "index": 472,
+      "word": "カーナビ（カーナビ）",
+      "reading": "カーナビ",
+      "meaning": {
+        "en": "car navigation",
+        "zh": "导航"
+      },
+      "sentence": {
+        "ja": "カーナビがあれば、どこへでも行ける。",
+        "zh": "只要有导航，哪儿都能去。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-473",
+      "index": 473,
+      "word": "道路（どうろ）",
+      "reading": "どうろ",
+      "meaning": {
+        "en": "road, street",
+        "zh": "道路"
+      },
+      "sentence": {
+        "ja": "今日は道路が、いつもより空いている。",
+        "zh": "今天的道路比平时畅通。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-474",
+      "index": 474,
+      "word": "渋滞＜する＞（じゅうたい）",
+      "reading": "じゅうたい",
+      "meaning": {
+        "en": "congestion, traffic",
+        "zh": "堵塞"
+      },
+      "sentence": {
+        "ja": "連休中、この道路はかなり渋滞する。",
+        "zh": "连休期间，这条路相当拥堵。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-475",
+      "index": 475,
+      "word": "速度（そくど）",
+      "reading": "そくど",
+      "meaning": {
+        "en": "speed",
+        "zh": "速度"
+      },
+      "sentence": {
+        "ja": "速度を守って走ろう。",
+        "zh": "请勿超速驾驶。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-476",
+      "index": 476,
+      "word": "高速道路（こうそくどうろ）",
+      "reading": "こうそくどうろ",
+      "meaning": {
+        "en": "highway, expressway",
+        "zh": "高速公路"
+      },
+      "sentence": {
+        "ja": "高速道路は、あまり利用したことがない。",
+        "zh": "我开车没怎么上过高速。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-477",
+      "index": 477,
+      "word": "安全＜な＞（あんぜん）",
+      "reading": "あんぜん",
+      "meaning": {
+        "en": "safe, secure, safety",
+        "zh": "安全"
+      },
+      "sentence": {
+        "ja": "安全な場所に車を止めた。",
+        "zh": "我把车停在了安全的地方。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-478",
+      "index": 478,
+      "word": "列（れつ）",
+      "reading": "れつ",
+      "meaning": {
+        "en": "line",
+        "zh": "列"
+      },
+      "sentence": {
+        "ja": "ひどい渋滞で、車の長い列ができている。",
+        "zh": "堵车堵得厉害，车辆已经排成长龙了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-479",
+      "index": 479,
+      "word": "割り込む（わりこむ）",
+      "reading": "わりこむ",
+      "meaning": {
+        "en": "to cut in, to wedge into",
+        "zh": "挤进，加塞儿"
+      },
+      "sentence": {
+        "ja": "後ろの車が、私の前に割り込んできた。",
+        "zh": "后面的车挤到我前面去了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-480",
+      "index": 480,
+      "word": "駐車違反（ちゅうしゃいはん）",
+      "reading": "ちゅうしゃいはん",
+      "meaning": {
+        "en": "illegal parking, parking violation",
+        "zh": "违规停车"
+      },
+      "sentence": {
+        "ja": "駐車違反をしたら、お金を払わなければならない。",
+        "zh": "一旦违规停车，就得交罚款。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-481",
+      "index": 481,
+      "word": "スピード違反（スピードいはん）",
+      "reading": "スピードいはん",
+      "meaning": {
+        "en": "speeding, illegal speeding",
+        "zh": "超速"
+      },
+      "sentence": {
+        "ja": "スピード違反をしたことがない。",
+        "zh": "我开车从来没有超速过。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-482",
+      "index": 482,
+      "word": "飲酒運転（いんしゅうんてん）",
+      "reading": "いんしゅうんてん",
+      "meaning": {
+        "en": "drunk driving",
+        "zh": "酒驾"
+      },
+      "sentence": {
+        "ja": "飲酒運転をしてはいけません。",
+        "zh": "禁止酒驾。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-483",
+      "index": 483,
+      "word": "アクセル（アクセル）",
+      "reading": "アクセル",
+      "meaning": {
+        "en": "accelerator, gas (pedal)",
+        "zh": "油门"
+      },
+      "sentence": {
+        "ja": "アクセルを踏んで、スピードを上げた。",
+        "zh": "我踩了一脚油门，提高了车速。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-484",
+      "index": 484,
+      "word": "カーブ（カーブ）",
+      "reading": "カーブ",
+      "meaning": {
+        "en": "curve",
+        "zh": "弯曲；转弯"
+      },
+      "sentence": {
+        "ja": "ここから長いカーブの道が続く。",
+        "zh": "从这里开始是一段很长的弯路。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-485",
+      "index": 485,
+      "word": "ゆるい（ゆるい）",
+      "reading": "ゆるい",
+      "meaning": {
+        "en": "loose",
+        "zh": "松；缓"
+      },
+      "sentence": {
+        "ja": "①シートベルトがゆるいと、危険だ。",
+        "zh": "②ゆるいカーブの道を走る。 ①要是安全带没系紧的话，很危险。 ②车子行驶在缓缓的弯路上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-486",
+      "index": 486,
+      "word": "パンク＜する＞（パンク）",
+      "reading": "パンク",
+      "meaning": {
+        "en": "puncture, flat tire",
+        "zh": "爆胎"
+      },
+      "sentence": {
+        "ja": "彼の車は、何かを踏んでパンクした。",
+        "zh": "他的车轧到了什么东西，爆胎了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-487",
+      "index": 487,
+      "word": "一方通行（いっぽうつうこう）",
+      "reading": "いっぽうつうこう",
+      "meaning": {
+        "en": "one-way traffic",
+        "zh": "单向通行"
+      },
+      "sentence": {
+        "ja": "この道が一方通行だと知らなかった。",
+        "zh": "我之前不知道这条路是单向通行的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-488",
+      "index": 488,
+      "word": "通行止め（つうこうどめ）",
+      "reading": "つうこうどめ",
+      "meaning": {
+        "en": "dead end",
+        "zh": "禁止通行"
+      },
+      "sentence": {
+        "ja": "ここから先は通行止めです。",
+        "zh": "前方禁止通行。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-489",
+      "index": 489,
+      "word": "運転免許証（うんてんめんきょしょう）",
+      "reading": "うんてんめんきょしょう",
+      "meaning": {
+        "en": "driver's license",
+        "zh": "驾照"
+      },
+      "sentence": {
+        "ja": "運転免許証は常に持っていなければならない。",
+        "zh": "驾照必须随时携带。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-490",
+      "index": 490,
+      "word": "ぶつかる（ぶつかる）",
+      "reading": "ぶつかる",
+      "meaning": {
+        "en": "to collide with, bump into",
+        "zh": "碰，撞"
+      },
+      "sentence": {
+        "ja": "交差点で、車と自転車がぶつかった。",
+        "zh": "在十字路口，一辆汽车和一辆自行车相撞了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-491",
+      "index": 491,
+      "word": "ひく（ひく）",
+      "reading": "ひく",
+      "meaning": {
+        "en": "to hit, to run over",
+        "zh": "轧"
+      },
+      "sentence": {
+        "ja": "車の前に犬がいたので、ひかないように注意した。",
+        "zh": "车前面有一只狗，我小心翼翼，以免轧到它。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-492",
+      "index": 492,
+      "word": "ハンドル（ハンドル）",
+      "reading": "ハンドル",
+      "meaning": {
+        "en": "steering wheel",
+        "zh": "方向盘"
+      },
+      "sentence": {
+        "ja": "初めてハンドルをにぎったときは、緊張した。",
+        "zh": "第一次手握方向盘时，我很紧张。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-493",
+      "index": 493,
+      "word": "トランク（トランク）",
+      "reading": "トランク",
+      "meaning": {
+        "en": "trunk",
+        "zh": "后备厢"
+      },
+      "sentence": {
+        "ja": "車のトランクに、ゴルフの道具が入っている。",
+        "zh": "车子的后备厢里装着高尔夫球用具。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-494",
+      "index": 494,
+      "word": "エンジン（エンジン）",
+      "reading": "エンジン",
+      "meaning": {
+        "en": "engine",
+        "zh": "引擎"
+      },
+      "sentence": {
+        "ja": "この車のエンジンの音は、ちょっとおかしい。",
+        "zh": "这辆车引擎的声音有点奇怪。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-495",
+      "index": 495,
+      "word": "中古車（ちゅうこしゃ）",
+      "reading": "ちゅうこしゃ",
+      "meaning": {
+        "en": "used car",
+        "zh": "二手车"
+      },
+      "sentence": {
+        "ja": "いろいろ考えて、中古車を買うことにした。",
+        "zh": "考虑再三，我决定买二手车。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch04-l05-496",
+      "index": 496,
+      "word": "トラック（トラック）",
+      "reading": "トラック",
+      "meaning": {
+        "en": "truck",
+        "zh": "卡车"
+      },
+      "sentence": {
+        "ja": "トラックが、私の車を追い越していった。",
+        "zh": "一辆卡车超过我的车，开走了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

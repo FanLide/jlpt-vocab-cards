@@ -1,0 +1,445 @@
+{
+  "id": "ch10-l01",
+  "chapterId": "ch10",
+  "titleJa": "マスコミ",
+  "titleZh": "媒体",
+  "rangeNote": "1075～1098",
+  "audio": {
+    "track": "Chapter10_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter10_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch10-l01-1075",
+      "index": 1075,
+      "word": "伝わる（つたわる）",
+      "reading": "つたわる",
+      "meaning": {
+        "en": "to be conveyed, communicated",
+        "zh": "传；传播"
+      },
+      "sentence": {
+        "ja": "インターネットで、世界にニュースが伝わる。",
+        "zh": "通过网络，新闻传遍全世界。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1076",
+      "index": 1076,
+      "word": "うわさ＜する＞（うわさ）",
+      "reading": "うわさ",
+      "meaning": {
+        "en": "rumor",
+        "zh": "谈论；传闻"
+      },
+      "sentence": {
+        "ja": "悪いうわさは、あっという間に伝わる。",
+        "zh": "负面传闻瞬间传开。 [1]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1077",
+      "index": 1077,
+      "word": "記事（きじ）",
+      "reading": "きじ",
+      "meaning": {
+        "en": "article",
+        "zh": "新闻，报道"
+      },
+      "sentence": {
+        "ja": "新聞で、興味のある記事だけを読んでいる。",
+        "zh": "我只看报纸上我感兴趣的报道。 [1]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1078",
+      "index": 1078,
+      "word": "週刊誌（しゅうかんし）",
+      "reading": "しゅうかんし",
+      "meaning": {
+        "en": "weekly magazine",
+        "zh": "周刊杂志"
+      },
+      "sentence": {
+        "ja": "この週刊誌は、経済の専門雑誌だ。",
+        "zh": "这份周刊是经济方面的专业杂志。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1079",
+      "index": 1079,
+      "word": "政治家（せいじか）",
+      "reading": "せいじか",
+      "meaning": {
+        "en": "politician",
+        "zh": "政治家"
+      },
+      "sentence": {
+        "ja": "政治家のインタビュー記事を読む。",
+        "zh": "阅读政治家的访谈报道。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1080",
+      "index": 1080,
+      "word": "政府（せいふ）",
+      "reading": "せいふ",
+      "meaning": {
+        "en": "government",
+        "zh": "政府"
+      },
+      "sentence": {
+        "ja": "政府から大切な発表があった。",
+        "zh": "政府发布了一件重要的事情。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1081",
+      "index": 1081,
+      "word": "市民（しみん）",
+      "reading": "しみん",
+      "meaning": {
+        "en": "citizen",
+        "zh": "市民"
+      },
+      "sentence": {
+        "ja": "広場に多くの市民が集まった。",
+        "zh": "广场上聚集了众多市民。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1082",
+      "index": 1082,
+      "word": "立場（たちば）",
+      "reading": "たちば",
+      "meaning": {
+        "en": "position, standpoint",
+        "zh": "立场"
+      },
+      "sentence": {
+        "ja": "あの政治家は、国民の立場で话をする。",
+        "zh": "那位政治家站在国民的立场上说话。 [2]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1083",
+      "index": 1083,
+      "word": "世の中（よのなか）",
+      "reading": "よのなか",
+      "meaning": {
+        "en": "world, in the world",
+        "zh": "世间，社会"
+      },
+      "sentence": {
+        "ja": "みんなが暮らしやすい世の中になってほしい。",
+        "zh": "我希望这个社会变成一个人人都生活舒适的社会。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1084",
+      "index": 1084,
+      "word": "重大な（じゅうだいな）",
+      "reading": "じゅうだいな",
+      "meaning": {
+        "en": "serious, important",
+        "zh": "重大"
+      },
+      "sentence": {
+        "ja": "車の会社が重大な発表をした。",
+        "zh": "汽车公司发布了重大消息。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1085",
+      "index": 1085,
+      "word": "重要な（じゅうような）",
+      "reading": "じゅうような",
+      "meaning": {
+        "en": "important",
+        "zh": "重要"
+      },
+      "sentence": {
+        "ja": "今日は重要なニュースが多かった。",
+        "zh": "今天的重要新闻很多。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1086",
+      "index": 1086,
+      "word": "大して（たいして）",
+      "reading": "たいして",
+      "meaning": {
+        "en": "(not so) much",
+        "zh": "并不太……"
+      },
+      "sentence": {
+        "ja": "この番組は、日本語の勉強に大して役に立たない。",
+        "zh": "这个节目对学日语起不了什么作用。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1087",
+      "index": 1087,
+      "word": "くだらない（くだらない）",
+      "reading": "くだらない",
+      "meaning": {
+        "en": "trivial, good-for-nothing",
+        "zh": "没意思，无聊"
+      },
+      "sentence": {
+        "ja": "くだらない番組を、つい見てしまう。",
+        "zh": "我总是不知不觉地看一些无聊的节目。 [3]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1088",
+      "index": 1088,
+      "word": "司会者（しかいしゃ）",
+      "reading": "しかいしゃ",
+      "meaning": {
+        "en": "master of ceremonies, host",
+        "zh": "主持人"
+      },
+      "sentence": {
+        "ja": "春から、番組の司会者がかわった。",
+        "zh": "从春天开始，节目的主持人换了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1089",
+      "index": 1089,
+      "word": "生放送（なまほうそう）",
+      "reading": "なまほうそう",
+      "meaning": {
+        "en": "live broadcast",
+        "zh": "直播"
+      },
+      "sentence": {
+        "ja": "生放送の途中で、何か問題が起きたらしい。",
+        "zh": "直播过程中似乎发生了什么问题。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1090",
+      "index": 1090,
+      "word": "商品（しょうひん）",
+      "reading": "しょうひん",
+      "meaning": {
+        "en": "goods, merchandise",
+        "zh": "商品"
+      },
+      "sentence": {
+        "ja": "この商品は、とても売れている。",
+        "zh": "这个商品卖得非常好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1091",
+      "index": 1091,
+      "word": "発売＜する＞（はっぱい）",
+      "reading": "はっぱい",
+      "meaning": {
+        "en": "putting something on the market",
+        "zh": "发售"
+      },
+      "sentence": {
+        "ja": "明日、新しいゲームが発売される。",
+        "zh": "明天，一款新游戏将开始发售。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1092",
+      "index": 1092,
+      "word": "評判（ひょうばん）",
+      "reading": "ひょうばん",
+      "meaning": {
+        "en": "reputation",
+        "zh": "评价，声誉"
+      },
+      "sentence": {
+        "ja": "新しく出版された雑誌は、評判がいい。",
+        "zh": "新出版的杂志得到了好评。 [4, 5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1093",
+      "index": 1093,
+      "word": "注目＜する＞（ちゅうもく）",
+      "reading": "ちゅうもく",
+      "meaning": {
+        "en": "notice, attention",
+        "zh": "关注"
+      },
+      "sentence": {
+        "ja": "世界中の人が、その女優に注目している。",
+        "zh": "世界各地的人们都在关注着那名女演员。 [5]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1094",
+      "index": 1094,
+      "word": "ヒット＜する＞（ヒット）",
+      "reading": "ヒット",
+      "meaning": {
+        "en": "hit",
+        "zh": "大受欢迎"
+      },
+      "sentence": {
+        "ja": "今一番ヒットしている曲をダウンロードした。",
+        "zh": "我下载了现在最受欢迎的歌曲。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1095",
+      "index": 1095,
+      "word": "やっぱり（やっぱり）",
+      "reading": "やっぱり",
+      "meaning": {
+        "en": "as I thought",
+        "zh": "果然"
+      },
+      "sentence": {
+        "ja": "やっぱり二人は付き合っていたんですね。",
+        "zh": "他们俩果然在交往啊。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1096",
+      "index": 1096,
+      "word": "まさか（まさか）",
+      "reading": "まさか",
+      "meaning": {
+        "en": "no way, cannot be",
+        "zh": "怎么会"
+      },
+      "sentence": {
+        "ja": "まさか。あんなに元気だったのに。",
+        "zh": "怎么会？看起来那么健康的一个人。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1097",
+      "index": 1097,
+      "word": "やっと（やっと）",
+      "reading": "やっと",
+      "meaning": {
+        "en": "finally",
+        "zh": "好（不）容易，终于"
+      },
+      "sentence": {
+        "ja": "A国とB国の問題が、やっと解決された。",
+        "zh": "A国和B国的问题好不容易解决了。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch10-l01-1098",
+      "index": 1098,
+      "word": "結局（けっきょく）",
+      "reading": "けっきょく",
+      "meaning": {
+        "en": "ultimately, in the end",
+        "zh": "最后，结果；到底"
+      },
+      "sentence": {
+        "ja": "結局、この記事はうそだった。",
+        "zh": "结果，这篇报道是假的。 [6]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "ch08-l02",
+  "chapterId": "ch08",
+  "titleJa": "何のサイン？",
+  "titleZh": "何のサイン？",
+  "rangeNote": "894～915",
+  "audio": {
+    "track": "Chapter08_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter08_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch08-l02-894",
+      "index": 894,
+      "word": "調子（ちょうし）",
+      "reading": "ちょうし",
+      "meaning": {
+        "en": "condition",
+        "zh": "情况，样子"
+      },
+      "sentence": {
+        "ja": "ゆうべワインを飲みすぎて、今日は調子がよくない。",
+        "zh": "我昨晚红酒喝多了，今天不舒服。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-895",
+      "index": 895,
+      "word": "あくび＜する＞（あくび）",
+      "reading": "あくび",
+      "meaning": {
+        "en": "yawn",
+        "zh": "哈欠"
+      },
+      "sentence": {
+        "ja": "彼は大きなあくびをした。",
+        "zh": "他打了一个大大的哈欠。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-896",
+      "index": 896,
+      "word": "しゃっくり＜する＞（しゃっくり）",
+      "reading": "しゃっくり",
+      "meaning": {
+        "en": "hiccup",
+        "zh": "打嗝儿"
+      },
+      "sentence": {
+        "ja": "しゃっくりが止まらなくなった。",
+        "zh": "打嗝儿停不下来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-897",
+      "index": 897,
+      "word": "よだれ（よだれ）",
+      "reading": "よだれ",
+      "meaning": {
+        "en": "drool",
+        "zh": "口水"
+      },
+      "sentence": {
+        "ja": "いい匂いだ。よだれが出てきた。",
+        "zh": "好香！口水都流出来了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-898",
+      "index": 898,
+      "word": "にきび（にきび）",
+      "reading": "にきび",
+      "meaning": {
+        "en": "pimple, acne",
+        "zh": "痤疮，粉刺"
+      },
+      "sentence": {
+        "ja": "睡眠不足で、にきびができた。",
+        "zh": "因为睡眠不足，我长粉刺了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-899",
+      "index": 899,
+      "word": "気になる（きになる）",
+      "reading": "きになる",
+      "meaning": {
+        "en": "to be on one's mind, to worry",
+        "zh": "担心，介意"
+      },
+      "sentence": {
+        "ja": "最近、健康のことが気になっている。",
+        "zh": "我最近比较担心我的健康状况。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-900",
+      "index": 900,
+      "word": "気にする（きにする）",
+      "reading": "きにする",
+      "meaning": {
+        "en": "to worry about",
+        "zh": "关心，在意"
+      },
+      "sentence": {
+        "ja": "健康は大切だが、気にしすぎるのはよくない。",
+        "zh": "健康固然很重要，但太在意了就不好了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-901",
+      "index": 901,
+      "word": "白髪（しらが）",
+      "reading": "しらが",
+      "meaning": {
+        "en": "gray hair",
+        "zh": "白头发"
+      },
+      "sentence": {
+        "ja": "最近、白髪が急に増えてきた。",
+        "zh": "最近，白头发突然变多了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-902",
+      "index": 902,
+      "word": "抜く（ぬく）",
+      "reading": "ぬく",
+      "meaning": {
+        "en": "to pull out, to remove",
+        "zh": "拔"
+      },
+      "sentence": {
+        "ja": "娘に白髪を抜いてもらった。",
+        "zh": "我让女儿帮我拔了白头发。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-903",
+      "index": 903,
+      "word": "生える（はえる）",
+      "reading": "はえる",
+      "meaning": {
+        "en": "to grow, to come in",
+        "zh": "长，生"
+      },
+      "sentence": {
+        "ja": "息子に歯が生えてきた。",
+        "zh": "儿子开始长牙了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-904",
+      "index": 904,
+      "word": "しみ（しみ）",
+      "reading": "しみ",
+      "meaning": {
+        "en": "blotch, spot (on someone's skin)",
+        "zh": "斑点"
+      },
+      "sentence": {
+        "ja": "ほほに小さなしみができた。",
+        "zh": "脸颊上长出了一小块斑。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-905",
+      "index": 905,
+      "word": "しわ（しわ）",
+      "reading": "しわ",
+      "meaning": {
+        "en": "wrinkle",
+        "zh": "皱纹"
+      },
+      "sentence": {
+        "ja": "おでこのしわが気になる。",
+        "zh": "额头上的皱纹让我比较介意。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-906",
+      "index": 906,
+      "word": "日焼け＜する＞（ひやけ）",
+      "reading": "ひやけ",
+      "meaning": {
+        "en": "tan, sunburn",
+        "zh": "晒黑"
+      },
+      "sentence": {
+        "ja": "海に行ったら、日焼けした。",
+        "zh": "去了海边，我就晒黑了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-907",
+      "index": 907,
+      "word": "傷（きず）",
+      "reading": "きず",
+      "meaning": {
+        "en": "wound, cut",
+        "zh": "伤"
+      },
+      "sentence": {
+        "ja": "転んで、ひざに傷ができた。",
+        "zh": "我摔了一跤，膝盖受伤了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-908",
+      "index": 908,
+      "word": "酔っぱらう（よっぱらう）",
+      "reading": "よっぱらう",
+      "meaning": {
+        "en": "to get drunk",
+        "zh": "醉酒"
+      },
+      "sentence": {
+        "ja": "最近、ビール１杯で酔っぱらう。",
+        "zh": "最近，我喝１杯啤酒就醉了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-909",
+      "index": 909,
+      "word": "酔っぱらい（よっぱらい）",
+      "reading": "よっぱらい",
+      "meaning": {
+        "en": "drunk",
+        "zh": "喝醉酒的人"
+      },
+      "sentence": {
+        "ja": "忘年会の季節は、酔っぱらいが増える。",
+        "zh": "开忘年会的这段时间，喝醉酒的人会比平时多。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-910",
+      "index": 910,
+      "word": "ぺこぺこな（ぺこぺこな）",
+      "reading": "ぺこぺこな",
+      "meaning": {
+        "en": "starving, famished",
+        "zh": "瘪；饿"
+      },
+      "sentence": {
+        "ja": "ジョギングのあとなので、おなかがぺこぺこだ。",
+        "zh": "我刚跑完步，肚子很饿。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-911",
+      "index": 911,
+      "word": "からからな（からからな）",
+      "reading": "からからな",
+      "meaning": {
+        "en": "parched",
+        "zh": "干透，干巴巴"
+      },
+      "sentence": {
+        "ja": "今日は暑くて、のどがからからになった。",
+        "zh": "今天好热，嗓子渴得冒烟了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-912",
+      "index": 912,
+      "word": "ダイエット（ダイエット）",
+      "reading": "ダイエット",
+      "meaning": {
+        "en": "diet",
+        "zh": "减肥"
+      },
+      "sentence": {
+        "ja": "太ったので、ダイエットを始めようと思う。",
+        "zh": "我胖了，所以打算开始减肥。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-913",
+      "index": 913,
+      "word": "カロリー（カロリー）",
+      "reading": "カロリー",
+      "meaning": {
+        "en": "calorie",
+        "zh": "热量"
+      },
+      "sentence": {
+        "ja": "食品のカロリーが、とても気になる。",
+        "zh": "我非常在意食品的热量。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-914",
+      "index": 914,
+      "word": "控える（ひかえる）",
+      "reading": "ひかえる",
+      "meaning": {
+        "en": "to abstain from",
+        "zh": "控制，节制"
+      },
+      "sentence": {
+        "ja": "カロリーが高い物は、できるだけ控えている。",
+        "zh": "我尽可能地控制热量高的食物。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch08-l02-915",
+      "index": 915,
+      "word": "つい（つい）",
+      "reading": "つい",
+      "meaning": {
+        "en": "just now, by mistake, against one's better judgment",
+        "zh": "不知不觉，不由得"
+      },
+      "sentence": {
+        "ja": "食事のあとに、つい甘い物を食べてしまう。",
+        "zh": "吃完饭，我会不由得地甜点吃掉。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "id": "ch07-l01",
+  "chapterId": "ch07",
+  "titleJa": "旅行",
+  "titleZh": "旅行",
+  "rangeNote": "748～776",
+  "audio": {
+    "track": "Chapter07_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter07_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch07-l01-748",
+      "index": 748,
+      "word": "日にち（ひにち）",
+      "reading": "ひにち",
+      "meaning": {
+        "en": "day, the number of days",
+        "zh": "日子，天数"
+      },
+      "sentence": {
+        "ja": "ツアーの申し込みの締め切りまで日にちがない。",
+        "zh": "离旅游团的报名截止期限没几天了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-749",
+      "index": 749,
+      "word": "日帰り（ひがえり）",
+      "reading": "ひがえり",
+      "meaning": {
+        "en": "day trip",
+        "zh": "当天来回"
+      },
+      "sentence": {
+        "ja": "大阪に日帰りで出張する。",
+        "zh": "我去大阪出差，当天来回。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-750",
+      "index": 750,
+      "word": "泊まり（とまり）",
+      "reading": "とまり",
+      "meaning": {
+        "en": "staying at",
+        "zh": "过夜，住宿"
+      },
+      "sentence": {
+        "ja": "土曜日に、泊まりで温泉に行った。",
+        "zh": "周六我去了一趟温泉，住了一晚。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-751",
+      "index": 751,
+      "word": "宿泊＜する＞（しゅくはく）",
+      "reading": "しゅくはく",
+      "meaning": {
+        "en": "lodging",
+        "zh": "住宿"
+      },
+      "sentence": {
+        "ja": "交通費と宿泊代で、５万円くらいかかる。",
+        "zh": "交通费和住宿费大约要5万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-752",
+      "index": 752,
+      "word": "滞在＜する＞（たいざい）",
+      "reading": "たいざい",
+      "meaning": {
+        "en": "stay",
+        "zh": "逗留，旅居"
+      },
+      "sentence": {
+        "ja": "アメリカに滞在中、友だちに会う予定だ。",
+        "zh": "在美国逗留期间，我打算见一见朋友。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-753",
+      "index": 753,
+      "word": "団体（だんたい）",
+      "reading": "だんたい",
+      "meaning": {
+        "en": "group, organization",
+        "zh": "团体"
+      },
+      "sentence": {
+        "ja": "団体で旅行するときは、時間を守ってください。",
+        "zh": "参加团体旅游时，请遵守时间。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-754",
+      "index": 754,
+      "word": "ツアー（ツアー）",
+      "reading": "ツアー",
+      "meaning": {
+        "en": "tour",
+        "zh": "旅行"
+      },
+      "sentence": {
+        "ja": "母と日帰りのバスツアーに参加した。",
+        "zh": "我和妈妈参加了巴士一日游。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-755",
+      "index": 755,
+      "word": "あちこち（あちこち）",
+      "reading": "あちこち",
+      "meaning": {
+        "en": "here and there",
+        "zh": "这儿那儿，到处"
+      },
+      "sentence": {
+        "ja": "留学中、日本のあちこちを旅行した。",
+        "zh": "留学期间，我到日本各地旅行。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-756",
+      "index": 756,
+      "word": "観光＜する＞（かんこう）",
+      "reading": "かんこう",
+      "meaning": {
+        "en": "sightseeing",
+        "zh": "观光，旅游"
+      },
+      "sentence": {
+        "ja": "出張ではなく、観光でヨーロッパに行きたい。",
+        "zh": "我想去欧洲旅游，而不是去出差。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-757",
+      "index": 757,
+      "word": "費用（ひよう）",
+      "reading": "ひよう",
+      "meaning": {
+        "en": "expense, cost",
+        "zh": "费用"
+      },
+      "sentence": {
+        "ja": "家族みんなで旅行すると、費用がかかる。",
+        "zh": "要是全家人都去旅游，费用就会比较高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-758",
+      "index": 758,
+      "word": "予算（よさん）",
+      "reading": "よさん",
+      "meaning": {
+        "en": "budget",
+        "zh": "预算"
+      },
+      "sentence": {
+        "ja": "一人１０万円の予算で、海外旅行を考えている。",
+        "zh": "我在考虑出国旅游，预算是每人10万日元。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-759",
+      "index": 759,
+      "word": "集合＜する＞（しゅうごう）",
+      "reading": "しゅうごう",
+      "meaning": {
+        "en": "gathering",
+        "zh": "集合"
+      },
+      "sentence": {
+        "ja": "空港のロビーに、１０時に集合してください。",
+        "zh": "10点请在机场大厅集合。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-760",
+      "index": 760,
+      "word": "解散＜する＞（かいさん）",
+      "reading": "かいさん",
+      "meaning": {
+        "en": "breaking up",
+        "zh": "解散"
+      },
+      "sentence": {
+        "ja": "帰りは空港で解散する。",
+        "zh": "回来时我们在机场解散。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-761",
+      "index": 761,
+      "word": "旅館（りょかん）",
+      "reading": "りょかん",
+      "meaning": {
+        "en": "Japanese-style inn",
+        "zh": "旅馆"
+      },
+      "sentence": {
+        "ja": "あの旅館に、ぜひ泊まってみたい。",
+        "zh": "我一定要住一住那家旅馆。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-762",
+      "index": 762,
+      "word": "五つ星ホテル（いつつぼしホテル）",
+      "reading": "いつつぼしホテル",
+      "meaning": {
+        "en": "five-star hotel",
+        "zh": "五星级宾馆"
+      },
+      "sentence": {
+        "ja": "初めて五つ星ホテルに泊まる。",
+        "zh": "我第一次住五星级宾馆。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-763",
+      "index": 763,
+      "word": "満室（まんしつ）",
+      "reading": "まんしつ",
+      "meaning": {
+        "en": "all rooms full, no vacancy",
+        "zh": "没有空房，客满"
+      },
+      "sentence": {
+        "ja": "あのホテルは満室で、予約できなかった。",
+        "zh": "那家宾馆客满，预约不了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-764",
+      "index": 764,
+      "word": "チェックイン＜する＞（チェックイン）",
+      "reading": "チェックイン",
+      "meaning": {
+        "en": "check in",
+        "zh": "办理入住"
+      },
+      "sentence": {
+        "ja": "この旅館は、３時以降にチェックインできる。",
+        "zh": "这家旅馆3点以后可以办理入住。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-765",
+      "index": 765,
+      "word": "近づく（ちかづく）",
+      "reading": "ちかづく",
+      "meaning": {
+        "en": "to get close to, to approach",
+        "zh": "靠近，快要"
+      },
+      "sentence": {
+        "ja": "帰る日が近づくと、さびしくなる。",
+        "zh": "回家的日子快要到了，我有些落寞。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-766",
+      "index": 766,
+      "word": "取り消す（とりけす）",
+      "reading": "とりけす",
+      "meaning": {
+        "en": "to cancel, to retract",
+        "zh": "取消"
+      },
+      "sentence": {
+        "ja": "体の具合がよくないので、予約を取り消した。",
+        "zh": "我身体不舒服，因此取消了预约。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-767",
+      "index": 767,
+      "word": "追加＜する＞（ついか）",
+      "reading": "ついか",
+      "meaning": {
+        "en": "addition",
+        "zh": "追加，再增加"
+      },
+      "sentence": {
+        "ja": "東京行きの切符を、１枚追加できますか。",
+        "zh": "可以再买一张去东京的票吗？"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-768",
+      "index": 768,
+      "word": "持ち物（もちもの）",
+      "reading": "もちもの",
+      "meaning": {
+        "en": "one's belongings, personal effects",
+        "zh": "随身物品"
+      },
+      "sentence": {
+        "ja": "忘れ物がないか、持ち物をチェックする。",
+        "zh": "检查一下随身物品，以免落下什么东西。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-769",
+      "index": 769,
+      "word": "足りる（たりる）",
+      "reading": "たりる",
+      "meaning": {
+        "en": "to be sufficient, to be enough",
+        "zh": "足够"
+      },
+      "sentence": {
+        "ja": "行きたい場所が多くて、４日では足りない。",
+        "zh": "我有很多地方想去，4天时间不够。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-770",
+      "index": 770,
+      "word": "スーツケース（スーツケース）",
+      "reading": "スーツケース",
+      "meaning": {
+        "en": "suitcase",
+        "zh": "旅行箱"
+      },
+      "sentence": {
+        "ja": "お土産をたくさん買って、スーツケースが重い。",
+        "zh": "我买了很多纪念品，旅行箱好重。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-771",
+      "index": 771,
+      "word": "使用＜する＞（しよう）",
+      "reading": "しよう",
+      "meaning": {
+        "en": "usage",
+        "zh": "使用"
+      },
+      "sentence": {
+        "ja": "このカードは、日本では使用できない。",
+        "zh": "这张卡在日本用不了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-772",
+      "index": 772,
+      "word": "船旅（ふなたび）",
+      "reading": "ふなたび",
+      "meaning": {
+        "en": "boat trip",
+        "zh": "坐船旅行"
+      },
+      "sentence": {
+        "ja": "私は一度も船旅をしたことがない。",
+        "zh": "我从来没有坐船旅行过。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-773",
+      "index": 773,
+      "word": "時差（じさ）",
+      "reading": "じさ",
+      "meaning": {
+        "en": "time difference",
+        "zh": "时差"
+      },
+      "sentence": {
+        "ja": "日本に戻ってから、時差でずっと眠い。",
+        "zh": "因为时差，回到日本之后我一直很困。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-774",
+      "index": 774,
+      "word": "両替＜する＞（りょうがえ）",
+      "reading": "りょうがえ",
+      "meaning": {
+        "en": "money exchange",
+        "zh": "兑换"
+      },
+      "sentence": {
+        "ja": "両替は、空港でもホテルでもできる。",
+        "zh": "机场和宾馆都可以兑换钱币。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-775",
+      "index": 775,
+      "word": "ドル（ドル）",
+      "reading": "ドル",
+      "meaning": {
+        "en": "dollar",
+        "zh": "美元"
+      },
+      "sentence": {
+        "ja": "日本円をドルに両替して、海外へ持って行く。",
+        "zh": "把日元兑换成美元，带去国外。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch07-l01-776",
+      "index": 776,
+      "word": "来日＜する＞（らいにち）",
+      "reading": "らいにち",
+      "meaning": {
+        "en": "going to Japan",
+        "zh": "来日本"
+      },
+      "sentence": {
+        "ja": "来月、友だちが初めて来日する。",
+        "zh": "下个月朋友第一次来日本。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

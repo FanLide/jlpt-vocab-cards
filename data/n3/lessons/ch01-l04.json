@@ -1,0 +1,499 @@
+{
+  "id": "ch01-l04",
+  "chapterId": "ch01",
+  "titleJa": "コミュニケーション",
+  "titleZh": "交流",
+  "rangeNote": "70～96",
+  "audio": {
+    "track": "Chapter01_Section4",
+    "file": "resources/audio/extracted/万词对策N3/Chapter01_Section4.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch01-l04-070",
+      "index": 70,
+      "word": "相手（あ相手）",
+      "reading": "あ相手",
+      "meaning": {
+        "en": "opponent, partner, other person",
+        "zh": "对方"
+      },
+      "sentence": {
+        "ja": "自分のことだけでなく、相手のことも考えよう。",
+        "zh": "不要光想着自己，也要考虑对方。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-071",
+      "index": 71,
+      "word": "助ける（たすける）",
+      "reading": "たすける",
+      "meaning": {
+        "en": "to save, to help",
+        "zh": "帮助"
+      },
+      "sentence": {
+        "ja": "駅で困っている人を助けた。",
+        "zh": "我在车站帮助了一个遇到麻烦的人。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-072",
+      "index": 72,
+      "word": "助かる（たすかる）",
+      "reading": "たすかる",
+      "meaning": {
+        "en": "to be saved, to be helped",
+        "zh": "获救；得到帮助"
+      },
+      "sentence": {
+        "ja": "友だちがレポートをチェックしてくれたので、助かった。",
+        "zh": "朋友检查了一遍我的论文，帮了我大忙。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-073",
+      "index": 73,
+      "word": "支える（ささえる）",
+      "reading": "ささえる",
+      "meaning": {
+        "en": "to support",
+        "zh": "支持"
+      },
+      "sentence": {
+        "ja": "国の両親が、いつも私を支えてくれる。",
+        "zh": "父母在国内一直支持我。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-074",
+      "index": 74,
+      "word": "诱う（さそう）",
+      "reading": "さそう",
+      "meaning": {
+        "en": "to invite",
+        "zh": "约，邀请"
+      },
+      "sentence": {
+        "ja": "見たい映画があるので、友だちを誘った。",
+        "zh": "我想看一部电影，所以约了朋友一起看。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-075",
+      "index": 75,
+      "word": "待ち合わせる（まちあわせる）",
+      "reading": "まちあわせる",
+      "meaning": {
+        "en": "to meet up with",
+        "zh": "约人见面"
+      },
+      "sentence": {
+        "ja": "駅前のカフェで、友だちと待ち合わせた。",
+        "zh": "我和朋友约在车站前面的咖啡馆见面。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-076",
+      "index": 76,
+      "word": "交換＜する＞（こうかん）",
+      "reading": "こうかん",
+      "meaning": {
+        "en": "exchange",
+        "zh": "交换"
+      },
+      "sentence": {
+        "ja": "仕事の相手と、メールアドレスを交換した。",
+        "zh": "我和工作伙伴交换了邮箱地址。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-077",
+      "index": 77,
+      "word": "交流＜する＞（こうりゅう）",
+      "reading": "こうりゅう",
+      "meaning": {
+        "en": "exchange, networking",
+        "zh": "交流"
+      },
+      "sentence": {
+        "ja": "いろいろな国の人たちと交流したい。",
+        "zh": "我想和世界各国的人们交流。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-078",
+      "index": 78,
+      "word": "断る（ことわる）",
+      "reading": "ことわる",
+      "meaning": {
+        "en": "to refuse, to reject",
+        "zh": "拒绝"
+      },
+      "sentence": {
+        "ja": "兄の友だちにデートに誘われたが、断った。",
+        "zh": "哥哥的朋友想跟我约会，我拒绝了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-079",
+      "index": 79,
+      "word": "預ける（あずける）",
+      "reading": "あずける",
+      "meaning": {
+        "en": "to deposit, to entrust to ~",
+        "zh": "寄存；托付"
+      },
+      "sentence": {
+        "ja": "旅行の間、友だちにペットを預けた。",
+        "zh": "旅行的那段时间，我托朋友照顾我的宠物。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-080",
+      "index": 80,
+      "word": "預かる（あずかる）",
+      "reading": "あずかる",
+      "meaning": {
+        "en": "to be deposited, to be entrusted to ~",
+        "zh": "(代人)保管"
+      },
+      "sentence": {
+        "ja": "友だちの旅行の間、彼女のペットを預かった。",
+        "zh": "朋友去旅行时，我帮她照顾她的宠物。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-081",
+      "index": 81,
+      "word": "かわいがる（かわいがる）",
+      "reading": "かわいがる",
+      "meaning": {
+        "en": "to show affection, to favor",
+        "zh": "喜爱"
+      },
+      "sentence": {
+        "ja": "彼女は、みんなからかわいがられている。",
+        "zh": "她得到大家的喜爱。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-082",
+      "index": 82,
+      "word": "甘やかす（あまやかす）",
+      "reading": "あまやかす",
+      "meaning": {
+        "en": "to spoil, to pamper",
+        "zh": "娇惯，纵容"
+      },
+      "sentence": {
+        "ja": "両親は弟を甘やかしている。",
+        "zh": "我爸妈溺爱我弟弟。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-083",
+      "index": 83,
+      "word": "ついて来る（ついてくる）",
+      "reading": "ついてくる",
+      "meaning": {
+        "en": "to come with; to come along",
+        "zh": "跟来"
+      },
+      "sentence": {
+        "ja": "散歩にいつも妹がついて来る。",
+        "zh": "我去散步时，妹妹总是跟着。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-084",
+      "index": 84,
+      "word": "抱く（だく）",
+      "reading": "だく",
+      "meaning": {
+        "en": "to hug, to embrace, to hold",
+        "zh": "抱"
+      },
+      "sentence": {
+        "ja": "かわいい赤ちゃんを抱いた。",
+        "zh": "抱着一个可爱的小宝宝。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-085",
+      "index": 85,
+      "word": "話しかける（はなしかける）",
+      "reading": "はなしかける",
+      "meaning": {
+        "en": "to talk to, to initiate a conversation",
+        "zh": "跟人说话"
+      },
+      "sentence": {
+        "ja": "兄は、赤ちゃんに話しかけた。",
+        "zh": "哥哥跟小宝宝说话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-086",
+      "index": 86,
+      "word": "無視＜する＞（むし）",
+      "reading": "むし",
+      "meaning": {
+        "en": "ignoring",
+        "zh": "忽视"
+      },
+      "sentence": {
+        "ja": "知り合いに話しかけたのに、無視された。",
+        "zh": "我跟一个熟人说话，却被他无视了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-087",
+      "index": 87,
+      "word": "振り向く（ふりむく）",
+      "reading": "ふりむく",
+      "meaning": {
+        "en": "to turn around",
+        "zh": "回头"
+      },
+      "sentence": {
+        "ja": "後ろから名前を呼ばれて、振り向いた。",
+        "zh": "我听到有人从背后叫我，就回过头来。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-088",
+      "index": 88,
+      "word": "いただく（いただく）",
+      "reading": "いただく",
+      "meaning": {
+        "en": "to receive",
+        "zh": "领受"
+      },
+      "sentence": {
+        "ja": "部長に日本のお酒をいただいた。",
+        "zh": "部长送了我一瓶日本的酒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-089",
+      "index": 89,
+      "word": "くださる（くださる）",
+      "reading": "くださる",
+      "meaning": {
+        "en": "to give (me)",
+        "zh": "给(我)"
+      },
+      "sentence": {
+        "ja": "社長の奥様が、お菓子をくださった。",
+        "zh": "总经理夫人给了我一块点心。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-090",
+      "index": 90,
+      "word": "差し上げる（さしあげる）",
+      "reading": "さしあげる",
+      "meaning": {
+        "en": "to give",
+        "zh": "呈送"
+      },
+      "sentence": {
+        "ja": "先生に国のお土産を差し上げた。",
+        "zh": "我把国内特产送给了老师。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-091",
+      "index": 91,
+      "word": "やる（やる）",
+      "reading": "やる",
+      "meaning": {
+        "en": "to give",
+        "zh": "给"
+      },
+      "sentence": {
+        "ja": "妹に買ったばかりのバッグをやった。",
+        "zh": "我把刚买的包给了妹妹。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-092",
+      "index": 92,
+      "word": "与える（あたえる）",
+      "reading": "あたえる",
+      "meaning": {
+        "en": "to give, to grant, to bestow",
+        "zh": "给，给予"
+      },
+      "sentence": {
+        "ja": "彼女は、私たちに元気を与えてくれる人だ。",
+        "zh": "是她让我们振作起来的。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-093",
+      "index": 93,
+      "word": "味方＜する＞（みかた）",
+      "reading": "みかた",
+      "meaning": {
+        "en": "ally, supporter, friend",
+        "zh": "自己这一方"
+      },
+      "sentence": {
+        "ja": "私はいつも、あなたの味方です。",
+        "zh": "我会一直站在你这一边。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-094",
+      "index": 94,
+      "word": "悪口（わるぐち）",
+      "reading": "わるぐち",
+      "meaning": {
+        "en": "bad mouthing, foul language",
+        "zh": "坏话"
+      },
+      "sentence": {
+        "ja": "人の悪口を言うのは、やめよう。",
+        "zh": "不要说别人的坏话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-095",
+      "index": 95,
+      "word": "我々（われわれ）",
+      "reading": "われわれ",
+      "meaning": {
+        "en": "we, us",
+        "zh": "我们"
+      },
+      "sentence": {
+        "ja": "これが我々の意見です。",
+        "zh": "这就是我们的意见。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch01-l04-096",
+      "index": 96,
+      "word": "まね＜する＞（まね）",
+      "reading": "まね",
+      "meaning": {
+        "en": "imitation, copy, mimic",
+        "zh": "模仿"
+      },
+      "sentence": {
+        "ja": "人のまねではなく、自分の考えを持とう。",
+        "zh": "不要模仿别人，要有自己的想法。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

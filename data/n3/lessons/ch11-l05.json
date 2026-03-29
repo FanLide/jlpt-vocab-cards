@@ -1,0 +1,355 @@
+{
+  "id": "ch11-l05",
+  "chapterId": "ch11",
+  "titleJa": "複雑な気持ち",
+  "titleZh": "複雑な気持ち",
+  "rangeNote": "1269～1287",
+  "audio": {
+    "track": "Chapter11_Section5",
+    "file": "resources/audio/extracted/万词对策N3/Chapter11_Section5.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch11-l05-1269",
+      "index": 1269,
+      "word": "**表現（ひょうげん）**",
+      "reading": "ひょうげん",
+      "meaning": {
+        "en": "expression",
+        "zh": "表达"
+      },
+      "sentence": {
+        "ja": "私は、気持ちをうまく表現できない。",
+        "zh": "我不能很好地表达自己的情绪。 [14]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1270",
+      "index": 1270,
+      "word": "**あがる（あがる）**",
+      "reading": "あがる",
+      "meaning": {
+        "en": "become nervous, get stage fright",
+        "zh": "紧张，怯场"
+      },
+      "sentence": {
+        "ja": "スピーチであがって、内容を忘れてしまった。",
+        "zh": "演讲时我怯场了，忘记要说什么了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1271",
+      "index": 1271,
+      "word": "**あせる（あせる）**",
+      "reading": "あせる",
+      "meaning": {
+        "en": "to be flustered",
+        "zh": "着急"
+      },
+      "sentence": {
+        "ja": "あせらないで、ゆっくり话してください。",
+        "zh": "别着急，慢慢说。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1272",
+      "index": 1272,
+      "word": "**そわそわ（そわそわ）**",
+      "reading": "そわそわ",
+      "meaning": {
+        "en": "fidgety, restless",
+        "zh": "不镇静，坐立不安"
+      },
+      "sentence": {
+        "ja": "兄は朝から、そわそわしている。",
+        "zh": "哥哥从早上开始就一直坐立不安。 [14]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1273",
+      "index": 1273,
+      "word": "**我慢（がまん）**",
+      "reading": "がまん",
+      "meaning": {
+        "en": "endurance",
+        "zh": "忍耐"
+      },
+      "sentence": {
+        "ja": "おなかが空いて、もう我慢できない。",
+        "zh": "我肚子饿了，再也忍不了了。 [14]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1274",
+      "index": 1274,
+      "word": "**自慢（じまん）**",
+      "reading": "じまん",
+      "meaning": {
+        "en": "boastful",
+        "zh": "自夸，骄傲"
+      },
+      "sentence": {
+        "ja": "彼は家族のことを、よく自慢している。",
+        "zh": "他常常炫耀自己的家人。 [15]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1275",
+      "index": 1275,
+      "word": "**関心（かんしん）**",
+      "reading": "かんしん",
+      "meaning": {
+        "en": "concern, interest",
+        "zh": "关心，感兴趣"
+      },
+      "sentence": {
+        "ja": "私は政治に、全然関心がない。",
+        "zh": "我完全不关心政治。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1276",
+      "index": 1276,
+      "word": "**機嫌（きげん）**",
+      "reading": "きげん",
+      "meaning": {
+        "en": "mood, spirit",
+        "zh": "心情；高兴"
+      },
+      "sentence": {
+        "ja": "今日、部長は機嫌がいい。",
+        "zh": "部长今天心情很好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1277",
+      "index": 1277,
+      "word": "**平気（へいき）**",
+      "reading": "へいき",
+      "meaning": {
+        "en": "coolness, calmness",
+        "zh": "冷静；不在乎，不要紧"
+      },
+      "sentence": {
+        "ja": "彼は平気そうな顔をしている。",
+        "zh": "他满脸不在乎的样子。 [15]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1278",
+      "index": 1278,
+      "word": "**本気（ほんき）**",
+      "reading": "ほんき",
+      "meaning": {
+        "en": "seriousness",
+        "zh": "真的；认真"
+      },
+      "sentence": {
+        "ja": "その人が本気かどうか、目を見ればわかる。",
+        "zh": "看他的眼睛就知道他是不是认真的。 [15]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1279",
+      "index": 1279,
+      "word": "**迷う（まよう）**",
+      "reading": "まよう",
+      "meaning": {
+        "en": "to get lost",
+        "zh": "迷失；犹豫"
+      },
+      "sentence": {
+        "ja": "映画館に行きたいが、道に迷ってしまった。",
+        "zh": "我想去电影院，但是迷路了。 [15]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1280",
+      "index": 1280,
+      "word": "**迷い（まよい）**",
+      "reading": "まよい",
+      "meaning": {
+        "en": "being lost, hesitation",
+        "zh": "迷惑，犹豫"
+      },
+      "sentence": {
+        "ja": "留学したいと思っているが、気持ちに迷いがある。",
+        "zh": "我想去留学，但是有一些犹豫。 [15]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1281",
+      "index": 1281,
+      "word": "**微妙（びみょう）**",
+      "reading": "びみょう",
+      "meaning": {
+        "en": "subtle, complicated",
+        "zh": "微妙"
+      },
+      "sentence": {
+        "ja": "うれしいのか、さびしいのか微妙な気持ちだ。",
+        "zh": "我的心情很微妙，不知道是高兴还是落寞。 [15]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1282",
+      "index": 1282,
+      "word": "**魅力（みりょく）**",
+      "reading": "みりょく",
+      "meaning": {
+        "en": "charm",
+        "zh": "魅力"
+      },
+      "sentence": {
+        "ja": "彼女のきれいな目に、魅力を感じた。",
+        "zh": "她那双美丽的眼睛很有魅力。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1283",
+      "index": 1283,
+      "word": "**本音（ほんね）**",
+      "reading": "ほんね",
+      "meaning": {
+        "en": "true feeling",
+        "zh": "真话"
+      },
+      "sentence": {
+        "ja": "日本人は、なかなか本音を言わない。",
+        "zh": "日本人不怎么说真话。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1284",
+      "index": 1284,
+      "word": "**まし（まし）**",
+      "reading": "まし",
+      "meaning": {
+        "en": "better",
+        "zh": "不如……，胜过"
+      },
+      "sentence": {
+        "ja": "あんな人の下で働くくらいなら、辞めるほうがましだ。",
+        "zh": "要在那种人手底下干活，还不如辞职。 [16]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1285",
+      "index": 1285,
+      "word": "**涙（なみだ）**",
+      "reading": "なみだ",
+      "meaning": {
+        "en": "tear",
+        "zh": "眼泪"
+      },
+      "sentence": {
+        "ja": "家族を思い出して、ときどき涙が出る。",
+        "zh": "想起家人，我常常会流眼泪。 [16]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1286",
+      "index": 1286,
+      "word": "**憎む（にくむ）**",
+      "reading": "にくむ",
+      "meaning": {
+        "en": "to hate",
+        "zh": "恨，憎恶"
+      },
+      "sentence": {
+        "ja": "彼を爱していたが、今は憎んでいる。",
+        "zh": "我曾经爱过他，但现在我恨他。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch11-l05-1287",
+      "index": 1287,
+      "word": "**カウンセリング（カウンセリング）**",
+      "reading": "カウンセリング",
+      "meaning": {
+        "en": "counseling",
+        "zh": "咨询"
+      },
+      "sentence": {
+        "ja": "カウンセリングを受けると、気持ちが楽になる。",
+        "zh": "接受心理咨询之后，心情会变得轻松。 [16]"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "id": "ch02-l02",
+  "chapterId": "ch02",
+  "titleJa": "食生活",
+  "titleZh": "食生活",
+  "rangeNote": "133～159",
+  "audio": {
+    "track": "Chapter02_Section2",
+    "file": "resources/audio/extracted/万词对策N3/Chapter02_Section2.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch02-l02-133",
+      "index": 133,
+      "word": "朝食（ちょうしょく）",
+      "reading": "ちょうしょく",
+      "meaning": {
+        "en": "breakfast",
+        "zh": "早饭"
+      },
+      "sentence": {
+        "ja": "忙しくても、朝食は食べたほうがいい。",
+        "zh": "再忙，早饭还是要吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-134",
+      "index": 134,
+      "word": "モーニング（モーニング）",
+      "reading": "モーニング",
+      "meaning": {
+        "en": "morning",
+        "zh": "早上"
+      },
+      "sentence": {
+        "ja": "あの店のモーニングセットは、安くておいしい。",
+        "zh": "那家店的早饭套餐又便宜又好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-135",
+      "index": 135,
+      "word": "昼食（ちゅうしょく）",
+      "reading": "ちゅうしょく",
+      "meaning": {
+        "en": "lunch",
+        "zh": "午饭"
+      },
+      "sentence": {
+        "ja": "忙しいので、昼食はいつもサンドイッチです。",
+        "zh": "因为忙，所以我总是吃三明治当午饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-136",
+      "index": 136,
+      "word": "ランチ（ランチ）",
+      "reading": "ランチ",
+      "meaning": {
+        "en": "lunch",
+        "zh": "午餐"
+      },
+      "sentence": {
+        "ja": "ここのランチメニューは、おいしそうだ。",
+        "zh": "这里的午饭菜单上的菜看起来很好吃。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-137",
+      "index": 137,
+      "word": "夕食（ゆうしょく）",
+      "reading": "ゆうしょく",
+      "meaning": {
+        "en": "dinner, evening meal",
+        "zh": "晚饭"
+      },
+      "sentence": {
+        "ja": "今日の夕食は、ちょっと遅くなりそうだ。",
+        "zh": "看来今天的晚饭会晚一些。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-138",
+      "index": 138,
+      "word": "ディナー（ディナー）",
+      "reading": "ディナー",
+      "meaning": {
+        "en": "dinner",
+        "zh": "晚餐"
+      },
+      "sentence": {
+        "ja": "昨日のディナーは高級レストランで食べた。",
+        "zh": "昨天，我在高级餐厅吃了晚饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-139",
+      "index": 139,
+      "word": "デザート（デザート）",
+      "reading": "デザート",
+      "meaning": {
+        "en": "dessert",
+        "zh": "甜点"
+      },
+      "sentence": {
+        "ja": "おなかがいっぱいだが、デザートは食べられる。",
+        "zh": "虽然我肚子饱了，但还能吃得下甜点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-140",
+      "index": 140,
+      "word": "おやつ（おやつ）",
+      "reading": "おやつ",
+      "meaning": {
+        "en": "snack",
+        "zh": "点心"
+      },
+      "sentence": {
+        "ja": "もうすぐ３時、おやつの時間ですよ。",
+        "zh": "快到3点茶歇时间了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-141",
+      "index": 141,
+      "word": "おかず（おかず）",
+      "reading": "おかず",
+      "meaning": {
+        "en": "side dish",
+        "zh": "菜"
+      },
+      "sentence": {
+        "ja": "毎日のおかずを考えるのは大変だ。",
+        "zh": "每天考虑吃什么菜是一件头疼事。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-142",
+      "index": 142,
+      "word": "［お］弁当（［お］べんとう）",
+      "reading": "［お］べんとう",
+      "meaning": {
+        "en": "bento, boxed lunch",
+        "zh": "盒饭"
+      },
+      "sentence": {
+        "ja": "毎日、会社にお弁当を持って行く。",
+        "zh": "我每天带盒饭去公司。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-143",
+      "index": 143,
+      "word": "自炊＜する＞（じすい）",
+      "reading": "じすい",
+      "meaning": {
+        "en": "doing one's own cooking, cooking for oneself",
+        "zh": "自己做饭"
+      },
+      "sentence": {
+        "ja": "日本に来てから、自炊を始めた。",
+        "zh": "自从来到日本，我就开始自己做饭吃了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-144",
+      "index": 144,
+      "word": "外食＜する＞（がいしょく）",
+      "reading": "がいしょく",
+      "meaning": {
+        "en": "eating out",
+        "zh": "在外吃饭"
+      },
+      "sentence": {
+        "ja": "週末は外食することがある。",
+        "zh": "周末我有时会出去吃饭。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-145",
+      "index": 145,
+      "word": "グルメ（グルメ）",
+      "reading": "グルメ",
+      "meaning": {
+        "en": "foodie, food epicure",
+        "zh": "美食家，吃货"
+      },
+      "sentence": {
+        "ja": "彼はグルメで、いろいろな店を知っている。",
+        "zh": "他是一个美食家，知道各种各样的店。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-146",
+      "index": 146,
+      "word": "おごる（おごる）",
+      "reading": "おごる",
+      "meaning": {
+        "en": "to treat (someone to a meal)",
+        "zh": "请客"
+      },
+      "sentence": {
+        "ja": "ボーナスをもらったので、妹にディナーをおごった。",
+        "zh": "我领到奖金了，就请妹妹吃了一顿晚餐。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-147",
+      "index": 147,
+      "word": "食欲（しょくよく）",
+      "reading": "しょくよく",
+      "meaning": {
+        "en": "appetite",
+        "zh": "食欲"
+      },
+      "sentence": {
+        "ja": "最近、あまり食欲がない。",
+        "zh": "最近没什么食欲。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-148",
+      "index": 148,
+      "word": "注文＜する＞（ちゅうもん）",
+      "reading": "ちゅうもん",
+      "meaning": {
+        "en": "order",
+        "zh": "点菜"
+      },
+      "sentence": {
+        "ja": "先に飲み物を注文しましょう。",
+        "zh": "我们先点喝的吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-149",
+      "index": 149,
+      "word": "乾杯＜する＞（かんぱい）",
+      "reading": "かんぱい",
+      "meaning": {
+        "en": "toast, cheers",
+        "zh": "干杯"
+      },
+      "sentence": {
+        "ja": "ワインで乾杯しましょう。",
+        "zh": "让我们干了这一杯红酒。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-150",
+      "index": 150,
+      "word": "かむ（かむ）",
+      "reading": "かむ",
+      "meaning": {
+        "en": "to bite, to chew",
+        "zh": "咬，嚼"
+      },
+      "sentence": {
+        "ja": "食事のときは、よくかみましょう。",
+        "zh": "吃饭时要好好嚼。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-151",
+      "index": 151,
+      "word": "味わう（あじわう）",
+      "reading": "あじわう",
+      "meaning": {
+        "en": "to taste",
+        "zh": "品尝"
+      },
+      "sentence": {
+        "ja": "おいしい料理は、よく味わって食べよう。",
+        "zh": "吃好吃的菜时，要好好地品尝。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-152",
+      "index": 152,
+      "word": "お代わり＜する＞（おかわり）",
+      "reading": "おかわり",
+      "meaning": {
+        "en": "refill",
+        "zh": "再来一碗"
+      },
+      "sentence": {
+        "ja": "みそ汁がおいしくて、お代わりした。",
+        "zh": "味噌汤好喝，我又来了一碗。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-153",
+      "index": 153,
+      "word": "残す（のこす）",
+      "reading": "のこす",
+      "meaning": {
+        "en": "to leave (behind, over)",
+        "zh": "剩下"
+      },
+      "sentence": {
+        "ja": "ごはんが多すぎて、少し残した。",
+        "zh": "米饭太多，我剩了一点。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-154",
+      "index": 154,
+      "word": "残り物（のこりもの）",
+      "reading": "のこりもの",
+      "meaning": {
+        "en": "leftovers, remains",
+        "zh": "剩下的东西"
+      },
+      "sentence": {
+        "ja": "今日の残り物は、明日食べよう。",
+        "zh": "今天吃剩的明天吃吧。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-155",
+      "index": 155,
+      "word": "もったいない（もったいない）",
+      "reading": "もったいない",
+      "meaning": {
+        "en": "waste",
+        "zh": "浪费"
+      },
+      "sentence": {
+        "ja": "食べ物を残すなんて、もったいない。",
+        "zh": "东西不吃完，浪费。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-156",
+      "index": 156,
+      "word": "済ませる（すませる）",
+      "reading": "すませる",
+      "meaning": {
+        "en": "to finish, to get through",
+        "zh": "使完成；将就"
+      },
+      "sentence": {
+        "ja": "今日の昼ごはんはコンビニ弁当で済ませた。",
+        "zh": "今天的午饭，我在便利店买了便当将就了一顿。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-157",
+      "index": 157,
+      "word": "済む（すむ）",
+      "reading": "すむ",
+      "meaning": {
+        "en": "to finish, to be brought to an end",
+        "zh": "完；可以；解决"
+      },
+      "sentence": {
+        "ja": "①もう晩ごはんの準備は済んだ。",
+        "zh": "②弁当を作れば、安く済む。 ①晚饭已经准备好了。 ②做盒饭的话，花很少的钱就可以了。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-158",
+      "index": 158,
+      "word": "量（りょう）",
+      "reading": "りょう",
+      "meaning": {
+        "en": "amount, portion",
+        "zh": "量"
+      },
+      "sentence": {
+        "ja": "この店のスパゲッティは、量が少ない。",
+        "zh": "这家店的意大利面量很少。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch02-l02-159",
+      "index": 159,
+      "word": "バランス（バランス）",
+      "reading": "バランス",
+      "meaning": {
+        "en": "balance",
+        "zh": "平衡"
+      },
+      "sentence": {
+        "ja": "食事は、肉と野菜のバランスが大切だ。",
+        "zh": "吃饭的关键是肉和蔬菜要均衡。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}

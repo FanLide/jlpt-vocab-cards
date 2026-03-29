@@ -9,5 +9,16 @@
     "level": "N2",
     "desc": "60课・系统覆盖N2全词汇",
     "color": "#7c3aed"
+  },
+  {
+    "id": "vocab-taisaku-n3",
+    "structureFile": "n3-lesson-structure.json",
+    "lessonDir": "n3",
+    "audioMapFile": "n3-audio-map.csv",
+    "title": "万词对策 N3",
+    "titleJa": "新日语能力考试 万词对策 N3",
+    "level": "N3",
+    "desc": "60课・按书籍独立维护的N3全词汇",
+    "color": "#2563eb"
   }
 ]

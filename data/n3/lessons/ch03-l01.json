@@ -1,0 +1,445 @@
+{
+  "id": "ch03-l01",
+  "chapterId": "ch03",
+  "titleJa": "家",
+  "titleZh": "家",
+  "rangeNote": "245～268",
+  "audio": {
+    "track": "Chapter03_Section1",
+    "file": "resources/audio/extracted/万词对策N3/Chapter03_Section1.mp3"
+  },
+  "cards": [
+    {
+      "id": "ch03-l01-245",
+      "index": 245,
+      "word": "住まい（すまい）",
+      "reading": "すまい",
+      "meaning": {
+        "en": "residence",
+        "zh": "住处"
+      },
+      "sentence": {
+        "ja": "インターネットで、住まいを探す。",
+        "zh": "在网上找住处。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-246",
+      "index": 246,
+      "word": "リビング（リビング）",
+      "reading": "リビング",
+      "meaning": {
+        "en": "(Western style) living room",
+        "zh": "起居室"
+      },
+      "sentence": {
+        "ja": "リビングが広いので、この部屋に決めた。",
+        "zh": "我定了这套房，因为起居室很宽敞。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-247",
+      "index": 247,
+      "word": "居間（いま）",
+      "reading": "いま",
+      "meaning": {
+        "en": "living room",
+        "zh": "起居室"
+      },
+      "sentence": {
+        "ja": "家族みんなで、居間でテレビを見る。",
+        "zh": "全家人一起在客厅看电视。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-248",
+      "index": 248,
+      "word": "家電（かでん）",
+      "reading": "かでん",
+      "meaning": {
+        "en": "house appliance",
+        "zh": "家电"
+      },
+      "sentence": {
+        "ja": "引っ越したとき、新しい家電を買った。",
+        "zh": "搬家后，我买了新的家电。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-249",
+      "index": 249,
+      "word": "エアコン（エアコン）",
+      "reading": "エアコン",
+      "meaning": {
+        "en": "air conditioner",
+        "zh": "空调"
+      },
+      "sentence": {
+        "ja": "このエアコンは電気代が安い。",
+        "zh": "这款空调消耗低。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-250",
+      "index": 250,
+      "word": "クーラー（クーラー）",
+      "reading": "クーラー",
+      "meaning": {
+        "en": "air conditioner",
+        "zh": "冷气"
+      },
+      "sentence": {
+        "ja": "私の国は暑いので、クーラーしかない。",
+        "zh": "我们国家很热，所以只有冷气。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-251",
+      "index": 251,
+      "word": "暖める（あたためる）",
+      "reading": "あたためる",
+      "meaning": {
+        "en": "to warm",
+        "zh": "温，热"
+      },
+      "sentence": {
+        "ja": "寒いので、ヒーターで暖めた。",
+        "zh": "好冷，我开了暖气暖和暖和。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-252",
+      "index": 252,
+      "word": "天井（てんじょう）",
+      "reading": "てんじょう",
+      "meaning": {
+        "en": "ceiling",
+        "zh": "天花板"
+      },
+      "sentence": {
+        "ja": "このマンションは、天井が高い。",
+        "zh": "这栋楼房的天花板较高。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-253",
+      "index": 253,
+      "word": "床（ゆか）",
+      "reading": "ゆか",
+      "meaning": {
+        "en": "floor",
+        "zh": "地板"
+      },
+      "sentence": {
+        "ja": "リビングの床には、何も敷いていない。",
+        "zh": "起居室的地板上什么都没有铺。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-254",
+      "index": 254,
+      "word": "カーペット（カーペット）",
+      "reading": "カーペット",
+      "meaning": {
+        "en": "carpet",
+        "zh": "地毯"
+      },
+      "sentence": {
+        "ja": "たたみの上に、カーペットを敷いている。",
+        "zh": "榻榻米上铺着地毯。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-255",
+      "index": 255,
+      "word": "ざぶとん（ざぶとん）",
+      "reading": "ざぶとん",
+      "meaning": {
+        "en": "zabuton, floor cushion for sitting",
+        "zh": "坐垫"
+      },
+      "sentence": {
+        "ja": "お客さんのためのざぶとんを買いに行く。",
+        "zh": "我要去买客人用的坐垫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-256",
+      "index": 256,
+      "word": "ソファー（ソファー）",
+      "reading": "ソファー",
+      "meaning": {
+        "en": "sofa",
+        "zh": "沙发"
+      },
+      "sentence": {
+        "ja": "テレビを見るときは、ソファーに座る。",
+        "zh": "看电视时，我会坐在沙发上。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-257",
+      "index": 257,
+      "word": "クッション（クッション）",
+      "reading": "クッション",
+      "meaning": {
+        "en": "cushion",
+        "zh": "靠垫"
+      },
+      "sentence": {
+        "ja": "ソファーに合うクッションを買った。",
+        "zh": "我买了搭配沙发的靠垫。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-258",
+      "index": 258,
+      "word": "どかす（どかす）",
+      "reading": "どかす",
+      "meaning": {
+        "en": "to move (out of the way)",
+        "zh": "挪开；躲开"
+      },
+      "sentence": {
+        "ja": "その車をどかしてください。",
+        "zh": "请挪一下那辆车。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-259",
+      "index": 259,
+      "word": "コンセント（コンセント）",
+      "reading": "コンセント",
+      "meaning": {
+        "en": "power outlet",
+        "zh": "插座"
+      },
+      "sentence": {
+        "ja": "この部屋はコンセントが多くて、便利だ。",
+        "zh": "这个房间里插座多，很方便。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-260",
+      "index": 260,
+      "word": "スイッチ（スイッチ）",
+      "reading": "スイッチ",
+      "meaning": {
+        "en": "switch",
+        "zh": "开关"
+      },
+      "sentence": {
+        "ja": "暗くて、スイッチがどこかわからない。",
+        "zh": "好暗，我不知道开关在哪里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-261",
+      "index": 261,
+      "word": "ドライヤー（ドライヤー）",
+      "reading": "ドライヤー",
+      "meaning": {
+        "en": "hair dryer",
+        "zh": "电吹风"
+      },
+      "sentence": {
+        "ja": "ドライヤーは小さいほうがいい。",
+        "zh": "电吹风小的好。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-262",
+      "index": 262,
+      "word": "蛇口（じゃぐち）",
+      "reading": "じゃぐち",
+      "meaning": {
+        "en": "faucet, tap",
+        "zh": "水龙头"
+      },
+      "sentence": {
+        "ja": "お風呂に蛇口が二つ、ついている。",
+        "zh": "浴室里安了两个水龙头。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-263",
+      "index": 263,
+      "word": "ひねる（ひねる）",
+      "reading": "ひねる",
+      "meaning": {
+        "en": "to turn, to twist",
+        "zh": "拧"
+      },
+      "sentence": {
+        "ja": "右の蛇口をひねると、お湯が出てくる。",
+        "zh": "拧开右边的水龙头，就会出热水。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-264",
+      "index": 264,
+      "word": "実家（じっか）",
+      "reading": "じっか",
+      "meaning": {
+        "en": "one's parents' home",
+        "zh": "老家"
+      },
+      "sentence": {
+        "ja": "週末は実家に帰る。",
+        "zh": "我周末回老家。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-265",
+      "index": 265,
+      "word": "家賃（やちん）",
+      "reading": "やちん",
+      "meaning": {
+        "en": "rent",
+        "zh": "房租"
+      },
+      "sentence": {
+        "ja": "私のマンションは家賃が高い。",
+        "zh": "我这套房子的房租贵。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-266",
+      "index": 266,
+      "word": "物置（ものおき）",
+      "reading": "ものおき",
+      "meaning": {
+        "en": "storage",
+        "zh": "杂物间"
+      },
+      "sentence": {
+        "ja": "物置にスキーの道具を入れている。",
+        "zh": "滑雪用具放在杂物间里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-267",
+      "index": 267,
+      "word": "日当たり（ひあたり）",
+      "reading": "ひあたり",
+      "meaning": {
+        "en": "sunlight, being open to sunlight",
+        "zh": "向阳"
+      },
+      "sentence": {
+        "ja": "広くて、日当たりのいい部屋に住みたい。",
+        "zh": "我想住在宽敞、向阳的房间里。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    },
+    {
+      "id": "ch03-l01-268",
+      "index": 268,
+      "word": "内側（うちがわ）",
+      "reading": "うちがわ",
+      "meaning": {
+        "en": "inside, inner part",
+        "zh": "里面"
+      },
+      "sentence": {
+        "ja": "この家は古いが、内側はきれいだ。",
+        "zh": "这个房子虽然古旧，但里面很干净。"
+      },
+      "source": {
+        "book": "新日语能力考试 万词对策 N3",
+        "level": "N3"
+      }
+    }
+  ]
+}
