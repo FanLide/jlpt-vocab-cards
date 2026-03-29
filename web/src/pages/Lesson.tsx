@@ -41,9 +41,21 @@ export function LessonPage() {
       .catch((e) => setError(String(e)))
   }, [lessonId, lessonDir])
 
-  const audioBase = import.meta.env.VITE_AUDIO_BASE_URL as string | undefined
+  const audioBaseByBook = {
+    n2: import.meta.env.VITE_AUDIO_BASE_URL_N2 as string | undefined,
+    n3: import.meta.env.VITE_AUDIO_BASE_URL_N3 as string | undefined,
+  }
+  const sharedAudioBase = import.meta.env.VITE_AUDIO_BASE_URL as string | undefined
+  const resolvedAudioBase = audioBaseByBook[lessonDir as 'n2' | 'n3']
+    ?? (sharedAudioBase
+      ? `${sharedAudioBase.replace(/\/?$/, '/')}${lessonDir}/`
+      : undefined)
   const audioUrl = lesson?.audio?.track
-    ? `${audioBase ?? ''}${lesson.audio.track}.mp3`
+    ? resolvedAudioBase
+      ? `${resolvedAudioBase}${lesson.audio.track}.mp3`
+      : lesson?.audio?.file
+        ? `/${lesson.audio.file}`
+        : null
     : lesson?.audio?.file
       ? `/${lesson.audio.file}`
       : null

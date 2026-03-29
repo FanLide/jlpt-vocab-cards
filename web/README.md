@@ -15,9 +15,13 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 This app can build audio URLs in two ways:
 
-- **Production (recommended):** set `VITE_AUDIO_BASE_URL` to your R2 public prefix, e.g.
-  - `VITE_AUDIO_BASE_URL=https://example.com/audio/n2/`
-  - Then Track002 => `https://example.com/audio/n2/Track002.mp3`
+- **Production (multi-book recommended):** set per-book prefixes:
+  - `VITE_AUDIO_BASE_URL_N2=https://example.com/audio/n2/`
+  - `VITE_AUDIO_BASE_URL_N3=https://example.com/audio/n3/`
+- **Production (shared root also supported):**
+  - `VITE_AUDIO_BASE_URL=https://example.com/audio/`
+  - Then N2 `Track002` => `https://example.com/audio/n2/Track002.mp3`
+  - Then N3 `Chapter01_Section2` => `https://example.com/audio/n3/Chapter01_Section2.mp3`
 - **Local dev fallback:** if `VITE_AUDIO_BASE_URL` is not set, it will use the local file path in lesson JSON.
 
 ## Expanding the ESLint configuration
