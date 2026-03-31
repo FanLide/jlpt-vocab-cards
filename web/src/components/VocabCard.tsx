@@ -61,7 +61,13 @@ export function VocabCard({ card, forceReveal = false }: { card: Card; forceReve
           </div>
           {card.sentence && (
             <div className="card-sentence">
-              <div className="card-sentence-ja">{card.sentence.ja}</div>
+              <div className="card-sentence-ja">
+                {card.sentence.ja.split(/([（][^）]*[）])/g).map((part, i) =>
+                  part.startsWith('（') ? (
+                    <span key={i} className="card-reading-inline">{part}</span>
+                  ) : part
+                )}
+              </div>
               {card.sentence.zh && (
                 <div className="card-sentence-zh">{card.sentence.zh}</div>
               )}
