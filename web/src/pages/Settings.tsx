@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { useLoopEnabled, useAutoNextLesson, useAutoPlayOnDeckEnter } from '../lib/settings'
+import { useLoopEnabled, useAutoNextLesson, useAutoPlayOnDeckEnter, useShowOriginalWord } from '../lib/settings'
 import './Settings.css'
 
 function ToggleRow({
@@ -26,6 +26,7 @@ export function SettingsPage() {
   const [loop,     setLoop]     = useLoopEnabled()
   const [autoNext, setAutoNext] = useAutoNextLesson()
   const [autoPlay, setAutoPlay] = useAutoPlayOnDeckEnter()
+  const [showWord, setShowWord] = useShowOriginalWord()
 
   const onChangeLoop = (next: boolean) => {
     setLoop(next)
@@ -63,6 +64,12 @@ export function SettingsPage() {
           desc="从目录进入课程后，默认自动尝试播放本课音频"
           value={autoPlay}
           onChange={setAutoPlay}
+        />
+        <ToggleRow
+          label="卡片正面显示原单词"
+          desc="未翻开时同时显示汉字原词与平假名（关闭后仅显示平假名）"
+          value={showWord}
+          onChange={setShowWord}
         />
       </div>
     </div>

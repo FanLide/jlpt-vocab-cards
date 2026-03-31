@@ -18,7 +18,10 @@ function useBoolSetting(key: string, defaultVal: boolean) {
   return [val, update] as const
 }
 
+const KEY_SHOW_WORD   = 'jlpt:showOriginalWord'
+
 export function useLoopEnabled()      { return useBoolSetting(KEY_LOOP,      true)  }
 export function useAutoNextLesson()   { return useBoolSetting(KEY_AUTO_NEXT, false) }
 export function useAutoPlayOnDeckEnter() { return useBoolSetting(KEY_AUTO_PLAY, true) }
+export function useShowOriginalWord() { return useBoolSetting(KEY_SHOW_WORD, true)  }
 

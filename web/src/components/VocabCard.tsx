@@ -1,8 +1,10 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Card } from '../lib/lesson'
+import { useShowOriginalWord } from '../lib/settings'
 import './VocabCard.css'
 
 export function VocabCard({ card, forceReveal = false }: { card: Card; forceReveal?: boolean; variant?: 'plain' | 'poker' }) {
+  const [showOriginalWord] = useShowOriginalWord()
   const [revealed, setRevealed] = useState(false)
   const timer = useRef<number | null>(null)
 
@@ -32,9 +34,12 @@ export function VocabCard({ card, forceReveal = false }: { card: Card; forceReve
       onPointerLeave={onPointerUpOrLeave}
     >
       <div className="vocab-card-inner">
-        {/* 正面：显示编号 + 读音 */}
+        {/* 正面：显示编号 + 读音（可选显示原单词） */}
         <div className="vocab-card-front">
           <div className="card-front-body">
+            {showOriginalWord && card.word && card.word !== card.reading && (
+              <div className="card-word-front">{card.word}</div>
+            )}
             <div className="card-reading">{card.reading || card.word}</div>
           </div>
           <div className="card-hint">长按显示答案</div>
