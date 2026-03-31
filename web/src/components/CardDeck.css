@@ -167,8 +167,17 @@
   min-width: 72px;
 }
 
+/* 详情状态：默认样式，表示"可点击展开" */
+.deck-detail-btn:not(.active) {
+  background: var(--code-bg);
+  border-color: var(--border);
+  color: var(--text-h);
+}
+
+/* 收起状态：强调色实底，表示"当前已展开，点击收起" */
 .deck-detail-btn.active {
-  background: var(--accent-bg);
-  border-color: var(--accent-border);
-  color: var(--accent);
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
 }
