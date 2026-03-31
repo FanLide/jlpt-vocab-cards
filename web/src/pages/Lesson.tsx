@@ -139,7 +139,7 @@ export function LessonPage() {
                 onEnded={() => {
                   if (autoNext && lessonId && structure) {
                     const nextId = getNextLessonId(lessonId, structure)
-                    if (nextId) navigate(`/book/${bookId}/lesson/${nextId}`)
+                    if (nextId) navigate(`/book/${bookId}/lesson/${nextId}`, { replace: true })
                   }
                 }}
               />
