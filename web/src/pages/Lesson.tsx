@@ -35,6 +35,7 @@ export function LessonPage() {
   useEffect(() => {
     setError(null)
     setLesson(null)
+    setPos(0)    // 跳课时重置卡片位置，避免 pos 超出新课范围
     if (!lessonId) return
     loadLesson(lessonId, lessonDir)
       .then((x) => setLesson(x))
@@ -169,7 +170,7 @@ export function LessonPage() {
           )}
         </>
       ) : !error ? (
-        <div className="lesson-empty">该课程尚未导入文本数据。</div>
+        <div className="lesson-loading">加载中…</div>
       ) : null}
     </div>
   )
